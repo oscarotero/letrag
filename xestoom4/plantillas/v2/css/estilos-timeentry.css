@@ -1,0 +1,12 @@
+/*
+Estilos timeentry
+v.1.0
+*/
+.timeEntry_control {
+	left: -25px;
+	cursor: pointer;
+	position: relative;
+}
+* html .timeEntry_control { /* IE only */
+	top: -4px;
+}

@@ -1,0 +1,62 @@
+
+body {
+	line-height: 1.5;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #000;
+	background: none;
+	font-size: 10pt;
+	}
+.paxina {
+	background:none;
+	}
+h1,h2,h3,h4,h5,h6 {
+	font-family: Helvetica, Arial, sans-serif;
+	}
+code {
+	font-family: "Courier New", Courier, monospace;
+	}
+img {
+	float:left;
+	margin:1.5em 1.5em 1.5em 0;
+	}
+a img {
+	border:none;
+	}
+p img.top {
+	margin-top:0;
+	}
+hr {
+	background:#ccc;
+	color:#ccc;
+	width:100%;
+	height:2px;
+	border:none;
+	margin:2em 0;
+	padding:0;
+	}
+blockquote {
+	font-size:.9em;
+	margin:1.5em;
+	padding:1em;
+	}
+.pequeno {
+	font-size:.9em;
+	}
+.grande {
+	font-size:1.1em;
+	}
+.discreto {
+	color:#999;
+	}
+.oculto {
+	display:none;
+	}
+a:link,a:visited {
+	background:transparent;
+	font-weight:700;
+	text-decoration:underline;
+	}
+a:link:after,a:visited:after {
+	content:" (" attr(href) ") ";
+	font-size:90%;
+	}

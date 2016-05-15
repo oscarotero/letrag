@@ -1,0 +1,75 @@
+.jCal {
+	width:189px;
+	height:21px;
+	text-align:center;
+	vertical-align:top;
+	margin-bottom: 10px;
+}
+.jCalMask, .jCalMove {
+	position:absolute;
+	overflow:hidden;
+}
+.jCal .month {
+	height:16px;
+	width:157px;
+	text-align:center;
+	vertical-align:bottom;
+	color:#000;
+	float:left;
+}
+.jCal .left {
+	vertical-align:middle;
+	width:16px;
+	height:16px;
+	cursor:pointer;
+	float:left;
+}
+.jCal .right {
+	vertical-align:middle;
+	width:16px;
+	height:16px;
+	cursor:pointer;
+	float:right;
+}
+.jCalMo {
+	width:189px;
+	float:left;
+	overflow:visible;
+	height:180px;
+	padding-right:2px;
+	padding-left:2px;
+	white-space:nowrap;
+}
+.jCalMo .dow,
+.jCalMo .day,
+.jCalMo .pday,
+.jCalMo .aday,
+.jCalMo .overDay,
+.jCalMo .selectedDay {
+	font-size:0.9em;
+	color:#000000;
+	border-left:1px solid #EEEEEE;
+	text-align:center;
+	cursor:default;
+	float:left;
+	width:25px;
+}
+.jCalMo .dow {
+	border-bottom:0px;
+}
+.jCalMo .day {
+	cursor:pointer;
+	background:#ffffff;
+}
+.jCalMo .pday, .jCalMo .aday {
+	background:none;
+	color:#ccc;
+}
+.jCalMo .selectedDay {
+	color:#ffffff;
+	background:#000;;
+}
+.jCalMo .overDay {
+	color:#ffffff;
+	background:#888;
+}

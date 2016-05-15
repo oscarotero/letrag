@@ -1,0 +1,40 @@
+
+/*________________________________________________ RESPOSTAS
+*/
+
+#respostas fieldset {
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	margin-top: 4em;
+	}
+#respostas legend {
+	font-size: 2em;
+	font-family: Georgia;
+	font-weight: normal;
+	}
+#respostas label {
+	font-size: 1.2em;
+	color: #666;
+	padding-left: 10px;
+	}
+#respostas p {
+	margin: 0;
+	padding: 7px;
+	}
+#respostas p.seleccionado {
+	background: url(fondo_taboa_seleccionado.png) repeat-y;
+	}
+#respostas form .formulario_submit {
+	font-size: 2.2em;
+	background: #0cf;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 5px 10px;
+	font-family: georgia;
+	}
+#respostas form .formulario_submit:hover {
+		background: #ccc;
+		color: #222;
+	}

@@ -1,0 +1,492 @@
+/*
+v.1.1
+*/
+
+/*________________________________________________ XERAL
+*/
+
+body {
+	margin-bottom: 80px;
+	}
+body#tab {
+	background-position: 0 0;
+	margin-bottom: 0px;
+	}
+.paxina {
+	background: url(grid.pngs);
+	}
+
+
+/*________________________________________________ BENVIDA
+*/
+
+#benvido {
+	font-size: 1.6em;
+	color: #999;
+	}
+#benvido h2 {
+	margin: 0;
+	}
+
+/* _______________________________________________ CABECEIRA
+*/
+
+body {
+	background: url(fondo.png) 0 65px repeat-x;
+	}
+
+#cabeceira {
+	background: #222;
+	}
+#cabeceira h1 {
+	padding: 0;
+	margin: 0;
+	background: url(logo.png) no-repeat;
+	}
+#cabeceira h1 a {
+	height: 65px;
+	float: left;
+	text-indent: -3000px;
+	outline: none;
+	}
+#cabeceira #fungallas {
+	padding-top: 36px;
+	color: #0cf;
+	font-size: 1.4em;
+	}
+#cabeceira #fungallas strong {
+	font-size: 1.15em;
+	}
+#cabeceira #fungallas a {
+	color: #0cf;
+	text-decoration: none;
+	}
+#cabeceira #fungallas a:hover {
+	color: #fff;
+	}
+
+/* _______________________________________________ MENU
+*/
+
+ul.menu_principal {
+	font-size: 1.6em;
+	line-height: 1.2em;
+	list-style: none;
+	margin: 0;
+	}
+ul.menu_principal ul {
+	font-size: 0.9em;
+	line-height: 1.2em;
+	list-style: none;
+	margin: 0 0 0 15px;
+	}
+ul.menu_principal ul a {
+	font-weight: normal;
+	}
+ul.menu_principal a.seleccionado {
+	color: #0cf;
+	}
+ul.menu_principal a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #333;
+	margin-left: 10px;
+	}
+#menu a:hover {
+	color: #0cf;
+	}
+ul.menu_principal li a.flecha {
+	float: left;
+	width: 10px;
+	height: 1em;
+	background: url(pico.png) -10px 7px no-repeat;
+	position: absolute;
+	margin: 0;
+	cursor: pointer;
+	padding: 2px 0;
+	}
+ul.menu_principal li.menu_pechado a.flecha {
+	background-position: 0 7px;
+	}
+ul.menu_principal li.menu_pechado ul {
+	display: none;
+	}
+#menu h4 {
+	margin-bottom: 5px;
+	font-size: 1.4em;
+	color: #999;
+	}
+ul.menu_secundario {
+	list-style: none;
+	margin: 0;
+	font-size: 1.2em;
+	}
+ul.menu_secundario li {
+	line-height: 1.2em;
+	}
+ul.menu_secundario a {
+	color: #333;
+	text-decoration: none;
+	}
+	
+
+/* _______________________________________________ BUSCADOR
+*/
+
+#buscador {
+	text-align: right;
+	}
+#buscador #filtro {
+	border: 1px solid #ccc;
+	font-size: 1.2em;
+	padding: 2px;
+	color: #666;
+	}
+#buscador select {
+	border: 1px solid #ccc;
+	font-size: 1.2em;
+	padding: 2px;
+	width: 100px;
+	color: #fff;
+	background-color: #666;
+	border: none;
+	}
+#buscador select option {
+	color: #fff;
+	background-color: #666;
+	}
+#buscador input#buscar {
+	margin-bottom: -4px;
+	}
+
+
+/* _______________________________________________ PESTANAS
+*/
+
+/* Menu modo */
+#menu_modo {
+	overflow: auto;
+	background: url(linha_modo.png) 0 100% repeat-x;
+	}
+#menu_modo ul.pestanas li a,
+#menu_modo ul.pestanas li a span {
+	background: url(tab_modo.png) no-repeat;
+	}
+#menu_modo ul.pestanas li a {
+	color: #666;
+	text-decoration: none;
+	}
+#menu_modo ul.pestanas li a:hover {
+	color: #000;
+	text-decoration: underline;
+	}
+#menu_modo ul.pestanas li.seleccionado a {	
+	border-bottom: solid 1px #ccc;
+	color: #000;
+	text-decoration: none;
+	}
+
+/* Menu relacions */
+#menu_relacions {
+	overflow: auto;
+	background: url(linha_relacions.png) 0 100% repeat-x;
+	}
+#menu_relacions ul.pestanas li a,
+#menu_relacions ul.pestanas li a span {
+	background: url(tab_relacions.png) no-repeat;
+	}
+#menu_relacions ul.pestanas li a {
+	color: #666;
+	text-decoration: none;
+	}
+#menu_relacions ul.pestanas li a:hover {
+	color: #000;
+	text-decoration: underline;
+	}
+#menu_relacions ul.pestanas li.seleccionado a {	
+	border-bottom: solid 1px #ccc;
+	color: #000;
+	text-decoration: none;
+	}
+
+/* Comun */
+ul.pestanas {
+	list-style: none;
+	padding: 0;
+	height: auto;
+	}
+ul.pestanas li {
+	float: left;
+	margin: 0 2px 0 0;
+	}
+ul.pestanas li a {
+	display: block;
+	background-position: 100% 0 !important;
+	padding: 0 10px 0 0;
+	margin: 0 0 0 10px;
+	z-index: 2;
+	cursor: pointer;
+	white-space: nowrap;
+	outline: 0;
+	font-size: 1.2em;
+	line-height: 1.2em;
+	text-align: center;
+	}
+ul.pestanas a span {
+	display: block;
+	background-position: 0 0;
+	padding: 8px 0 8px 10px;
+	margin: 0 0 0 -10px;
+	}
+ul.pestanas li.seleccionado a span {
+	background-position: 0 -50px !important;
+	padding-bottom: 9px;
+	}
+ul.pestanas li.seleccionado a {
+	background-position: 100% -50px !important;
+	border-bottom: none !important;
+	}
+
+
+/* _______________________________________________ INFORMACION
+*/
+#informacion {
+ 	font-size: 1.2em;
+ 	color: #666;
+ 	background: #fff;
+ 	}
+#informacion span {
+ 	margin-right: 20px;
+ 	}
+#informacion strong {
+ 	color: #000;
+ 	}
+#informacion a {
+  	color: #0cf;
+  	}
+#informacion a:hover {
+  	text-decoration: none;
+  	}
+
+
+/* _______________________________________________ OPCIONS
+*/
+.opcions {
+	font-size: 1.2em;
+	text-align: right;
+	}
+.opcions a {
+	color: #0cf;
+	}
+.opcions a:hover {
+  	text-decoration: none;
+  	}
+
+
+/* _______________________________________________ TABOA LISTADO
+*/
+
+#listado table {
+	background: url(fondo_taboa.png) repeat-y;
+	}
+#listado table th {
+	background: #222;
+	font-size: 1.4em;
+	font-weight: normal;
+	padding: 5px 5px 3px 5px;
+	margin: 0;
+	border-bottom: 2px solid #222;
+	color: #fff;
+	white-space: nowrap;
+	}
+#listado table th.accions {
+	background: none;
+	}
+#listado table th a {
+	color: #fff;
+	text-decoration: none;
+	}
+#listado table th a.seleccionado {
+	color: #0cf;
+	}
+#listado table td {
+	font-size: 1.4em;
+	line-height: 1.2em;
+	padding: 5px;
+	border-bottom: solid 2px #fff;
+	color: #999;
+	vertical-align: middle;
+	}
+#listado table tr.seleccionado {
+	background: url(fondo_taboa_seleccionado.png) repeat-y;
+	}
+
+/* Estilos das celdas */
+#listado table td.titulo {
+	font-size: 1.6em;
+	line-height: 1.2em;
+	color: #222;
+	font-family: Georgia;
+	}
+#listado table th.numero,
+#listado table td.numero {
+	text-align: right;
+	width: 60px;
+	}
+#listado table th.data,
+#listado table td.data {
+	width: 90px;
+	white-space: nowrap;
+	}
+#listado table th.boleano,
+#listado table td.boleano {
+	text-align: center;
+	width: 50px;
+	}
+#listado table td.boleano a {
+	outline: none;
+	}
+#listado table th.imaxe,
+#listado table td.imaxe {
+	text-align: center;
+	width: 55px;
+	}
+
+/* Estilos ajax */
+#listado input#ftemp_valor {
+	width: 80%;
+	display: inline;
+	}
+
+
+/* Accions */
+#listado table td.accions,
+#listado table td.accions_visibles {
+	text-align: center;
+	width: 50px;
+	border-left: 1px solid #ddd;
+	}
+#listado table tr.seleccionado td.accions {
+	background: #bef;
+	}
+#listado table td a.menu_accions {
+	padding: 5px 0 5px 5px;
+}
+
+/*________________________________________________ FORMULARIO
+*/
+
+#listado form {
+	border-bottom: solid 2px #222;
+	}
+#formulario form {
+	border-top: solid 2px #222;
+	border-bottom: solid 2px #222;
+	}
+#listado form fieldset,
+#formulario form fieldset {
+	border: none;
+	border-bottom: solid 1px #ccc;
+	padding: 15px 0;
+	margin: 0;
+	}
+#formulario form label {
+	font-size: 1.2em;
+	color: #0cf;
+	}
+#formulario form .formulario_icona {
+	padding: 0 4px;
+	position: relative;
+	outline: none;
+	top: 4px;
+	}
+#formulario form a {
+	outline: none;
+	}
+#formulario form .formulario_comentario {
+	padding: 6px 0;
+	font-size: 1.4em;
+	color: #ccc;
+	}
+
+/* Campos */
+#formulario form .campo_select,
+#formulario form .campo_texto,
+#formulario form .campo_numero,
+#formulario form .campo_textarea {
+	font-size: 1.6em;
+	font-family: Georgia;
+	background: url(fondo_input.png) repeat-y;
+	border: none;
+	padding: 5px 0 5px 5px;
+	}
+#formulario form .campo_numero {
+	text-align: center;
+	}
+#formulario form .campo_file {
+	margin: 0 0 10px 0;
+	}
+#formulario form .campo_wysiwyg {
+	font-size: 1.6em;
+	font-family: Consolas, courier;
+	border: none;
+	padding: 5px 0 5px 5px;
+	height: 450px;
+	}
+#formulario form .campo_gmap {
+	height: 280px;
+	}
+#formulario form .campo_select option {
+	color: #fff;
+	background-color: #666;
+	}
+
+/* Botons */
+#listado form .formulario_submit,
+#formulario form .formulario_submit {
+	font-size: 2.2em;
+	background: #0cf;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 5px 10px;
+	font-family: georgia;
+	}
+#formulario form .formulario_eliminar {
+	font-size: 1.2em;
+	background: #c33;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 2px;
+	}
+#formulario form .formulario_submit_pequeno {
+	font-size: 1.2em;
+	background: #0cf;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 2px;
+	}
+#formulario form .formulario_submit:hover,
+#formulario form .formulario_eliminar:hover,
+#formulario form .formulario_submit_pequeno:hover {
+		background: #ccc;
+		color: #222;
+	}
+
+/*________________________________________________ IFRAMES
+*/
+.pestanas_contido {
+	clear: both;
+	background: #fff;
+	margin: 0;
+	}
+.pestanas_contido iframe {
+	border: none;
+	margin: 0;
+	height: 10px;
+	}
+.pestanas_contido_oculto iframe {
+	display: none;
+	}
