@@ -1,5 +1,8 @@
 <?php
-error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT);
+ini_set('error_reporting', E_ALL);
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+ini_set('expose_php', 0);
 
 //Variable de seguridade
 define('OK', 'true');
