@@ -17,8 +17,8 @@
 				<div class="arriba3 abaixo2">
 					<h1><?php print(href($resultado['textos']['letrag'], $rutas['w'])); ?></h1>
 					<p class="opcions">
-						<?php print((LANG == 'gal') ? $resultado['textos']['idioma_gal'] : href($resultado['textos']['idioma_gal'], 'http://gl.letrag.com'.$_SERVER['REQUEST_URI'])); ?> | 
-						<?php print((LANG == 'cas') ? $resultado['textos']['idioma_cas'] : href($resultado['textos']['idioma_cas'], 'http://es.letrag.com'.$_SERVER['REQUEST_URI'])); ?>
+						<?php print((LANG == 'gal') ? $resultado['textos']['idioma_gal'] : href($resultado['textos']['idioma_gal'], '//gl.letrag.com'.$_SERVER['REQUEST_URI'])); ?> | 
+						<?php print((LANG == 'cas') ? $resultado['textos']['idioma_cas'] : href($resultado['textos']['idioma_cas'], '//es.letrag.com'.$_SERVER['REQUEST_URI'])); ?>
 					</p>
 				</div>
 				<hr class="separador" />

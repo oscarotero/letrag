@@ -5,7 +5,7 @@
 		
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta http-equiv="Content-Language" content="ES" />
-		<meta name="author" content="Oscar Otero - http://oscarotero.com"/>
+		<meta name="author" content="Oscar Otero - https://oscarotero.com"/>
 		<link type="application/rss+xml" href="rss.php" title="Novedades de letrag" rel="alternate"/>
 		
 		<link rel="stylesheet" href="<?php print($rutas['w_css']); ?>cssoom_screen.css" type="text/css" media="screen" />
