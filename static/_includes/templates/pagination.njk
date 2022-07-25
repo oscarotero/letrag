@@ -1,0 +1,13 @@
+{% if pagination.previous %}
+<a href="{{ pagination.previous }}">{{ texts.page_prev }}</a>
+{% else %}
+    {{ texts.page_prev }}
+{% endif %}
+
+&nbsp;&nbsp;&nbsp;{{ texts.page }} {{ pagination.page }}&nbsp;&nbsp;&nbsp;
+  
+{% if pagination.next %}
+<a href="{{ pagination.next }}">{{ texts.page_next }}</a>
+{% else %}
+    {{ texts.page_next }}
+{% endif %}

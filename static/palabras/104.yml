@@ -1,0 +1,12 @@
+id: 104
+title.gl: Interliñado
+title.es: Interlineado
+section_id: 115
+description.gl: |-
+  ![](/imaxes/58.png)
+
+  Defínese como a separación existente entre dúas liñas de texto, ou mellor dito, entre as liñas base dese texto. Trátase dunha característica moi importante que inflúe na súa lexibilidade. Os programas informáticos aplican por defecto un interliñado automático que equivale ao 120% do tamaño do texto. Por exemplo, un texto de 10 puntos tería un interliñado de 12 puntos e un de 20 puntos tería 24 puntos de separación. En liñas moi longas debe aplicarse un maior interliñado, xa que, se as liñas están moi xuntas, o ollo humano pode perderse no percorrido entre o final dunha liña e o comezo da seguinte. No entanto, debe reducirse o interliñado nos textos con liñas curtas e tamén nos textos destinados ás pantallas, como páxinas web, porque o lixeiro aumento do interliñado aumenta considerablemente a lexibilidade do texto.
+description.es: |-
+  ![](/imaxes/58.png)
+
+  Se define como la separación existente entre dos líneas de texto, o mejor dicho, entre las líneas base de ese texto. Se trata de una característica muy importante que inflúe en su legibilidad. Los programas informáticos aplican por defecto un interlineado automático que equivale al 120% del tamaño del texto. Por ejemplo, un texto de 10 puntos tendría un interlineado de 12 puntos y uno de 20 puntos tendría 24 puntos de separación. En longitudes de línea muy largas se debe aplicar un mayor interlineado ya que si las líneas están muy juntas, el ojo humano se puede perder en el recorrido entre el final de una línea y el comenzo de la siguiente. Y por contra, en textos de líneas cortas se debe reducir el interlineado. También en los textos que tienen como finalidad las pantallas de ordenador (como en páginas web) el ligero aumento del interlineado aumenta considerablemente la legibilidad del texto.

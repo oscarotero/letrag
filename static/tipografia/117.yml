@@ -1,0 +1,23 @@
+id: 117
+title: 'Lucida Sans'
+year: '1985'
+download: null
+description.gl: 'Kris Holmes e Charles Bigelow deseñaron esta tipografía en 1985, pertencente á macro familia Lucida que xunto con esta de pao seco, tamén inclúe outras variantes como a Lucida Bright (con serifas), Lucida Fax (deseñada especificamente para dispositivos de baixa resolución como o fax) ou Lucida Console (variante monoespaciada para interfaces e programación). A Lucida Sans posúe unha gran altura do “x” e unhas formas fortes que xunto coas súas proporcións xenerosas, baseadas nas formas romanas, convértena nun tipo de estilo humanístico moi fácil de ler a calquera tamaño e a baixa resolución. Posúe un ritmo e uns trazos máis relaxados que as grotescas, cunhas versións itálicas moi dinámicas baseadas nas cursivas chancelerescas do renacemento. A tamaños máis grandes de 14 puntos recoméndase restar algunhas unidades do espaciado das letras xuntándoas un pouco máis, mentres que en deseños con todo en maiúsculas pódese ampliar un pouco ese espaciado. Moi apropiada para infinidade de usos como documentación empresarial, oficinas, correspondencia, carteis, libros etc.'
+description.es: 'Kris Holmes e Charles Bigelow diseñaron esta tipografía en 1985, perteneciente a la macro familia Lucida que junto con esta de palo seco, también incluye otras variantes como la Lucida Bright (con serifs), Lucida Fax (diseñada específicamente para dispositivos de baja resolución como el fax) o Lucida Console (variante monoespaciada para interfaces y programación). La Lucida Sans posee una gran altura de la “x” y unas formas fuertes que junto con sus proporciones generosas, basadas en las formas romanas, la convierten en un tipo de estilo humanístico muy fácil de leer a cualquier tamaño y a baja resolución. Posee un ritmo y unos trazos más relajados que las grotescas, con unas versiones itálicas muy dinámicas basadas en las cursivas cancillerescas del renacimiento. A tamaños más grandes de 14 puntos se recomienda restar algunas unidades del espaciado de las letras juntándolas un poco más, mientras que en diseños con todo en mayúsculas se puede ampliar un poco ese espaciado. Muy apropiada para infinidad de usos como documentación empresarial, oficinas, correspondencia, carteles, libros, etc.'
+links:
+  -
+    title.gl: 'Lucida Sans Unicode'
+    title.es: 'Lucida Sans Unicode'
+    description.gl: ''
+    description.es: ''
+    url: en.wikipedia.org/wiki/Lucida_Sans_Unicode
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 281
+  - 342
+sections_ids:
+  - 12
+designers_ids:
+  - 62
+  - 89

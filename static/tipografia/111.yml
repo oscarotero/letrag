@@ -1,0 +1,13 @@
+id: 111
+title: 'The Sans Mono'
+year: '1996'
+download: null
+description.gl: 'Deseñada por <acronym title="as">Luc</acronym> de Groot en 1996, esta tipografía está baseada na TheSans, a familia sen serifa que forma parte da macro familia Thesis, creada polo propio de Groot. Foi utilizada por Thomas Merz, probablemente o programador PostScript máis experimentado do mundo, no seu libro “The PostScript and PDF Bible” para escribir todo o código PostScript. Tamén funciona especialmente ben como tipografía de correspondencia, dándolle aos impresos un certo toque persoal. Inverteuse unha considerable cantidade de tempo optimizando a tipografía para ser empregada en pantalla. Nos tamaños máis comúns (9, 10, 11, 12 e 14) os mapas de bits foron debuxados manualmente. Os números tamén foron tratados especialmente para evitar confusións cos outros caracteres. Así, mentres os números tradicionais teñen o tamaño de maiúsculas e os máis clásicos parecen letras minúsculas (números elzevirianos), estes foron collidos dos árabes, facéndoos facilmente recoñecibles. O número “0” por exemplo, é máis grande que o “o” minúsculo pero máis pequeno que o “O” maiúsculo, resultando moito máis distinguible, algo moi importante en certas actividades como a programación.'
+description.es: 'Diseñada por <acronym title="as">Luc</acronym> de Groot en 1996, esta tipografía está basada en la TheSans, la familia sin serif que forma parte de la macro familia Thesis, creada por el propio de Groot. Fue utilizada por Thomas Merz, probablemente el programador PostScript más experimentado del mundo, en su libro “The PostScript and PDF Bible” para escribir todo el código PostScript. También funciona especialmente bien como tipografía de correspondencia, dándole a los impresos un cierto toque personal. Se invirtió una considerable cantidad de tiempo optimizando la tipografía para ser empleada en pantalla. En los tamaños más comunes (9, 10, 11, 12 y 14) los mapas de bits fueron dibujados manualmente. Los números también fueron tratados especialmente para evitar confusión con otros caracteres. Así, mientras los números tradicionales tienen el tamaño de mayúsculas y los más clásicos parecen letras minúsculas (números elzevirianos), éstos fueron cogidos de los árabes, haciéndolos fácilmente reconocibles. El número “0” por ejemplo, es más grande que la “o” minúscula pero más pequeño que la “O” mayúscula, resultando mucho más distinguible, algo muy importante en ciertas actividades como la programación.'
+links: []
+tags_ids:
+  - 475
+sections_ids:
+  - 18
+designers_ids:
+  - 87

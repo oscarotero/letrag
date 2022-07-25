@@ -1,0 +1,8 @@
+layout: layouts/home.njk
+title: letrag
+
+intro.gl: Descubre toda a información relacionada co mundo da tipografía.
+intro.es: Descubre toda la información relacionada con el mundo de la tipografía.
+
+sub_intro.gl: Clasificación, glosario, artigos, blogs, historia, ligazóns, caracteres unicode, identificar estilos de letra, tipografías máis comúns, etcétera.
+sub_intro.es: Clasificación, glosario, artículos, blogs, historia, enlaces, caracteres unicode, identificar estilos de letra, tipografías más comunes, etcétera.

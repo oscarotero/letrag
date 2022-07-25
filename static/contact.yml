@@ -1,0 +1,11 @@
+layout: layouts/contact.njk
+title: Contacto
+menu: 6
+description.gl: Acerca desta web
+description.es: Acerca de esta web
+
+body.gl: |
+  Proxecto de Oscar Otero iniciado en xuño de 2004 para xente interesada na tipografía. Grazas a [Álvaro Gómez](http://phpfilenavigator.litoweb.net/), a [Ian](http://dpaso.blogspot.com/) a [Berto](http://www.chuza.org/) e a Laura Rubio pola súa colaboración en momentos puntuais.
+
+body.es: |
+  Proyecto de Oscar Otero iniciado en junio de 2004 para gente interesada en la tipografía. Gracias a [Álvaro Gómez,](http://phpfilenavigator.litoweb.net/) a [Ian](http://dpaso.blogspot.com/) a [Berto](http://www.chuza.org/) y a Laura Rubio por su colaboración en momentos puntuales.

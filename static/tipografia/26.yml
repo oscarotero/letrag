@@ -1,0 +1,34 @@
+id: 26
+title: Plantin
+year: '1914'
+download: null
+description.gl: 'A tipografía Plantin foi deseñada por Frank Hinman Pierpont en 1914 e foi chamada así pola imprenta que Christophe Plantin estableceu en Amberes e en cuxos tipos se baseou. Sobre todo nos deseños que Robert Granjon creo para esta imprenta. Foi deseñada para economizar o papel, polo que posúe una grande altura do “x” e está lixeiramente condensada. Trátase dunha tipografía excepcionalmente lexible e que aporta unha aparencia moi elegante e clásica. A forma dos paus e as serifas dálle un aspecto máis forte e sólido que á maioría das tipografías similares. A versión Bold proporciona un gran contraste. A ausencia de elementos moi finos garante un bo resultado en papeis sen estucar, polo que resulta perfecta en periódicos e libros.'
+description.es: 'La tipografía Plantin fue diseñada por Frank Hinman Pierpont en 1914 y fue llamada así por la imprenta que Christophe Plantin estableció en Amberes y de cuyos tipos fue basada. Sobre todo de los diseños que Robert Granjon creó para esta imprenta. Fue diseñada para economizar el papel, por lo que posee una gran altura de la “x” y está ligeramente condensada. Se trata de una tipografía excepcionalmente legible y que aporta una apariencia muy elegante y clásica. La forma de los palos y los serifs le dan un aspecto más fuerte y sólido que la mayoría de las tipografías similares. La versión Bold proporciona un gran contraste. La ausencia de elementos muy finos garantiza un buen resultado en papeles sin estucar, por lo que resulta perfecta en periódicos y libros.'
+links:
+  -
+    title.gl: 'Imprenta Plantin'
+    title.es: 'Imprenta Plantin'
+    description.gl: ''
+    description.es: ''
+    url: en.wikipedia.org/wiki/Plantin_Press
+    language: en
+    source: Wikipedia
+  -
+    title.gl: 'Cristophe Plantin'
+    title.es: 'Cristophe Plantin'
+    description.gl: 'Artigo da Wikipedia adicado a Cristophe Plantin'
+    description.es: 'Artículo de la Wikipedia dedicado a Cristophe Plantin'
+    url: en.wikipedia.org/wiki/Christophe_Plantin
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 91
+  - 92
+  - 106
+  - 107
+  - 108
+  - 109
+sections_ids:
+  - 6
+designers_ids:
+  - 38

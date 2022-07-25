@@ -1,0 +1,22 @@
+{% if not fonts %}
+  {{ texts.empty }}
+{% else %}
+  {% for font in fonts %}
+  <hr class="separador" />
+  <div class="listado_elemento borrar">
+    <h3 class="columna ancho5"><a href="{{ font.data.url }}">{{ font.data.title }}</a></h3>
+    <div class="columna ancho10 final">
+      <p class="detalles">
+        {% for id in font.data.designers_ids %}
+          {% set designer = search.page("type=designer id=" + id) %}
+          <a href="{{ designer.data.url }}">{{ designer.data.title }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+        {{ font.data.year }}
+      </p>
+      <p class="intro">
+        {{ font.data.description | truncate(200) | md(true) | safe }}
+      </p>
+    </div>
+  </div>
+  {% endfor %}
+{% endif %}

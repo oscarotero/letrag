@@ -1,0 +1,25 @@
+id: 71
+title: Rockwell
+year: 'S. XX'
+download: null
+description.gl: 'A versión orixinal desta tipografía foi creada pola fundición Inland en 1910 baixo o nome de Litho Antique. A American Type Founders recuperouna nos anos 20 cando Morris Fuller Benton lle engadiu novos pesos. Máis tarde, en 1934, a Monotype Corporation presentou a súa versión de Rockwell ao volver a popularizarse as tipografías exipcias. Existen textos que erroneamente se refiren a ela como Stymie Bold creando unha confusión que aínda existe hoxe. A súa aparencia forte e harmoniosa convértena nun alfabeto particularmente flexible, válido para títulos e carteis e incluso en bloques de texto curtos.'
+description.es: 'La versión original de esta tipografía fue creada por la fundición Inland en 1910 bajo el nombre de Litho Antique. La American Type Founders la recuperó en los años 20 cuando Morris Fuller Benton le añadió nuevos pesos. Más tarde, en 1934, la Monotype Corporation presentó su versión de Rockwell al volver a popularizarse las tipografías egipcias. Existen textos que erróneamente se refieren a ella como Stymie Bold creando una confusión que aún existe hoy. Su apariencia fuerte y armoniosa la convierten en un alfabeto particularmente flexible, válido para títulos y carteles e incluso en bloques de texto cortos.'
+links:
+  -
+    title.gl: Rockwell
+    title.es: Rockwell
+    description.gl: ''
+    description.es: ''
+    url: en.wikipedia.org/wiki/Rockwell_(typeface)
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 54
+  - 135
+  - 193
+  - 222
+  - 223
+sections_ids:
+  - 24
+designers_ids:
+  - 2

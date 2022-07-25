@@ -1,0 +1,24 @@
+id: 119
+title: 'Book Antiqua'
+year: 'S. XX'
+download: null
+description.gl: 'Esta tipografía foi creada por Monotype baixo o encargo de Microsoft. Ven incluída por defecto no sistema operativo Windows e no paquete de ofimática Microsoft Office. É unha copia case exacta da Palatino, deseñada por Hermann Zapf en 1948. Forma parte dunha serie de tipos bastante criticados creados por Monotype para Microsoft e que están sacados doutras tipografías de notable éxito como a Arial (Helvética), Century Gothic (Avant Garde) ou Monotype Corsiva (Zapf Chancery).'
+description.es: 'Esta tipografía fue creada por Monotype bajo el encargo de Microsoft. Viene incluida por defecto en el sistema operativo Windows y en el paquete de ofimática Microsoft Office. Es una copia casi exacta de la Palatino, diseñada por Hermann Zapf en 1948. Forma parte de una serie de tipos bastante criticados creados por Monotype para Microsoft y que están sacados de otras tipografías de notable éxito como la Arial (Helvética), Century Gothic (Avant Garde) o Monotype Corsiva (Zapf Chancery).'
+links:
+  -
+    title.gl: 'As outras Ariais'
+    title.es: 'Las otras Ariales'
+    description.gl: 'Mark Simonson fai un repaso doutras tipografías que, igual que a Arial, foron creadas por Monotype para Microsoft baseáandose en orixinais de gran éxito.'
+    description.es: 'Mark Simonson hace un repaso de otras tipografias que, al igual que la Arial, fueron creadas por Monotype para Microsoft basándose en originales de gran éxito.'
+    url: www.ms-studio.com/articlesarialsia.html
+    language: en
+    source: 'Mark Simonson Studio'
+tags_ids:
+  - 21
+  - 20
+  - 193
+  - 197
+sections_ids:
+  - 6
+designers_ids:
+  - 48

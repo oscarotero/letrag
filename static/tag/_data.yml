@@ -1,0 +1,4 @@
+type: tag
+layout: layouts/tag.njk
+
+description: Tipografías etiquetadas con esta etiqueta

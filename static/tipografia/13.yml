@@ -1,0 +1,28 @@
+id: 13
+title: Bembo
+year: '1495'
+download: null
+description.gl: 'Os orixes desta tipografía datan do ano 1495. A imprenta de Aldus Manutius, en Venecia, utilizou esta romana deseñada por Francesco Griffo para imprimir “De Aetna”, libro de Pietro Bembo onde conta a súa visita ao Monte Etna. A Bembo está considerada como unha das primeiras tipografías antigas aparecidas xunto coa Garamond, e a súa importancia foi tan grande que o desenvolvemento da tipografía sería impensable sen ela. En 1929, a Monotype Corporation en Londres utilizou esta romana como modelo para un proxecto de Stanley Morison que daría como resultado a Bembo. Fixo algúns cambios ás formas do século XV. Modificou o “G” maiúsculo e na versión itálica, en vez de utilizar a orixinal que Aldus Manutius tiña en mente, escolleu unha sacada dun libro escrito en 1524 por Giovanni Tagliente en Venecia. As maiúsculas itálicas están baseadas en formas romanas. A Bembo é unha tipografía que a pesar do seu estilo antigo ou _old style,_ posúe unha alta lexibilidade grazas ás súas formas proporcionadas e serifas funcionais. A súa beleza clásica faina apropiada para infinidade de usos.'
+description.es: 'Los orígenes de esta tipografía datan del año 1495. La imprenta de Aldus Manutius, en Venecia, utilizó esta romana diseñada por Francesco Griffo para imprimir “De Aetna”, libro de Pietro Bembo donde cuenta su visita al Monte Etna. La Bembo está considerada como una de las primeras tipografías antiguas aparecidas junto con la Garamond, y su importancia fue tan grande que el desarrollo de la tipografía sería impensable sin ella. En 1929, la Monotype Corporation en Londres utilizó esta romana como modelo para un proyecto de Stanley Morison que daría como resultado la Bembo. Hizo algunos cambios a las formas del siglo XV. Modificó la “G”mayúscula y en la versión itálica, en vez de utilizar la original que Aldus Manutius tenia en mente, escogió una sacada de un libro escrito en 1524 por Giovanni Tagliente en Venecia. Las mayúsculas itálicas están basadas en formas romanas. La Bembo es una tipografía que a pesar de su estilo antiguo o _old style,_ posee una alta legibilidad gracias a sus formas proporcionadas y serif funcionales. Su belleza clásica la hace apropidada par infinidad de usos.'
+links:
+  -
+    title.gl: 'Bembo''s Zoo'
+    title.es: 'Bembo''s Zoo'
+    description.gl: 'Experimento tipográfico onde se crean formas de animais coas letras do abecedario Bembo.'
+    description.es: 'Experimento tipográfico donde se crean formas de animales con letras del abecedario Bembo.'
+    url: www.bemboszoo.com/
+    language: en
+    source: ''
+tags_ids:
+  - 52
+  - 61
+  - 62
+  - 63
+  - 64
+  - 65
+  - 66
+  - 67
+sections_ids:
+  - 6
+designers_ids:
+  - 33

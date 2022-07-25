@@ -1,0 +1,43 @@
+id: 24
+title: 'Times New Roman'
+year: '1931'
+download: 'sourceforge.net/project/showfiles.php?group_id=34153'
+description.gl: 'En 1931, despois de que Stanley Morison escribira un artigo criticando ó periódico The Times por estar mal impreso e tipograficamente anticuado, foi contratado para deseñar unha nova tipografía para este xornal. O novo deseño foi supervisado por Stanley Morison e debuxado por Víctor Lardent, un artista do departamento de publicidade de The Times. Como base do seu deseño usou a tipografía Plantin pero con moitas modificacións para conseguir máis lexibilidade e economía de espazo, dúas características fundamentais nunha tipografía de periódico. O seu contraste e condensación eran maiores que os tipos de periódico existentes daquela. Como a tipografía que utilizaran ata agora no xornal se chamaba Times Old Roman, Morison bautizou a súa como Times New Roman, debutando en outubro de 1932 e comercializada un ano despois. A versión de Linotype, chamada simplemente Times, foi optimizada para o seu uso nas novas tecnoloxías como a linotipia aínda que as diferenzas co deseño orixinal son case inapreciables. En 1972, Walter Tracy deseñou a Times Europa, unha versión máis robusta, apropiada para a nova impresión de periódicos, cunhas prensas máis rápidas e un papel máis barato. Nos Estados Unidos, esta tipografía foi moi usada en revistas, libros e periódicos dende os anos 40. Aínda hoxe a Times New Roman goza dunha gran popularidade grazas a súa flexibilidade e lexibilidade e moitos periódicos a seguen usando. A súa popularidade incrementouse ao vir instalada por defecto nos sistemas operativos Macintosh e Windows.'
+description.es: 'En 1931, después de que Stanley Morison escribiera un artículo criticando al periódico The Times por estar mal impreso y tipográficamente anticuado, fue contratado para diseñar una nueva tipografía para este periódico. El nuevo diseño fue supervisado por Stanley Morison y dibujado por Víctor Lardent, un artista del departamento de publicidad de The Times. Como base para su diseño utilizó la tipografía Plantin pero con muchas modificaciones para conseguir más legibilidad y economía de espacio, dos características fundamentales en una tipografía de periódico. Su contraste y condensación eran mayores que los tipos de periódico existentes en aquel momento. Como la tipografía que utilizaran hasta entonces en el periódico se llamaba Times Old Roman, Morison bautizó la suya como Times New Roman, debutando en octubre de 1932 y comercializada un año después. La versión de Linotype, llamada simplemente Times, fue optimizada para su uso en las nuevas teconologías como la linotipia aunque las diferencias con el diseño original son casi inapreciables. En 1972, Walter Tracy diseñó la Times Europa, una versión más robusta, apropiada para la nueva impresión de periódicos, con unas prensas más rápidas y un papel más barato. En los Estados Unidos, esta tipografía fue muy usada en revistas, libros y periódicos desde los años 40. Aún hoy la Times New Roman goza de una gran popularidad gracias a su flexibilidad y legibilidad y muchos periódicos la siguen usando. Su popularidad se vio incrementada al venir instalada por defecto en los sistemas operativos Macintosh y Windows.'
+links:
+  -
+    title.gl: 'Times (New) Roman e a súa aportación no desenrolo da tecnoloxía de fontes escalables'
+    title.es: 'Times (New) Roman y su aportación en el desarrollo de la tecnología de fuentes escalables'
+    description.gl: 'Charles Bigelow escribiu este artigo para o grupo de usuarios "comp.fonts" en maio de 1994 como resposta á pregunta: Cal é a diferencia entre a Times Roman e a Times New Roman?'
+    description.es: 'Charles Bigelow escribió este artículo para el grupo de usuarios "comp.fonts" en mayo de 1994 como respuesta a la pregunta: ¿Cuál es la diferencia entre la Times Roman y la Times New Roman?'
+    url: www.truetype-typography.com/articles/times.htm
+    language: en
+    source: 'TrueType Typography'
+  -
+    title.gl: 'Times New Roman'
+    title.es: 'Times New Roman'
+    description.gl: ''
+    description.es: ''
+    url: en.wikipedia.org/wiki/Times_New_Roman
+    language: en
+    source: Wikipedia
+  -
+    title.gl: 'Times Roman'
+    title.es: 'Times Roman'
+    description.gl: ''
+    description.es: ''
+    url: en.wikipedia.org/wiki/Times_Roman
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 105
+  - 104
+  - 103
+  - 102
+  - 91
+  - 70
+  - 435
+sections_ids:
+  - 6
+designers_ids:
+  - 40

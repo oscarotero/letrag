@@ -1,0 +1,25 @@
+id: 238
+title: Candara
+year: '2004'
+download: null
+description.gl: 'Deseñada por Gary Munch en 2004, foi un encargo de Microsoft para formar parte do novo paquete tipográfico que ven co sistema operativo Windows Vista e a suite Office 2007. Trátase dunha tipografía sen serifa de estilo humanista cun certo toque informal. Os seus trazos teñen un grosor irregular, sendo máis anchos nos extremos e as súas formas abertas e a gran altura do “x” manteñen a lexibilidade baixo unha aparencia amigable e desenfadada sen resultar intrusiva. Foi optimizada para usar baixo ClearType, o sistema de suavizado de texto en pantalla de Microsoft. A pesar de todo, non resulta tan apropiada a tamaños pequenos perdendo moitas das súas características.'
+description.es: 'Diseñada por Gary Munch en 2004, fue un encargo de Microsoft para formar parte del nuevo paquete tipográfico que viene con el sistema operativo Windows Vista y la suite Office 2007. Se trata de una tipografía sin serifs de estilo humanista con un cierto toque informal. Sus trazos tienen un grosor irregular, siendo más anchos en los extremos y sus formas abiertas y la gran altura de la “x” mantienen la legibilidad bajo una apariencia amigable y desenfadada sin resultar intrusiva. Fue optimizada para usar bajo ClearType, el sistema de suavizado de texto en pantalla de Microsoft. A pesar de todo, no resulta tan apropiada a tamaños pequeños perdiendo muchas de sus características.'
+links:
+  -
+    title.gl: 'ClearType Font Collection'
+    title.es: 'ClearType Font Collection'
+    description.gl: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
+    description.es: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
+    url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+    language: en
+    source: Microsoft
+tags_ids:
+  - 21
+  - 20
+  - 197
+  - 418
+  - 419
+sections_ids:
+  - 12
+designers_ids:
+  - 170

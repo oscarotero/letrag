@@ -1,0 +1,39 @@
+id: 254
+title: Webdings
+year: '1997'
+download: 'sourceforge.net/project/showfiles.php?group_id=34153'
+description.gl: |-
+  Tipografía de símbolos creada en 1997 nun proxecto colaborativo entre Vincent Connare de Microsoft e os deseñadores de Monotype Sue Lightfoot, Ian Patterson e Geraldine Wade. O seu nacemento responde á necesidade dos deseñadores de páxinas web dun método sinxelo de incorporar gráficos nas súas páxinas. Por iso, a Webdings está formada polos iconos máis comúns empregados en Internet como iconos de navegación e de reproducción e estan acompañados por outros gráficos non tan usuais.
+
+  Como curiosidade, cabe destacar os gráficos que corresponden coas iniciais “NYC” (New York City) que son un ollo, un corazón e o contorno dunha cidade, que en inglés significa “I Love New York” (amo Nova York). Estes símbolos foron postos intencionadamente a raíz da polémica creada polos gráficos da tipografía Wingdings lanzada por Microsoft uns anos antes. Neste caso, as iniciais “NYC” correspondían cunha calaveira, a estrela de David e unha man co polgar cara arriba e que algunhas persoas interpretaron como a aprobación da matanza de xudeos en Nova York, ainda que Microsoft negara a súa intencionalidade argumentando que fora produto da casualidade.
+
+  A Webdings ven de serie en todos os sistemas operativos de Microsoft a partir do Windows 98 e forma parte do proxecto “Core fonts for the Web” comezado en 1996 e finalizado en 2002 e que tiña como obxectivo o establecemento dun conxunto de tipografías estandar para a web.
+description.es: |-
+  Tipografía de símbolos creada en 1997 en un proyecto colaborativo entre Vincent Connare de Microsoft y los diseñadores de Monotype Sue Lightfoot, Ian Patterson y Geraldine Wade. Su nacimiento responde a la necesidad de los diseñadores de páginas web de un método sencillo de incorporar gráficos en sus páginas. Por eso, la Webdings está formada por los iconos más comunes utilizados en Internet como iconos de navegación y de reproducción y estan acompañados por otros gráficos no tan usuales.
+
+  Como curiosidad, cabe destacar los gráficos que corresponden con las iniciales “NYC” (New York City) que son un ojo, un corazón y el contorno de una ciudad, que en inglés se interpreta como “I Love New York” (amo Nueva York). Estes símbolos fueron puestos intencionadamente a raiz de la polémica creada por los gráficos de la tipografía Wingdings lanzada por Microsoft unos años antes. En este caso, las iniciales “NYC” correspondían con una calavera, la estrella de David y una mano con el pulgar hacia arriba y que algunas personas interpretaron como la aprobación de la matanza de judíos en Nueva York, aunque Microsoft negara su intencionalidad argumentando que fuera producto de la casualidad.
+
+  La Webdings viene de serie en todos los sistemas operativos de Microsoft a partir del Windows 98 y forma parte del proyecto “Core fonts for the Web” comenzado en 1996 y finalizado en 2002 y que tenía como objetivo el establecer un conjunto de tipografías estandar para la web.
+links:
+  -
+    title.gl: Webdings
+    title.es: Webdings
+    description.gl: 'Páxina da Wikipedia adicada á tipografía Webdings'
+    description.es: 'Página de la Wikipedia dedicada a la tipografía Webdings'
+    url: es.wikipedia.org/wiki/Webdings
+    language: es
+    source: Wikipedia
+tags_ids:
+  - 20
+  - 21
+  - 435
+  - 22
+  - 246
+  - 195
+sections_ids:
+  - 59
+designers_ids:
+  - 53
+  - 176
+  - 177
+  - 178

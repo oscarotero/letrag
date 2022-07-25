@@ -1,0 +1,26 @@
+id: 252
+title: Symbol
+year: '1989'
+download: null
+description.gl: 'Esta tipografía creada por Monotype en 1989 conten caracteres gregos, signos matemáticos e de puntuación ademais doutras figuras especiais deseñadas no mesmo estilo que a Times New Roman. Trátase dunha das tipografías estándar que veñen na maioría das impresoras PostScript e está incluída en formato TrueType no paquete tipográfico de todas as versións de Microsoft Windows dende a versión 3.1 e en formato OpenType a partir do Windows Vista. En Macintosh veu de serie dende a versión MacOS 9 e na version MacOSX 10.1 introduciuse unha tipografía tamén chamada Symbol pero cos caracteres compatibles con Unicode. Aínda que se utilizou a miúdo para a composición de textos en idioma grego debido á falta de tipografías que incluísen ese alfabeto, o seu principal propósito foi sempre o de compoñer expresións matemáticas. De feito, a falta de signos diacríticos, o seu conxunto de caracteres non compatible cos estándares e un deseño non moi apropiado para o texto contínuo, fai difícil a súa utilización en textos gregos. Por eso, considerase unha tipografía máis de símbolos que de texto.'
+description.es: 'Esta tipografía creada por Monotype en 1989 contiene caracteres griegos, signos matemáticos y de puntuación además de otras figuras especiales diseñadas en el mismo estilo que la Times New Roman. Se trata de una de las tipografías estándar que vienen en la mayoría de las impresoras PostScript y está incluída en formato TrueType en el paquete tipográfico de todas las versiones de Microsoft Windows desde la versión 3.1 y en formato OpenType a partir del Windows Vista. En Macintosh vino de serie desde la versión MacOS 9 y en la versión MacOSX 10.1 se introduce una tipografía también llamada Symbol pero con los caracteres compatibles con Unicode. Aunque se utilizó a menudo para la composición de textos en idioma griego debido a la falta de tipografías que incluyesen ese alfabeto, su principal propósito fue siempre el de componer expresiones matemáticas. De hecho, la falta de signos diacríticos, su conjunto de caracteres no compatible con los estándares y un diseño no muy apropiado para el texto contínuo, hace dificil su utilización en textos griegos. Por eso se considera una tipografía más de símbolos que de texto.'
+links:
+  -
+    title.gl: 'Symbol (tipografía)'
+    title.es: 'Symbol (tipografía)'
+    description.gl: 'Artigo sobre a tipografía Symbol na Wikipedia'
+    description.es: 'Artículo sobre la tipografía Symbol en la Wikipedia'
+    url: en.wikipedia.org/wiki/Symbol_(typeface)
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 472
+  - 175
+  - 454
+  - 473
+  - 471
+  - 21
+sections_ids:
+  - 59
+designers_ids:
+  - 48

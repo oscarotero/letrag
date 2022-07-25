@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="fungallas">
+  {{ comp.breadcrumb({url: url}) | safe }}
+</div>
+
+<div id="cabeceira" class="arriba2 abaixo2">
+  <h1>{{ title }}</h1>
+  <p class="descricion">
+    <span>
+    {{ subtitle | md(true) | safe }}
+    </span>
+  </p>
+</div>
+
+<div class="listado">
+  <hr class="separador" />
+  <div class="listado_elemento borrar">
+    {{ description | md | safe }}
+  </div>
+</div>

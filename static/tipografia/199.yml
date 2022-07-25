@@ -1,0 +1,20 @@
+id: 199
+title: 'Duc de Berry'
+year: '1990'
+download: null
+description.gl: 'Gótica deseñada en 1990 por Gottfried Pott para unha serie de tipografías lanzadas por Linotype baixo o título “Tipografías antes de Gutenberg”. Está inspirada nas letras francesas creadas durante os séculos <span class="caps">XIII</span> a <span class="caps">XVI</span> e coñecidas como “Bastardas”. Estas combinan formas verticais e ríxidas propias da gótica textura con outras fluídas e máis preto da caligrafía humanística. O seu nome, Duque de Berry en francés, débese ás fermosas tipografías creadas durante o século XV baixo o patrocinio de Jean, Duc de Berry (1340 – 1416). Posúe unhas maiúsculas especialmente elegantes que contrastan coas minúsculas moito máis formais.'
+description.es: 'Gótica diseñada en 1990 por Gottfried Pott para una serie de tipografías lanzadas por Linotype bajo el título “Tipografías antes de Gutenberg”. Está inspirada en las letras francesas creadas durante los siglos <span class="caps">XIII</span> a <span class="caps">XVI</span> y conocidas como “Bastardas”. Estas combinan formas verticales y rígidas propias de la gótica textura con otras fluidas y más cerca de la caligrafía humanística. Su nombre, Duque de Berrry en francés, se debe a las hermosas tipografías creadas durante el siglo XV bajo el patrocinio de Jean, Duc de Berry (1340 – 1416). Posee unas mayúsculas especialmente elegantes que contrastan con las minúsculas mucho más formales.'
+links:
+  -
+    title.gl: 'Duque de Berry'
+    title.es: 'Duque de Berry'
+    description.gl: 'Historia do Duque de Berry contada a través da Wikipedia'
+    description.es: 'Historia del Duque de Berry contada a través de la Wikipedia'
+    url: en.wikipedia.org/wiki/Duke_of_Berry
+    language: en
+    source: Wikipedia
+tags_ids: []
+sections_ids:
+  - 54
+designers_ids:
+  - 60

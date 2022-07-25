@@ -1,0 +1,45 @@
+id: 220
+title: Calibri
+year: '2005'
+download: null
+description.gl: 'Deseñada en 2005 polo holandés Luc(as) de Groot, foi un encargo de Microsoft para formar parte dun novo grupo de tipografías acompañando ao seu sistema operativo Windows Vista e a suite Microsoft Office 2007. Cuns trazos moi coidados, proporcións humanísticas e unhas cursivas elegantes, trátase dunha tipografía pensada para o seu uso en pantalla, sobre todo en páxinas web, aínda que funciona perfectamente no medio impreso. No folleto promocional que lanzou Microsoft titulado “Agora le esto”, Lucas comenta que “as súas proporcións permiten un gran impacto tanto en tamaños grandes como pequenos” e engade que “esta tipografía é apropiada para documentos, correos electrónicos, deseño web e revistas” rematando con “a familia ten unha anchura xenerosa que facilita a lectura ao acentuar a dirección desta”. As súas formas suavizadas, coas esquinas lixeiramente redondeadas, transmiten unha sensación máis placenteira que otras tipografías como a Arial ou Helvética, moito menos amistosas. A Calibri resultou gañadora dun premio na competición de deseño tipográfico que o Clube de Directores Tipográficos, en Nova York, celebrou en 2005 na categoría de “Tipografías de Sistema”.'
+description.es: 'Diseñada en 2005 por el holandés Luc(as) de Groot, fue un encargo de Microsoft para formar parte de un nuevo grupo de tipografías acompañando a su sistema operativo Windows Vista y la suite Microsoft Office 2007. Con unos trazos muy cuidados, proporciones humanísticas y unas cursivas elegantes, se trata de una tipografía pensada para su uso en pantalla, sobre todo en páginas web, aunque funciona perfectamente en el medio impreso. En el folleto promocional que lanzó Microsoft titulado “Ahora lee esto”, Lucas comenta que “sus proporciones permiten un gran impacto tanto en tamaños grandes como pequeños” y añade que “esta tipografía es apropiada para documentos, correos electrónicos, diseño web y revistas” rematando con “la familia tiene una anchura generosa que facilita la lectura al acentuar la dirección de esta”. Sus formas suavizadas, con las esquinas ligeramente redondeadas, transmiten una sensación más placentera que otras tipografías como la Arial o Helvética, mucho menos amistosas. La Calibri resultó ganadora de un premio en la competición de diseño tipográfico que el Club de Directores Tipográficos, en Nueva York, celebró en 2005 en la categoría de “Tipografías de Sistema”.'
+links:
+  -
+    title.gl: 'Tipografía Calibri na TDC2 2005'
+    title.es: 'Tipografía Calibri en la TDC2 2005'
+    description.gl: ''
+    description.es: ''
+    url: www.tdc.org/news/2005Results/Calibri.html
+    language: en
+    source: 'Type Directors Club'
+  -
+    title.gl: Calibri
+    title.es: Calibri
+    description.gl: 'Historia de esta tipografía'
+    description.es: 'Historia de esta tipografía'
+    url: en.wikipedia.org/wiki/Calibri
+    language: en
+    source: Wikipedia
+  -
+    title.gl: 'ClearType Font Collection'
+    title.es: 'ClearType Font Collection'
+    description.gl: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
+    description.es: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
+    url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+    language: en
+    source: Microsoft
+tags_ids:
+  - 22
+  - 21
+  - 20
+  - 112
+  - 197
+  - 418
+  - 419
+sections_ids:
+  - 12
+  - 18
+  - 34
+designers_ids:
+  - 87

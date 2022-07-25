@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="fungallas">
+  {{ comp.breadcrumb({url: url}) | safe }}
+</div>
+
+<div id="cabeceira" class="arriba2 abaixo2">
+  <h1>{{ title }}</h1>
+  <p class="descricion"><span>{{ description }}</span></p>
+</div>
+
+<div class="listado">
+  {% set fonts = search.pages("type=font lang=" + lang + " tags_ids*=" + id, "title") %}
+  {% include "templates/fonts_list.njk" %}
+</div>

@@ -1,0 +1,29 @@
+id: 152
+title: 'Vera Serif'
+year: '2003'
+download: ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/ttf-bitstream-vera-1.10.zip
+description.gl: 'Xunto coa Vera Sans e a Vera Sans Mono, forma parte dun grupo de tipografías de licenza libre deseñadas por Jim Lyles para Bitstream e lanzada pola fundación GNOME. É moi común en sistemas operativos Linux grazas á súa gratuidade e a funcionar moi ben en pantalla. Tamén é unha excelente opción en aplicacións destinadas a ser impresas en papel como identidade corporativa, publicidade e textos curtos. A ausencia de variantes cursivas réstalle posibilidades e flexibilidade aínda que ao ser un proxecto en continuo desenvolvemento é posible que se solucione ese problema nun futuro.'
+description.es: 'Junto con la Vera Sans y la Vera Sans Mono, forma parte de un grupo de tipografías de licencia libre diseñadas por Jim Lyles para Bitstream y lanzada por la fundación GNOME. Es muy común en sistemas operativos Linux gracias a su gratuidad y a funcionar muy bien en pantalla. También es una excelente opción en aplicaciones destinadas a ser impresas en papel como identidad corporativa, publicidad y textos cortos. La ausencia de variantes cursivas le resta posibilidades y flexibilidad aunque al ser un proyecto en continuo desarrollo, es posible que ese problema se solucione en un futuro.'
+links:
+  -
+    title.gl: 'Proxecto DejaVu'
+    title.es: 'Proyecto DejaVu'
+    description.gl: ''
+    description.es: ''
+    url: dejavu.sourceforge.net
+    language: en
+    source: ''
+  -
+    title.gl: Bitstream
+    title.es: Bitstream
+    description.gl: 'Fundada por Matthew Carter, un antigo deseñador de Linotype e Mike Parker en 1981, foi unha das primeiras fundicións dedicadas exclusivamente á tipografía dixital.'
+    description.es: 'Fundada por Matthew Carter, un antiguo diseñador de Linotype y Mike Parker en 1981, fue una de las primeras fundiciones dedicadas exclusivamente a la tipografía digital.'
+    url: www.bitstream.com/
+    language: en
+    source: ''
+tags_ids: []
+sections_ids:
+  - 19
+  - 39
+designers_ids:
+  - 113

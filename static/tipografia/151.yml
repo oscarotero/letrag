@@ -1,0 +1,29 @@
+id: 151
+title: 'Vera Sans'
+year: '2003'
+download: ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/
+description.gl: 'Tipografía de licenza libre que forma parte da macrofamilia Vera, formada por Vera Serif, Vera Sans e Vera Sans Mono. Foi deseñada por Jim Lyles para Bitstream e está baseada na Prima, tamén creada por el en 1997. Posúe un excelente _hinting_ que a converte nunha excelente opción para empregar en monitores e outros medios de baixa resolución. A súa licenza permite que outras persoas a amplíen e perfeccionen e poidan distribuír libremente os resultados, como fai por exemplo o proxecto DejaVu. No momento en que se escribe este texto, está na versión 1.10 sacada en abril de 2003.'
+description.es: 'Tipografía de licencia libre que forma parte de la macrofamilia Vera, formada por Vera Serif, Vera Sans y Vera Sans Mono. Fue diseñada por Jim Lyles para Bitstream y está basada en la Prima, también creada por el en 1997. Posee un excelente _hinting_ que la convierte en una excelente opción para emplear en monitores y otros medios de baja resolución. Su licencia permite que otras personas la amplíen y perfeccionen y que puedan distribuir libremente los resultados, como hace por ejemplo el proyecto DejaVu. En el momento en que se escribe este texto, está en la versión 1.10 sacada en abril de 2003.'
+links:
+  -
+    title.gl: Bitstream
+    title.es: Bitstream
+    description.gl: 'Fundada por Matthew Carter, un antigo deseñador de Linotype e Mike Parker en 1981, foi unha das primeiras fundicións dedicadas exclusivamente á tipografía dixital.'
+    description.es: 'Fundada por Matthew Carter, un antiguo diseñador de Linotype y Mike Parker en 1981, fue una de las primeras fundiciones dedicadas exclusivamente a la tipografía digital.'
+    url: www.bitstream.com/
+    language: en
+    source: ''
+  -
+    title.gl: 'Proxecto DejaVu'
+    title.es: 'Proyecto DejaVu'
+    description.gl: ''
+    description.es: ''
+    url: dejavu.sourceforge.net
+    language: en
+    source: ''
+tags_ids: []
+sections_ids:
+  - 18
+  - 34
+designers_ids:
+  - 113

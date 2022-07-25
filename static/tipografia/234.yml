@@ -1,0 +1,26 @@
+id: 234
+title: 'Jane Austen'
+year: '2005'
+download: www.pia-frauss.de/fonts/ja.htm
+description.gl: 'Creada por Pia Frauss en 2005, trátase dunha homaxe á gran novelista británica Jane Austen. Aínda que está baseada na súa escritura manual, non é exactamente igual debido ás numerosas variacións na caligrafía orixinal de Jane Austen como por exemplo a progresiva disminución das letras ao escribir, a distinta unión dos caracteres segundo a súa posición, os signos de puntuación, moi alonxados da súa corresponente letra ou os distintos trazos dependentes da cantidade de tinta na pluma. O que fixo Pia Frauss foi crear unha tipografía intermedia de todas estas variacións. A caligrafía de Jane Austen era bastante peculiar con algunhas letras como o “x” totalmente ilexibles e de vez en cando ennegrecía letras como o “o” ou o “e”, o que algúns interpretaban un segredo agochado e mensaxes ocultas ainda que outros din que solo eran accidentes e que non estan feitos intencionadamente. Nesta tipografía, Pia Frauss introduxo algunhas peculiaridades como a palabra “the” no caracter numeral “#”, un “Z” alternativo no símbolo do dólar, un “C” alternativo no caracter de sección “§”, a terminación “ing” no caracter “+”, o “ds” no canto do signo “=” e outras sorpresas máis. Pódese descargar gratuítamente sempre que sexa para uso privado. Para aplicacións comerciais débese pedir permiso antes.'
+description.es: 'Creada por Pia Frauss en 2005, se trata de un homenaje a la gran novelista británica Jane Austen. Aunque está basada en su escritura manual, no es exactamente igual debido a las numerosas variaciones en la caligrafía original de Jane Austen como por ejemplo la progresiva disminución de las letras al escribir, la distinta unión de los caracteres según su posición, los signos de puntuación, muy alejados de su correspondiente letra o los distintos trazos dependientes de la cantidad de tinta en la pluma. Lo que hizo Pia Frauss fue crear una tipografía intermedia de todas estas variaciones. La caligrafía de Jane Austen era bastante peculiar con algunas letras como la “x” totalmente ilegibles y de vez en cuando ennegrecía letras como la “o” o la “e”, lo que algunos interpretaban como un secreto escondido y mensajes ocultas aunque otros dicen que solo eran accidentes y que no estaban hechos intencionadamente. En esta tipografía, Pia Frauss introdujo algunas peculiaridades como la palabra “the” en el carácter numeral “#”, un “Z” alternativo en el símbolo del dólar, una “C” alternativa en el carácter de sección “§”, la terminación “ing” en el carácter “+”, o “ds” en lugar del signo “=” y otras sorpresas más. Se puede descargar gratuitamente siempre que sea para uso privado. Para aplicaciones comerciales se debe pedir permiso antes.'
+links:
+  -
+    title.gl: 'Jane Austen'
+    title.es: 'Jane Austen'
+    description.gl: 'Biografía desta destacada novelista británica'
+    description.es: 'Biografía de esta destacada novelita británica'
+    url: en.wikipedia.org/wiki/Jane_Austen
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 70
+  - 361
+  - 405
+  - 406
+  - 407
+  - 408
+sections_ids:
+  - 35
+designers_ids:
+  - 167

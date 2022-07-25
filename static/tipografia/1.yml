@@ -1,0 +1,75 @@
+id: 1
+title: Arial
+year: '1990'
+download: 'sourceforge.net/project/showfiles.php?group_id=34153'
+description.gl: 'A tipografía Arial foi deseñada polo equipo de Monotype para Microsoft cando este lanzou o formato estándar “True Type” para acompañar ao Windows 3.1. O éxito do sistema operativo fixo que a Arial sexa actualmente unha das tipografías máis usadas xunto coa Helvética ou a Times. Trátase dun tipo funcional, simple e moi versátil. Unha das que mellor _hinting_ posúe (especificacións que contén para que poida ser impresa correctamente en aparellos de baixa resolución como un monitor) xa que Microsoft fixo moitísimos esforzos para optimizala. Nalgunhas ocasións foi bastante criticada e e acusada de ser unha copia de baixa calidade da Helvética. O certo é que existen destacadas diferencias entre as dúas familias e algúns caracteres son bastante distintos.'
+description.es: 'La tipografía Arial fue diseñada por el equipo de Monotype para Microsoft cuando lanzó el formato estándar “True Type” para acompañar al Windows 3.1. El éxito del sistema operativo haría que la Arial sea actualmente una de las tipografías más usadas junto con la Helvética o la Times. Se trata de un tipo funcional, simple y muy versátil. Una de las que posee mejor _hinting_ (especificaciones que contiene para que pueda ser impresa correctamente en aparatos de baja resolución como un monitor) ya que Microsoft hizo muchísimos esfuerzos en optimizarla. En ocasiones, ha sido bastante criticada por ser considerada como una copia de baja calidad de la Helvética. Lo cierto es que existen destacadas diferencias entre las dos familias y algunos caracteres son bastante distintos.'
+links:
+  -
+    title.gl: 'Xogo Helvetica vs. Arial'
+    title.es: 'Juego Helvetica vs. Arial'
+    description.gl: 'Xogo de loita en rede. Controla a Helvética e acaba co abecedario da Arial antes de que ela acabe co teu.'
+    description.es: 'Juego de lucha en red. Controla la Helvética y acaba con el abecedario de la Arial antes de que ella acabe con el tuyo.'
+    url: www.mimeartist.com/helvetica/
+    language: en
+    source: Mimeartist
+  -
+    title.gl: 'Como recoñecer a Arial?'
+    title.es: '¿Cómo reconocer la Arial?'
+    description.gl: 'Principales diferencias entre a Helvetica e a Arial para podelas recoñecer fácilmente.'
+    description.es: 'Principales diferencias entre la Helvetica y la Arial para poderlas reconocer fácilmente.'
+    url: www.unostiposduros.com/paginas/arial1.html
+    language: es
+    source: 'Unos tipos duros'
+  -
+    title.gl: 'Xogo Arial ou Helvética?'
+    title.es: 'Juego ¿Arial o Helvética?'
+    description.gl: 'Xogo onde hai que averiguar cal foi a tipografía empregada en cada texto: Arial ou Helvética.'
+    description.es: 'Juego donde hai que averiguar cual fue la tipografía utilizada en cada texto: Arial o Helvética.'
+    url: www.iliveonyourvisits.com/helvetica/
+    language: en
+    source: Iliveonyourvisits
+  -
+    title.gl: 'As outras Ariais'
+    title.es: 'Las otras Ariales'
+    description.gl: 'Mark Simonson fai un repaso doutras tipografías que, igual que a Arial, foron creadas por Monotype para Microsoft baseáandose en orixinais de gran éxito.'
+    description.es: 'Mark Simonson hace un repaso de otras tipografias que, al igual que la Arial, fueron creadas por Monotype para Microsoft basándose en originales de gran éxito.'
+    url: www.ms-studio.com/articlesarialsia.html
+    language: en
+    source: 'Mark Simonson Studio'
+  -
+    title.gl: Arial
+    title.es: Arial
+    description.gl: 'Historia da tipografía'
+    description.es: 'Historia de la tipografía'
+    url: en.wikipedia.org/wiki/Arial
+    language: en
+    source: Wikipedia
+  -
+    title.gl: 'Arial Unicode MS'
+    title.es: 'Arial Unicode MS'
+    description.gl: 'Páxina desta tipografía na Wikipedia'
+    description.es: 'Página de esta tipografía en la Wikipedia'
+    url: en.wikipedia.org/wiki/Arial_Unicode_MS
+    language: en
+    source: Wikipedia
+  -
+    title.gl: 'A azouta da Arial'
+    title.es: 'El azote de la Arial'
+    description.gl: 'Artigo de Mark Simonson sobre a historia desta tipografía e o por que se fixo.'
+    description.es: 'Artículo de Mark Simonson sobre la historia de esta tipografía y el por qué se hizo.'
+    url: 'www.unostiposduros.com/?p=1437'
+    language: es
+    source: 'Unos tipos duros'
+tags_ids:
+  - 434
+  - 20
+  - 21
+  - 22
+  - 435
+sections_ids:
+  - 10
+  - 18
+designers_ids:
+  - 6
+  - 5

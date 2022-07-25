@@ -1,0 +1,39 @@
+id: 243
+title: Fixedsys
+year: '1983'
+download: 'fixedsys.moviecorner.de/?p=download&l=1'
+description.gl: 'Desenvolvida por Microsoft, foi a primeira tipografía que utilizou o sistema operativo Windows. Estaba deseñada en mapa de bits polo que non se podía escalar. O seu nome deriva de “fixed system” xa que foi empregada como tipografía do sistema no Windows 1.0 e 2.0 ata que coa chegada do Windows 3.x foi reemprazada pola MS Sans Serif. Debido a que os seus caracteres son monoespazados (teñen un ancho fixo todos) hai xente que a pronuncia como “fixed size”. Foi a tipografía por defecto do editor de texto Notepad durante as versións do Windows 95, 98 e Me e nas versións posteriores foi substituída pola Lucida Console. Tamén é famosa por ser a tipografía empregada nos famosos “pantallazos azuis” (a pantalla de cor azul e letras brancas que amosa Windows ao producirse un erro de sistema) ata que a Lucida Console a substituiu no Windows XP. Para diferenciar a letra “O” maiúscula do número “0”, en vez de facer unha liña que cruce o número cero ou un punto no seu interior, que faría que se puidese confundir co número “8”, posue un par de marcas nos laterais. Actualmente existe unha versión en formato True Type con licenza <span class="caps">GNU</span> General Public License, que foi creada nun principio por Travis Owens. Markus Gebhards fixo a versión 4 engadíndolle novos caracteres que faltaban na versión orixinal. Posteriormente, Lars Naber recuperouna e creou a versión 5 engadíndolle máis caracteres como o símbolo do euro e corrixindo outros que se vían irregulares. Actualmente está na versión 5.00c, lanzada o 17 de febreiro de 2003.'
+description.es: 'Desarrollada por Microsoft, fue la primera tipografía que utilizó el sistema operativo Windows. Estaba diseñada en mapa de bits por lo que no se podía escalar. Su nombre deriva de “fixed system” ya que fue utilizada como tipografía de sistema en el Windows 1.0 y 2.0 hasta que con la llegada del Windows 3.x fue reemplazada por la MS Sans Serif. Debido a que sus caracteres son monoespaciados (tienen un ancho fijo todos) hay gente que la pronuncia como “fixed size”. Fue la tipografía por defecto del editor de texto Notepad durante las versiones del Windows 95, 98 y Me y en las versiones posteriores fue sustituida por la Lucida Console. También es famosa por ser la tipografía utilizada en los famosos “pantallazos azules” (la pantalla de color azul y letras blancas que muestra Windows al producirse un error de sistema) hasta que la Lucida Console la sustituyó en el Windows XP. Para diferenciar la letra “O” mayúscula del número “0”, en vez de hacer una línea que cruce el número cero o un punto en su interior, que provocaría que pudiese ser confundida con el número “8”, posee un par de marcas en los laterales. Actualmente existe una versión en formato True Type con licencia <span class="caps">GNU</span> General Public License, que fue creada en un principio por Travis Owens. Markus Gebhards hizo la versión 4 añadiéndole nuevos caracteres que faltaban en la versión original. Posteriormente, Lars Naber la recuperó y creó la versión 5 añadiéndole más caracteres como el símbolo del euro y corrigiendo otros que se veían irregulares. Actualmente está en la versión 5.00c, lanzada el 17 de febrero de 2003.'
+links:
+  -
+    title.gl: 'Fixedsys: True-Type-Schriftart'
+    title.es: 'Fixedsys: True-Type-Schriftart'
+    description.gl: 'Páxina de Lars Naber adicada á versión True Type da tipografía fixedsys'
+    description.es: 'Página de Lars Naber dedicada a la versión True Type de la tipografía fixedsys'
+    url: 'fixedsys.moviecorner.de/?p=start&l=1'
+    language: en
+    source: Moviecorner
+  -
+    title.gl: Fixedsys
+    title.es: Fixedsys
+    description.gl: 'A historia da tipografía Fixedsys na Wikipedia'
+    description.es: 'La historia de la tipografía Fixedsys en la Wikipedia'
+    url: en.wikipedia.org/wiki/Fixedsys
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 442
+  - 441
+  - 440
+  - 439
+  - 438
+  - 437
+  - 436
+  - 195
+  - 20
+  - 21
+  - 443
+sections_ids:
+  - 18
+designers_ids:
+  - 156

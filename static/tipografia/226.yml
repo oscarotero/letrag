@@ -1,0 +1,21 @@
+id: 226
+title: Antillanca
+year: '1998'
+download: www.tipografia.cl/sitioantiguo/proyectos/proyecto_tup/homelupv2.html
+description.gl: 'Tipografía que forma parte do proxecto “Tipografías Urbano Populares Chilenas” levado a cabo polos deseñadores José Anibal Soto e Luís Antonio Rojas. Este proxecto pretende rescatar aquelas tipografías creadas de forma manual por pintores letristas e que se atopan en certos sectores sociais, particularmente de estratos socioeconómicos medios e baixos dentro de Chile. Estas letras, que se poden atopar en multitude de carteis, rótulos e anuncios, están creadas cunha gran liberdade do pintor fronte ás regras académicas, empregando a intuición, dando lugar a imperfeccións, erros e irregularidades que enriquecen e ao mesmo tempo unifican a chamada gráfica popular. A Antillanca naceu dun cartel atopado na Estación Central pintado en decembro de 1997 cun plumón biselado e foi rescatada e dixitalizada en marzo de 1998 polos responsables deste proxecto para distribuír gratuitamente.'
+description.es: 'Tipografía que forma parte del proyecto “Tipografías Urbano Populares Chilenas” llevado a cabo por los diseñadores José Anibal Soto y Luis Antonio Rojas. Este proyecto pretende rescatar aquellas tipografías creadas de forma manual por pintores letristas y que se encuentran en ciertos sectores sociales, particularmente de extractos socioeconómicos medios y bajos dentro de Chile. Estas letras, que se pueden encontrar en multitud de carteles, rótulos y anuncios, están creadas con una gran libertad del pintor frente a las reglas académicas, utilizando la intuición, dando lugar a imperfecciones, errores e irregularidades que enriquecen y al mismo tiempo unifican la llamada gráfica popular. La Antillanca nació de un cartel encontrado en la Estación Central pintado en diciembre de 1997 con un plumón biselado y fue rescatada y digitalizada en marzo de 1998 por los responsables de este proyecto para distribuir gratuitamente.'
+links:
+  -
+    title.gl: 'Proxecto Tipografías Urbano Populares'
+    title.es: 'Proyecto Tipografías Urbano Populares'
+    description.gl: 'Rescate de letras populares chilenas realizado en Santiago no ano 1999.'
+    description.es: 'Rescate de letras populares chilenas realizado en Santiago en el año 1999.'
+    url: www.tipografia.cl/sitioantiguo/proyectos/proyecto_tup/homelupv2.html
+    language: es
+    source: Tipografia.cl
+tags_ids: []
+sections_ids:
+  - 58
+designers_ids:
+  - 161
+  - 160

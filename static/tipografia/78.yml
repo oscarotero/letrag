@@ -1,0 +1,27 @@
+id: 78
+title: Courier
+year: '1955'
+download: 'sourceforge.net/project/showfiles.php?group_id=34153'
+description.gl: 'Unha das tipografías máis coñecidas do mundo, a Courier foi creada por Howard G. Kettler en 1955 para <span class="caps">IBM</span>. Estaba destinada a máquinas de escribir polo que os seus caracteres ocupan todos o mesmo ancho. Debido a iso, as liñas compostas en Courier non son homoxéneas xa que por exemplo, o “m” está forzado a coller no mesmo espazo que o “i”. Aínda que as máquinas de escribir xa practicamente desapareceron e a necesidade desta tipografía tamén, as súas imperfeccións seguen sendo apreciadas no mundo do deseño sendo empregada en publicidade. Adrian Frutiger redebuxouna posteriormente para a serie <span class="caps">IBM</span> Selectric creando a Courier New. Foi engadida no paquete de fontes TrueType de Microsoft para ser empregada en web. Hoxe en día ven de serie tanto en computadores Macintosh como en Windows.'
+description.es: 'Una de las tipografías más conocidas del mundo, la Courier fue creada por Howard G. Kettler en 1955 para <span class="caps">IBM</span>. Estaba destinada a máquinas de escribir por lo que sus caracteres ocupan todos el mismo ancho. Debido a eso, las líneas compuestas en Courier no son homogéneas ya que por ejemplo, la “m” está forzada a coger en el mismo espacio que la “i”. Aunque las máquinas de escribir ya prácticamente desparecieron y la necesidad de esta tipografía también, sus imperfecciones siguen siendo apreciadas en el mundo del diseño siendo utilizada en publicidad. Adrian Frutiger la redibujó posteriormente para la serie <span class="caps">IBM</span> Selectric creando la Courier New. Fue añadida en el paquete de fuentes TrueType de Microsoft para ser empleada en Web. Hoy en día viene de serie tanto en ordenadores Macintosh como en Windows.'
+links:
+  -
+    title.gl: Courier
+    title.es: Courier
+    description.gl: 'Artigo da Wikipedia adicado á Courier'
+    description.es: 'Artículo de la Wikipedia dedicado a la Courier'
+    url: es.wikipedia.org/wiki/Courier_New
+    language: es
+    source: Wikipedia
+tags_ids:
+  - 239
+  - 238
+  - 237
+  - 20
+  - 22
+  - 435
+sections_ids:
+  - 19
+  - 26
+designers_ids:
+  - 59

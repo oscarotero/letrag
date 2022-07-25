@@ -1,0 +1,37 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="fungallas">
+  {{ comp.breadcrumb({url: url}) | safe }}
+</div>
+
+<div id="cabeceira" class="arriba2 abaixo2">
+  <h1>{{ title }}</h1>
+  <p class="descricion">
+    <span>
+    {{ description }}
+    </span>
+  </p>
+</div>
+
+<hr class="separador" />
+<div class="navegacion abaixo2">
+  {% include "templates/pagination.njk" %}
+</div>
+
+<div class="listado abaixo2">
+
+{% for designer in results %}
+<hr class="separador" />
+<div class="listado_elemento borrar">
+  <h3><a href="{{ designer.data.url }}">{{ designer.data.title }}</a></h3>
+</div>
+{% endfor %}
+
+</div>
+
+<hr class="separador" />
+<div class="navegacion abaixo2">
+  {% include "templates/pagination.njk" %}
+</div>

@@ -1,0 +1,7 @@
+id: 0
+menu: 3
+layout: layouts/glossary.njk
+title: Glosario
+description.gl: Definición de termos tipográficos 
+description.es: Definición de términos tipográficos
+type: glossary_home

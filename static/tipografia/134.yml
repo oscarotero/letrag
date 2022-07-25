@@ -1,0 +1,21 @@
+id: 134
+title: Kievit
+year: '2001'
+download: null
+description.gl: 'Tipografía sen serifa creada por Mike Abbink en 2001. A súa aparencia lisa e neutral foi coidadosamente deseñada, facéndoa moi versátil e apropiada para infinidade de aplicacións. Posúe una forte carga humanista diferenciándoa doutras tipografías cun estilo similar pero cunha frialdade máis acusada (como por exemplo a Meta). Formada por multitude de variantes distintas, inclúe todo tipo de caracteres e pesos mantendo a súa neutralidade sen que ningún caracter estea por encima do outro, creando no texto unha aparencia única de tipografía unificada facilitando así a lectura.'
+description.es: 'Tipografía sin serif creada por Mike Abbink en 2001. Su apariencia lisa y neutral fue cuidadosamente diseñada, haciéndola muy versátil y apropiada para infinidad de aplicaciones. Posee una fuerte carga humanista diferenciándola de otras tipografías con un estilo similar pero con una frialdad más acusada (como por ejemplo la Meta). Formada por multitud de variantes distintas, incluye todo tipo de caracteres y pesos, manteniendo su neutralidad sin que ningún caracter esté por encima del otro, creando en el texto una apariencia única de tipografía unificada, facilitando así la lectura.'
+links:
+  -
+    title.gl: 'Conversa con Mike Abbink'
+    title.es: 'Conversación con Mike Abbink'
+    description.gl: 'Entrevista con Mike Abbink acerca da tipografía Kievit.'
+    description.es: 'Entrevista con Mike Abbink acerca de la tipografía Kievit.'
+    url: www.daidala.com/06jun2003.html
+    language: en
+    source: Daidala
+tags_ids:
+  - 309
+sections_ids:
+  - 34
+designers_ids:
+  - 104

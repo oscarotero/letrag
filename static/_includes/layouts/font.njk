@@ -1,0 +1,62 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="fungallas">
+  {{ comp.breadcrumb({url: url}) | safe }}
+</div>
+
+<div id="cabeceira" class="arriba2 abaixo2">
+  
+  {% if download %}
+    <div class="destaque_gratuita_{{ lang }}">
+      <a href="http://{{ download }}">{{ freefont }}</a>
+    </div>
+  {% else %}
+    <div class="destaque_comercial_{{ lang }}">
+      <a href="http://www.google.com/cse?cx=016719214230591524574%3Axhaxydpdfli&amp;q={{ title }}">{{ commercialfont }}</a>
+    </div>
+  {% endif %}
+  
+  <h1>{{ title }}</h1>
+  <p class="descricion abaixo1">
+    {% for id in designers_ids %}
+    {% set designer = search.page("type=designer id=" + id) %}
+    <a href="{{ designer.data.url }}">{{ designer.data.title }}</a>{% if not loop.last %}, {% endif %}
+    {% endfor %}
+    ({{ year }})
+  </p>
+</div>
+
+<hr class="separador" />
+
+{% if tags_ids.length %}
+<div class="tags">
+  
+  {{ tags_title }}:
+
+  {% for id in tags_ids %}
+  {% set tag = search.page("type=tag id=" + id) %}
+  <a href="{{ tag.data.url }}">{{ tag.data.title }}</a>{% if not loop.last %}, {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
+<div class="texto arriba2 abaixo2">
+  {{ description | md | safe }}
+  
+  {% if links.length %}
+  <h3>{{ links_title }}</h3>
+    
+  <ul class="ligazons">
+    {% for link in links %}
+    <li>
+      <strong><a href="http://{{ link.url }}">{{ link.title }}</a></strong><br />
+      <span class="direccion"><a href="http://{{ link.url }}">{{ link.url }}</a></span><br />
+      <span class="descricion">{{ link.description }} ({{ link.language }})</span>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+</div>

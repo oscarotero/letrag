@@ -1,0 +1,40 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="fungallas">
+  {{ comp.breadcrumb({url: url}) | safe }}
+</div>
+
+<div id="cabeceira" class="arriba2 abaixo2">
+  <h1>{{ title }}</h1>
+  <p class="descricion">
+    <span>
+    {{ description | md(true) | safe }}
+    </span>
+  </p>
+</div>
+
+<div class="listado">
+  {% set sections = search.pages("type=glossary lang=" + lang + " section_id=" + id, "title") %}
+
+  {% if sections.length %}
+    {% for section in sections %}
+    <hr class="separador" />
+    <div class="listado_elemento borrar">
+      <h3><a href="{{ section.data.url }}">{{ section.data.title }}</a></h3>
+      <p class="intro">
+        {{ section.data.description | md(true) | safe }}
+      </p>
+    </div>
+    {% endfor %}
+  {% else %}
+    {% set words = search.pages("type=word lang=" + lang + " section_id=" + id, "title") %}
+    {% for word in words %}
+    <hr class="separador" />
+    <div class="listado_elemento borrar">
+      <h3><a href="{{ word.data.url }}">{{ word.data.title }}</a></h3>
+    </div>
+    {% endfor %}
+  {% endif %}
+</div>

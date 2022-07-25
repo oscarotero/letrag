@@ -1,0 +1,24 @@
+id: 245
+title: 'MS Sans Serif'
+year: '1991'
+download: null
+description.gl: 'Creada en 1991 por Microsoft, trátase dunha tipografía de mapa de bits que foi utilizada como tipografía por defecto no sistema operativo Windows 3.1, Windows 95, Windows NT 4.0, Windows 98, Windows 98SE e Windows ME ata que coa aparición do Windows 2000 foi substituída pola Tahoma. Debido a que estaba en formato de mapa de bits, non podía ser escalada a calquera tamaño como as TrueType ou Type1, senon que estaba disponible únicamente en tamaños de 8, 10, 12, 14, 18 e 24 píxeles. En 1997, Microsoft sacou unha versión en formato TrueType (e posteriormente OpenType) chamada Microsoft Sans Serif, comercializada por Ascender Corporation que veu de serie a partires do Windows 2000 e posteriores. Esta versión deseñouse para ser métricamente compatible coa orixinal MS Sans Serif de mapa de bits, pero resultando moito máis flexible e lexible ao soportar interfaces de usuario escalables e técnicas de suavizado en pantaia como ClearType. Ademáis inclúe un gran número de caracteres (máis de 2000) cubrindo a maioría de linguas existentes (caracteres latinos, diacriticos, gregos, cirílicos, hebreos, árabes, símbolos matemáticos, etc) agás os ideogramas asiáticos. Aínda así, en Windows XP ademáis da versión OpenType aínda segue vindo a versión en mapa de bits por temas de compatibilidade con aplicacións de 16 bits e programas antigos.'
+description.es: 'Creada en 1991 por Microsoft, se trata de una tipografía de mapa de bits que fue utilizada como tipografía por defecto en el sistema operativo Windows 3.1, Windows 95, Windows NT 4.0, Windows 98, Windows 98SE y Windows ME hasta que con la aparición del Windows 2000 fue sustituida por la Tahoma. Debido a que estaba en formato de mapa de bits, no podía ser escalada a cualquier tamaño como las TrueType o Type1, sino que estaba disponible únicamente en tamaños de 8, 10, 12, 14, 18 y 24 píxeles. En 1997, Microsoft sacó una versión en formato TrueType (y posteriormente OpenType) llamada Microsoft Sans Serif, comercializada por Ascender Corporation que vino de serie a partir del Windows 2000 y posteriores. Esta versión se diseñó para ser métricamente compatible con la original MS Sans Serif de mapa de bits, pero resultando mucho más flexible y legible al soportar interfaces de usuario escalables y técnicas de suavizado en pantalla como ClearType. Además incluye un gran número de caracteres (más de 2000) cubriendo la mayoría de lenguas existentes (caracteres latinos, diacríticos, griegos, cirílicos, hebreos, árabes, símbolos matemáticos, etc) a excepción de los ideogramas asiáticos. Aún así, en Windows XP además de la versión OpenType, todavía sigue estando la versión en mapa de bits por temas de compatibilidad con aplicaciones de 16 bits y programas antiguos.'
+links:
+  -
+    title.gl: 'MS Sans Serif'
+    title.es: 'MS Sans Serif'
+    description.gl: 'Historia desta tipografía por medio da Wikipedia'
+    description.es: 'Historia de esta tipografía por medio de la Wikipedia'
+    url: en.wikipedia.org/wiki/MS_Sans_Serif
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 21
+  - 20
+  - 195
+  - 449
+sections_ids:
+  - 18
+designers_ids:
+  - 156

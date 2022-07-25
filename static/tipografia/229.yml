@@ -1,0 +1,20 @@
+id: 229
+title: Genocide
+year: '2004'
+download: 'www.volcano-type.de/index.html?page=Genocide'
+description.gl: 'Tipografía creada por Lars Harmsen xunto con Ulrich Weiss e Boris Kahl para a fundición alemá Volcano Type durante os anos 2003-2004. Trátase dunha homenaxe ás vítimas do xenocidio de Camboxa (1975-1979), onde morreron uns 1,7 millóns de persoas (o 21% da poboación do país), converténdose nunha das peores traxedias do século XX. A Universidade de Yale iniciou en 1994 o Cambodian Genocide Program, un proxecto onde se recollen biografías, fotografías, documentos, mapas e todo tipo de información para aprender o máximo posible sobre a traxedia e axudar a determinar os responsables dos crimes efectuados baixo o réxime comunista dos Xemeres Vermellos, liderados por Pol Pot. Entre a súa base de datos atópanse máis de cinco mil imaxes das víctimas da prisión de Tuol Sleng de Phnom Penh, o centro de exterminación coñecido como “S-21”. Alí fotografáronse os presos que ingresaban na cadea para ser posteriormente interrogados e executados. O que máis impresionou ó deseñador foi o feito de que moitas das vítimas non teñen nome, só son un rostro cun número, polo que ao crear unha tipografía con estas imaxes foi como darlles unha identidade. A tipografía pódese baixar gratuitamente da web de Volcano Type enchendo un formulario para recibila posteriormente por correo electrónico.'
+description.es: 'Tipografía creada por Lars Harmsen junto con Ulrich Weiss y Boris Kahl para la fundición alemana Volcano Type durante los años 2003-2004. Se trata de un homenaje a las víctimas del genocidio de Camboya (1975-1979), donde murieron unos 1,7 millones de personas (el 21% de la población del país), convirtiéndose en una de las peores tragedias del siglo XX. La Universidad de Yale inició en 1994 el Cambodian Genocide Program, un proyecto donde se recopilan biografías, fotografías, documentos, mapas y todo tipo de información para aprender lo máximo posible sobre la tragedia y ayudar a determinar los responsables de los crímenes efectuados bajo el régimen comunista de los Jemeres Rojos, liderados por Pol Pot. Entre su base de datos se encuentran más de cinco mil imágenes de las víctimas de la prisión de Tuol Sleng de Phnom Penh, el centro de exterminación conocido como “S-21”. Alí se fotografiaron los presos que ingresaban en la prisión para ser posteriormente interrogados y ejecutados. Lo que más impresionó al diseñador fue el hecho de que muchas de las victimas no tienen nombre, solo son un rostro con un número, por lo que al crear una tipografía con estas imágenes fue como darles una identidad. La tipografía se puede bajar gratuitamente de la web de Volcano Type rellenando un formulario para recibirla posteriormente por correo electrónico.'
+links:
+  -
+    title.gl: 'Cambodian Genocide Program'
+    title.es: 'Cambodian Genocide Program'
+    description.gl: 'Proxecto levado a cabo pola Universidade de Yale para recopilar todo tipo de información acerca do xenocidio de Camboxa como biografías, documentos, fotografías, etcétera.'
+    description.es: 'Proyecto llevado a cabo por la Universidad de Yale para recopilar todo tipo de información acerca del genocidio de Camboya como biografías, documentos, fotografías, etcétera.'
+    url: www.yale.edu/cgp/index.html
+    language: en
+    source: 'Yale University'
+tags_ids: []
+sections_ids:
+  - 59
+designers_ids:
+  - 162

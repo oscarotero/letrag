@@ -1,0 +1,21 @@
+id: 8
+title: Univers
+year: '1954'
+download: null
+description.gl: 'Unha das tipografías máis importantes do século XX e o maior logro de Adrián Frutiger que a deseñou para a Fundición Deberny &amp; Peignot para ser usada en fotocomposición e composición en metal. Ao mesmo tempo que apareceu outro tipo clave: a Helvética cunha aparencia moi similar pero con algunhas diferencias notables como por exemplo a primacía da claridade, modernidade e o efecto neutral desta fronte a racionalidade e elegancia da Univers. Entre as súas característica máis importantes, podemos salientar a grande cantidade de pesos e anchos dispoñibles e a aparencia regular e homoxénea das súas composicións. Frutiger creou un sistema de numeración para diferenciar os 21 pesos e anchuras iniciais que co tempo fóronse incrementando. A Univers é unha das tipografías sen serifas máis usadas gracias á súa racionalidade, modernidade e usos case ilimitados.'
+description.es: 'Una de las tipografías más importantes del siglo XX y el mayor logro de Adrián Frutiger que la diseñó para la Fundición Deberny &amp; Peignot para ser usada en fotocomposición y composición en metal. Al mismo tiempo apareció otro tipo clave: la Helvética con una apariencia muy parecida pero con algunas diferencias notables como por ejemplo la primacía de la claridad, modernidad y el efecto neutral de esta frente a la racionalidad y elegancia de la Univers. Entre sus características más importantes, podemos destacar la gran cantidad de pesos y anchos disponibles y la apariencia regular y homogénea de sus composiciones. Frutiger creó un sistema de numeración para diferenciar los 21 pesos y anchuras iniciales, que con el tiempo se fueron incrementando. La Univers es una de las tipografías sin serif más usadas gracias a su racionalidad, modernidad y usos casi ilimitados.'
+links:
+  -
+    title.gl: Univers
+    title.es: Univers
+    description.gl: 'Artigo da tipografía Univers na Wikipedia.'
+    description.es: 'Artículo de la tipografía Univers en la Wikipedia'
+    url: en.wikipedia.org/wiki/Univers
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 162
+sections_ids:
+  - 10
+designers_ids:
+  - 11

@@ -1,0 +1,22 @@
+id: 9
+title: Baskerville
+year: 'S. XVIII'
+download: null
+description.gl: 'Tipografía deseñada no século XVIII por John Baskerville, un tipógrafo inglés dotado dunha gran delicadeza, elegancia e claridade no deseño de tipos e composicións das páxinas. A excelente calidade das súas impresións influenciou a grandes tipógrafos como Didot ou Bodoni. Porén, despois da súa morte, os seus tipos permaneceron descoñecidos durante máis de 150 anos, ata que os rescatou Bruce Rogers, un deseñador norteamericano, reeditándoos para Monotype en 1924 e Linotype en 1931. O tipo Baskerville posúe unhas proporcións xenerosas. A maior diferenza entre esta e as tipografías anteriores radica nunha maior diferenza entre os paus finos e grosos. Trátase dunha tipografía lexible e clara, moi apropiada para libros de texto.'
+description.es: 'Tipografía diseñada en el siglo XVIII por John Baskerville, un tipógrafo inglés dotado de una gran delicadeza, elegancia y claridad en el diseño de tipos y composición de las páginas. La excelente calidad de sus impresiones influyó a grandes tipógrafos como Didot o Bodoni. Sin embargo, después de su muerte, sus tipos permanecieron desconocidos durante más de 150 años, hasta que Bruce Rogers, un diseñador norteamericano, los rescató, reeditándolos para Monotype en 1924 y Linotype en 1931. El tipo Baskerville posee unas proporciones generosas. La mayor diferencia entre esta y las tipografías anteriores radica en una mayor diferencia entre los palos finos y gruesos. Se trata de una tipografía legible y clara, muy apropiada para libros de texto.'
+links:
+  -
+    title.gl: Baskerville
+    title.es: Baskerville
+    description.gl: 'Páxina desta tiporafía na Wikipedia'
+    description.es: 'Página de esta tipografía en la Wikipedia'
+    url: en.wikipedia.org/wiki/Baskerville
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 44
+  - 92
+sections_ids:
+  - 7
+designers_ids:
+  - 41

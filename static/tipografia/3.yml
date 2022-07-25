@@ -1,0 +1,22 @@
+id: 3
+title: Futura
+year: '1928'
+download: null
+description.gl: 'A Futura foi a tipografía de máis éxito da era Bauhaus e unha das máis famosas do século XX. Aínda que non había unha relación directa entre Paul Renner e a Bauhaus, a súa tipografía, deseñada para a fundición Bauer, está baseada en formas xeométricas simples como o circulo, cadrado e triángulo, reflexando as ideas da “Nova tipografía”. O seu deseño inspirou posteriormente a todas as novas tipografías xeométricas do século XX, en especial á Avant Garde, de Herb Lubalin. Posúe largos ascendentes e descendentes e unha aparencia limpa e clara, proporcionándolle grandes doses de lexibilidade e obxectividade. A súa elegancia faina moi axeitada para o seu uso en anuncios, carteis, revistas ou libros.'
+description.es: 'La futura fue la tipografía de más éxito de la era Bauhaus y una de las más famosas del siglo XX. Aunque no había una relación directa entre Paul Renner y la Bauhaus, su tipografía, diseñada para la fundición Bauer, está basada en formas geométricas simples como el círculo, cuadrado y triángulo, reflejando las ideas de la “Nueva tipografía”. Su diseño inspiró posteriormente a todas las nuevas tipografías geométricas del siglo XX, en especial la Avant Garde, de Herb Lubalin. Posee largos ascendentes y descendientes y una apariencia limpia y clara, proporcionándole grandes dosis de legibilidad y objetividad. Su elegancia la hace muy apropiada para su uso en anuncios, carteles, revistas o libros.'
+links:
+  -
+    title.gl: Futura
+    title.es: Futura
+    description.gl: ''
+    description.es: ''
+    url: en.wikipedia.org/wiki/Futura_(typeface)
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 25
+  - 26
+sections_ids:
+  - 11
+designers_ids:
+  - 15

@@ -1,0 +1,12 @@
+id: 103
+title.gl: Kerning
+title.es: Kerning
+section_id: 115
+description.gl: |-
+  ![](/imaxes/57.png)
+
+  Espazo existente entre dous pares de letras (e nalgunhas ocasións incluso tríos) para corrixir problemas de ritmo tipográfico. Estes problemas xorden cando a forma de dúas letras concretas deixa un gran espazo entre elas, como por exemplo as parellas ‘A-V’, ‘T-o’, ‘L-T’, etc. Para corrixir este problema inclúese no propio arquivo da tipografía unha táboa coa relación de espazado e os pares de letras. Por exemplo, para a parella ‘AV’ daríamoslle -2, para ‘To’ sería -3, etcétera. Un problema que existe cos idiomas distintos ao inglés é que a maioría das tipografias están pensadas para este idioma, polo que moitas delas non inclúen kerning nas letras con tildes ou o no ‘ñ’. Para comprobalo podemos facer a seguinte proba: escribimos ‘Te’ e ‘Té’ e se no segundo caso existe máis separación, sería porque non se pensou no ‘é’ con til á hora de facer os kernings.
+description.es: |-
+  ![](/imaxes/57.png)
+
+  Espacio existente entre dos pares de letras (y en algunas ocasiones incluso trios) para corregir problemas de ritmo tipográfico. Estes problemas surgen cuando la forma de dos letras concretas deja un gran espacio entre ellas, como por ejemplo las parejas ‘A-V’, ‘T-o’, ‘L-T’, etc. Para corregir este problema se inclúe en el propio archivo de la tipografía una tabla con la relación de espaciado y los pares de letras. Por ejemplo para la pareja ‘AV’ le daríamos -2, para ‘To’ sería -3, etcétera. Un problema que existe con los idiomas distintos al inglés es que la mayoría de las tipografías estan pensada para este idioma, por lo que muchas de ellas no incluyen kerning en las letras con tildes o la ‘ñ’. Par comprobarlo podemos hacer la siguiente prueba: escribimos ‘Te’ y ‘Té’ y si en el segundo caso existe más separación, sería porque no se pensó en la ‘é’ con tilde a la hora de hacer los kernings.

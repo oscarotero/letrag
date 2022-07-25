@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="fungallas">
+  {{ comp.breadcrumb({url: url}) | safe }}
+</div>
+
+<div id="cabeceira" class="arriba2 abaixo2">
+  <h1>{{ title }}</h1>
+  <p class="descricion">
+    <span>
+    {{ description }}
+    </span>
+  </p>
+</div>
+
+<div class="listado">
+  {% for page in search.pages("type=article lang=" + lang, "id=desc") %}
+  <hr class="separador" />
+  <div class="listado_elemento borrar">
+    <h3><a href="{{ page.data.url }}">{{ page.data.title | md(true) | safe }}</a></h3>
+    <p class="detalles">{{ page.data.author }}</p>
+    <p class="intro">
+      {{ page.data.intro | md(true) | safe }}
+    </p>
+  </div>
+  {% endfor %}
+</div>

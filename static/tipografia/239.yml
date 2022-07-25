@@ -1,0 +1,30 @@
+id: 239
+title: Cambria
+year: '2004'
+download: null
+description.gl: 'Deseñada por Jelle Bosma en colaboración con Steve Matteson e Robin Nicholas en 2004, forma parte do paquete tipográfico que Microsoft inclúe co seu sistema operativo Windows Vista e co paquete ofimático Office 2007. Esta tipografía romana, de aparencia robusta e potentes serifas, está chamada a converterse na “nova” Times New Roman, como letra para documentos, correo electrónico e páxinas web. Creada para ser lida en pantalla e optimizada para o sistema de suavizado ClearType, posúe unha excelente lexibilidade a tamaños pequenos, cunhas proporcións e espaciado moi coidados. A versión Regular foi ampliada cun amplo set de símblos matemáticos e científicos. Ademais, os símbolos gregos e cirílicos foron deseñados baixo a supervisión dun equipo internacional de expertos.'
+description.es: 'Diseñada por Jelle Bosma en colaboración con Steve Matteson y Robin Nicholas en 2004, forma parte del paquete tipográfico que Microsoft incluye con su sistema operativo Windows Vista y con el paquete de ofimática Office 2007. Esta tipografía romana, de apariencia robusta y potentes serifs, está llamada a convertirse en la “nueva” Times New Roman, como letra para documentos, correo electrónico y páginas web. Creada para ser leída en pantalla y optimizada para el sistema de suavizado ClearType, posee una excelente legibilidad a tamaños reducidos, con unas proporciones y espaciado muy cuidados. La versión Regular fue ampliada con un amplio set de símbolos matemáticos y científicos. Además, los símbolos griegos y cirílicos fueron diseñados bajo la supervisión de un equipo internacional de expertos.'
+links:
+  -
+    title.gl: 'ClearType Font Collection'
+    title.es: 'ClearType Font Collection'
+    description.gl: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
+    description.es: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
+    url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+    language: en
+    source: Microsoft
+tags_ids:
+  - 22
+  - 21
+  - 20
+  - 112
+  - 197
+  - 418
+  - 419
+  - 176
+  - 421
+  - 422
+sections_ids:
+  - 19
+designers_ids:
+  - 171

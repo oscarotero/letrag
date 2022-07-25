@@ -1,0 +1,28 @@
+id: 153
+title: 'Vera Sans Mono'
+year: '2003'
+download: ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/
+description.gl: 'Tipografía monoespaciada sen serifas que forma parte da macrofamilia Vera, xunto coa Vera Sans e a Vera Serif. Foi deseñada por Jim Lyles para Bitstream e distribuída gratuitamente pola fundación GNOME. Unha boa opción para programadores e maquetadores web como substituta da Courier, grazas á súa aparencia máis moderna e óptima lexibilidade en pantaia que facilita o traballo con código.'
+description.es: 'Tipografía monoespaciada sin serifs que forma parte de la macrofamilia Vera, junto con la Vera Sans y la Vera Serif. Fue diseñada por Jim Lyles para Bitstream y distribuida gratuitamente por la fundación GNOME. Una buena opción para programadores y maquetadores web como sustituta de la Courier, gracias a su apariencia más moderna y óptima legibilidad en pantalla que facilita el trabajo con código.'
+links:
+  -
+    title.gl: Bitstream
+    title.es: Bitstream
+    description.gl: 'Fundada por Matthew Carter, un antigo deseñador de Linotype e Mike Parker en 1981, foi unha das primeiras fundicións dedicadas exclusivamente á tipografía dixital.'
+    description.es: 'Fundada por Matthew Carter, un antiguo diseñador de Linotype y Mike Parker en 1981, fue una de las primeras fundiciones dedicadas exclusivamente a la tipografía digital.'
+    url: www.bitstream.com/
+    language: en
+    source: ''
+  -
+    title.gl: 'Proxecto DejaVu'
+    title.es: 'Proyecto DejaVu'
+    description.gl: ''
+    description.es: ''
+    url: dejavu.sourceforge.net
+    language: en
+    source: ''
+tags_ids: []
+sections_ids:
+  - 18
+designers_ids:
+  - 113

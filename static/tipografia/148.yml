@@ -1,0 +1,20 @@
+id: 148
+title: Corsiva
+year: 'S. XX'
+download: null
+description.gl: 'A Corsiva foi creada pola fundición Monotype baixo o encargo de Microsoft como substituta da Zapf Chancery de Hermann Zapf. Igual que esta, moitas outras tipografías famosas tiveron a súa versión para Microsoft para incluír na tecnoloxía TrueImage (a súa versión de Postscript) ou noutros produtos como o sistema operativo Windows ou o paquete de ofimática Office. Esta tipografía chanceleresca está creada co estilo das primeiras cursivas italianas do século XVI, sobre todo baseándose nos fantásticos traballos de Ludovico degli Arrighi, un dos grandes mestres da escritura nese período. As maiúsculas posúen una ornamentación característica, creadas sobre todo para o seu uso como iniciais. Pódese empregar en bloques curtos de texto e sobre todo para dar un toque elegante en invitacións, publicidade, tarxetas, menús ou diplomas.'
+description.es: 'La Corsiva fue creada por la fundición Monotype bajo el encargo de Microsoft como substituta de la Zapf Chancery de Hermann Zapf. Igual que esta, muchas otras tipografías famosas tuvieron su versión para Microsoft para incluir en la tecnología TrueImage (su versión de Postscript) o en otros productos como el sistema operativo Windows o el paquete de ofimática Office. Esta tipografía cancilleresca está creada con el estilo de las primeras cursivas italianas del siglo XVI, sobre todo basándose en los fantásticos trabajos de Ludovico degli Arrighi, uno de los grandes maestros de la escritura en este período. Las mayúsculas poseen una ornamentación característica, creadas sobre todo para su uso como iniciales. Se puede utilizar en bloques cortos de texto y sobre todo para dar un toque elegante en invitaciones, publicidad, tarjetas, menús o diplomas.'
+links:
+  -
+    title.gl: 'As outras Ariais'
+    title.es: 'Las otras Ariales'
+    description.gl: 'Mark Simonson fai un repaso doutras tipografías que, igual que a Arial, foron creadas por Monotype para Microsoft baseáandose en orixinais de gran éxito.'
+    description.es: 'Mark Simonson hace un repaso de otras tipografias que, al igual que la Arial, fueron creadas por Monotype para Microsoft basándose en originales de gran éxito.'
+    url: www.ms-studio.com/articlesarialsia.html
+    language: en
+    source: 'Mark Simonson Studio'
+tags_ids: []
+sections_ids:
+  - 21
+designers_ids:
+  - 48

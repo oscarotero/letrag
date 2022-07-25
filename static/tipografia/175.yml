@@ -1,0 +1,26 @@
+id: 175
+title: 'DIN 1451'
+year: 'S. XX'
+download: null
+description.gl: 'As letras <span class="caps">DIN</span> fan referencia ao Deutsches Institut für Normung (Instituto alemán de estándares industriais). En 1936 foi declarada polo Comité alemán de estándares como a tipografía para as áreas de tecnoloxía, tráfico, administración e negocios. A selección dun pau seco débese á súa lexibilidade e ás formas xeométricas e fáciles de reproducir. A súa intención non era orientala para usos “artísticos” ou publicitarios, de feito, houbo bastantes discrepancias sobre a súa calidade estética. Aínda así, estendeuse rapidamente por toda Alemaña, especialmente na sinalización das estradas. A versión contemporánea desta tipografía foi acollida por deseñadores de todo o mundo e utilizada en todo tipo de aplicacións como libros, carteis, publicidade ou revistas debido á súa aparencia funcional e moderna. Todas as tipografías desta familia posúen o mesmo peso ou grosor nos paus aínda que contan con versións de diferentes anchuras. Tamén posúe variantes alternativas apreciables nos caracteres numéricos “6” e “9”. Os nomes das variantes teñen nomes en alemán: unha <span class="caps">DIN</span> MittelSchrift é unha Regular ou Central, mentres que a EngSchrift é a versión Condensed.'
+description.es: 'Las letras <span class="caps">DIN</span> hacen referencia al Deutsches Institut für Normung (Instituto alemán de estándares industriales). En 1936 fue declarada por el Comité alemán de estándares como la tipografía para las áreas de tecnología, tráfico, administración y negocios. La selección de un palo seco se debe a su legibilidad y a las formas geométricas y fáciles de reproducir. Su intención no era orientarla para usos “artísticos” o publicitarios, de hecho, hubo bastantes discrepancias sobre su calidad estética. Aún así, se extendió rapidamente por toda Alemania, especialmente en la señalización de carreteras. La versión contemporánea de esta tipografía fue acogida por deseñadores de todo el mundo y utilizada en todo tipo de aplicaciones como libros, carteles, publicidad ou revistas debido a su aparencia funcional y moderna. Todas las tipografías de esta familia poseen el mismo peso o grosor en los paos aunque que cuentan con versiones de diferentes anchuras. También posee variantes alternativas apreciables en los caracteres numéricos “6” y “9”. Los nombres de las variantes tienen nombres en alemán: unha <span class="caps">DIN</span> MittelSchrift es una Regular o Central, mientras que la EngSchrift es la versión Condensed.'
+links:
+  -
+    title.gl: 'Instituto alemán de estándares (DIN)'
+    title.es: 'Instituto alemán de estándares (DIN)'
+    description.gl: ''
+    description.es: ''
+    url: www.din.de/
+    language: de
+    source: ''
+tags_ids:
+  - 77
+  - 158
+  - 300
+  - 301
+  - 302
+  - 303
+sections_ids:
+  - 60
+designers_ids:
+  - 85

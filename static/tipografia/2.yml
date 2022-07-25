@@ -1,0 +1,22 @@
+id: 2
+title: 'Franklin Gothic'
+year: '1904'
+download: null
+description.gl: 'Deseñada por Morris F. Benton para a American Type Founders Company, é unha das tipografías sen serifas máis populares e unha das máis usadas dentro do estilo grotesco. En realidade é unha versión da popular tipografía grotesca que Vincent Figgins deseñou en 1830. O seu nome débello a Benjamin Franklin: filósofo, político e científico estadounidense, nacido en 1706 en Boston. Os robustos caracteres danlle ó texto unha aparencia moderna e sólida. A versión ITC (International Typeface Corporation) foi modificada alargando a altura do “x” e condensando os caracteres mellorando a lexibilidade e economizando o espazo.'
+description.es: 'Diseñada por Morris F. Benton para la American Type Founders Company, es una de las tipografías sin serif más populares y una de las más usadas dentro del estilo grotesco. En realidad es una versión de la popular tipografía grotesca que Vincent Figgins diseñó en 1830. Su nombre se lo debe a Benjamin Franklin: filósofo, político y científico estadounidense, nacido en 1706 en Boston. Los robustos caracteres le dan al texto una apariencia moderna y sólida. La versión ITC (International Typeface Corporation) fue modificada alargando la altura de la “x” y condensando los caracteres mejorando la legibilidad y economizando el espacio.'
+links:
+  -
+    title.gl: 'Franklin Gothic'
+    title.es: 'Franklin Gothic'
+    description.gl: 'Historia da tipografía Franklin Gothic na Wikipedia'
+    description.es: 'Historia de la tipografía Franklin Gothic en la Wikipedia'
+    url: en.wikipedia.org/wiki/Franklin_gothic
+    language: en
+    source: Wikipedia
+tags_ids:
+  - 23
+  - 24
+sections_ids:
+  - 9
+designers_ids:
+  - 1
