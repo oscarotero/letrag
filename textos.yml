@@ -1,0 +1,660 @@
+-
+  lugar: portada
+  texto_gal: portada
+  texto_cas: portada
+-
+  lugar: letrag
+  texto_gal: letrag
+  texto_cas: letrag
+-
+  lugar: tit_portada
+  texto_gal: 'Ir á portada'
+  texto_cas: 'Ir a la portada'
+-
+  lugar: contacto
+  texto_gal: contacto
+  texto_cas: contacto
+-
+  lugar: tit_contacto
+  texto_gal: 'Contacta co autor desta web'
+  texto_cas: 'Contacta con el autor de esta web'
+-
+  lugar: menu_clasificacion
+  texto_gal: clasificación
+  texto_cas: clasificación
+-
+  lugar: menu_tit_clasificacion
+  texto_gal: 'As tipografías por estilos'
+  texto_cas: 'Las tipografías por estilos'
+-
+  lugar: menu_identificar
+  texto_gal: identificar
+  texto_cas: identificar
+-
+  lugar: menu_tit_identificar
+  texto_gal: 'Identifica unha tipografía respondendo unhas preguntas'
+  texto_cas: 'Identifica una tipografía contestando unas preguntas'
+-
+  lugar: menu_ligazons
+  texto_gal: ligazóns
+  texto_cas: enlaces
+-
+  lugar: menu_tit_ligazons
+  texto_gal: 'A tipografía na web'
+  texto_cas: 'La tipografía en la web'
+-
+  lugar: menu_artigos
+  texto_gal: artigos
+  texto_cas: artículos
+-
+  lugar: menu_tit_artigos
+  texto_gal: 'Colección de artigos e entrevistas de creación propia ou traducidos'
+  texto_cas: 'Colección de artículos y entrevistas de creación propia o traducidos'
+-
+  lugar: menu_blogosfera
+  texto_gal: blogosfera
+  texto_cas: blogosfera
+-
+  lugar: menu_tit_blogosfera
+  texto_gal: 'O que se comenta nos blogs sobre tipografía'
+  texto_cas: 'Lo que se comenta en los blogs sobre tipografía'
+-
+  lugar: menu_glosario
+  texto_gal: glosario
+  texto_cas: glosario
+-
+  lugar: menu_tit_glosario
+  texto_gal: 'Definición de termos tipográficos'
+  texto_cas: 'Definición de términos tipográficos'
+-
+  lugar: menu_tit_visualizador
+  texto_gal: 'Visualiza todas as tipografías instaladas no teu computador'
+  texto_cas: 'Visualiza todas las tipografías instaladas en tu ordenador'
+-
+  lugar: menu_maiscomuns
+  texto_gal: +comúns
+  texto_cas: +comunes
+-
+  lugar: menu_tit_maiscomuns
+  texto_gal: 'As tipografías máis comúns nos ordenadores'
+  texto_cas: 'Las tipografías más comunes en los ordenadores'
+-
+  lugar: menu_caracteres
+  texto_gal: caracteres
+  texto_cas: caracteres
+-
+  lugar: menu_tit_caracteres
+  texto_gal: 'Mapa de caracteres'
+  texto_cas: 'Mapa de caracteres'
+-
+  lugar: menu_aleatoria
+  texto_gal: aleatoria
+  texto_cas: aleatoria
+-
+  lugar: menu_tit_aleatoria
+  texto_gal: 'Saltar a unha tipografía aleatoria'
+  texto_cas: 'Saltar a una tipografía aleatoria'
+-
+  lugar: menu_visualizador
+  texto_gal: visualizador
+  texto_cas: visualizador
+-
+  lugar: buscando_por
+  texto_gal: 'Buscando por'
+  texto_cas: 'Buscando por'
+-
+  lugar: inicio
+  texto_gal: Inicio
+  texto_cas: Inicio
+-
+  lugar: ver_mais
+  texto_gal: (+)
+  texto_cas: (+)
+-
+  lugar: tit_ver_mais
+  texto_gal: 'Seguir lendo'
+  texto_cas: 'Seguir leyendo'
+-
+  lugar: clasificacion
+  texto_gal: Clasificación
+  texto_cas: Clasificación
+-
+  lugar: identificar
+  texto_gal: Identificar
+  texto_cas: Identificar
+-
+  lugar: preguntas_restantes
+  texto_gal: 'Preguntas restantes'
+  texto_cas: 'Preguntas restantes'
+-
+  lugar: tipografias_coincidintes
+  texto_gal: 'tipografías coincidintes'
+  texto_cas: 'tipografías coincidientes'
+-
+  lugar: saltar_pregunta
+  texto_gal: 'Saltar a pregunta'
+  texto_cas: 'Saltar la pregunta'
+-
+  lugar: mostrar_resultados
+  texto_gal: 'Mostrar resultados'
+  texto_cas: 'Mostrar resultados'
+-
+  lugar: tit_mostrar_resultados
+  texto_gal: 'Saltarse as preguntas restantes e mostrar directamente as tipografías atopadas'
+  texto_cas: 'Saltarse las preguntas restantes y mostrar directamente las tipografías encontradas'
+-
+  lugar: mostrar_preguntas
+  texto_gal: 'Só mostrar preguntas relacionadas con estas letras:'
+  texto_cas: 'Solo mostrar preguntas relacionadas con estas letras:'
+-
+  lugar: mostrar_todas_preguntas
+  texto_gal: 'Mostrar todas as preguntas'
+  texto_cas: 'Mostrar todas las preguntas'
+-
+  lugar: artigos
+  texto_gal: Artigos
+  texto_cas: Artículos
+-
+  lugar: glosario
+  texto_gal: Glosario
+  texto_cas: Glosario
+-
+  lugar: orde_alfabetico
+  texto_gal: 'Orde alfabético'
+  texto_cas: 'Orden alfabético'
+-
+  lugar: blogosfera
+  texto_gal: Blogosfera
+  texto_cas: Blogosfera
+-
+  lugar: buscando
+  texto_gal: Buscando
+  texto_cas: Buscando
+-
+  lugar: polo_termo
+  texto_gal: 'polo termo'
+  texto_cas: 'por el término'
+-
+  lugar: no_blog
+  texto_gal: 'no blog'
+  texto_cas: 'en el blog'
+-
+  lugar: na_data
+  texto_gal: 'na data'
+  texto_cas: 'en la fecha'
+-
+  lugar: calquera_blog
+  texto_gal: 'Todos os blogs'
+  texto_cas: 'Todos los blogs'
+-
+  lugar: calquera_data
+  texto_gal: 'Todas as datas'
+  texto_cas: 'Todas las fechas'
+-
+  lugar: anterior
+  texto_gal: Anterior
+  texto_cas: Anterior
+-
+  lugar: seguinte
+  texto_gal: Seguinte
+  texto_cas: Siguiente
+-
+  lugar: tit_seguinte
+  texto_gal: 'Ir á páxina seguinte'
+  texto_cas: 'Ir a la página siguiente'
+-
+  lugar: tit_anterior
+  texto_gal: 'Ir á páxina anterior'
+  texto_cas: 'Ir a la página anterior'
+-
+  lugar: paxina
+  texto_gal: Páxina
+  texto_cas: Página
+-
+  lugar: ligazons
+  texto_gal: Ligazóns
+  texto_cas: Enlaces
+-
+  lugar: visualizador
+  texto_gal: 'Visualizador de tipografías instaladas'
+  texto_cas: 'Visualizador de tipografías instaladas'
+-
+  lugar: mais_comuns
+  texto_gal: 'Tipografías máis comúns'
+  texto_cas: 'Tipografías más comunes'
+-
+  lugar: porcentaxe
+  texto_gal: '%'
+  texto_cas: '%'
+-
+  lugar: numero
+  texto_gal: '#'
+  texto_cas: '#'
+-
+  lugar: nome
+  texto_gal: Nome
+  texto_cas: Nombre
+-
+  lugar: buscar
+  texto_gal: Buscar
+  texto_cas: Buscar
+-
+  lugar: buscando_letra
+  texto_gal: 'Buscando pola letra'
+  texto_cas: 'Buscando por la letra'
+-
+  lugar: aviso_letra
+  texto_gal: 'Non existen termos que comecen pola letra'
+  texto_cas: 'No existen términos que empiecen por la letra'
+-
+  lugar: aviso_seccion
+  texto_gal: 'Non existen termos nesta sección'
+  texto_cas: 'No existen términos en esta sección'
+-
+  lugar: sinonimos
+  texto_gal: 'Tamén chamado'
+  texto_cas: 'También llamado'
+-
+  lugar: descargar_tipografia
+  texto_gal: 'Descarga esta tipografía gratuita'
+  texto_cas: 'Descarga esta tipografía gratuita'
+-
+  lugar: tit_descargar_tipografia
+  texto_gal: 'Esta tipografía é gratuita polo que a podes descargar libremente'
+  texto_cas: 'Esta tipografía es gratuita por lo que la puedes descargar libremente'
+-
+  lugar: buscar_tipografia
+  texto_gal: 'Onde podo conseguir esta tipografía?'
+  texto_cas: '¿Donde puedo conseguir esta tipografía?'
+-
+  lugar: tit_buscar_tipografia
+  texto_gal: 'Atopa os sitios na rede onde comprar e descargar esta tipografía comercial'
+  texto_cas: 'Encuentra los sitios en la red donde comprar y descargar esta tipografía comercial'
+-
+  lugar: descricion
+  texto_gal: Descrición
+  texto_cas: Descripción
+-
+  lugar: instaladas
+  texto_gal: Instaladas
+  texto_cas: Instaladas
+-
+  lugar: tipografias_relacionadas
+  texto_gal: 'Tipografías relacionadas'
+  texto_cas: 'Tipografías relacionadas'
+-
+  lugar: tags
+  texto_gal: Etiquetas
+  texto_cas: Etiquetas
+-
+  lugar: tipografias
+  texto_gal: Tipografías
+  texto_cas: Tipografías
+-
+  lugar: outros_artigos
+  texto_gal: 'Outros artigos'
+  texto_cas: 'Outros artigos'
+-
+  lugar: valoracion
+  texto_gal: Valoración
+  texto_cas: Valoración
+-
+  lugar: votos
+  texto_gal: votos
+  texto_cas: votos
+-
+  lugar: calendario
+  texto_gal: Calendario
+  texto_cas: Calendario
+-
+  lugar: xaneiro
+  texto_gal: Xaneiro
+  texto_cas: Enero
+-
+  lugar: febreiro
+  texto_gal: Febreiro
+  texto_cas: Febrero
+-
+  lugar: marzo
+  texto_gal: Marzo
+  texto_cas: Marzo
+-
+  lugar: abril
+  texto_gal: Abril
+  texto_cas: Abril
+-
+  lugar: maio
+  texto_gal: Maio
+  texto_cas: Mayo
+-
+  lugar: xuno
+  texto_gal: Xuño
+  texto_cas: Junio
+-
+  lugar: xullo
+  texto_gal: Xullo
+  texto_cas: Julio
+-
+  lugar: agosto
+  texto_gal: Agosto
+  texto_cas: Agosto
+-
+  lugar: setembro
+  texto_gal: Setembro
+  texto_cas: Septiembre
+-
+  lugar: outubro
+  texto_gal: Outubro
+  texto_cas: Octubre
+-
+  lugar: novembro
+  texto_gal: Novembro
+  texto_cas: Noviembre
+-
+  lugar: decembro
+  texto_gal: Decembro
+  texto_cas: Diciembre
+-
+  lugar: luns
+  texto_gal: L
+  texto_cas: L
+-
+  lugar: martes
+  texto_gal: M
+  texto_cas: M
+-
+  lugar: mercores
+  texto_gal: M
+  texto_cas: M
+-
+  lugar: xoves
+  texto_gal: X
+  texto_cas: J
+-
+  lugar: venres
+  texto_gal: V
+  texto_cas: V
+-
+  lugar: sabado
+  texto_gal: S
+  texto_cas: S
+-
+  lugar: domingo
+  texto_gal: D
+  texto_cas: D
+-
+  lugar: palabras_empezan
+  texto_gal: 'Palabras que empezan por'
+  texto_cas: 'Palabras que empiezan por'
+-
+  lugar: sen_resultados
+  texto_gal: 'Non se atoparon resultados'
+  texto_cas: 'No se encontraron resultados'
+-
+  lugar: idioma_i
+  texto_gal: Inglés
+  texto_cas: Inglés
+-
+  lugar: idioma_c
+  texto_gal: Castelán
+  texto_cas: Castellano
+-
+  lugar: idioma_a
+  texto_gal: Alemán
+  texto_cas: Alemán
+-
+  lugar: idioma_f
+  texto_gal: Francés
+  texto_cas: Francés
+-
+  lugar: idioma_g
+  texto_gal: Galego
+  texto_cas: Gallego
+-
+  lugar: tipografia_comercial
+  texto_gal: 'Tipografía comercial. Onde adquirila?'
+  texto_cas: 'Tipografía comercial. ¿Dónde adquirirla?'
+-
+  lugar: tipografia_gratuita
+  texto_gal: 'Tipografía gratuita. Descárgaa aqui.'
+  texto_cas: 'Tipografía gratuíta. Descárgala aquí.'
+-
+  lugar: desc_maiscomuns
+  texto_gal: 'Ranking feito a partir de --1-- votos realizados polos usuarios onde se indexaron unhas --2-- tipografías.'
+  texto_cas: 'Ranking hecho a partir de --1-- votos realizados por los usuarios done se indexaron unas --2-- tipografias'
+-
+  lugar: mostrar_tipografia
+  texto_gal: 'Mostrar a tipografía'
+  texto_cas: 'Mostrar la tipografía'
+-
+  lugar: tipografia_maiscomuns
+  texto_gal: 'Que porcentaxe de xente ten instalada esta tipografía?'
+  texto_cas: '¿Qué porcentaje de gente tiene instalada esta tipografía?'
+-
+  lugar: menu_desenadores
+  texto_gal: Deseñadores
+  texto_cas: Diseñadores
+-
+  lugar: menu_tit_desenadores
+  texto_gal: 'Listado de todos os deseñadores'
+  texto_cas: 'Listado de todos los diseñadores'
+-
+  lugar: menu_tit_desenador
+  texto_gal: 'Tipografías deseñadas e ligazóns relacionadas con este deseñador'
+  texto_cas: 'Tipografías diseñadas y enlaces relacionados con este diseñador'
+-
+  lugar: mostrar_todo
+  texto_gal: 'Mostrar todo'
+  texto_cas: 'Mostrar todo'
+-
+  lugar: identificar_mostra
+  texto_gal: 'Mostrando preguntas acordes coas letras de'
+  texto_cas: 'Mostrando preguntas acordes con las letras de'
+-
+  lugar: identificar_atopadas
+  texto_gal: 'tipografías atopadas'
+  texto_cas: 'tipografías encontradas'
+-
+  lugar: identificar_restantes
+  texto_gal: 'Quedan --1-- preguntas'
+  texto_cas: 'Quedan --1-- preguntas'
+-
+  lugar: identificar_resultados
+  texto_gal: 'Resultados atopados según as túas respostas'
+  texto_cas: 'Resultados encontrados según tus respuestas'
+-
+  lugar: definicion_palabra
+  texto_gal: 'Definicións desta palabra'
+  texto_cas: 'Definiciones de esta palabra'
+-
+  lugar: idioma_l
+  texto_gal: Catalán
+  texto_cas: Catalán
+-
+  lugar: todos
+  texto_gal: Todos
+  texto_cas: Todos
+-
+  lugar: idioma_t
+  texto_gal: Italiano
+  texto_cas: Italiano
+-
+  lugar: idioma_p
+  texto_gal: Portugués
+  texto_cas: Portugués
+-
+  lugar: listado_blogs
+  texto_gal: 'Mostrar listado de blogs'
+  texto_cas: 'Mostrar listado de blogs'
+-
+  lugar: visitar
+  texto_gal: Visitar
+  texto_cas: Visitar
+-
+  lugar: blogs
+  texto_gal: 'Listado de blogs'
+  texto_cas: 'Listado de blogs'
+-
+  lugar: volver_blogosfera
+  texto_gal: 'Volver á blogosfera'
+  texto_cas: 'Volver a la blogosfera'
+-
+  lugar: tit_blogs
+  texto_gal: 'Listado de todos os blogs indexados en letrag'
+  texto_cas: 'Listado de todos los blogs indexados en letrag'
+-
+  lugar: tit_tag
+  texto_gal: 'Tipografías etiquetadas con este tag'
+  texto_cas: 'Tipografías etiquetadas con este tag'
+-
+  lugar: tit_tags
+  texto_gal: 'Listado de todas as etiquetas dispoñibles'
+  texto_cas: 'Listado de todas las etiquetas disponibles'
+-
+  lugar: unicode
+  texto_gal: 'Seccións unicode'
+  texto_cas: 'Secciones unicode'
+-
+  lugar: tit_unicode
+  texto_gal: 'Listado de todas as categorías unicode'
+  texto_cas: 'Listado de todas las categorías unicode'
+-
+  lugar: lista_caracteres
+  texto_gal: 'Listado de todos os caracteres'
+  texto_cas: 'Listado de todos los caracteres'
+-
+  lugar: blogosfera_tipografia
+  texto_gal: 'Que comentan nos blogs desta tipografía?'
+  texto_cas: '¿Qué comentan en los blogs de esta tipografía?'
+-
+  lugar: tit_caracter
+  texto_gal: 'Datos deste caracter'
+  texto_cas: 'Datos de este caracter'
+-
+  lugar: codigo_html_dec
+  texto_gal: 'Código HTML (decimal)'
+  texto_cas: 'Código HTML (decimal)'
+-
+  lugar: codigo_html_hex
+  texto_gal: 'Código HTML (hexadecimal)'
+  texto_cas: 'Código HTML (hexadecimal)'
+-
+  lugar: codigo_html_nome
+  texto_gal: 'Código HTML (nome)'
+  texto_cas: 'Código HTML (nombre)'
+-
+  lugar: codigo_bin
+  texto_gal: 'Código binario'
+  texto_cas: 'Código binario'
+-
+  lugar: nome_orixinal
+  texto_gal: 'Nome orixinal'
+  texto_cas: 'Nombre original'
+-
+  lugar: selecciona_tipografia
+  texto_gal: 'Selecciona unha tipografía'
+  texto_cas: 'Selecciona una tipografía'
+-
+  lugar: previsualizar_caracter
+  texto_gal: 'Previsualizar no navegador'
+  texto_cas: 'Previsualizar en el navegador'
+-
+  lugar: tit_similar
+  texto_gal: 'Tipografías parecidas a esta'
+  texto_cas: 'Tipografías parecidas a esta'
+-
+  lugar: identificar_similares
+  texto_gal: 'Buscar tipografías similares'
+  texto_cas: 'Buscar tipografías similares'
+-
+  lugar: caracteres
+  texto_gal: Caracteres
+  texto_cas: Caracteres
+-
+  lugar: glosario_palabras
+  texto_gal: 'Glosario (palabras)'
+  texto_cas: 'Glosario (palabras)'
+-
+  lugar: glosario_seccions
+  texto_gal: 'Glosario (seccións)'
+  texto_cas: 'Glosario (secciones)'
+-
+  lugar: comentarios
+  texto_gal: comentarios
+  texto_cas: comentarios
+-
+  lugar: anonimo
+  texto_gal: Anónimo
+  texto_cas: Anónimo
+-
+  lugar: direccion
+  texto_gal: 'Correo ou web'
+  texto_cas: 'Correo o web'
+-
+  lugar: oteu_comentario
+  texto_gal: 'O teu comentario'
+  texto_cas: 'Tu comentario'
+-
+  lugar: pantallacompleta
+  texto_gal: 'Mostrar a pantalla completa'
+  texto_cas: 'Mostrar a pantalla completa'
+-
+  lugar: pantallasalir
+  texto_gal: Saír
+  texto_cas: Salir
+-
+  lugar: texto_contacto
+  texto_gal: "<p>Proxecto de Oscar Otero iniciado en xuño de 2004 para xente interesada na tipografía. Grazas a <a href=\"http://phpfilenavigator.litoweb.net/\">Álvaro Gómez,</a> a <a href=\"http://dpaso.blogspot.com/\">Ian</a> a <a href=\"http://www.chuza.org/\">Berto</a> e a Laura Rubio pola súa colaboración en momentos puntuais.</p>\r\n\r\n<p>Se queres comentar, suxerir, criticar ou colaborar en letrag (escribindo artigos, facendo traduccións ao teu idioma, aportando información, etcétera), non dubides en poñerte en contacto conmigo cubrindo este formulario ou na dirección oom@oscarotero.com</p>\r\n\r\n<p>Tamén podes visitar a <a href=\"http://www.facebook.com/pages/Letrag/47328557892\">páxina de letrag en Facebook</a></p>"
+  texto_cas: "<p>Proyecto de Oscar Otero iniciado en junio de 2004 para gente interesada en la tipografía. Gracias a <a href=\"http://phpfilenavigator.litoweb.net/\">Álvaro Gómez,</a> a <a href=\"http://dpaso.blogspot.com/\">Ian</a> a <a href=\"http://www.chuza.org/\">Berto</a> y a Laura Rubio por su colaboración en momentos puntuales.</p>\r\n\r\n<p>Si quieres comentar, sugerir, criticar o colaborar en letrag (escribiendo artículos, realizando traducciones a tu idioma, aportando información, etcétera), no dudes en ponerte en contacto conmigo rellenando este formulario o en la dirección oom@oscarotero.com</p>\r\n\r\n<p>También puedes visitar la <a href=\"http://www.facebook.com/pages/Letrag/47328557892\">página de letrag en Facebook</a></p>"
+-
+  lugar: contacto_ok
+  texto_gal: 'Contacto enviado correctamente. Moitas grazas.'
+  texto_cas: 'Contacto enviado correctamente. Muchas gracias.'
+-
+  lugar: contacto_ko
+  texto_gal: 'Sinto, houbo un erro enviando o contacto. Por favor, asegurate que pos correctamente o resultado no control antispam.'
+  texto_cas: 'Lo siento, hubo un error enviando el contacto. Por favor, asegurate que pones el resultado correcto en el control antispam.'
+-
+  lugar: creative_commons
+  texto_gal: '<a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/deed.gl"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está baixo unha licenza <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Recoñecemento 2.5 España de Creative Commons</a>.'
+  texto_cas: '<a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Reconocimiento 2.5 España de Creative Commons</a>.'
+-
+  lugar: letrag_intro
+  texto_gal: 'Descubre toda a información relacionada co mundo da tipografía.'
+  texto_cas: 'Descubre toda la información relacionada con el mundo de la tipografía.'
+-
+  lugar: letrag_subintro
+  texto_gal: 'Clasificación, glosario, artigos, blogs, historia, ligazóns, caracteres unicode, identificar estilos de letra, tipografías máis comúns, etcétera.'
+  texto_cas: 'Clasificación, glosario, artículos, blogs, historia, enlaces, caracteres unicode, identificar estilos de letra, tipografías más comunes, etcétera.'
+-
+  lugar: buscar_en
+  texto_gal: En
+  texto_cas: En
+-
+  lugar: mais_comuns_votos
+  texto_gal: '472'
+  texto_cas: '472'
+-
+  lugar: mais_comuns_total_tipos
+  texto_gal: '29050'
+  texto_cas: '29050'
+-
+  lugar: filtrar_idiomas
+  texto_gal: 'Filtrar por idiomas'
+  texto_cas: 'Filtrar por idiomas'
+-
+  lugar: comentario_ko
+  texto_gal: 'Houbo un erro enviando o comentario. Asegúrate de poñer correctamente o resultado no control antispam.'
+  texto_cas: 'Hubo un error enviando el comentario. Asegúrate de poner correctamente el resultado en el control antispam.'
+-
+  lugar: idioma_gal
+  texto_gal: Galego
+  texto_cas: Galego
+-
+  lugar: idioma_cas
+  texto_gal: Castellano
+  texto_cas: Castellano
+-
+  lugar: creada_por_oom
+  texto_gal: 'Páxina web creada por Oscar Otero (oom!)'
+  texto_cas: 'Página web creada por Oscar Otero (oom!)'
