@@ -6,5 +6,6 @@ site.use(multilanguage());
 site.copy("styles");
 site.copy("imaxes");
 site.copy("img");
+site.copy("favicon.ico");
 
 export default site;
