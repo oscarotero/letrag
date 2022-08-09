@@ -43,6 +43,8 @@ site.addEventListener("afterRender", () => {
     });
 
   const redirects = Object.fromEntries(entries);
+  redirects["https://letrag.com/"] = "https://letrag.com/gl/";
+
   Deno.writeTextFile(
     "_redirects.json",
     JSON.stringify(redirects, null, 2) + "\n",
