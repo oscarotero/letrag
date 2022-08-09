@@ -30,4 +30,4 @@ jobs:
         with:
           project: letrag
           import-map: "./static/import_map.json"
-          entrypoint: static/server.ts
+          entrypoint: static/serve.ts
