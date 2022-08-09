@@ -27,7 +27,7 @@ jobs:
           cp deno.json _site/
           cp import_map.json _site/
           cp serve.ts _site/
-          cp redirects.json _site/
+          cp _redirects.json _site/
 
       - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
