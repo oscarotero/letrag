@@ -1,5 +1,5 @@
 import Server from "lume/core/server.ts";
-import redirect from "lume/middlewares/redirect.ts";
+import redirects from "lume/middlewares/redirects.ts";
 import routes from "./_redirects.json" assert { type: "json" };
 
 const server = new Server({
@@ -7,10 +7,9 @@ const server = new Server({
   root: `${Deno.cwd()}/_site`,
 });
 
-server.use(redirect({
-  redirects: routes
-}))
+server.use(redirects({
+  redirects: routes,
+}));
 server.start();
-
 
 console.log("Listening on http://localhost:8000");

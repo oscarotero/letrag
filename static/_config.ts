@@ -2,7 +2,7 @@ import lume from "lume/mod.ts";
 import multilanguage from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/multilanguage/mod.ts";
 
 const site = lume({
-  location: new URL("https://letrag.com")
+  location: new URL("https://letrag.com"),
 });
 site.use(multilanguage());
 site.copy("styles");
@@ -43,7 +43,10 @@ site.addEventListener("afterRender", () => {
     });
 
   const redirects = Object.fromEntries(entries);
-  Deno.writeTextFile("_redirects.json", JSON.stringify(redirects, null, 2) + "\n");
+  Deno.writeTextFile(
+    "_redirects.json",
+    JSON.stringify(redirects, null, 2) + "\n",
+  );
 });
 
 export default site;
