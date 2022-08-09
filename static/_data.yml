@@ -1,8 +1,8 @@
 lang: [gl, es]
 
 texts:
-  cc.gl: '<a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/deed.gl"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está baixo unha licenza <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Recoñecemento 2.5 España de Creative Commons</a>.'
-  cc.es: '<a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Reconocimiento 2.5 España de Creative Commons</a>.'
+  cc.gl: '<a rel="license" href="https://creativecommons.org/licenses/by/2.5/es/deed.gl"><img alt="Creative Commons License" style="border-width:0" src="https://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está baixo unha licenza <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Recoñecemento 2.5 España de Creative Commons</a>.'
+  cc.es: '<a rel="license" href="https://creativecommons.org/licenses/by/2.5/es/"><img alt="Creative Commons License" style="border-width:0" src="https://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Reconocimiento 2.5 España de Creative Commons</a>.'
 
   creator.gl: 'Páxina web creada por Oscar Otero (oom!)'
   creator.es: 'Página web creada por Oscar Otero (oom!)'
