@@ -1,13 +1,16 @@
 export const layout = "layouts/designers.njk";
 export const langs = ["gl", "es"];
 
-export const pageTexts = {
-  "title": "Tipógrafos",
-  "description.gl": "Listado de todos los diseñadores",
-  "description.es": "Listado de todos os deseñadores",
+export const gl = {
+  title: "Tipógrafos",
+  description: "Listado de todos los diseñadores",
+};
+export const es = {
+  title: "Tipógrafos",
+  description: "Listado de todos os deseñadores",
 };
 
-export default function* ({ lang, search, paginate, pageTexts, url }) {
+export default function* ({ lang, search, paginate, title, description, url }) {
   const pages = search.pages("type=designer lang=" + lang, "title");
 
   for (
@@ -24,7 +27,8 @@ export default function* ({ lang, search, paginate, pageTexts, url }) {
     }
 
     yield {
-      ...pageTexts,
+      title,
+      description,
       ...page,
     };
   }
