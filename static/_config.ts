@@ -1,7 +1,9 @@
 import lume from "lume/mod.ts";
 import multilanguage from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/multilanguage/mod.ts";
 
-const site = lume();
+const site = lume({
+  location: new URL("https://letrag.com")
+});
 site.use(multilanguage());
 site.copy("styles");
 site.copy("imaxes");
