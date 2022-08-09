@@ -20,10 +20,10 @@ jobs:
         with:
           deno-version: v1.x
 
-      - name: Build site
-        run: |
-          cd static
-          deno task build
+      # - name: Build site
+      #   run: |
+      #     cd static
+      #     deno task build
 
       - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
