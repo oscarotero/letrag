@@ -4,7 +4,7 @@ import routes from "./_redirects.json" assert { type: "json" };
 
 const server = new Server({
   port: 8000,
-  root: `${Deno.cwd()}/_site`,
+  root: Deno.cwd(),
 });
 
 server.use(redirects({
