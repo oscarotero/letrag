@@ -1,5 +1,5 @@
 {
   "imports": {
-    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@b67b63b5f150d8705d3cfb1e28613983df780ba3/"
+    "lume/": "https://deno.land/x/lume@v1.10.2/"
   }
 }
