@@ -1,5 +1,5 @@
 export const layout = "layouts/designers.njk";
-export const langs = ["gl", "es"];
+export const lang = ["gl", "es"];
 
 export const gl = {
   title: "Tipógrafos",
@@ -10,15 +10,19 @@ export const es = {
   description: "Listado de todos os deseñadores",
 };
 
-export default function* ({ lang, search, paginate, title, description, url }) {
-  const pages = search.pages("type=designer lang=" + lang, "title");
-
-  for (
-    const page of paginate(pages, {
+export default function* ({ search, paginate, paginateLanguages }) {
+  const pages = paginateLanguages({
+    gl: paginate(search.pages("type=designer lang=gl", "title"), {
       size: 60,
-      url: (n) => n === 1 ? url : `${url}${n}/`,
-    })
-  ) {
+      url: (n) => n === 1 ? "/gl/desenadores/" : `/gl/desenadores/${n}/`,
+    }),
+    es: paginate(search.pages("type=tag lang=es", "title"), {
+      size: 60,
+      url: (n) => n === 1 ? "/es/desenadores/" : `/es/desenadores/${n}/`,
+    }),
+  });
+
+  for (const page of pages) {
     if (page.pagination.page === 1) {
       page.menu = 4;
       page.type = "designers_home";
@@ -26,10 +30,6 @@ export default function* ({ lang, search, paginate, title, description, url }) {
       page.type = "designers";
     }
 
-    yield {
-      title,
-      description,
-      ...page,
-    };
+    yield page;
   }
 }
