@@ -1,5 +1,5 @@
 import lume from "lume/mod.ts";
-import multilanguage from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/multilanguage/mod.ts";
+import multilanguage from "lume/plugins/multilanguage.ts";
 
 const site = lume({
   location: new URL("https://letrag.com"),

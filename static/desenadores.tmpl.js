@@ -10,26 +10,27 @@ export const es = {
   description: "Listado de todos os deseñadores",
 };
 
-export default function* ({ search, paginate, paginateLanguages }) {
-  const pages = paginateLanguages({
-    gl: paginate(search.pages("type=designer lang=gl", "title"), {
-      size: 60,
-      url: (n) => n === 1 ? "/gl/desenadores/" : `/gl/desenadores/${n}/`,
-    }),
-    es: paginate(search.pages("type=tag lang=es", "title"), {
-      size: 60,
-      url: (n) => n === 1 ? "/es/desenadores/" : `/es/desenadores/${n}/`,
-    }),
+export default function* ({ search, paginate, mergeLanguages }) {
+  const pages = mergeLanguages({
+    gl: runPaginate("gl"),
+    es: runPaginate("es"),
   });
 
-  for (const page of pages) {
-    if (page.pagination.page === 1) {
-      page.menu = 4;
-      page.type = "designers_home";
-    } else {
-      page.type = "designers";
-    }
+  yield* pages;
 
-    yield page;
+  function runPaginate(lang) {
+    return paginate(search.pages(`type=designer lang=${lang}`, "title"), {
+      size: 60,
+      url: (n) =>
+        n === 1 ? `/${lang}/desenadores/` : `/${lang}/desenadores/${n}/`,
+      each(page) {
+        if (page.pagination.page === 1) {
+          page.menu = 4;
+          page.type = "designers_home";
+        } else {
+          page.type = "designers";
+        }
+      },
+    });
   }
 }

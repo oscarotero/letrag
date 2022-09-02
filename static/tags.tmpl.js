@@ -11,26 +11,26 @@ export const es = {
   description: "Listado de todas las etiquetas disponibles",
 };
 
-export default function* ({ search, paginate, paginateLanguages }) {
-  const pages = paginateLanguages({
-    gl: paginate(search.pages("type=tag lang=gl", "title"), {
-      size: 60,
-      url: (n) => n === 1 ? "/gl/tags/" : `/gl/tags/${n}/`,
-    }),
-    es: paginate(search.pages("type=tag lang=es", "title"), {
-      size: 60,
-      url: (n) => n === 1 ? "/es/tags/" : `/es/tags/${n}/`,
-    }),
+export default function* ({ search, paginate, mergeLanguages }) {
+  const pages = mergeLanguages({
+    gl: runPaginate("gl"),
+    es: runPaginate("es"),
   });
 
-  for (const page of pages) {
-    if (page.pagination.page === 1) {
-      page.menu = 4;
-      page.type = "tags_home";
-    } else {
-      page.type = "tags";
-    }
+  yield* pages;
 
-    yield page;
+  function runPaginate(lang) {
+    return paginate(search.pages(`type=tag lang=${lang}`, "title"), {
+      size: 60,
+      url: (n) => n === 1 ? `/${lang}/tags/` : `/${lang}/tags/${n}/`,
+      each(page) {
+        if (page.pagination.page === 1) {
+          page.menu = 4;
+          page.type = "tags_home";
+        } else {
+          page.type = "tags";
+        }
+      },
+    });
   }
 }
