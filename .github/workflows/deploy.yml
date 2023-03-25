@@ -32,5 +32,6 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: letrag
+          import-map: deno.json
           entrypoint: serve.ts
           root: static/_site
