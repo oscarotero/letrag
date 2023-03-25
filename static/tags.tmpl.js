@@ -1,5 +1,4 @@
 export const layout = "layouts/designers.njk";
-export const lang = ["gl", "es"];
 
 export const gl = {
   title: "Etiquetas",
@@ -11,24 +10,19 @@ export const es = {
   description: "Listado de todas las etiquetas disponibles",
 };
 
-export default function* ({ search, paginate, mergeLanguages }) {
-  const pages = mergeLanguages({
-    gl: runPaginate("gl"),
-    es: runPaginate("es"),
-  });
+export default function* ({ search, paginate }) {
+  const langs = ["gl", "es"];
 
-  yield* pages;
-
-  function runPaginate(lang) {
-    return paginate(search.pages(`type=tag lang=${lang}`, "title"), {
+  for (const lang of langs) {
+    yield * paginate(search.pages(`type=tag lang=${lang}`, "title"), {
       size: 60,
       url: (n) => n === 1 ? `/${lang}/tags/` : `/${lang}/tags/${n}/`,
-      each(page) {
-        if (page.pagination.page === 1) {
+      each(page, number) {
+        page.lang = lang;
+        page.id = `tags-page-${number}`;
+
+        if (number === 1) {
           page.menu = 4;
-          page.type = "tags_home";
-        } else {
-          page.type = "tags";
         }
       },
     });

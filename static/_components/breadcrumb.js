@@ -36,12 +36,12 @@ export default function ({ search, url }) {
   }
 
   if (page.data.type === "tag" || page.data.type === "tags") {
-    const home = search.page("type=tags_home");
+    const home = search.page("id=tags-page-1 lang=" + page.data.lang);
     return `<a href="${home.data.url}"><strong>${home.data.title}</strong></a>`;
   }
 
   if (page.data.type === "designer" || page.data.type === "designers") {
-    const home = search.page("type=designers_home");
+    const home = search.page("id=designers-page-1 lang=" + page.data.lang);
     return `<a href="${home.data.url}"><strong>${home.data.title}</strong></a>`;
   }
 }

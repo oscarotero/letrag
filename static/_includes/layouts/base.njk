@@ -23,11 +23,11 @@
           <div class="arriba3 abaixo2">
             <h1><a href="/{{ lang }}/">letrag</a></h1>
             <p class="opcions">
-              {% for l, page in alternates %}
-                {% if l == lang %}
+              {% for page in alternates %}
+                {% if page.lang == lang %}
                 {{ texts[lang] }}
                 {% else %}
-                <a href="{{ page.data.url }}">{{ texts[l] }}</a>
+                <a href="{{ page.url }}">{{ texts[page.lang] }}</a>
                 {% endif %}
 
                 {% if not loop.last %}|{% endif %}

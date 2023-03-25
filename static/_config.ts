@@ -4,7 +4,9 @@ import multilanguage from "lume/plugins/multilanguage.ts";
 const site = lume({
   location: new URL("https://letrag.com"),
 });
-site.use(multilanguage());
+site.use(multilanguage({
+  languages: ["es", "gl"],
+}));
 site.copy("styles");
 site.copy("imaxes");
 site.copy("img");
