@@ -2,8 +2,10 @@ id: 202
 title: 'Typeface Seven'
 year: '1991'
 download: null
-description.gl: 'Publicada por FontFont en 1991, esta obra de Neville Brody está baseada nunha tipografía que creou en 1986 para empregar nos seus deseños de revistas e música. Xunto coa Typeface Six e a Six-point-Five, toda a familia Typeface proporciona unha serie de pesos (Light, Medium e Bold) que resultan máis que suficientes nos obxectivos para os que foron creados como titulares, carteis, publicidade ou música. Posúe unha xeometría e rixidez moi marcada que lle proporciona un aspecto moi singular.'
-description.es: 'Publicada por FontFont en 1991, esta obra de Neville Brody está basada en una tipografía que creó en 1986 para utilizar en sus diseños de revistas y música. Junto con la Typeface Six y la Six-point-Five, toda la familia Typeface proporciona una serie de pesos (Light, Medium y Bold) que resultan más que suficientes en los objetivos para los que fueron creados como titulares, carteles, publicidad o música. Posee una geometría y rigidez muy marcada que le proporciona un aspecto muy singular.'
+gl:
+  description: 'Publicada por FontFont en 1991, esta obra de Neville Brody está baseada nunha tipografía que creou en 1986 para empregar nos seus deseños de revistas e música. Xunto coa Typeface Six e a Six-point-Five, toda a familia Typeface proporciona unha serie de pesos (Light, Medium e Bold) que resultan máis que suficientes nos obxectivos para os que foron creados como titulares, carteis, publicidade ou música. Posúe unha xeometría e rixidez moi marcada que lle proporciona un aspecto moi singular.'
+es:
+  description: 'Publicada por FontFont en 1991, esta obra de Neville Brody está basada en una tipografía que creó en 1986 para utilizar en sus diseños de revistas y música. Junto con la Typeface Six y la Six-point-Five, toda la familia Typeface proporciona una serie de pesos (Light, Medium y Bold) que resultan más que suficientes en los objetivos para los que fueron creados como titulares, carteles, publicidad o música. Posee una geometría y rigidez muy marcada que le proporciona un aspecto muy singular.'
 links: []
 tags_ids: []
 sections_ids:

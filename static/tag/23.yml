@@ -1,3 +1,5 @@
 id: 23
-title.gl: 'Vincent Figgins'
-title.es: 'Vincent Figgins'
+gl:
+  title: 'Vincent Figgins'
+es:
+  title: 'Vincent Figgins'

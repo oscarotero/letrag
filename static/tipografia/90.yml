@@ -2,17 +2,24 @@ id: 90
 title: Aldus
 year: '1954'
 download: null
-description.gl: 'Deseñada por Hermann Zapf en 1954 para a fundición Stempel, esta tipografía estaba pensada nun principio para complementar a Palatino. Esta fora creada orixinalmente para ser empregada en titulares e aplicacións de exhibición pero en tamaños pequenos era demasiado grosa para bloques de texto. Por iso a Aldus estaba deseñada para cumprir esa función ao ser máis lixeira e estreita aínda que, co tempo tamén a Palatino gañou popularidade como tipo de texto. O seu nome provén do grande editor e impresor veneciano do século XVI Aldus Manutius.'
-description.es: 'Diseñada por Hermann Zapf en 1954 para la fundición Stempel, esta tipografía estaba pensada en un principio para complementar la Palatino. Esta fuera creada originalmente para ser empleada en titulares y aplicaciones de exhibición pero en tamaños pequeños era demasiado gruesa para bloques de texto. Por eso la Aldus estaba diseñada para cumplir esa función siendo más ligera y estrecha aunque, con el tiempo también la Palatino ganó popularidad como tipo de texto. Su nombre proviene del gran editor e impresor veneciano del siglo XVI Aldus Manutius.'
-links:
-  -
-    title.gl: Aldus
-    title.es: Aldus
-    description.gl: 'Páxina da tipografía Aldus na Wikipedia'
-    description.es: 'Página de la tipografía Aldus en la Wikipedia'
-    url: en.wikipedia.org/wiki/Aldus_(typeface)
-    language: en
-    source: Wikipedia
+gl:
+  description: 'Deseñada por Hermann Zapf en 1954 para a fundición Stempel, esta tipografía estaba pensada nun principio para complementar a Palatino. Esta fora creada orixinalmente para ser empregada en titulares e aplicacións de exhibición pero en tamaños pequenos era demasiado grosa para bloques de texto. Por iso a Aldus estaba deseñada para cumprir esa función ao ser máis lixeira e estreita aínda que, co tempo tamén a Palatino gañou popularidade como tipo de texto. O seu nome provén do grande editor e impresor veneciano do século XVI Aldus Manutius.'
+  links:
+    -
+      title: Aldus
+      description: 'Páxina da tipografía Aldus na Wikipedia'
+      url: en.wikipedia.org/wiki/Aldus_(typeface)
+      language: en
+      source: Wikipedia
+es:
+  description: 'Diseñada por Hermann Zapf en 1954 para la fundición Stempel, esta tipografía estaba pensada en un principio para complementar la Palatino. Esta fuera creada originalmente para ser empleada en titulares y aplicaciones de exhibición pero en tamaños pequeños era demasiado gruesa para bloques de texto. Por eso la Aldus estaba diseñada para cumplir esa función siendo más ligera y estrecha aunque, con el tiempo también la Palatino ganó popularidad como tipo de texto. Su nombre proviene del gran editor e impresor veneciano del siglo XVI Aldus Manutius.'
+  links:
+    -
+      title: Aldus
+      description: 'Página de la tipografía Aldus en la Wikipedia'
+      url: en.wikipedia.org/wiki/Aldus_(typeface)
+      language: en
+      source: Wikipedia
 tags_ids: []
 sections_ids:
   - 6

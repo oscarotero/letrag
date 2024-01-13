@@ -1,11 +1,11 @@
 layout: layouts/contact.njk
 title: Contacto
 menu: 6
-description.gl: Acerca desta web
-description.es: Acerca de esta web
-
-body.gl: |
-  Proxecto iniciado en xuño de 2004 por [Óscar Otero](https://oscarotero.com) para xente interesada na tipografía e que se deixou de actualizar en 2010. Grazas a [Álvaro Gómez](http://phpfilenavigator.litoweb.net/), a [Ian](http://dpaso.blogspot.com/) a [Berto](http://www.chuza.org/) e a Laura Rubio pola súa colaboración en momentos puntuais.
-
-body.es: |
-  Proyecto iniciado en junio de 2004 por [Óscar Otero](https://oscarotero.com) para gente interesada en la tipografía y que se dejó de actualizar en 2010. Gracias a [Álvaro Gómez,](http://phpfilenavigator.litoweb.net/) a [Ian](http://dpaso.blogspot.com/) a [Berto](http://www.chuza.org/) y a Laura Rubio por su colaboración en momentos puntuales.
+gl:
+  description: Acerca desta web
+  body: |
+    Proxecto iniciado en xuño de 2004 por [Óscar Otero](https://oscarotero.com) para xente interesada na tipografía e que se deixou de actualizar en 2010. Grazas a [Álvaro Gómez](http://phpfilenavigator.litoweb.net/), a [Ian](http://dpaso.blogspot.com/) a [Berto](http://www.chuza.org/) e a Laura Rubio pola súa colaboración en momentos puntuais.
+es:
+  description: Acerca de esta web
+  body: |
+    Proyecto iniciado en junio de 2004 por [Óscar Otero](https://oscarotero.com) para gente interesada en la tipografía y que se dejó de actualizar en 2010. Gracias a [Álvaro Gómez,](http://phpfilenavigator.litoweb.net/) a [Ian](http://dpaso.blogspot.com/) a [Berto](http://www.chuza.org/) y a Laura Rubio por su colaboración en momentos puntuales.

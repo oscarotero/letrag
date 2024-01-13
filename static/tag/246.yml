@@ -1,3 +1,5 @@
 id: 246
-title.gl: 'Internet Explorer'
-title.es: 'Internet Explorer'
+gl:
+  title: 'Internet Explorer'
+es:
+  title: 'Internet Explorer'

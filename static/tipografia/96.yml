@@ -2,8 +2,10 @@ id: 96
 title: Caxton
 year: '1981'
 download: null
-description.gl: 'Leslie Usherwood, un dos principais tipógrafos de Canadá, deseñou este tipo en 1981 chamándolle Caxton pola primeira imprenta de Inglaterra. Esta romana antiga caracterízase polas pequenas serifas, os paus ascendentes e descendentes curtos e unha grande altura do “x”. Combina sabiamente a influencia caligráfica con detalles sutís creando un estilo moi elegante. Aínda que nun principio foi deseñada para a súa utilización en textos longos como libros, xornais e revistas, a súa personalidade e exuberancia permite empregala tamén en titulares e aplicacións onde as súas formas destaquen máis.'
-description.es: 'Leslie Usherwood, uno de los principales tipógrafos de Canadá, diseñó este tipo en 1981 llamándole Caxlon por la primera imprenta de Inglaterra. Esta romana antigua se caracteriza por los serifs pequeños, los palos ascendentes y descendientes cortos y una gran altura de la “x”. Combina sabiamente la influencia caligráfica con detalles sutiles creando un estilo muy elegante. Aunque en un principio fue diseñada para usar en textos largos como libros, periódicos y revistas, su personalidad y exuberancia permite emplearla también en titulares y aplicaciones donde sus formas destaquen más.'
+gl:
+  description: 'Leslie Usherwood, un dos principais tipógrafos de Canadá, deseñou este tipo en 1981 chamándolle Caxton pola primeira imprenta de Inglaterra. Esta romana antiga caracterízase polas pequenas serifas, os paus ascendentes e descendentes curtos e unha grande altura do “x”. Combina sabiamente a influencia caligráfica con detalles sutís creando un estilo moi elegante. Aínda que nun principio foi deseñada para a súa utilización en textos longos como libros, xornais e revistas, a súa personalidade e exuberancia permite empregala tamén en titulares e aplicacións onde as súas formas destaquen máis.'
+es:
+  description: 'Leslie Usherwood, uno de los principales tipógrafos de Canadá, diseñó este tipo en 1981 llamándole Caxlon por la primera imprenta de Inglaterra. Esta romana antigua se caracteriza por los serifs pequeños, los palos ascendentes y descendientes cortos y una gran altura de la “x”. Combina sabiamente la influencia caligráfica con detalles sutiles creando un estilo muy elegante. Aunque en un principio fue diseñada para usar en textos largos como libros, periódicos y revistas, su personalidad y exuberancia permite emplearla también en titulares y aplicaciones donde sus formas destaquen más.'
 links: []
 tags_ids:
   - 70

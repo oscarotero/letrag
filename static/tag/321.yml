@@ -1,3 +1,5 @@
 id: 321
-title.gl: Militar
-title.es: Militar
+gl:
+  title: Militar
+es:
+  title: Militar

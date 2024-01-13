@@ -1,3 +1,5 @@
 id: 121
-title.gl: 'Universidade de California'
-title.es: 'Universidad de California'
+gl:
+  title: 'Universidade de California'
+es:
+  title: 'Universidad de California'

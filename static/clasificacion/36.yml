@@ -1,6 +1,8 @@
 id: 36
 section_id: 27
-title.gl: Pincel
-title.es: Pincel
-description.gl: 'Escritas utilizando brocha, pincel ou un instrumento parecido, estas tipografías adoitan ter uns cantos irregulares produto do exceso ou falta de auga no pincel ou do tipo de superficie na que se apliquen as letras.'
-description.es: 'Escritas utilizando brocha, pincel o un instrumento parecido, estas tipografías suelen tener unos bordes irregulares producto del exceso o falta de agua en el pincel o del tipo de superficie en la que se apliquen las letras.'
+gl:
+  title: Pincel
+  description: 'Escritas utilizando brocha, pincel ou un instrumento parecido, estas tipografías adoitan ter uns cantos irregulares produto do exceso ou falta de auga no pincel ou do tipo de superficie na que se apliquen as letras.'
+es:
+  title: Pincel
+  description: 'Escritas utilizando brocha, pincel o un instrumento parecido, estas tipografías suelen tener unos bordes irregulares producto del exceso o falta de agua en el pincel o del tipo de superficie en la que se apliquen las letras.'

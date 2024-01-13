@@ -1,3 +1,5 @@
 id: 332
-title.gl: FontFont
-title.es: FontFont
+gl:
+  title: FontFont
+es:
+  title: FontFont

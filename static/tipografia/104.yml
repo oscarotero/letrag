@@ -2,8 +2,10 @@ id: 104
 title: Wendy
 year: '1995'
 download: null
-description.gl: 'Deseñada por Garrett Boge en 1995, a tipografía Wendy está baseada nunha letra manuscrita informal dos anos 60. Boge ampliou a familia creando un xogo de tres pesos: Light, Medium e Bold. O seu estilo informal, cuns trazos moi naturais e unión nas letras transmite unha personalidade moi amizosa, cunha boa calidade para usar en títulos e bloques de texto curtos.'
-description.es: 'Diseñada por Garrett Boge en 1995, la tipografía Wendy está basada en una letra manuscrita informal de los años 60. Boge amplió la familia creando un juego de tres pesos: Light, Medium y Bold. Su estilo informal, con unos trazos muy naturales y la unión de las letras transmite una personalidad muy amistosa, con una buena calidad para usar en títulos y bloques de texto cortos.'
+gl:
+  description: 'Deseñada por Garrett Boge en 1995, a tipografía Wendy está baseada nunha letra manuscrita informal dos anos 60. Boge ampliou a familia creando un xogo de tres pesos: Light, Medium e Bold. O seu estilo informal, cuns trazos moi naturais e unión nas letras transmite unha personalidade moi amizosa, cunha boa calidade para usar en títulos e bloques de texto curtos.'
+es:
+  description: 'Diseñada por Garrett Boge en 1995, la tipografía Wendy está basada en una letra manuscrita informal de los años 60. Boge amplió la familia creando un juego de tres pesos: Light, Medium y Bold. Su estilo informal, con unos trazos muy naturales y la unión de las letras transmite una personalidad muy amistosa, con una buena calidad para usar en títulos y bloques de texto cortos.'
 links: []
 tags_ids:
   - 134

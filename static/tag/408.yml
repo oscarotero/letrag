@@ -1,3 +1,5 @@
 id: 408
-title.gl: Novelista
-title.es: Novelista
+gl:
+  title: Novelista
+es:
+  title: Novelista

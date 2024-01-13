@@ -1,3 +1,5 @@
 id: 195
-title.gl: Interface
-title.es: Interfaz
+gl:
+  title: Interface
+es:
+  title: Interfaz

@@ -1,3 +1,5 @@
 id: 167
-title.gl: 'John Renner'
-title.es: 'John Renner'
+gl:
+  title: 'John Renner'
+es:
+  title: 'John Renner'

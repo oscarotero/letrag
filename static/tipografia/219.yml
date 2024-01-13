@@ -2,8 +2,10 @@ id: 219
 title: 'Nuptial Script'
 year: '1952'
 download: null
-description.gl: 'Deseñada preto de 1952 polo equipo de deseño de Intertype baixo a dirección de Edwin W. Shaar, trátase dunha tipografía caligráfica cun certo toque informal creada específicamente para invitacións de vodas. Está inspirada nas tipografías caligráficas inglesas combinada coas capitulares caligráficas italianas. Ideal para invitacións e tarxetas que requiran dunha gran elegancia e encanto.'
-description.es: 'Diseñada cerca de 1952 por el equipo de diseño de Intertype bajo la dirección de Edwin W. Shaar, se trata de una tipografía caligráfica con un cierto toque informal creada específicamente para invitaciones de bodas. Está inspirada en las tipografías caligráficas inglesas combinadas con las capitulares manuscritas italianas. Ideal para invitaciones y tarjetas que requieran de una gran elegancia y encanto.'
+gl:
+  description: 'Deseñada preto de 1952 polo equipo de deseño de Intertype baixo a dirección de Edwin W. Shaar, trátase dunha tipografía caligráfica cun certo toque informal creada específicamente para invitacións de vodas. Está inspirada nas tipografías caligráficas inglesas combinada coas capitulares caligráficas italianas. Ideal para invitacións e tarxetas que requiran dunha gran elegancia e encanto.'
+es:
+  description: 'Diseñada cerca de 1952 por el equipo de diseño de Intertype bajo la dirección de Edwin W. Shaar, se trata de una tipografía caligráfica con un cierto toque informal creada específicamente para invitaciones de bodas. Está inspirada en las tipografías caligráficas inglesas combinadas con las capitulares manuscritas italianas. Ideal para invitaciones y tarjetas que requieran de una gran elegancia y encanto.'
 links: []
 tags_ids:
   - 52

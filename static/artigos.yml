@@ -1,7 +1,9 @@
 menu: 2
 layout: layouts/articles.njk
-title.gl: Artigos
-title.es: Artículos
-description.gl: Colección de artigos e entrevistas de creación propia ou traducidos 
-description.es: Colección de artículos y entrevistas de creación propia o traducidos
 type: articles_home
+gl:
+  title: Artigos
+  description: Colección de artigos e entrevistas de creación propia ou traducidos 
+es:
+  title: Artículos
+  description: Colección de artículos y entrevistas de creación propia o traducidos

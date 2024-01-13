@@ -1,3 +1,5 @@
 id: 417
-title.gl: Arena
-title.es: Arena
+gl:
+  title: Arena
+es:
+  title: Arena

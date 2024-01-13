@@ -1,3 +1,5 @@
 id: 80
-title.gl: Gutemberg
-title.es: Gutemberg
+gl:
+  title: Gutemberg
+es:
+  title: Gutemberg

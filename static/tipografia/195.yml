@@ -2,8 +2,10 @@ id: 195
 title: 'Aldine 401'
 year: 'S. XX'
 download: null
-description.gl: 'Este abecedario, publicado pola fundición Bitstream, é unha versión da Bembo de Francesco Gliffo, unha das tipografías romanas antigas máis importantes xunto coa Garamond. A súa aparencia transmite unha formalidade característica deste estilo que contrasta co calor e informalidade caligráfica das súas cursivas.'
-description.es: 'Este abecedario, publicado por la fundición Bitstream, es una versión de la Bembo de Francesco Gliffo, una de las tipografías romanas antiguas más importantes junto con la Garamond. Su apariencia transmite una formalidad característica de este estilo que contrasta con el calor y la informalidad caligráfica de sus cursivas.'
+gl:
+  description: 'Este abecedario, publicado pola fundición Bitstream, é unha versión da Bembo de Francesco Gliffo, unha das tipografías romanas antigas máis importantes xunto coa Garamond. A súa aparencia transmite unha formalidade característica deste estilo que contrasta co calor e informalidade caligráfica das súas cursivas.'
+es:
+  description: 'Este abecedario, publicado por la fundición Bitstream, es una versión de la Bembo de Francesco Gliffo, una de las tipografías romanas antiguas más importantes junto con la Garamond. Su apariencia transmite una formalidad característica de este estilo que contrasta con el calor y la informalidad caligráfica de sus cursivas.'
 links: []
 tags_ids: []
 sections_ids:

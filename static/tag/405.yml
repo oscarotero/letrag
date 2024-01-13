@@ -1,3 +1,5 @@
 id: 405
-title.gl: 'Jane Austen'
-title.es: 'Jane Austen'
+gl:
+  title: 'Jane Austen'
+es:
+  title: 'Jane Austen'

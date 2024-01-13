@@ -1,3 +1,5 @@
 id: 26
-title.gl: 'Nova tipografía'
-title.es: 'Nueva tipografía'
+gl:
+  title: 'Nova tipografía'
+es:
+  title: 'Nueva tipografía'

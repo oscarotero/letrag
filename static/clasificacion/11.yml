@@ -1,6 +1,8 @@
 id: 11
 section_id: 1
-title.gl: Xeométricas
-title.es: Geométricas
-description.gl: 'Nacen en 1920, consecuencia das vangardas e a Bauhaus. Construídas a partir de liñas rectas e figuras xeométricas como o circulo e o cadrado, son minimalistas, sen modulación nin variacións dos grosores dos paos.'
-description.es: 'Nacen en 1929, consecuencia de las vanguardias y la Bauhaus. Construidas a partir de líneas rectas y figuras geométricas como el círculo y el cuadrado, son minimalistas, sin modulación ni variaciones de los grosores de los palos.'
+gl:
+  title: Xeométricas
+  description: 'Nacen en 1920, consecuencia das vangardas e a Bauhaus. Construídas a partir de liñas rectas e figuras xeométricas como o circulo e o cadrado, son minimalistas, sen modulación nin variacións dos grosores dos paos.'
+es:
+  title: Geométricas
+  description: 'Nacen en 1929, consecuencia de las vanguardias y la Bauhaus. Construidas a partir de líneas rectas y figuras geométricas como el círculo y el cuadrado, son minimalistas, sin modulación ni variaciones de los grosores de los palos.'

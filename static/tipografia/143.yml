@@ -2,8 +2,10 @@ id: 143
 title: 'Swiss 721'
 year: '1982'
 download: null
-description.gl: 'Creada en 1982 pola fundición Bitstream, trátase dunha versión da Helvética de Max Miedinger, unha das tipografías máis famosas e empregadas do mundo. Posúe un gran número de variantes entre as que se atopan versións condensadas, estendidas, redondeadas e contornadas. Trátase dunha tipografía moi versátil, que se adapta perfectamente a calquera uso, igual que a Helvética.'
-description.es: 'Creada en 1982 por la fundición Bitstream, se trata de una versión de la Helvética de Max Miedinger, una de las tipografías más famosas y empleadas del mundo. Posee un gran número de variantes entre las que se encuentran versiones condensadas, extendidas, redondeadas y contorneadas. Se trata de una tipografía muy versátil, que se adapta perfectamente a cualquier uso, igual que la Helvética.'
+gl:
+  description: 'Creada en 1982 pola fundición Bitstream, trátase dunha versión da Helvética de Max Miedinger, unha das tipografías máis famosas e empregadas do mundo. Posúe un gran número de variantes entre as que se atopan versións condensadas, estendidas, redondeadas e contornadas. Trátase dunha tipografía moi versátil, que se adapta perfectamente a calquera uso, igual que a Helvética.'
+es:
+  description: 'Creada en 1982 por la fundición Bitstream, se trata de una versión de la Helvética de Max Miedinger, una de las tipografías más famosas y empleadas del mundo. Posee un gran número de variantes entre las que se encuentran versiones condensadas, extendidas, redondeadas y contorneadas. Se trata de una tipografía muy versátil, que se adapta perfectamente a cualquier uso, igual que la Helvética.'
 links: []
 tags_ids: []
 sections_ids:

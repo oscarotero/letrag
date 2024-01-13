@@ -2,17 +2,24 @@ id: 221
 title: Corbel
 year: '1994'
 download: null
-description.gl: 'Creada en 1994 polo deseñador inglés Jeremy Tankard baixo encargo de Microsoft, forma parte do paquete de tipografías que acompañan ao sistema operativo Windows Vista. Está deseñada exclusivamente para ser lida en pantalla optimizando a lectura grazas ó seu aspecto limpo e claro pero conservando unha certa personalidade. Inclúe todos os caracteres latinos, gregos e cirílicos para que se poidan empregar por todo o mundo. Sería unha alternativa máis agradable e actual á Arial, Trebuchet ou Verdana, creadas no seu tempo para o mesmo fin. Segundo o seu creador “inicialmente estiven facendo probas para a versión Italic, non quería que se fixese como unha Regular inclinada. Como deseñei os caracteres gregos e cirílicos ao mesmo tempo que os latinos, era importante fixarse nas tres escrituras na súa totalidade. Desta maneira podía incluso acadar un acercamento dos estilos Regular e Italic. Nos caracteres latinos, fixen a versión Regular máis sobria mentres que na Italic deixei fluír máis os trazos”.'
-description.es: 'Creada en 1994 por el diseñador inglés Jeremy Tankard bajo encargo de Microsoft, forma parte del paquete de tipografías que acompañan al sistema operativo Windows Vista. Está diseñada exclusivamente para ser leída en pantalla optimizando la lectura gracias a su aspecto limpio y claro pero conservando una cierta personalidad. Incluye todos los caracteres latinos, griegos y cirílicos para que se puedan utilizar por todo el mundo. Sería una alternativa más agradable y actual a la Arial, Trebuchet o Verdana, creadas en su tiempo para el mismo fin. Según su creador “inicialmente estuve haciendo pruebas para la versión Italic, no quería que se hiciera como una versión Regular inclinada. Como diseñé los caracteres griegos y cirílicos al mismo tiempo que los latinos, era importante fijarse en las tres escrituras en su totalidad. De esta manera podía incluso alcanzar un acercamiento de los estilos Regular e Italia. En los caracteres latinos hice una versión Regular más sobria mientras que en la Italic dejé fluir más los trazos”.'
-links:
-  -
-    title.gl: 'ClearType Font Collection'
-    title.es: 'ClearType Font Collection'
-    description.gl: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
-    description.es: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
-    url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
-    language: en
-    source: Microsoft
+gl:
+  description: 'Creada en 1994 polo deseñador inglés Jeremy Tankard baixo encargo de Microsoft, forma parte do paquete de tipografías que acompañan ao sistema operativo Windows Vista. Está deseñada exclusivamente para ser lida en pantalla optimizando a lectura grazas ó seu aspecto limpo e claro pero conservando unha certa personalidade. Inclúe todos os caracteres latinos, gregos e cirílicos para que se poidan empregar por todo o mundo. Sería unha alternativa máis agradable e actual á Arial, Trebuchet ou Verdana, creadas no seu tempo para o mesmo fin. Segundo o seu creador “inicialmente estiven facendo probas para a versión Italic, non quería que se fixese como unha Regular inclinada. Como deseñei os caracteres gregos e cirílicos ao mesmo tempo que os latinos, era importante fixarse nas tres escrituras na súa totalidade. Desta maneira podía incluso acadar un acercamento dos estilos Regular e Italic. Nos caracteres latinos, fixen a versión Regular máis sobria mentres que na Italic deixei fluír máis os trazos”.'
+  links:
+    -
+      title: 'ClearType Font Collection'
+      description: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
+      url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+      language: en
+      source: Microsoft
+es:
+  description: 'Creada en 1994 por el diseñador inglés Jeremy Tankard bajo encargo de Microsoft, forma parte del paquete de tipografías que acompañan al sistema operativo Windows Vista. Está diseñada exclusivamente para ser leída en pantalla optimizando la lectura gracias a su aspecto limpio y claro pero conservando una cierta personalidad. Incluye todos los caracteres latinos, griegos y cirílicos para que se puedan utilizar por todo el mundo. Sería una alternativa más agradable y actual a la Arial, Trebuchet o Verdana, creadas en su tiempo para el mismo fin. Según su creador “inicialmente estuve haciendo pruebas para la versión Italic, no quería que se hiciera como una versión Regular inclinada. Como diseñé los caracteres griegos y cirílicos al mismo tiempo que los latinos, era importante fijarse en las tres escrituras en su totalidad. De esta manera podía incluso alcanzar un acercamiento de los estilos Regular e Italia. En los caracteres latinos hice una versión Regular más sobria mientras que en la Italic dejé fluir más los trazos”.'
+  links:
+    -
+      title: 'ClearType Font Collection'
+      description: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
+      url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+      language: en
+      source: Microsoft
 tags_ids:
   - 22
   - 21

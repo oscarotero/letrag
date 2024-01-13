@@ -1,3 +1,5 @@
 id: 40
-title.gl: Pedra
-title.es: Piedra
+gl:
+  title: Pedra
+es:
+  title: Piedra

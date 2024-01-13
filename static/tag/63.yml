@@ -1,3 +1,5 @@
 id: 63
-title.gl: 'De Aetna'
-title.es: 'De Aetna'
+gl:
+  title: 'De Aetna'
+es:
+  title: 'De Aetna'

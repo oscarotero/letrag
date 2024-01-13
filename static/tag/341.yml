@@ -1,3 +1,5 @@
 id: 341
-title.gl: Consola
-title.es: Consola
+gl:
+  title: Consola
+es:
+  title: Consola

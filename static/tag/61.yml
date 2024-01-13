@@ -1,3 +1,5 @@
 id: 61
-title.gl: 'Aldus Manutius'
-title.es: 'Aldus Manutius'
+gl:
+  title: 'Aldus Manutius'
+es:
+  title: 'Aldus Manutius'

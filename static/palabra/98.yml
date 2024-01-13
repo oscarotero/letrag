@@ -1,12 +1,14 @@
 id: 98
-title.gl: Post
-title.es: Post
 section_id: 110
-description.gl: |-
-  A serie Post pertence ao Sistema Británico de Medidas (British Imperial System) e está formada da seguinte relación de medidas:
+gl:
+  title: Post
+  description: |-
+    A serie Post pertence ao Sistema Británico de Medidas (British Imperial System) e está formada da seguinte relación de medidas:
 
-   <table> <tr> <th> Double Largue Post </th> <td> 838×533 mm </td> <td> 33×21 polgadas </td> </tr> <tr> <th> Double Post </th> <td> 774×482 mm </td> <td> 30,5×19 polgadas </td> </tr> <tr> <th> Sheet e ½ Post </th> <td> 597×495 mm </td> <td> 23,5×19,5 polgadas </td> </tr> <tr> <th> Large Post </th> <td> 533×419 mm </td> <td> 21×16,5 polgadas </td> </tr> <tr> <th> Post </th> <td> 482×387 mm </td> <td> 19×15,25 polgadas </td> </tr> <tr> <th> Pinched Post </th> <td> 470×368 mm </td> <td> 18,5×14,5 polgadas </td> </tr> </table>
-description.es: |-
-  La serie Post pertenece al Sistema Británico de Medidas (British Imperial System) y está formada de la siguiente relación de medidas:
+     <table> <tr> <th> Double Largue Post </th> <td> 838×533 mm </td> <td> 33×21 polgadas </td> </tr> <tr> <th> Double Post </th> <td> 774×482 mm </td> <td> 30,5×19 polgadas </td> </tr> <tr> <th> Sheet e ½ Post </th> <td> 597×495 mm </td> <td> 23,5×19,5 polgadas </td> </tr> <tr> <th> Large Post </th> <td> 533×419 mm </td> <td> 21×16,5 polgadas </td> </tr> <tr> <th> Post </th> <td> 482×387 mm </td> <td> 19×15,25 polgadas </td> </tr> <tr> <th> Pinched Post </th> <td> 470×368 mm </td> <td> 18,5×14,5 polgadas </td> </tr> </table>
+es:
+  title: Post
+  description: |-
+    La serie Post pertenece al Sistema Británico de Medidas (British Imperial System) y está formada de la siguiente relación de medidas:
 
-   <table> <tr> <th> Double Largue Post </th> <td> 838×533 mm </td> <td> 33×21 pulgadas </td> </tr> <tr> <th> Double Post </th> <td> 774×482 mm </td> <td> 30,5×19 pulgadas </td> </tr> <tr> <th> Sheet e ½ Post </th> <td> 597×495 mm </td> <td> 23,5×19,5 pulgadas </td> </tr> <tr> <th> Large Post </th> <td> 533×419 mm </td> <td> 21×16,5 pulgadas </td> </tr> <tr> <th> Post </th> <td> 482×387 mm </td> <td> 19×15,25 pulgadas </td> </tr> <tr> <th> Pinched Post </th> <td> 470×368 mm </td> <td> 18,5×14,5 pulgadas </td> </tr> </table>
+     <table> <tr> <th> Double Largue Post </th> <td> 838×533 mm </td> <td> 33×21 pulgadas </td> </tr> <tr> <th> Double Post </th> <td> 774×482 mm </td> <td> 30,5×19 pulgadas </td> </tr> <tr> <th> Sheet e ½ Post </th> <td> 597×495 mm </td> <td> 23,5×19,5 pulgadas </td> </tr> <tr> <th> Large Post </th> <td> 533×419 mm </td> <td> 21×16,5 pulgadas </td> </tr> <tr> <th> Post </th> <td> 482×387 mm </td> <td> 19×15,25 pulgadas </td> </tr> <tr> <th> Pinched Post </th> <td> 470×368 mm </td> <td> 18,5×14,5 pulgadas </td> </tr> </table>

@@ -2,8 +2,10 @@ id: 194
 title: 'Screen Matrix'
 year: '1993'
 download: null
-description.gl: 'Deseñada por Stephan Müller e Cornel Windlin en 1993, esta tipografía foi creada orixinalmente para a exhibición “Visualize The Future” (Visualiza o futuro) na Parco Gallery de Tokío. Había unha serie de carteis imitando as pantallas dos caixeiros automáticos que chamaban a atención dos espectadores cunha serie de frases e preguntas sobre o seu modo de vida. A tipografía está inspirada nas pantallas de cristal líquido (<span class="caps">LCD</span>) existentes e foi redeseñada e ampliada por Stephan Müller.'
-description.es: 'Diseñada por Stephan Müller y Cornel Windlin en 1993, esta tipografía fue creada originalmente para la exhibición “Visualize The Future” (Visualiza el futuro) en la Parco Gallery de Tokio. Había una serie de carteles imitando las pantallas de los cajeros automáticos que llamaban la atención de los espectadores con una serie de frases y preguntas sobre su modo de vida. La tipografía está inspirada en las pantallas de cristal líquido (<span class="caps">LCD</span>) existentes y fue rediseñada y ampliada por Stephan Müller.'
+gl:
+  description: 'Deseñada por Stephan Müller e Cornel Windlin en 1993, esta tipografía foi creada orixinalmente para a exhibición “Visualize The Future” (Visualiza o futuro) na Parco Gallery de Tokío. Había unha serie de carteis imitando as pantallas dos caixeiros automáticos que chamaban a atención dos espectadores cunha serie de frases e preguntas sobre o seu modo de vida. A tipografía está inspirada nas pantallas de cristal líquido (<span class="caps">LCD</span>) existentes e foi redeseñada e ampliada por Stephan Müller.'
+es:
+  description: 'Diseñada por Stephan Müller y Cornel Windlin en 1993, esta tipografía fue creada originalmente para la exhibición “Visualize The Future” (Visualiza el futuro) en la Parco Gallery de Tokio. Había una serie de carteles imitando las pantallas de los cajeros automáticos que llamaban la atención de los espectadores con una serie de frases y preguntas sobre su modo de vida. La tipografía está inspirada en las pantallas de cristal líquido (<span class="caps">LCD</span>) existentes y fue rediseñada y ampliada por Stephan Müller.'
 links: []
 tags_ids: []
 sections_ids:

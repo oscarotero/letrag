@@ -1,3 +1,5 @@
 id: 250
-title.gl: Rectángulo
-title.es: Rectángulo
+gl:
+  title: Rectángulo
+es:
+  title: Rectángulo

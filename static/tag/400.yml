@@ -1,3 +1,5 @@
 id: 400
-title.gl: 'Salvaxe oeste'
-title.es: 'Salvaxe oeste'
+gl:
+  title: 'Salvaxe oeste'
+es:
+  title: 'Salvaxe oeste'

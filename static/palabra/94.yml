@@ -1,12 +1,14 @@
 id: 94
-title.gl: Imperial
-title.es: Imperial
 section_id: 110
-description.gl: |-
-  Serie de tamaños pertencente ao Sistema Británico de Medidas (British Imperial System) e que consta das siguientes medidas:
+gl:
+  title: Imperial
+  description: |-
+    Serie de tamaños pertencente ao Sistema Británico de Medidas (British Imperial System) e que consta das siguientes medidas:
 
-   <table> <tr> <th> Double Imperial</th> <td>1.143×736 mm</td> <td>45×29 polgadas</td> </tr> <tr> <th> Imperial</th> <td>762×559 mm</td> <td>30×22 polgadas</td> </tr> <tr> <th> Imperial folio</th> <td>559×381 mm</td> <td>22×15 polgadas</td> </tr> <tr> <th> Imperial quarto</th> <td>279×279 mm</td> <td>11×11 polgadas</td> </tr> <tr> <th> Imperial octavo</th> <td>279×190 mm</td> <td>11×7,5 polgadas</td> </tr> </table>
-description.es: |-
-  Serie de tamaños perteneciente al Sistema Británico de Medidas (British Imperial System) y que consta de las siguientes medidas:
+     <table> <tr> <th> Double Imperial</th> <td>1.143×736 mm</td> <td>45×29 polgadas</td> </tr> <tr> <th> Imperial</th> <td>762×559 mm</td> <td>30×22 polgadas</td> </tr> <tr> <th> Imperial folio</th> <td>559×381 mm</td> <td>22×15 polgadas</td> </tr> <tr> <th> Imperial quarto</th> <td>279×279 mm</td> <td>11×11 polgadas</td> </tr> <tr> <th> Imperial octavo</th> <td>279×190 mm</td> <td>11×7,5 polgadas</td> </tr> </table>
+es:
+  title: Imperial
+  description: |-
+    Serie de tamaños perteneciente al Sistema Británico de Medidas (British Imperial System) y que consta de las siguientes medidas:
 
-   <table> <tr> <th> Double Imperial</th> <td>1.143×736 mm</td> <td>45×29 pulgadas</td> </tr> <tr> <th> Imperial</th> <td>762×559 mm</td> <td>30×22 pulgadas</td> </tr> <tr> <th> Imperial folio</th> <td>559×381 mm</td> <td>22×15 pulgadas</td> </tr> <tr> <th> Imperial quarto</th> <td>279×279 mm</td> <td>11×11 pulgadas</td> </tr> <tr> <th> Imperial octavo</th> <td>279×190 mm</td> <td>11×7,5 pulgadas</td> </tr> </table>
+     <table> <tr> <th> Double Imperial</th> <td>1.143×736 mm</td> <td>45×29 pulgadas</td> </tr> <tr> <th> Imperial</th> <td>762×559 mm</td> <td>30×22 pulgadas</td> </tr> <tr> <th> Imperial folio</th> <td>559×381 mm</td> <td>22×15 pulgadas</td> </tr> <tr> <th> Imperial quarto</th> <td>279×279 mm</td> <td>11×11 pulgadas</td> </tr> <tr> <th> Imperial octavo</th> <td>279×190 mm</td> <td>11×7,5 pulgadas</td> </tr> </table>

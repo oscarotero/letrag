@@ -1,12 +1,14 @@
 id: 50
-title.gl: Ascendentes
-title.es: Ascendentes
 section_id: 106
-description.gl: |-
-  ![](/imaxes/17.png)
+gl:
+  title: Ascendentes
+  description: |-
+    ![](/imaxes/17.png)
 
-  Son os trazos das letras minúsculas que sobresaen por encima da altura do ‘x’ como por exemplo o ‘d’, ‘f’ ou ‘b’.
-description.es: |-
-  ![](/imaxes/17.png)
+    Son os trazos das letras minúsculas que sobresaen por encima da altura do ‘x’ como por exemplo o ‘d’, ‘f’ ou ‘b’.
+es:
+  title: Ascendentes
+  description: |-
+    ![](/imaxes/17.png)
 
-  Son los trazos de las letras minúsculas que sobresalen por encima de la altura de la ‘x’ como por ejemplo la ‘d’, ‘f’ o la ‘b’.
+    Son los trazos de las letras minúsculas que sobresalen por encima de la altura de la ‘x’ como por ejemplo la ‘d’, ‘f’ o la ‘b’.

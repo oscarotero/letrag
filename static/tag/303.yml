@@ -1,3 +1,5 @@
 id: 303
-title.gl: Tráfico
-title.es: Tráfico
+gl:
+  title: Tráfico
+es:
+  title: Tráfico

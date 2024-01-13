@@ -1,6 +1,8 @@
 id: 28
 section_id: 27
-title.gl: Infantís
-title.es: Infantiles
-description.gl: 'Son aquelas tipografías que emulan ás letras debuxadas por nenos. Caracterízanse pola súa aparencia irregular e desproporcionada, e incluso poden estar descolocadas con respecto á liña base.'
-description.es: 'Son aquellas tipografías que emulan las letras dibujadas por niños. Se caracterizan por su apariencia irregular y desproporcionada, e incluso pueden estar descolocadas con respecto a la línea base.'
+gl:
+  title: Infantís
+  description: 'Son aquelas tipografías que emulan ás letras debuxadas por nenos. Caracterízanse pola súa aparencia irregular e desproporcionada, e incluso poden estar descolocadas con respecto á liña base.'
+es:
+  title: Infantiles
+  description: 'Son aquellas tipografías que emulan las letras dibujadas por niños. Se caracterizan por su apariencia irregular y desproporcionada, e incluso pueden estar descolocadas con respecto a la línea base.'

@@ -1,3 +1,5 @@
 id: 256
-title.gl: 'Ron Carpenter'
-title.es: 'Ron Carpenter'
+gl:
+  title: 'Ron Carpenter'
+es:
+  title: 'Ron Carpenter'

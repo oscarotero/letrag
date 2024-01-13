@@ -1,3 +1,5 @@
 id: 114
-title.gl: Chancery
-title.es: Chancery
+gl:
+  title: Chancery
+es:
+  title: Chancery

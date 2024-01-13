@@ -1,3 +1,5 @@
 id: 203
-title.gl: ECMA
-title.es: ECMA
+gl:
+  title: ECMA
+es:
+  title: ECMA

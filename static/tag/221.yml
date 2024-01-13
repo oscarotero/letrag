@@ -1,3 +1,5 @@
 id: 221
-title.gl: 'Sigrid Engermann'
-title.es: 'Sigrid Engermann'
+gl:
+  title: 'Sigrid Engermann'
+es:
+  title: 'Sigrid Engermann'

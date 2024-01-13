@@ -1,3 +1,5 @@
 id: 322
-title.gl: Guerra
-title.es: Guerra
+gl:
+  title: Guerra
+es:
+  title: Guerra

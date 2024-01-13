@@ -1,3 +1,5 @@
 id: 33
-title.gl: 'Edouard Hoffmann'
-title.es: 'Edouard Hoffmann'
+gl:
+  title: 'Edouard Hoffmann'
+es:
+  title: 'Edouard Hoffmann'

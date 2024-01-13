@@ -1,3 +1,5 @@
 id: 265
-title.gl: Estradas
-title.es: Carreteras
+gl:
+  title: Estradas
+es:
+  title: Carreteras

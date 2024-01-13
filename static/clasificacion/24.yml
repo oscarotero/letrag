@@ -1,6 +1,8 @@
 id: 24
 section_id: 22
-title.gl: Francesas
-title.es: Francesas
-description.gl: 'As exipcias de estilo francés caracterízanse por posuír unha relación entre as serifas e os trazos de tipo angular. Foron as primeiras exipcias en aparecer e os seus remates son densos e rectangulares.'
-description.es: 'Las egipcias de estilo francés se caracterizan por poseer una relación entre los serifs y los trazos de tipo angular. Fueron las primeras egipcias en aparecer y sus remates son densos y rectangulares.'
+gl:
+  title: Francesas
+  description: 'As exipcias de estilo francés caracterízanse por posuír unha relación entre as serifas e os trazos de tipo angular. Foron as primeiras exipcias en aparecer e os seus remates son densos e rectangulares.'
+es:
+  title: Francesas
+  description: 'Las egipcias de estilo francés se caracterizan por poseer una relación entre los serifs y los trazos de tipo angular. Fueron las primeras egipcias en aparecer y sus remates son densos y rectangulares.'

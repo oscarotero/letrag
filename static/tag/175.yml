@@ -1,3 +1,5 @@
 id: 175
-title.gl: 'Caracteres gregos'
-title.es: 'Caracteres griegos'
+gl:
+  title: 'Caracteres gregos'
+es:
+  title: 'Caracteres griegos'

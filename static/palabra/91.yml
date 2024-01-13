@@ -1,12 +1,14 @@
 id: 91
-title.gl: Colo
-title.es: Cuello
 section_id: 106
-description.gl: |-
-  ![](/imaxes/45.png)
+gl:
+  title: Colo
+  description: |-
+    ![](/imaxes/45.png)
 
-  Trazo do ‘g’ minúsculo que liga a parte superior e inferior cando esta última posúe ollal.
-description.es: |-
-  ![](/imaxes/45.png)
+    Trazo do ‘g’ minúsculo que liga a parte superior e inferior cando esta última posúe ollal.
+es:
+  title: Cuello
+  description: |-
+    ![](/imaxes/45.png)
 
-  Trazo de la ‘g’ minúscula que enlaza la parte superior e inferior cuando esta última posee ojal.
+    Trazo de la ‘g’ minúscula que enlaza la parte superior e inferior cuando esta última posee ojal.

@@ -1,3 +1,5 @@
 id: 129
-title.gl: Compugraphic
-title.es: Compugraphic
+gl:
+  title: Compugraphic
+es:
+  title: Compugraphic

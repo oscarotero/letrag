@@ -1,6 +1,8 @@
 id: 3
 section_id: 0
-title.gl: Caligráficas
-title.es: Caligráficas
-description.gl: 'As tipografías caligráficas ou manuscritas son aquelas que emulan a escritura manual, xa sexa mediante pinceis, plumas, rotuladores ou calquera outro instrumento de escritura.'
-description.es: 'Las tipografías caligráficas o manuscritas son aquellas que emulan la escritura manual, ya sea mediante pinceles, plumas, rotuladores o cualquier otro instrumento de escritura.'
+gl:
+  title: Caligráficas
+  description: 'As tipografías caligráficas ou manuscritas son aquelas que emulan a escritura manual, xa sexa mediante pinceis, plumas, rotuladores ou calquera outro instrumento de escritura.'
+es:
+  title: Caligráficas
+  description: 'Las tipografías caligráficas o manuscritas son aquellas que emulan la escritura manual, ya sea mediante pinceles, plumas, rotuladores o cualquier otro instrumento de escritura.'

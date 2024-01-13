@@ -1,6 +1,8 @@
 id: 30
 section_id: 45
-title.gl: 'Hip Hop'
-title.es: 'Hip Hop'
-description.gl: 'As tipografías de estilo Hip Hop emulan tanto os graffitis en paredes feitos con sprays ou pincel como a escritura manual aplicada en papel con rotuladores ou bolígrafos. Presentan formas moi ornamentadas e xeralmente son difíciles de ler.'
-description.es: 'Las tipografías de estilo Hip Hop emulan tanto los graffitis en paredes hechos con spray o pincel como la escritura manual aplicada en papel con rotuladores o bolígrafos. Presentan formas muy ornamentadas y en general son difíciles de leer.'
+gl:
+  title: 'Hip Hop'
+  description: 'As tipografías de estilo Hip Hop emulan tanto os graffitis en paredes feitos con sprays ou pincel como a escritura manual aplicada en papel con rotuladores ou bolígrafos. Presentan formas moi ornamentadas e xeralmente son difíciles de ler.'
+es:
+  title: 'Hip Hop'
+  description: 'Las tipografías de estilo Hip Hop emulan tanto los graffitis en paredes hechos con spray o pincel como la escritura manual aplicada en papel con rotuladores o bolígrafos. Presentan formas muy ornamentadas y en general son difíciles de leer.'

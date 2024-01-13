@@ -1,6 +1,8 @@
 id: 37
 section_id: 0
-title.gl: Mixtas
-title.es: Mixtas
-description.gl: 'É o resultado da mestura de dúas ou máis tipografías ou estilos distintos polo que non se adaptan a ningunha das demais clasificacións. Por exemplo, mesturas entre tipografías sen serifas con outras que si a teñen.'
-description.es: 'Es el resultado de la mezcla de dos o más tipografías o estilos distintos por lo que no se adaptan a ninguna de las demás clasificaciones. Por ejemplo, mezclas entre tipografías sin serif con otras que sí la tienen.'
+gl:
+  title: Mixtas
+  description: 'É o resultado da mestura de dúas ou máis tipografías ou estilos distintos polo que non se adaptan a ningunha das demais clasificacións. Por exemplo, mesturas entre tipografías sen serifas con outras que si a teñen.'
+es:
+  title: Mixtas
+  description: 'Es el resultado de la mezcla de dos o más tipografías o estilos distintos por lo que no se adaptan a ninguna de las demás clasificaciones. Por ejemplo, mezclas entre tipografías sin serif con otras que sí la tienen.'

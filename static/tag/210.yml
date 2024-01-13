@@ -1,3 +1,5 @@
 id: 210
-title.gl: 'Ópera de París'
-title.es: 'Ópera de París'
+gl:
+  title: 'Ópera de París'
+es:
+  title: 'Ópera de París'

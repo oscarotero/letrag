@@ -1,3 +1,5 @@
 id: 311
-title.gl: Grecia
-title.es: Grecia
+gl:
+  title: Grecia
+es:
+  title: Grecia

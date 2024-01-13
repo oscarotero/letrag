@@ -1,3 +1,5 @@
 id: 368
-title.gl: 'Catedral de Santiago'
-title.es: 'Catedral de Santiago'
+gl:
+  title: 'Catedral de Santiago'
+es:
+  title: 'Catedral de Santiago'

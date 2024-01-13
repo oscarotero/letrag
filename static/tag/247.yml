@@ -1,3 +1,5 @@
 id: 247
-title.gl: Publisher
-title.es: Publisher
+gl:
+  title: Publisher
+es:
+  title: Publisher

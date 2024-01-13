@@ -2,8 +2,10 @@ id: 196
 title: 'Humanist 777'
 year: 'S. XX'
 download: null
-description.gl: 'Versión creada por la fundición Bitstream da tipografía Frutiger, deseñada por Adrian Frutiger en 1976. Esta pao seco, de estilo humanista, funciona perfectamente tanto a tamaños pequenos coma grandes debido ás súas formas abertas e a unha gran altura do “x”.'
-description.es: 'Versión creada por la fundición Bitstream de la tipografía Frutiger, diseñada por Adrian Frutiger en 1976. Esta palo seco, de estilo humanista, funciona perfectamente tanto a tamaños pequeños como grandes debido a sus formas abiertas y a una gran altura de la “x”.'
+gl:
+  description: 'Versión creada por la fundición Bitstream da tipografía Frutiger, deseñada por Adrian Frutiger en 1976. Esta pao seco, de estilo humanista, funciona perfectamente tanto a tamaños pequenos coma grandes debido ás súas formas abertas e a unha gran altura do “x”.'
+es:
+  description: 'Versión creada por la fundición Bitstream de la tipografía Frutiger, diseñada por Adrian Frutiger en 1976. Esta palo seco, de estilo humanista, funciona perfectamente tanto a tamaños pequeños como grandes debido a sus formas abiertas y a una gran altura de la “x”.'
 links: []
 tags_ids: []
 sections_ids:

@@ -1,3 +1,5 @@
 id: 348
-title.gl: 'Santiago de Chile'
-title.es: 'Santiago de Chile'
+gl:
+  title: 'Santiago de Chile'
+es:
+  title: 'Santiago de Chile'

@@ -2,8 +2,10 @@ id: 22
 title: Life
 year: '1965'
 download: null
-description.gl: 'Tipografía deseñada por Francesco Simoncini en 1965 que mestura elementos das tipografías antigas e transicionais. Foi pensada para ser usada en soportes onde a calidade de impresión fose baixa como en periódicos. Este estilo innovador e versátil substituíu ás tipografías usadas nese momento polos xornais. Os seus caracteres están inspirados na Times New Roman de Stanley Morrison, produto dunha época de cambio e experimentación.'
-description.es: 'Tipografía diseñada por Francesco Simoncini en 1965 que mezcla elementos de las tipografías antiguas y transicionales. Fue pensada para ser usada en soportes donde la calidad de impresión fuese baja como en periódicos. Este estilo innovador y versátil sustituyó a las tipografías usadas en ese momento por los periódicos. Sus caracteres están inspirados en la Times New Roman de Stanley Morrison, producto de una época de cambio y experimentación.'
+gl:
+  description: 'Tipografía deseñada por Francesco Simoncini en 1965 que mestura elementos das tipografías antigas e transicionais. Foi pensada para ser usada en soportes onde a calidade de impresión fose baixa como en periódicos. Este estilo innovador e versátil substituíu ás tipografías usadas nese momento polos xornais. Os seus caracteres están inspirados na Times New Roman de Stanley Morrison, produto dunha época de cambio e experimentación.'
+es:
+  description: 'Tipografía diseñada por Francesco Simoncini en 1965 que mezcla elementos de las tipografías antiguas y transicionales. Fue pensada para ser usada en soportes donde la calidad de impresión fuese baja como en periódicos. Este estilo innovador y versátil sustituyó a las tipografías usadas en ese momento por los periódicos. Sus caracteres están inspirados en la Times New Roman de Stanley Morrison, producto de una época de cambio y experimentación.'
 links: []
 tags_ids:
   - 91

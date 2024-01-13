@@ -1,3 +1,5 @@
 id: 270
-title.gl: 'Entertainment Weekly'
-title.es: 'Entertainment Weekly'
+gl:
+  title: 'Entertainment Weekly'
+es:
+  title: 'Entertainment Weekly'

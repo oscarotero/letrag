@@ -1,6 +1,8 @@
 id: 84
-title.gl: Brief
-title.es: Brief
 section_id: 110
-description.gl: 'Nome polo que tamén se coñece ao Small Foolscap, medida de papel pertencente ao Sistema Imperial Británico de Medidas. As súas dimensións son de 419×336 mm (16,5×13,25 polgadas).'
-description.es: 'Nombre por el que también se conoce al Small Foolscap, media de papel perteneciente al Sistema Imperial Británico de Medidas. Sus dimensiones son de 419×336 mm (16,5×13,25 pulgadas).'
+gl:
+  title: Brief
+  description: 'Nome polo que tamén se coñece ao Small Foolscap, medida de papel pertencente ao Sistema Imperial Británico de Medidas. As súas dimensións son de 419×336 mm (16,5×13,25 polgadas).'
+es:
+  title: Brief
+  description: 'Nombre por el que también se conoce al Small Foolscap, media de papel perteneciente al Sistema Imperial Británico de Medidas. Sus dimensiones son de 419×336 mm (16,5×13,25 pulgadas).'

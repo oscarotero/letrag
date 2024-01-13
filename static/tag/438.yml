@@ -1,3 +1,5 @@
 id: 438
-title.gl: 'Blue screen of death'
-title.es: 'Blue screen of death'
+gl:
+  title: 'Blue screen of death'
+es:
+  title: 'Blue screen of death'

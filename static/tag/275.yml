@@ -1,3 +1,5 @@
 id: 275
-title.gl: 'Impresoras láser'
-title.es: 'Impresoras láser'
+gl:
+  title: 'Impresoras láser'
+es:
+  title: 'Impresoras láser'

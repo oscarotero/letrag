@@ -1,3 +1,5 @@
 id: 103
-title.gl: 'Victor Lardent'
-title.es: 'Victor Lardent'
+gl:
+  title: 'Victor Lardent'
+es:
+  title: 'Victor Lardent'

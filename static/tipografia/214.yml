@@ -2,8 +2,10 @@ id: 214
 title: Benguiat
 year: '1977'
 download: null
-description.gl: 'Creada en 1977 polo deseñador de Nova York Ed Benguiat para a fundición <span class="caps">ITC</span>, trátase dunha tipografía bastante inusual, con grandes influencias do Art Noveau combinada con formas romanas antigas. A gran altura do “x” e os seus trazos curvos e diagonais aportanlle unha personalidade bastante forte e singular cun certo toque decorativo e xoguetón. Moi apropiada para traballos publicitarios ou outros usos de exhibición.'
-description.es: 'Creada en 1977 por el diseñador de Nueva York Ed Benguiat para la fundición <span class="caps">ITC</span>, se trata de una tipografía bastante inusual, con grandes influencias del Art Noveau combinada con formas romanas antiguas. La altura de la “x” y sus trazos curvos y diagonales le aportan una personalidad bastante fuerte y singular con un cierto toque decorativo y juguetón. Muy apropiada para trabajos publicitarios u otros usos de exhibición.'
+gl:
+  description: 'Creada en 1977 polo deseñador de Nova York Ed Benguiat para a fundición <span class="caps">ITC</span>, trátase dunha tipografía bastante inusual, con grandes influencias do Art Noveau combinada con formas romanas antigas. A gran altura do “x” e os seus trazos curvos e diagonais aportanlle unha personalidade bastante forte e singular cun certo toque decorativo e xoguetón. Moi apropiada para traballos publicitarios ou outros usos de exhibición.'
+es:
+  description: 'Creada en 1977 por el diseñador de Nueva York Ed Benguiat para la fundición <span class="caps">ITC</span>, se trata de una tipografía bastante inusual, con grandes influencias del Art Noveau combinada con formas romanas antiguas. La altura de la “x” y sus trazos curvos y diagonales le aportan una personalidad bastante fuerte y singular con un cierto toque decorativo y juguetón. Muy apropiada para trabajos publicitarios u otros usos de exhibición.'
 links: []
 tags_ids:
   - 87

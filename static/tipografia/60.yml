@@ -2,17 +2,24 @@ id: 60
 title: Tahoma
 year: '1997'
 download: null
-description.gl: 'Tipografía deseñada durante os anos 1995-1997 por Matthew Carter para Microsoft. Foi pensada para ser usada en interfaces de usuario e noutras situacións que requiran mostrar información en pantaia, particularmente en tamaños pequenos como caixas de texto ou menús de diálogo. Apareceu por primeira vez no Office 97, substituíndo á Arial e MS Sans Serif presentes nas versións anteriores. Posúe unicamente dous pesos, Regular e Bold, e carece de versión itálica ou cursiva. A optimización do _hinting_ estivo a cargo de Tom Rickner de Monotype, un experto en tratar tipografías de pantaia.'
-description.es: 'Tipografía diseñada durante los años 1995-1997 por Matthew Carter para Microsoft. Fue pensada para ser usada en interfaces de usuario u otras situaciones que requieran mostrar información en pantalla, particularmente en tamaños pequeños como cajas de texto o menús de diálogo. Apareció por primera vez en el Office 97, sustituyendo a la Arial y MS Sans Serif presentes en las versiones anteriores. Posee únicamente dos pesos, Regular y Bold, y carece de versión itálica o cursiva. La optimización del _hinting_ estuvo a cargo de Tom Rickner de Monotype, un experto en tratar tipografías de pantalla.'
-links:
-  -
-    title.gl: Tahoma
-    title.es: Tahoma
-    description.gl: 'Páxina da tipografía Tahoma na Wikipedia'
-    description.es: 'Página de la tipografía Tahoma en la Wikipedia'
-    url: en.wikipedia.org/wiki/Tahoma
-    language: en
-    source: Wikipedia
+gl:
+  description: 'Tipografía deseñada durante os anos 1995-1997 por Matthew Carter para Microsoft. Foi pensada para ser usada en interfaces de usuario e noutras situacións que requiran mostrar información en pantaia, particularmente en tamaños pequenos como caixas de texto ou menús de diálogo. Apareceu por primeira vez no Office 97, substituíndo á Arial e MS Sans Serif presentes nas versións anteriores. Posúe unicamente dous pesos, Regular e Bold, e carece de versión itálica ou cursiva. A optimización do _hinting_ estivo a cargo de Tom Rickner de Monotype, un experto en tratar tipografías de pantaia.'
+  links:
+    -
+      title: Tahoma
+      description: 'Páxina da tipografía Tahoma na Wikipedia'
+      url: en.wikipedia.org/wiki/Tahoma
+      language: en
+      source: Wikipedia
+es:
+  description: 'Tipografía diseñada durante los años 1995-1997 por Matthew Carter para Microsoft. Fue pensada para ser usada en interfaces de usuario u otras situaciones que requieran mostrar información en pantalla, particularmente en tamaños pequeños como cajas de texto o menús de diálogo. Apareció por primera vez en el Office 97, sustituyendo a la Arial y MS Sans Serif presentes en las versiones anteriores. Posee únicamente dos pesos, Regular y Bold, y carece de versión itálica o cursiva. La optimización del _hinting_ estuvo a cargo de Tom Rickner de Monotype, un experto en tratar tipografías de pantalla.'
+  links:
+    -
+      title: Tahoma
+      description: 'Página de la tipografía Tahoma en la Wikipedia'
+      url: en.wikipedia.org/wiki/Tahoma
+      language: en
+      source: Wikipedia
 tags_ids:
   - 20
   - 193

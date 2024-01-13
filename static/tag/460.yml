@@ -1,3 +1,5 @@
 id: 460
-title.gl: Sms
-title.es: Sms
+gl:
+  title: Sms
+es:
+  title: Sms

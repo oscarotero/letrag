@@ -2,8 +2,10 @@ id: 63
 title: Versailles
 year: '1984'
 download: null
-description.gl: 'Creada por Adrian Frutiger en 1984, a Versailles está baseada nas tipografías latinas francesas de finais do século XIX, caracterizadas por posuír unhas serifas triangulares e fortes. A influencia máis directa para este deseño está nas escrituras da parte posterior do monumento en memoria a Charles Garnier, arquitecto da Ópera de París. Esta tipografía clásica cun estilo distintivo é moi útil para publicidade, carteis, titulares e bloques curtos de texto, transmitíndolle un aspecto forte e elegante.'
-description.es: 'Creada por Adrian Frutiger en 1984, la Versailles está basada en las tipografías latinas francesas de finales del siglo XIX, caracterizadas por poseer serifs triangulares y fuertes. La influencia más directa para este diseño está en las escrituras de la parte posterior del monumento en memoria a Charles Garnier, arquitecto de la Ópera de París. Esta tipografía clásica con un estilo distintivo es muy útil para publicidad, carteles, titulares y bloques cortos de texto, transmitiéndole un aspecto fuerte y elegante.'
+gl:
+  description: 'Creada por Adrian Frutiger en 1984, a Versailles está baseada nas tipografías latinas francesas de finais do século XIX, caracterizadas por posuír unhas serifas triangulares e fortes. A influencia máis directa para este deseño está nas escrituras da parte posterior do monumento en memoria a Charles Garnier, arquitecto da Ópera de París. Esta tipografía clásica cun estilo distintivo é moi útil para publicidade, carteis, titulares e bloques curtos de texto, transmitíndolle un aspecto forte e elegante.'
+es:
+  description: 'Creada por Adrian Frutiger en 1984, la Versailles está basada en las tipografías latinas francesas de finales del siglo XIX, caracterizadas por poseer serifs triangulares y fuertes. La influencia más directa para este diseño está en las escrituras de la parte posterior del monumento en memoria a Charles Garnier, arquitecto de la Ópera de París. Esta tipografía clásica con un estilo distintivo es muy útil para publicidad, carteles, titulares y bloques cortos de texto, transmitiéndole un aspecto fuerte y elegante.'
 links: []
 tags_ids:
   - 46

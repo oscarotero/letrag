@@ -1,12 +1,13 @@
 layout: layouts/font.njk
 type: font
 
-commercialfont.gl: 'Tipografía comercial. Onde adquirila?'
-commercialfont.es: 'Tipografía comercial. ¿Dónde adquirirla?'
-
-freefont.gl: 'Tipografía gratuita. Descárgaa aqui.'
-freefont.es: 'Tipografía gratuíta. Descárgala aquí.'
+gl:
+  commercialfont: 'Tipografía comercial. Onde adquirila?'
+  freefont: 'Tipografía gratuita. Descárgaa aqui.'
+  links_title: Ligazóns
+es:
+  commercialfont: 'Tipografía comercial. ¿Dónde adquirirla?'
+  freefont: 'Tipografía gratuíta. Descárgala aquí.'
+  links_title: Enlaces
 
 tags_title: Etiquetas
-links_title.gl: Ligazóns
-links_title.es: Enlaces

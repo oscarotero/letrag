@@ -1,3 +1,5 @@
 id: 306
-title.gl: 'London Underground Railways'
-title.es: 'London Underground Railways'
+gl:
+  title: 'London Underground Railways'
+es:
+  title: 'London Underground Railways'

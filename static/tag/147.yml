@@ -1,3 +1,5 @@
 id: 147
-title.gl: 'Gebr. Klingspor'
-title.es: 'Gebr. Klingspor'
+gl:
+  title: 'Gebr. Klingspor'
+es:
+  title: 'Gebr. Klingspor'

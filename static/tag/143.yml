@@ -1,3 +1,5 @@
 id: 143
-title.gl: 'Novos tempos'
-title.es: 'Nuevos tiempos'
+gl:
+  title: 'Novos tempos'
+es:
+  title: 'Nuevos tiempos'

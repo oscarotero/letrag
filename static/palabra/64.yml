@@ -1,12 +1,14 @@
 id: 64
-title.gl: Patín
-title.es: Patín
 section_id: 106
-description.gl: |-
-  ![](/imaxes/5.png)
+gl:
+  title: Patín
+  description: |-
+    ![](/imaxes/5.png)
 
-  Trazo terminal da letra. A súa orixe data na antigüidade, cando as letras eran talladas en pedra, servindo para que os remates dos trazos fosen rectos. Hoxe en día teñen unha función máis ornamental ainda que tamen pode influír na lexibilidade dun texto.
-description.es: |-
-  ![](/imaxes/5.png)
+    Trazo terminal da letra. A súa orixe data na antigüidade, cando as letras eran talladas en pedra, servindo para que os remates dos trazos fosen rectos. Hoxe en día teñen unha función máis ornamental ainda que tamen pode influír na lexibilidade dun texto.
+es:
+  title: Patín
+  description: |-
+    ![](/imaxes/5.png)
 
-  Trazo terminal de la letra. Su origen pertenece a la antigüedad, cuando las letras se tallaban en la piedra, sirviendo para que los remates de los trazos fuesen rectos. Hoy en día tienen una función más ornamental aunque también puede influír en la legibilidad de un texto.
+    Trazo terminal de la letra. Su origen pertenece a la antigüedad, cuando las letras se tallaban en la piedra, sirviendo para que los remates de los trazos fuesen rectos. Hoy en día tienen una función más ornamental aunque también puede influír en la legibilidad de un texto.

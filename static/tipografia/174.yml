@@ -2,8 +2,10 @@ id: 174
 title: 'Humanist 521'
 year: 'S. XX'
 download: null
-description.gl: 'Publicada pola fundición Bitstream, trátase dunha versión da Gill Sans creada por Eric Gill en 1931. Esta tipografía sen serifa de estilo humanista posúe unhas proporcións clásicas que lle dan unha aparencia moi singular. Resulta moi versátil grazas á gran cantidade de variantes que ten.'
-description.es: 'Publicada por la fundición Bitstream, se trata de una versión de la Gill Sans creada por Eric Gill en 1931. Esta tipografía sin serif de estilo humanista posee unas proporciones clásicas que le dan una apariencia muy singular. Resulta muy versátil gracias a la gran cantidad de variantes que tiene.'
+gl:
+  description: 'Publicada pola fundición Bitstream, trátase dunha versión da Gill Sans creada por Eric Gill en 1931. Esta tipografía sen serifa de estilo humanista posúe unhas proporcións clásicas que lle dan unha aparencia moi singular. Resulta moi versátil grazas á gran cantidade de variantes que ten.'
+es:
+  description: 'Publicada por la fundición Bitstream, se trata de una versión de la Gill Sans creada por Eric Gill en 1931. Esta tipografía sin serif de estilo humanista posee unas proporciones clásicas que le dan una apariencia muy singular. Resulta muy versátil gracias a la gran cantidad de variantes que tiene.'
 links: []
 tags_ids: []
 sections_ids:

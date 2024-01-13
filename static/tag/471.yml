@@ -1,3 +1,5 @@
 id: 471
-title.gl: Macintosh
-title.es: Macintosh
+gl:
+  title: Macintosh
+es:
+  title: Macintosh

@@ -1,3 +1,5 @@
 id: 410
-title.gl: Caras
-title.es: Caras
+gl:
+  title: Caras
+es:
+  title: Caras

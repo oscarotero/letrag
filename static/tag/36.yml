@@ -1,3 +1,5 @@
 id: 36
-title.gl: 'Roma Antiga'
-title.es: 'Roma Antigua'
+gl:
+  title: 'Roma Antiga'
+es:
+  title: 'Roma Antigua'

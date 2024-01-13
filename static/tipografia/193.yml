@@ -2,8 +2,10 @@ id: 193
 title: LCD
 year: '1981'
 download: null
-description.gl: 'Creada polo deseñador inglés Alan Birch en 1981, o seu nome débese ás iniciais de “Liquid Crystal Display” (pantalla de cristal líquido), un tipo de pantalla moi común en reloxos dixitais. Os seus caracteres están formados por unha sinxelísima retícula composta por 2 trazos verticais e 3 horizontais con algunhas excepcións de trazos diagonais. No seu tempo transmitía unha sensación futurista e de alta tecnoloxía. Hoxe, debido á evolución das novas tecnoloxías ten unhas connotacións máis retro.'
-description.es: 'Creada por el diseñador inglés Alan Birch en 1981, su nombre se debe a las iniciales de “Liquid Crystal Display” (pantalla de cristal líquido), un tipo de pantalla muy común en relojes digitales. Sus caracteres están formados por una sencillísima retícula compuesta por 2 trazos verticales y 3 horizontales con algunas excepciones de trazos diagonales. En su tiempo transmitía una sensación futurista y de alta tecnología. Hoy, debido a la evolución de las nuevas tecnologías tiene unas connotaciones más retro.'
+gl:
+  description: 'Creada polo deseñador inglés Alan Birch en 1981, o seu nome débese ás iniciais de “Liquid Crystal Display” (pantalla de cristal líquido), un tipo de pantalla moi común en reloxos dixitais. Os seus caracteres están formados por unha sinxelísima retícula composta por 2 trazos verticais e 3 horizontais con algunhas excepcións de trazos diagonais. No seu tempo transmitía unha sensación futurista e de alta tecnoloxía. Hoxe, debido á evolución das novas tecnoloxías ten unhas connotacións máis retro.'
+es:
+  description: 'Creada por el diseñador inglés Alan Birch en 1981, su nombre se debe a las iniciales de “Liquid Crystal Display” (pantalla de cristal líquido), un tipo de pantalla muy común en relojes digitales. Sus caracteres están formados por una sencillísima retícula compuesta por 2 trazos verticales y 3 horizontales con algunas excepciones de trazos diagonales. En su tiempo transmitía una sensación futurista y de alta tecnología. Hoy, debido a la evolución de las nuevas tecnologías tiene unas connotaciones más retro.'
 links: []
 tags_ids: []
 sections_ids:

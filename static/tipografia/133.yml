@@ -2,8 +2,10 @@ id: 133
 title: 'Matinee Gothic'
 year: '1996'
 download: null
-description.gl: 'Tipografía creada polo deseñador estadounidense Jim Parkinson en 1996 e publicada pola fundición FontFont. Para este deseño, Parkinson inspirouse nos letreiros dos edificios da súa cidade natal: Oakland, en California. Este estilo cadrado sen serifa era moi usado na metade do século XX e aínda hoxe se poden apreciar mostras similares nalgúns deses edificios. Ao estar destinada unicamente para titulares e rótulos, carece de minúsculas.'
-description.es: 'Tipografía creada por el diseñador estadounidense Jim Parkinson en 1996 y publicada por la fundición FontFont. Para este diseño, Parkinson se inspiró en los letreros de los edificios de su ciudad natal: Oakland, en California. Este estilo cuadrado sin serif era muy usado en la mitad del siglo XX y aún hoy se pueden apreciar muestras similares en algunos de esos edificios. Al estar destinada únicamente para titulares y rótulos, carece de minúsculas.'
+gl:
+  description: 'Tipografía creada polo deseñador estadounidense Jim Parkinson en 1996 e publicada pola fundición FontFont. Para este deseño, Parkinson inspirouse nos letreiros dos edificios da súa cidade natal: Oakland, en California. Este estilo cadrado sen serifa era moi usado na metade do século XX e aínda hoxe se poden apreciar mostras similares nalgúns deses edificios. Ao estar destinada unicamente para titulares e rótulos, carece de minúsculas.'
+es:
+  description: 'Tipografía creada por el diseñador estadounidense Jim Parkinson en 1996 y publicada por la fundición FontFont. Para este diseño, Parkinson se inspiró en los letreros de los edificios de su ciudad natal: Oakland, en California. Este estilo cuadrado sin serif era muy usado en la mitad del siglo XX y aún hoy se pueden apreciar muestras similares en algunos de esos edificios. Al estar destinada únicamente para titulares y rótulos, carece de minúsculas.'
 links: []
 tags_ids: []
 sections_ids:

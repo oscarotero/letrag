@@ -1,3 +1,5 @@
 id: 225
-title.gl: 'Wear Metro'
-title.es: 'Wear Metro'
+gl:
+  title: 'Wear Metro'
+es:
+  title: 'Wear Metro'

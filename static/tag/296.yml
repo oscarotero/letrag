@@ -1,3 +1,5 @@
 id: 296
-title.gl: 'Epígrafes gregos'
-title.es: 'Epígrafos griegos'
+gl:
+  title: 'Epígrafes gregos'
+es:
+  title: 'Epígrafos griegos'

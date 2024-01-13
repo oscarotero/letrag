@@ -1,3 +1,5 @@
 id: 435
-title.gl: 'Core fonts for the Web'
-title.es: 'Core fonts for the Web'
+gl:
+  title: 'Core fonts for the Web'
+es:
+  title: 'Core fonts for the Web'

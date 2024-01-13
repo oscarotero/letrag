@@ -1,6 +1,8 @@
 id: 2
 section_id: 0
-title.gl: 'Con serifas'
-title.es: 'Con serif'
-description.gl: 'Chámanselles tipografías con serifas ás que levan remate nos extremos. Teñen a súa orixe na antigüidade, cando se tallaban en bloques de pedra. O tallador, desenvolveu esta técnica para asegurar que os bordes das letras fosen rectos.'
-description.es: 'Son llamadas tipografías con serif las que llevan remate en los extremos. Tienen su origen en la antigüedad, cuando se tallaban en bloques de piedra. El tallador desarrolló esta técnica para asegurar que los bordes de las letras fueran rectos.'
+gl:
+  title: 'Con serifas'
+  description: 'Chámanselles tipografías con serifas ás que levan remate nos extremos. Teñen a súa orixe na antigüidade, cando se tallaban en bloques de pedra. O tallador, desenvolveu esta técnica para asegurar que os bordes das letras fosen rectos.'
+es:
+  title: 'Con serif'
+  description: 'Son llamadas tipografías con serif las que llevan remate en los extremos. Tienen su origen en la antigüedad, cuando se tallaban en bloques de piedra. El tallador desarrolló esta técnica para asegurar que los bordes de las letras fueran rectos.'

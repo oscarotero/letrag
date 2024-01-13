@@ -1,3 +1,5 @@
 id: 437
-title.gl: GNU
-title.es: GNU
+gl:
+  title: GNU
+es:
+  title: GNU

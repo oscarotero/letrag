@@ -2,17 +2,24 @@ id: 240
 title: Constantia
 year: '2003'
 download: null
-description.gl: 'Deseñada por John Hudson en 2003 para Microsoft, esta tipografía ven de serie no sistema operativo Windows Vista e no paquete de ofimática Office 2007. Trátase dunha romana moi fermosa e elegante, cun certo toque caligráfico, moito máis visible na versión itálica. A pesar das súas proporcións clásicas e unha altura do “x” relativamente pequena, a súa forma lixeiramente cadrada asegura unha boa lexibilidade incluso nos tamaños máis pequenos. Está deseñada para ser utilizada tanto en pantalla como en papel, explotando moitas das vantaxes do sistema de renderizado en pantalla ClearType, como o posicionamento de sub-pixels. Segundo Hudson “emocionaríame ver a Constantia ser utilizada na impresión e nas versións electrónicas dunha publicación. Ata fai pouco tempo, non era posible empregar as mesmas tipografías na impresión e nos medios electrónicos sen comprometer a lexibilidade ou a estética dun dos dous medios.”'
-description.es: 'Diseñada por John Hudson en 2003 para Microsoft, esta tipografía viene de serie en el sistema operativo Windows Vista y en el paquete de ofimática Office 2007. Se trata de una romana muy hermosa y elegante, con un cierto toque caligráfico, mucho más visible en la versión itálica. A pesar de sus proporciones clásicas y una altura de la “x” relativamente pequeña, su forma ligeramente cuadrada asegura una buena legibilidad incluso en los tamaños más pequeños. Está diseñada para ser utilizada tanto en pantalla como en papel, explotando muchas de las ventajas del sistema de renderizado en pantalla ClearType, como el posicionamiento de sub-pixels. Según Hudson “me emocionaría ver la Constantia ser utilizada en la impresión y en las versiones electrónicas de una publicación. Hasta hace poco tiempo, no era posible emplear las mismas tipografías en la impresión y en los medios electrónicos sin comprometer la legibilidad o la estética de uno de los dos medios.”'
-links:
-  -
-    title.gl: 'ClearType Font Collection'
-    title.es: 'ClearType Font Collection'
-    description.gl: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
-    description.es: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
-    url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
-    language: en
-    source: Microsoft
+gl:
+  description: 'Deseñada por John Hudson en 2003 para Microsoft, esta tipografía ven de serie no sistema operativo Windows Vista e no paquete de ofimática Office 2007. Trátase dunha romana moi fermosa e elegante, cun certo toque caligráfico, moito máis visible na versión itálica. A pesar das súas proporcións clásicas e unha altura do “x” relativamente pequena, a súa forma lixeiramente cadrada asegura unha boa lexibilidade incluso nos tamaños máis pequenos. Está deseñada para ser utilizada tanto en pantalla como en papel, explotando moitas das vantaxes do sistema de renderizado en pantalla ClearType, como o posicionamento de sub-pixels. Segundo Hudson “emocionaríame ver a Constantia ser utilizada na impresión e nas versións electrónicas dunha publicación. Ata fai pouco tempo, non era posible empregar as mesmas tipografías na impresión e nos medios electrónicos sen comprometer a lexibilidade ou a estética dun dos dous medios.”'
+  links:
+    -
+      title: 'ClearType Font Collection'
+      description: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
+      url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+      language: en
+      source: Microsoft
+es:
+  description: 'Diseñada por John Hudson en 2003 para Microsoft, esta tipografía viene de serie en el sistema operativo Windows Vista y en el paquete de ofimática Office 2007. Se trata de una romana muy hermosa y elegante, con un cierto toque caligráfico, mucho más visible en la versión itálica. A pesar de sus proporciones clásicas y una altura de la “x” relativamente pequeña, su forma ligeramente cuadrada asegura una buena legibilidad incluso en los tamaños más pequeños. Está diseñada para ser utilizada tanto en pantalla como en papel, explotando muchas de las ventajas del sistema de renderizado en pantalla ClearType, como el posicionamiento de sub-pixels. Según Hudson “me emocionaría ver la Constantia ser utilizada en la impresión y en las versiones electrónicas de una publicación. Hasta hace poco tiempo, no era posible emplear las mismas tipografías en la impresión y en los medios electrónicos sin comprometer la legibilidad o la estética de uno de los dos medios.”'
+  links:
+    -
+      title: 'ClearType Font Collection'
+      description: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
+      url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+      language: en
+      source: Microsoft
 tags_ids:
   - 21
   - 112

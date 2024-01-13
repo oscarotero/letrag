@@ -2,17 +2,24 @@ id: 48
 title: Frutiger
 year: '1976'
 download: null
-description.gl: 'A orixe desta tipografía débese ao encargo que recibiu Adrián Frutiger en 1968 para deseñar un sistema de sinalización acorde coa arquitectura do novo aeroporto de Charles de Gaulle ás aforas de París. Aínda que todo o mundo pensaba que utilizaría a súa famosa letra Univers, Frutiger decidiu crear un novo tipo sen serifa, que cumprira os requisitos de lexibilidade dun aeroporto, como o seu fácil e rápido recoñecemento a grandes distancias, tanto vista de fronte como en ángulo. O resultado foi unha tipografía simple, clara e robusta, que cumpría perfectamente o seu obxectivo. En 1976 ampliou a familia para a fundición Stempel e foi chamada Frutiger. Esta tipografía non é estrictamente xeométrica nin humanista, as súas formas están deseñadas para que cada caracter individual sexa recoñecido facilmente. Aínda que nun principio fose pensada para o seu uso a grande escala en aeroportos, a súa enorme calidade fixo que moitas marcas se apropiaran dela e hoxe en día é unha das tipografías preferidas nas axencias de publicidade e estudios de deseño. O seu uso é case universal, funcionando perfectamente tanto en titulares e carteis como en grandes bloques de texto.'
-description.es: 'El origen de esta tipografía se debe al encargo que recibió Adrián Frutiger en 1968 para diseñar un sistema de señalización acorde con la arquitectura del nuevo aeropuerto de Charles de Gaulles en las afueras de París. Aunque todo el mundo pensaba que utilizaría su famosa letra Univers, Frutiger decidió crear un nuevo tipo sin serif, que cumpliera los requisitos de legibilidad de un aeropuerto, como su fácil y rápido reconocimiento a grandes distancias, tanto vista de frente como en ángulo. El resultado fue una tipografía simple, clara y robusta, que cumplía perfectamente su objetivo. En 1976 amplió la familia para la fundición Stempel y fue llamada Frutiger. Esta tipografía no es estrictamente geométrica ni humanista, sus formas están diseñadas para que cada carácter individual sea reconocido fácilmente. Aunque en un principio fuese pensada para su uso a gran escala en aeropuertos, su enorme calidad hizo que muchas marcas se apropiaran de ella y hoy en día es una de las tipografías preferidas en las agencias de publicidad y estudios de diseño. Su uso es casi universal, funcionando perfectamente tanto en titulares y carteles como en grandes bloques de texto.'
-links:
-  -
-    title.gl: Frutiger
-    title.es: Frutiger
-    description.gl: 'A tipografía Frutiger na Wikipedia'
-    description.es: 'La tipografía Frutiger en la Wikipedia'
-    url: en.wikipedia.org/wiki/Frutiger
-    language: en
-    source: Wikipedia
+gl:
+  description: 'A orixe desta tipografía débese ao encargo que recibiu Adrián Frutiger en 1968 para deseñar un sistema de sinalización acorde coa arquitectura do novo aeroporto de Charles de Gaulle ás aforas de París. Aínda que todo o mundo pensaba que utilizaría a súa famosa letra Univers, Frutiger decidiu crear un novo tipo sen serifa, que cumprira os requisitos de lexibilidade dun aeroporto, como o seu fácil e rápido recoñecemento a grandes distancias, tanto vista de fronte como en ángulo. O resultado foi unha tipografía simple, clara e robusta, que cumpría perfectamente o seu obxectivo. En 1976 ampliou a familia para a fundición Stempel e foi chamada Frutiger. Esta tipografía non é estrictamente xeométrica nin humanista, as súas formas están deseñadas para que cada caracter individual sexa recoñecido facilmente. Aínda que nun principio fose pensada para o seu uso a grande escala en aeroportos, a súa enorme calidade fixo que moitas marcas se apropiaran dela e hoxe en día é unha das tipografías preferidas nas axencias de publicidade e estudios de deseño. O seu uso é case universal, funcionando perfectamente tanto en titulares e carteis como en grandes bloques de texto.'
+  links:
+    -
+      title: Frutiger
+      description: 'A tipografía Frutiger na Wikipedia'
+      url: en.wikipedia.org/wiki/Frutiger
+      language: en
+      source: Wikipedia
+es:
+  description: 'El origen de esta tipografía se debe al encargo que recibió Adrián Frutiger en 1968 para diseñar un sistema de señalización acorde con la arquitectura del nuevo aeropuerto de Charles de Gaulles en las afueras de París. Aunque todo el mundo pensaba que utilizaría su famosa letra Univers, Frutiger decidió crear un nuevo tipo sin serif, que cumpliera los requisitos de legibilidad de un aeropuerto, como su fácil y rápido reconocimiento a grandes distancias, tanto vista de frente como en ángulo. El resultado fue una tipografía simple, clara y robusta, que cumplía perfectamente su objetivo. En 1976 amplió la familia para la fundición Stempel y fue llamada Frutiger. Esta tipografía no es estrictamente geométrica ni humanista, sus formas están diseñadas para que cada carácter individual sea reconocido fácilmente. Aunque en un principio fuese pensada para su uso a gran escala en aeropuertos, su enorme calidad hizo que muchas marcas se apropiaran de ella y hoy en día es una de las tipografías preferidas en las agencias de publicidad y estudios de diseño. Su uso es casi universal, funcionando perfectamente tanto en titulares y carteles como en grandes bloques de texto.'
+  links:
+    -
+      title: Frutiger
+      description: 'La tipografía Frutiger en la Wikipedia'
+      url: en.wikipedia.org/wiki/Frutiger
+      language: en
+      source: Wikipedia
 tags_ids:
   - 46
   - 92

@@ -1,3 +1,5 @@
 id: 128
-title.gl: Louvre
-title.es: Louvre
+gl:
+  title: Louvre
+es:
+  title: Louvre

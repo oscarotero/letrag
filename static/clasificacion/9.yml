@@ -1,6 +1,8 @@
 id: 9
 section_id: 1
-title.gl: Grotescas
-title.es: Grotescas
-description.gl: 'Chamadas "Gothic" en Estados Unidos, foron as primeiras tipografías sen serifa que datan do século XIX. O ollal da "g" e a existencia dalgún contraste entre paos son as características máis salientables.'
-description.es: 'Llamadas "Gothic" en Estados Unidos, fueron las primeras tipografías sin serif que datan del siglo XIX. El ojal de la "g" y la existencia de algún contraste entre palos son las características más importantes.'
+gl:
+  title: Grotescas
+  description: 'Chamadas "Gothic" en Estados Unidos, foron as primeiras tipografías sen serifa que datan do século XIX. O ollal da "g" e a existencia dalgún contraste entre paos son as características máis salientables.'
+es:
+  title: Grotescas
+  description: 'Llamadas "Gothic" en Estados Unidos, fueron las primeras tipografías sin serif que datan del siglo XIX. El ojal de la "g" y la existencia de algún contraste entre palos son las características más importantes.'

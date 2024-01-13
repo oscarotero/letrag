@@ -1,3 +1,5 @@
 id: 58
-title.gl: 'Historia Natural de Plinio'
-title.es: 'Historia Natural de Plinio'
+gl:
+  title: 'Historia Natural de Plinio'
+es:
+  title: 'Historia Natural de Plinio'

@@ -1,3 +1,5 @@
 id: 28
-title.gl: Londres
-title.es: Londres
+gl:
+  title: Londres
+es:
+  title: Londres

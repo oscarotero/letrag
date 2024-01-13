@@ -1,3 +1,5 @@
 id: 421
-title.gl: 'Steve Matteson'
-title.es: 'Steve Matteson'
+gl:
+  title: 'Steve Matteson'
+es:
+  title: 'Steve Matteson'

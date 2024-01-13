@@ -2,8 +2,10 @@ id: 203
 title: Tagliente
 year: '1990'
 download: null
-description.gl: 'Creada pola deseñadora Judith Sutcliff en 1990, esta baseada na caligrafía do artista italiano Giovanni Antonio Tagliente, que viviu en Venecia no século <span class="caps">XVI</span>. Posúe unha altura do “x” extremadamente pequena o que fai que teña que ser empregada a tamaños moi grandes. Esta tipografía fermosa e distintiva outórgalle aos impresos unha gran elegancia. As súas maiúsculas, tanto na versión normal como na Tagliente Initials, funcionan perfectamente como iniciais independentes, combinados con outras tipografías distintas.'
-description.es: 'Creada por la diseñadora Judith Sutcliff en 1990, está basada en la caligrafía del artista italiano Giovanni Antonio Tagliente, que vivió en Venecia en el siglo <span class="caps">XVI</span>. Posee una altura de la “x” extremadamente pequeña lo que hace que se tenga que utilizar en tamaños muy grandes. Esta tipografía hermosa y distintiva le otorga a los impresos una gran elegancia. Sus mayúsculas, tanto en la versión normal como en la Tagliente Initials, funcionan perfectamente como iniciales independientes, combinadas con otras tipografías distintas.'
+gl:
+  description: 'Creada pola deseñadora Judith Sutcliff en 1990, esta baseada na caligrafía do artista italiano Giovanni Antonio Tagliente, que viviu en Venecia no século <span class="caps">XVI</span>. Posúe unha altura do “x” extremadamente pequena o que fai que teña que ser empregada a tamaños moi grandes. Esta tipografía fermosa e distintiva outórgalle aos impresos unha gran elegancia. As súas maiúsculas, tanto na versión normal como na Tagliente Initials, funcionan perfectamente como iniciais independentes, combinados con outras tipografías distintas.'
+es:
+  description: 'Creada por la diseñadora Judith Sutcliff en 1990, está basada en la caligrafía del artista italiano Giovanni Antonio Tagliente, que vivió en Venecia en el siglo <span class="caps">XVI</span>. Posee una altura de la “x” extremadamente pequeña lo que hace que se tenga que utilizar en tamaños muy grandes. Esta tipografía hermosa y distintiva le otorga a los impresos una gran elegancia. Sus mayúsculas, tanto en la versión normal como en la Tagliente Initials, funcionan perfectamente como iniciales independientes, combinadas con otras tipografías distintas.'
 links: []
 tags_ids: []
 sections_ids:

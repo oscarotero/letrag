@@ -1,12 +1,14 @@
 id: 39
-title.gl: Vértice
-title.es: Vértice
 section_id: 106
-description.gl: |-
-  ![](/imaxes/8.png)
+gl:
+  title: Vértice
+  description: |-
+    ![](/imaxes/8.png)
 
-  Esquina exterior da letra onde se xuntan dous trazos. As letras ‘A’ e ‘V’ teñen un vértice cada unha e o ‘M’ e o ‘N’ teñen dous.
-description.es: |-
-  ![](/imaxes/8.png)
+    Esquina exterior da letra onde se xuntan dous trazos. As letras ‘A’ e ‘V’ teñen un vértice cada unha e o ‘M’ e o ‘N’ teñen dous.
+es:
+  title: Vértice
+  description: |-
+    ![](/imaxes/8.png)
 
-  Esquina exterior de la letra donde se juntan dos trazos. Las letras ‘A’ y ‘V’ tienen un vértice cada una y la ‘M’ y la ‘N’ tienen dos.
+    Esquina exterior de la letra donde se juntan dos trazos. Las letras ‘A’ y ‘V’ tienen un vértice cada una y la ‘M’ y la ‘N’ tienen dos.

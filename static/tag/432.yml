@@ -1,3 +1,5 @@
 id: 432
-title.gl: Clásica
-title.es: Clásica
+gl:
+  title: Clásica
+es:
+  title: Clásica

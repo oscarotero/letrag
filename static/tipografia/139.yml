@@ -2,8 +2,10 @@ id: 139
 title: Neographik
 year: 'S. XX'
 download: null
-description.gl: 'Este abecedario foi creado polo equipo de deseño da fundición Monotype. Trátase dunha tipografía compacta, con proporcións cadradas e algúns bordes redondeados. Os seus trazos son bastante grosos e os ascendentes e descendentes moi curtos. É ideal para empregar en titulares, publicidade e carteis grazas á súa aparencia potente que proporciona un gran impacto.'
-description.es: 'Este abecedario fue creado por el equipo de diseño de la fundición Monotype. Se trata de una tipografía compacta, con proporciones cuadradas y algunos bordes redondeados. Sus trazos son bastante gruesos y los ascendentes y descendentes muy cortos. Es ideal para emplear en titulares, publicidad y carteles gracias a su apariencia potente que proporciona un gran impacto.'
+gl:
+  description: 'Este abecedario foi creado polo equipo de deseño da fundición Monotype. Trátase dunha tipografía compacta, con proporcións cadradas e algúns bordes redondeados. Os seus trazos son bastante grosos e os ascendentes e descendentes moi curtos. É ideal para empregar en titulares, publicidade e carteis grazas á súa aparencia potente que proporciona un gran impacto.'
+es:
+  description: 'Este abecedario fue creado por el equipo de diseño de la fundición Monotype. Se trata de una tipografía compacta, con proporciones cuadradas y algunos bordes redondeados. Sus trazos son bastante gruesos y los ascendentes y descendentes muy cortos. Es ideal para emplear en titulares, publicidad y carteles gracias a su apariencia potente que proporciona un gran impacto.'
 links: []
 tags_ids: []
 sections_ids:

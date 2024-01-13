@@ -1,3 +1,5 @@
 id: 232
-title.gl: 'Clarendon Press'
-title.es: 'Clarendon Press'
+gl:
+  title: 'Clarendon Press'
+es:
+  title: 'Clarendon Press'

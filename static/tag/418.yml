@@ -1,3 +1,5 @@
 id: 418
-title.gl: 'Windows Vista'
-title.es: 'Windows Vista'
+gl:
+  title: 'Windows Vista'
+es:
+  title: 'Windows Vista'

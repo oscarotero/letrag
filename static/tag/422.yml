@@ -1,3 +1,5 @@
 id: 422
-title.gl: 'Robin Nicholas'
-title.es: 'Robin Nicholas'
+gl:
+  title: 'Robin Nicholas'
+es:
+  title: 'Robin Nicholas'

@@ -1,3 +1,5 @@
 id: 263
-title.gl: 'Font Bureau'
-title.es: 'Font Bureau'
+gl:
+  title: 'Font Bureau'
+es:
+  title: 'Font Bureau'

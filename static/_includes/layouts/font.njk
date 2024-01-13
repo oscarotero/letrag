@@ -22,7 +22,7 @@ layout: layouts/base.njk
   <p class="descricion abaixo1">
     {% for id in designers_ids %}
     {% set designer = search.page("type=designer id=" + id) %}
-    <a href="{{ designer.data.url }}">{{ designer.data.title }}</a>{% if not loop.last %}, {% endif %}
+    <a href="{{ designer.url }}">{{ designer.title }}</a>{% if not loop.last %}, {% endif %}
     {% endfor %}
     ({{ year }})
   </p>
@@ -37,7 +37,7 @@ layout: layouts/base.njk
 
   {% for id in tags_ids %}
   {% set tag = search.page("type=tag id=" + id) %}
-  <a href="{{ tag.data.url }}">{{ tag.data.title }}</a>{% if not loop.last %}, {% endif %}
+  <a href="{{ tag.url }}">{{ tag.title }}</a>{% if not loop.last %}, {% endif %}
   {% endfor %}
 </div>
 {% endif %}

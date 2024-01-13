@@ -1,3 +1,5 @@
 id: 456
-title.gl: Turco
-title.es: Turco
+gl:
+  title: Turco
+es:
+  title: Turco

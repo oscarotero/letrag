@@ -1,3 +1,5 @@
 id: 230
-title.gl: 'Linotype''s International Digital Type Design Contest'
-title.es: 'Linotype''s International Digital Type Design Contest'
+gl:
+  title: 'Linotype''s International Digital Type Design Contest'
+es:
+  title: 'Linotype''s International Digital Type Design Contest'

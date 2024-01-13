@@ -1,3 +1,5 @@
 id: 105
-title.gl: 'Walter Tracy'
-title.es: 'Walter Tracy'
+gl:
+  title: 'Walter Tracy'
+es:
+  title: 'Walter Tracy'

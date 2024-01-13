@@ -1,6 +1,8 @@
 id: 86
-title.gl: 'Sistema Imperial Británico de Medidas'
-title.es: 'Sistema Imperial Británico de Medidas'
 section_id: 110
-description.gl: 'Sistema británico de pesos e medidas que foi empregado polas colonias e partir do cal derivouse o sistema estadounidense. Actualmente, o Sistema Imperial Britanico inclúe o sistema métrico.'
-description.es: 'Sistema británico de pesos y medidas que fue empleado por las colonias y a partir del cual se derivó el sistema estadounidense. Actualmente, el Sistema Imperial Britanico incluye el sistema métrico.'
+gl:
+  title: 'Sistema Imperial Británico de Medidas'
+  description: 'Sistema británico de pesos e medidas que foi empregado polas colonias e partir do cal derivouse o sistema estadounidense. Actualmente, o Sistema Imperial Britanico inclúe o sistema métrico.'
+es:
+  title: 'Sistema Imperial Británico de Medidas'
+  description: 'Sistema británico de pesos y medidas que fue empleado por las colonias y a partir del cual se derivó el sistema estadounidense. Actualmente, el Sistema Imperial Britanico incluye el sistema métrico.'

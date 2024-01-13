@@ -1,3 +1,5 @@
 id: 99
-title.gl: Católica
-title.es: Católica
+gl:
+  title: Católica
+es:
+  title: Católica

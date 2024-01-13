@@ -1,3 +1,5 @@
 id: 415
-title.gl: Teatro
-title.es: Teatro
+gl:
+  title: Teatro
+es:
+  title: Teatro

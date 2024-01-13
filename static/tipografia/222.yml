@@ -2,17 +2,24 @@ id: 222
 title: Consolas
 year: '2004'
 download: null
-description.gl: 'Deseñada en 2004 por Microsoft, trátase dunha tipografía monoespazada pensada exclusivamente para programación. Optimizada para a tecnoloxía ClearType que permite unha mellor lectura en pantallas <span class="caps">TFT</span>, a Consolas resulta moi efectiva reducindo o cansazo dos ollos ao estar moito tempo diante do monitor. De feito, moitos programadores e desarrolladores web considerana como a mellor opción existente. Resulta máis económica en espazo que outras tipografías similares como a Courier aínda que debido a posuír unha menor altura do “x” pode ser preferible aumentar lixeiramente o tamaño. Forma parte do novo paquete de seis tipografías que acompañan ao sistema operativo Windows Vista: Cambria, Constantia, Corbel, Candara, Calibri e Consolas; todas comezan pola letra “C” para facilitar a súa busca nos menús dos distintos programas.'
-description.es: 'Diseñada en 2004 por Microsoft, se trata de una tipografía monoespaciada pensada exclusivamente para programación. Optimizada para la tecnología ClearType que permite una mejor lectura en pantallas <span class="caps">TFT</span>, la Consolas resulta muy efectva reduciendo el cansancio de los ojos al estar mucho tiempo delante del monitor. De hecho, muchos programadores y desarrolladores web la consideran como la mejor opción existente. Resulta más económica en espacio que otras tipografías similares como la Courier aunque debido a poseer una menor altura de la “x” puede ser preferible aumentar ligeramente el tamaño. Forma parte del nuevo paquete de seis tipografías que acompañan al sistema operativo Windows Vista: Cambria, Constantia, Corbel, Candara, Calibri y Consolas; todas empiezan por la letra “C” para facilitar su búsqueda en los menús de los distintos programas.'
-links:
-  -
-    title.gl: 'ClearType Font Collection'
-    title.es: 'ClearType Font Collection'
-    description.gl: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
-    description.es: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
-    url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
-    language: en
-    source: Microsoft
+gl:
+  description: 'Deseñada en 2004 por Microsoft, trátase dunha tipografía monoespazada pensada exclusivamente para programación. Optimizada para a tecnoloxía ClearType que permite unha mellor lectura en pantallas <span class="caps">TFT</span>, a Consolas resulta moi efectiva reducindo o cansazo dos ollos ao estar moito tempo diante do monitor. De feito, moitos programadores e desarrolladores web considerana como a mellor opción existente. Resulta máis económica en espazo que outras tipografías similares como a Courier aínda que debido a posuír unha menor altura do “x” pode ser preferible aumentar lixeiramente o tamaño. Forma parte do novo paquete de seis tipografías que acompañan ao sistema operativo Windows Vista: Cambria, Constantia, Corbel, Candara, Calibri e Consolas; todas comezan pola letra “C” para facilitar a súa busca nos menús dos distintos programas.'
+  links:
+    -
+      title: 'ClearType Font Collection'
+      description: 'Exemplo e descargas das tipografías que Microsoft sacou co sistema operativo Windows Vista e Office 2007 e que aproveitan a tecnoloxía de renderizado ClearType.'
+      url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+      language: en
+      source: Microsoft
+es:
+  description: 'Diseñada en 2004 por Microsoft, se trata de una tipografía monoespaciada pensada exclusivamente para programación. Optimizada para la tecnología ClearType que permite una mejor lectura en pantallas <span class="caps">TFT</span>, la Consolas resulta muy efectva reduciendo el cansancio de los ojos al estar mucho tiempo delante del monitor. De hecho, muchos programadores y desarrolladores web la consideran como la mejor opción existente. Resulta más económica en espacio que otras tipografías similares como la Courier aunque debido a poseer una menor altura de la “x” puede ser preferible aumentar ligeramente el tamaño. Forma parte del nuevo paquete de seis tipografías que acompañan al sistema operativo Windows Vista: Cambria, Constantia, Corbel, Candara, Calibri y Consolas; todas empiezan por la letra “C” para facilitar su búsqueda en los menús de los distintos programas.'
+  links:
+    -
+      title: 'ClearType Font Collection'
+      description: 'Ejemplo y descargas de las tipografías que Microsoft sacó con su sistema operativo Windows Vista y Office 2007 y que aprovechan la tecnología de renderizado ClearType.'
+      url: 'http://www.microsoft.com/typography/ClearTypeFonts.mspx'
+      language: en
+      source: Microsoft
 tags_ids:
   - 21
   - 20

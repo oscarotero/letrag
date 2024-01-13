@@ -1,6 +1,8 @@
 id: 106
 section_id: 0
-title.gl: 'Partes da letra'
-title.es: 'Partes de la letra'
-description.gl: 'Partes que conforman os caracteres tipográficos'
-description.es: 'Partes que conforman los caracteres tipográficos'
+gl:
+  title: 'Partes da letra'
+  description: 'Partes que conforman os caracteres tipográficos'
+es:
+  title: 'Partes de la letra'
+  description: 'Partes que conforman los caracteres tipográficos'

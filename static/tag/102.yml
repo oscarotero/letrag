@@ -1,3 +1,5 @@
 id: 102
-title.gl: 'The Times'
-title.es: 'The Times'
+gl:
+  title: 'The Times'
+es:
+  title: 'The Times'

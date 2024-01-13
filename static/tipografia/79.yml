@@ -2,8 +2,10 @@ id: 79
 title: Arioso
 year: '1995'
 download: null
-description.gl: 'Deseñada por Gottfried Pott en 1995, esta tipografía está baseada nas letras manuscritas italianas do século XIV e XV. Este estilo chanceleresco une as formas maiúsculas romanas coas minúsculas carolinxias. Os movementos da pluma son visibles aportándolle lexibilidade ademais de reforzar a sensación caligráfica. Como a maioría das letras de chanceler, esta tipografía funciona moito mellor en tamaños a partir de 12 puntos.'
-description.es: 'Diseñada por Gottfried Pott en 1995, esta tipografía está basada en las letras manuscritas italianas del siglo XIV y XV. Este estilo cancilleresco une las formas mayúsculas romanas con las minúsculas carolingias. Los movimientos de la pluma son visibles aportándole legibilidad además de reforzar la sensación caligráfica. Como la mayoría de las letras de canciller, esta tipografía funciona mucho mejor en tamaños a partir de 12 puntos.'
+gl:
+  description: 'Deseñada por Gottfried Pott en 1995, esta tipografía está baseada nas letras manuscritas italianas do século XIV e XV. Este estilo chanceleresco une as formas maiúsculas romanas coas minúsculas carolinxias. Os movementos da pluma son visibles aportándolle lexibilidade ademais de reforzar a sensación caligráfica. Como a maioría das letras de chanceler, esta tipografía funciona moito mellor en tamaños a partir de 12 puntos.'
+es:
+  description: 'Diseñada por Gottfried Pott en 1995, esta tipografía está basada en las letras manuscritas italianas del siglo XIV y XV. Este estilo cancilleresco une las formas mayúsculas romanas con las minúsculas carolingias. Los movimientos de la pluma son visibles aportándole legibilidad además de reforzar la sensación caligráfica. Como la mayoría de las letras de canciller, esta tipografía funciona mucho mejor en tamaños a partir de 12 puntos.'
 links: []
 tags_ids:
   - 52

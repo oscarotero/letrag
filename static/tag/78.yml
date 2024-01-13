@@ -1,3 +1,5 @@
 id: 78
-title.gl: 'II Guerra Mundial'
-title.es: 'II Guerra Mundial'
+gl:
+  title: 'II Guerra Mundial'
+es:
+  title: 'II Guerra Mundial'

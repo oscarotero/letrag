@@ -1,3 +1,5 @@
 id: 82
-title.gl: 'Capitais lombardas'
-title.es: 'Capitales lombardas'
+gl:
+  title: 'Capitais lombardas'
+es:
+  title: 'Capitales lombardas'

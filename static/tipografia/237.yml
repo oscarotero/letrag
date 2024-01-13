@@ -2,8 +2,10 @@ id: 237
 title: Antypepatics
 year: '2000'
 download: www.typephases.com/specimen/1.html
-description.gl: 'Joan M. Mas e o seu estudio Typephases ofrece gratuitamente esta orixinal e divertida familia tipográfica de debuxos feitos estrictamente con caracteres tipográficos. Segun o seu autor, “a súa creación foi realmente divertida e un bo exercicio de deseño gráfico e creatividade: a construcción de retratos imaxinarios partindo dun sistema moi limitado de formas”. A familia posúe dous membros: a Lletraparits e a Antypepatics, ambos creados no ano 2000.'
-description.es: 'Joan M. Mas y su estudio Typephases ofrece gratuitamente esta original y divertida familia tipográfica de dibujos hechos estrictamente con caracteres tipográficos. Según su autor, “su creación fue realmente divertida y un buen ejercicio de diseño gráfico y creatividad: la construcción de retratos imaginarios partiendo de un sistema muy limitado de formas”. La familia posee dos miembros: la Lletraparits y la Antypepatics, ambos creados en el año 2000.'
+gl:
+  description: 'Joan M. Mas e o seu estudio Typephases ofrece gratuitamente esta orixinal e divertida familia tipográfica de debuxos feitos estrictamente con caracteres tipográficos. Segun o seu autor, “a súa creación foi realmente divertida e un bo exercicio de deseño gráfico e creatividade: a construcción de retratos imaxinarios partindo dun sistema moi limitado de formas”. A familia posúe dous membros: a Lletraparits e a Antypepatics, ambos creados no ano 2000.'
+es:
+  description: 'Joan M. Mas y su estudio Typephases ofrece gratuitamente esta original y divertida familia tipográfica de dibujos hechos estrictamente con caracteres tipográficos. Según su autor, “su creación fue realmente divertida y un buen ejercicio de diseño gráfico y creatividad: la construcción de retratos imaginarios partiendo de un sistema muy limitado de formas”. La familia posee dos miembros: la Lletraparits y la Antypepatics, ambos creados en el año 2000.'
 links: []
 tags_ids:
   - 411

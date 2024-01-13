@@ -2,8 +2,10 @@ id: 52
 title: 'Ocean Sans'
 year: '1993'
 download: null
-description.gl: 'Foi deseñada en 1993 por Chong Wah de Monotype. Esta inusual tipografía sen serifa debido ao seu pronunciado contraste entre paus finos e grosos fai dela unha boa opción para titulares, publicidade e todo tipo de exhibicións. Posúe unha grande altura do “x” con ascendentes e descendentes curtos e unha anchura estreita polo que se adecúa a innumerables situacións tipográficas.'
-description.es: 'Fue diseñada en 1993 por Chong Wah de Monotype. Esta inusual tipografía sin serif debido a su pronunciado contraste de palos finos y gruesos hace de ella una buena opción para titulares, publicidad y todo tipo de exhibición. Posee una gran altura de la “x” con ascendentes y descendientes cortos y una anchura estrecha por lo que se adecua a innumerables situaciones tipográficas.'
+gl:
+  description: 'Foi deseñada en 1993 por Chong Wah de Monotype. Esta inusual tipografía sen serifa debido ao seu pronunciado contraste entre paus finos e grosos fai dela unha boa opción para titulares, publicidade e todo tipo de exhibicións. Posúe unha grande altura do “x” con ascendentes e descendentes curtos e unha anchura estreita polo que se adecúa a innumerables situacións tipográficas.'
+es:
+  description: 'Fue diseñada en 1993 por Chong Wah de Monotype. Esta inusual tipografía sin serif debido a su pronunciado contraste de palos finos y gruesos hace de ella una buena opción para titulares, publicidad y todo tipo de exhibición. Posee una gran altura de la “x” con ascendentes y descendientes cortos y una anchura estrecha por lo que se adecua a innumerables situaciones tipográficas.'
 links: []
 tags_ids:
   - 134

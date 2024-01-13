@@ -2,49 +2,72 @@ id: 6
 title: Helvetica
 year: 1956-58
 download: null
-description.gl: 'Unha das tipografías máis populares do mundo. Foi deseñada por Max Miedinger baixo o encargo de Edouard Hoffmann, da Fundición Hass, que quería modernizar a tipografía Haas Grotesk. Esta, a súa vez, estaba baseada na Akzidenz Grotesk, da Fundición Berthold de finais do século XIX. O resultado foi a Neue Haas Grotesk. Durante os anos 1957 a 1961, a tipografía conservou o seu nome orixinal, pero ao facerse a Fundición Stempel cos dereitos dos deseños orixinais, esta cámbialle o nome a Helvética (adaptación de “Helvetia”, o nome latino de Suíza) e amplía a familia incluíndo unha serie completa de anchos e pesos. Nos seguintes anos, a familia da Helvética foi ampliada con distintos anchos, pero estes non estaban tan ben coordinados uns cos outros. Ata que en 1983, Linotype e a Fundición Stempel redeseñan a Neue Helvética proporcionando unha colección de anchos e pesos coherente e un deseño máis actual. A Helvética é unha tipografía cunha alta lexibilidade e eficacia en todo tipo de situacións e foi grazas a ela, pola que Max Miedinger pasou á historia da tipografía.'
-description.es: 'Una de las tipografías más populares del mundo. Fue diseñada por Max Miedinger bajo el encargo de Edouard Hoffmann, de la Fundición Hass, que quería modernizar la tipografía Haas Grotesk. Esta, a su vez, estaba basada en la Akzidenz Grotesk, de la Fundición Berthold de finales del siglo XIX. El resultado fue la Neue Haas Grotesk. Durante los años 1957 a 1961, la tipografía conservó su nombre original, pero al hacerse la Fundición Stempel con los derechos de los diseños originales, esta le cambia el nombre a Helvética (adaptación de “Helvetia”, el nombre latino de Suiza) y amplía la familia incluyendo una serie completa de anchos y pesos. En los siguientes años, la familia de la Helvética fue ampliada con distintos anchos, pero estos no estaban tan bien coordinados los unos con los otros. Hasta que en 1983, Linotype y la Fundición Stempel rediseñan la Neue Helvética proporcionando una colección de anchos y pesos coherente y un diseño más actual. La Helvética es una tipografía con una alta legibilidad y eficacia en todo tipo de situaciones y fue gracias a ella, por la que Max Miedinger pasó a la historia de la tipografía.'
-links:
-  -
-    title.gl: 'Xogo Helvetica vs. Arial'
-    title.es: 'Juego Helvetica vs. Arial'
-    description.gl: 'Xogo de loita en rede. Controla a Helvética e acaba co abecedario da Arial antes de que ela acabe co teu.'
-    description.es: 'Juego de lucha en red. Controla la Helvética y acaba con el abecedario de la Arial antes de que ella acabe con el tuyo.'
-    url: www.mimeartist.com/helvetica/
-    language: en
-    source: Mimeartist
-  -
-    title.gl: 'Como recoñecer a Arial?'
-    title.es: '¿Cómo reconocer la Arial?'
-    description.gl: 'Principales diferencias entre a Helvetica e a Arial para podelas recoñecer fácilmente.'
-    description.es: 'Principales diferencias entre la Helvetica y la Arial para poderlas reconocer fácilmente.'
-    url: www.unostiposduros.com/paginas/arial1.html
-    language: es
-    source: 'Unos tipos duros'
-  -
-    title.gl: 'Xogo Arial ou Helvética?'
-    title.es: 'Juego ¿Arial o Helvética?'
-    description.gl: 'Xogo onde hai que averiguar cal foi a tipografía empregada en cada texto: Arial ou Helvética.'
-    description.es: 'Juego donde hai que averiguar cual fue la tipografía utilizada en cada texto: Arial o Helvética.'
-    url: www.iliveonyourvisits.com/helvetica/
-    language: en
-    source: Iliveonyourvisits
-  -
-    title.gl: Helvetica
-    title.es: Helvetica
-    description.gl: 'Artigo sobre a tipografía Helvética na Wikipedia'
-    description.es: 'Artículo sobre la tipografía Helvética en la Wikipedia'
-    url: en.wikipedia.org/wiki/Helvetica
-    language: en
-    source: Wikipedia
-  -
-    title.gl: 'Helvetica (a película)'
-    title.es: 'Helvetica (la película)'
-    description.gl: 'Documental dirixido por Gary Hustwit onde repasa a historia desta tipografía con motivo do seu 50 aniversario. A pelicula fai unha exploración a través dos espazos urbans das maiores cidades do mundo onde habita esta tipografía, dialogando con recoñe'
-    description.es: 'Documental dirigido por Gary Hustwit donde repasa la historia de esta tipografía con motivo de su 50 aniversario. La película hace una exploración a través de los espacios urbanos de las mayores ciudades del mundo donde habita esta tipografía, dialog'
-    url: www.helveticafilm.com/
-    language: en
-    source: ''
+gl:
+  description: 'Unha das tipografías máis populares do mundo. Foi deseñada por Max Miedinger baixo o encargo de Edouard Hoffmann, da Fundición Hass, que quería modernizar a tipografía Haas Grotesk. Esta, a súa vez, estaba baseada na Akzidenz Grotesk, da Fundición Berthold de finais do século XIX. O resultado foi a Neue Haas Grotesk. Durante os anos 1957 a 1961, a tipografía conservou o seu nome orixinal, pero ao facerse a Fundición Stempel cos dereitos dos deseños orixinais, esta cámbialle o nome a Helvética (adaptación de “Helvetia”, o nome latino de Suíza) e amplía a familia incluíndo unha serie completa de anchos e pesos. Nos seguintes anos, a familia da Helvética foi ampliada con distintos anchos, pero estes non estaban tan ben coordinados uns cos outros. Ata que en 1983, Linotype e a Fundición Stempel redeseñan a Neue Helvética proporcionando unha colección de anchos e pesos coherente e un deseño máis actual. A Helvética é unha tipografía cunha alta lexibilidade e eficacia en todo tipo de situacións e foi grazas a ela, pola que Max Miedinger pasou á historia da tipografía.'
+  links:
+    -
+      title: 'Xogo Helvetica vs. Arial'
+      description: 'Xogo de loita en rede. Controla a Helvética e acaba co abecedario da Arial antes de que ela acabe co teu.'
+      url: www.mimeartist.com/helvetica/
+      language: en
+      source: Mimeartist
+    -
+      title: 'Como recoñecer a Arial?'
+      description: 'Principales diferencias entre a Helvetica e a Arial para podelas recoñecer fácilmente.'
+      url: www.unostiposduros.com/paginas/arial1.html
+      language: es
+      source: 'Unos tipos duros'
+    -
+      title: 'Xogo Arial ou Helvética?'
+      description: 'Xogo onde hai que averiguar cal foi a tipografía empregada en cada texto: Arial ou Helvética.'
+      url: www.iliveonyourvisits.com/helvetica/
+      language: en
+      source: Iliveonyourvisits
+    -
+      title: Helvetica
+      description: 'Artigo sobre a tipografía Helvética na Wikipedia'
+      url: en.wikipedia.org/wiki/Helvetica
+      language: en
+      source: Wikipedia
+    -
+      title: 'Helvetica (a película)'
+      description: 'Documental dirixido por Gary Hustwit onde repasa a historia desta tipografía con motivo do seu 50 aniversario. A pelicula fai unha exploración a través dos espazos urbans das maiores cidades do mundo onde habita esta tipografía, dialogando con recoñe'
+      url: www.helveticafilm.com/
+      language: en
+      source: ''
+es:
+  description: 'Una de las tipografías más populares del mundo. Fue diseñada por Max Miedinger bajo el encargo de Edouard Hoffmann, de la Fundición Hass, que quería modernizar la tipografía Haas Grotesk. Esta, a su vez, estaba basada en la Akzidenz Grotesk, de la Fundición Berthold de finales del siglo XIX. El resultado fue la Neue Haas Grotesk. Durante los años 1957 a 1961, la tipografía conservó su nombre original, pero al hacerse la Fundición Stempel con los derechos de los diseños originales, esta le cambia el nombre a Helvética (adaptación de “Helvetia”, el nombre latino de Suiza) y amplía la familia incluyendo una serie completa de anchos y pesos. En los siguientes años, la familia de la Helvética fue ampliada con distintos anchos, pero estos no estaban tan bien coordinados los unos con los otros. Hasta que en 1983, Linotype y la Fundición Stempel rediseñan la Neue Helvética proporcionando una colección de anchos y pesos coherente y un diseño más actual. La Helvética es una tipografía con una alta legibilidad y eficacia en todo tipo de situaciones y fue gracias a ella, por la que Max Miedinger pasó a la historia de la tipografía.'
+  links:
+    -
+      title: 'Juego Helvetica vs. Arial'
+      description: 'Juego de lucha en red. Controla la Helvética y acaba con el abecedario de la Arial antes de que ella acabe con el tuyo.'
+      url: www.mimeartist.com/helvetica/
+      language: en
+      source: Mimeartist
+    -
+      title: '¿Cómo reconocer la Arial?'
+      description: 'Principales diferencias entre la Helvetica y la Arial para poderlas reconocer fácilmente.'
+      url: www.unostiposduros.com/paginas/arial1.html
+      language: es
+      source: 'Unos tipos duros'
+    -
+      title: 'Juego ¿Arial o Helvética?'
+      description: 'Juego donde hai que averiguar cual fue la tipografía utilizada en cada texto: Arial o Helvética.'
+      url: www.iliveonyourvisits.com/helvetica/
+      language: en
+      source: Iliveonyourvisits
+    -
+      title: Helvetica
+      description: 'Artículo sobre la tipografía Helvética en la Wikipedia'
+      url: en.wikipedia.org/wiki/Helvetica
+      language: en
+      source: Wikipedia
+    -
+      title: 'Helvetica (la película)'
+      description: 'Documental dirigido por Gary Hustwit donde repasa la historia de esta tipografía con motivo de su 50 aniversario. La película hace una exploración a través de los espacios urbanos de las mayores ciudades del mundo donde habita esta tipografía, dialog'
+      url: www.helveticafilm.com/
+      language: en
+      source: ''
 tags_ids:
   - 33
   - 34

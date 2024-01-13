@@ -1,6 +1,8 @@
 id: 14
 section_id: 4
-title.gl: Fracturada
-title.es: Fracturada
-description.gl: 'Tipografía de tradición xermana e gran beleza que apareceu no século XVI e que se caracterizan por uns rasgos fracturados e formas moi sofisticadas. As maiúsculas posúen unha ornamentación característica.'
-description.es: 'Tipografía de tradición germana y gran belleza que apareció en el siglo XVI y que se caracteriza por unos rasgos fracturados y formas muy sofisticadas. Las mayúsculas poseen una ornamentación característica.'
+gl:
+  title: Fracturada
+  description: 'Tipografía de tradición xermana e gran beleza que apareceu no século XVI e que se caracterizan por uns rasgos fracturados e formas moi sofisticadas. As maiúsculas posúen unha ornamentación característica.'
+es:
+  title: Fracturada
+  description: 'Tipografía de tradición germana y gran belleza que apareció en el siglo XVI y que se caracteriza por unos rasgos fracturados y formas muy sofisticadas. Las mayúsculas poseen una ornamentación característica.'

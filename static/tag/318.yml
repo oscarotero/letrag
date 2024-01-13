@@ -1,3 +1,5 @@
 id: 318
-title.gl: Cool
-title.es: Cool
+gl:
+  title: Cool
+es:
+  title: Cool

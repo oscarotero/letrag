@@ -1,3 +1,5 @@
 id: 331
-title.gl: 'Wedding Text'
-title.es: 'Wedding Text'
+gl:
+  title: 'Wedding Text'
+es:
+  title: 'Wedding Text'

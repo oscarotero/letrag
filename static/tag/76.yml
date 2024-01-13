@@ -1,3 +1,5 @@
 id: 76
-title.gl: 'C.E. Weber'
-title.es: 'C.E. Weber'
+gl:
+  title: 'C.E. Weber'
+es:
+  title: 'C.E. Weber'

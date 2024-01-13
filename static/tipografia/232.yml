@@ -2,25 +2,36 @@ id: 232
 title: Catull
 year: '1982'
 download: null
-description.gl: 'Deseñada polo tipógrafo alemán Gustav Jaeger en 1982 para a fundición Berthold, fíxose moi popular por ser a tipografía empregada por Google para o seu logotipo a partires de 1999. Para a súa realización baseouse nalgúns deseños que Frederic Goudy realizou para a Monotype Corporation. A súa forte influencia caligráfica cun gran contraste entre os grosores dos trazos xunto coas peculiares serifas, fai que teña unha aparencia moi singular e que sexa fácilmente recoñecida. Grazas á gran altura do “x” resulta apropiada tanto para texto como para exhibición.'
-description.es: 'Diseñada por el tipógrafo alemán Gustav Jaeger en 1982 para la fundición Berthold, se hizo muy popular por ser la tipografía utilizada por Google para su logotipo a partir de 1999. Para su realización se basó en algunos diseños que Frederic Goudy realizó para la Monotype Corporation. Su fuerte influencia caligráfica con un gran contraste entre los grosores de los trazos junto con los peculiares serifs, hace que tenga una apariencia muy singular y que sea fácilmente reconocida. Gracias a la gran altura de la “x” resulta apropiada tanto para texto como para exhibición.'
-links:
-  -
-    title.gl: Google
-    title.es: Google
-    description.gl: 'O buscador de webs máis famoso do mundo'
-    description.es: 'El buscador de webs más famoso del mundo'
-    url: www.google.com
-    language: es
-    source: ''
-  -
-    title.gl: 'Google logos'
-    title.es: 'Google logos'
-    description.gl: 'Colección de logotipos de Google para descargar.'
-    description.es: 'Colección de logotipos de Google para descargar.'
-    url: www.google.com/intl/es/logos.html
-    language: es
-    source: Google
+gl:
+  description: 'Deseñada polo tipógrafo alemán Gustav Jaeger en 1982 para a fundición Berthold, fíxose moi popular por ser a tipografía empregada por Google para o seu logotipo a partires de 1999. Para a súa realización baseouse nalgúns deseños que Frederic Goudy realizou para a Monotype Corporation. A súa forte influencia caligráfica cun gran contraste entre os grosores dos trazos xunto coas peculiares serifas, fai que teña unha aparencia moi singular e que sexa fácilmente recoñecida. Grazas á gran altura do “x” resulta apropiada tanto para texto como para exhibición.'
+  links:
+    -
+      title: Google
+      description: 'O buscador de webs máis famoso do mundo'
+      url: www.google.com
+      language: es
+      source: ''
+    -
+      title: 'Google logos'
+      description: 'Colección de logotipos de Google para descargar.'
+      url: www.google.com/intl/es/logos.html
+      language: es
+      source: Google
+es:
+  description: 'Diseñada por el tipógrafo alemán Gustav Jaeger en 1982 para la fundición Berthold, se hizo muy popular por ser la tipografía utilizada por Google para su logotipo a partir de 1999. Para su realización se basó en algunos diseños que Frederic Goudy realizó para la Monotype Corporation. Su fuerte influencia caligráfica con un gran contraste entre los grosores de los trazos junto con los peculiares serifs, hace que tenga una apariencia muy singular y que sea fácilmente reconocida. Gracias a la gran altura de la “x” resulta apropiada tanto para texto como para exhibición.'
+  links:
+    -
+      title: Google
+      description: 'El buscador de webs más famoso del mundo'
+      url: www.google.com
+      language: es
+      source: ''
+    -
+      title: 'Google logos'
+      description: 'Colección de logotipos de Google para descargar.'
+      url: www.google.com/intl/es/logos.html
+      language: es
+      source: Google
 tags_ids:
   - 77
   - 137

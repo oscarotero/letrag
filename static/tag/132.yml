@@ -1,3 +1,5 @@
 id: 132
-title.gl: 'Alternate Gothic'
-title.es: 'Alternate Gothic'
+gl:
+  title: 'Alternate Gothic'
+es:
+  title: 'Alternate Gothic'

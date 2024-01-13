@@ -1,6 +1,8 @@
 id: 113
 section_id: 107
-title.gl: Medidas
-title.es: Medidas
-description.gl: 'Unidades de medida tipográfica'
-description.es: 'Unidades de medida tipográfica'
+gl:
+  title: Medidas
+  description: 'Unidades de medida tipográfica'
+es:
+  title: Medidas
+  description: 'Unidades de medida tipográfica'

@@ -1,6 +1,8 @@
 id: 39
 section_id: 2
-title.gl: 'Romanas modernas'
-title.es: 'Romanas modernas'
-description.gl: 'Comprende aquelas romanas que teñen tal mestura de características que non encaixan nas Romanas Clásicas. Son robustas e compactas e, polo xeral, creadas no século XIX para solucionar problemas de impresión.'
-description.es: 'Comprende aquellas romanas que tienen tal mezcla de características que no encajan en las Romanas Clásicas. Son robustas y compactas y, por lo general, creadas en el siglo XIX para solucionar problemas de impresión.'
+gl:
+  title: 'Romanas modernas'
+  description: 'Comprende aquelas romanas que teñen tal mestura de características que non encaixan nas Romanas Clásicas. Son robustas e compactas e, polo xeral, creadas no século XIX para solucionar problemas de impresión.'
+es:
+  title: 'Romanas modernas'
+  description: 'Comprende aquellas romanas que tienen tal mezcla de características que no encajan en las Romanas Clásicas. Son robustas y compactas y, por lo general, creadas en el siglo XIX para solucionar problemas de impresión.'

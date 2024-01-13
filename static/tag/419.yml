@@ -1,3 +1,5 @@
 id: 419
-title.gl: ClearType
-title.es: ClearType
+gl:
+  title: ClearType
+es:
+  title: ClearType

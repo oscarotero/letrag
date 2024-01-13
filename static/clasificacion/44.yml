@@ -1,6 +1,8 @@
 id: 44
 section_id: 23
-title.gl: Capitulares
-title.es: Capitulares
-description.gl: 'Son aquelas derivadas das letras talladas na pedra polos romanos dando lugar ao alfabeto que coñecemos actualmente. Están formadas unicamente por maiúsculas xa que as minúsculas aparecerían máis tarde.'
-description.es: 'Son aquellas derivadas de las letras talladas en la piedra por los romanos dando lugar al alfabeto que conocemos actualmente. Están formadas únicamente por mayúsculas ya que las minúsculas aparecerían más tarde.'
+gl:
+  title: Capitulares
+  description: 'Son aquelas derivadas das letras talladas na pedra polos romanos dando lugar ao alfabeto que coñecemos actualmente. Están formadas unicamente por maiúsculas xa que as minúsculas aparecerían máis tarde.'
+es:
+  title: Capitulares
+  description: 'Son aquellas derivadas de las letras talladas en la piedra por los romanos dando lugar al alfabeto que conocemos actualmente. Están formadas únicamente por mayúsculas ya que las minúsculas aparecerían más tarde.'

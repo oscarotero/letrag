@@ -1,3 +1,5 @@
 id: 215
-title.gl: 'Versión con e sen serifas'
-title.es: 'Versión con y sin serifs'
+gl:
+  title: 'Versión con e sen serifas'
+es:
+  title: 'Versión con y sin serifs'

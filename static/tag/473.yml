@@ -1,3 +1,5 @@
 id: 473
-title.gl: PostScript
-title.es: PostScript
+gl:
+  title: PostScript
+es:
+  title: PostScript

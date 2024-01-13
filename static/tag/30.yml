@@ -1,3 +1,5 @@
 id: 30
-title.gl: Revista
-title.es: Revista
+gl:
+  title: Revista
+es:
+  title: Revista

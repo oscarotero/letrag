@@ -1,3 +1,5 @@
 id: 444
-title.gl: 'Deberny & Peignot'
-title.es: 'Deberny & Peignot'
+gl:
+  title: 'Deberny & Peignot'
+es:
+  title: 'Deberny & Peignot'

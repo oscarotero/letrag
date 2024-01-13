@@ -1,3 +1,5 @@
 id: 240
-title.gl: Pluma
-title.es: Pluma
+gl:
+  title: Pluma
+es:
+  title: Pluma

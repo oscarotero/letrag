@@ -1,3 +1,5 @@
 id: 439
-title.gl: 'Pantallazo azul'
-title.es: 'Pantallazo azul'
+gl:
+  title: 'Pantallazo azul'
+es:
+  title: 'Pantallazo azul'

@@ -1,16 +1,18 @@
 id: 68
-title.gl: 'DIN A'
-title.es: 'DIN A'
 section_id: 111
-description.gl: |-
-  A serie DIN A é a principal de todo o estándar DIN e todas as demáis series están sacadas dela. O DIN A0 é o formato referente. As súas dimensións son de 841×1189 mm e a súa superficie mide 1 metro cuadrado. As súas proporcións son de 1:1,4142, é dicir, 1:√2. Desta maneira, para calcular o seguinte tamaño da serie, basta con dividir entre 2 o lado máis longo resultando un formato á metade máis pequeno pero coa mesma proporción (594×841 mm). O formato máis común é o DIN A4, que é o tamaño que teñen os folios que se poden comprar en calquera papelería, documentos, algunhas revistas, etc. A relación de tamaños completa da serie DIN é a seguinte:
+title: 'DIN A'
 
-   <table> <tr> <th> DIN A0</th> <td>841×1189 mm</td> </tr> <tr> <th> DIN A1</th> <td>594×841 mm</td> </tr> <tr> <th> DIN A2</th> <td>420×594 mm</td> </tr> <tr> <th> DIN A3</th> <td>297×420 mm</td> </tr> <tr> <th> DIN A4</th> <td>210×297 mm</td> </tr> <tr> <th> DIN A5</th> <td>148×210 mm</td> </tr> <tr> <th> DIN A6</th> <td>105×148 mm</td> </tr> <tr> <th> DIN A7</th> <td>74×105 mm</td> </tr> <tr> <th> DIN A8</th> <td>52×74 mm</td> </tr> <tr> <th> DIN A9</th> <td>37×52 mm</td> </tr> <tr> <th> DIN A10</th> <td>26×37 mm</td> </tr> </table>
+gl:
+  description: |-
+    A serie DIN A é a principal de todo o estándar DIN e todas as demáis series están sacadas dela. O DIN A0 é o formato referente. As súas dimensións son de 841×1189 mm e a súa superficie mide 1 metro cuadrado. As súas proporcións son de 1:1,4142, é dicir, 1:√2. Desta maneira, para calcular o seguinte tamaño da serie, basta con dividir entre 2 o lado máis longo resultando un formato á metade máis pequeno pero coa mesma proporción (594×841 mm). O formato máis común é o DIN A4, que é o tamaño que teñen os folios que se poden comprar en calquera papelería, documentos, algunhas revistas, etc. A relación de tamaños completa da serie DIN é a seguinte:
 
-  Ademais existen dous tamaños máis grandes que o A0 que son o DIN 2A0 e o DIN 4A0, chamados asi por medir respectivamente dúas e catro veces máis que o A0 (1189×1682 mm e 1682×2378 mm).
-description.es: |-
-  La serie DIN A es la principal de todo el estándar DIN y todas las demás series están sacadas de ella. El DIN A0 es el formato referente. Sus dimensiones son de 841×1189 mm y su superficie mide 1 metro cuadrado. Sus proporciones son de 1:1,1412, es decir, 1:√2. De esta manera, para calcular el siguiente tamaño de la serie, basta con dividir entre 2 el lado más largo resultado un formato la mitad más pequeño pero con la misma proporción (594×841 mm). El formato más común es el DIN A4, que es el tamaño que tienen los folios que se pueden comprar en cualquier papelería, documentos, algunas revistas, etc. La relación de tamaños completa de la serie DIN es la siguiente:
+    <table> <tr> <th> DIN A0</th> <td>841×1189 mm</td> </tr> <tr> <th> DIN A1</th> <td>594×841 mm</td> </tr> <tr> <th> DIN A2</th> <td>420×594 mm</td> </tr> <tr> <th> DIN A3</th> <td>297×420 mm</td> </tr> <tr> <th> DIN A4</th> <td>210×297 mm</td> </tr> <tr> <th> DIN A5</th> <td>148×210 mm</td> </tr> <tr> <th> DIN A6</th> <td>105×148 mm</td> </tr> <tr> <th> DIN A7</th> <td>74×105 mm</td> </tr> <tr> <th> DIN A8</th> <td>52×74 mm</td> </tr> <tr> <th> DIN A9</th> <td>37×52 mm</td> </tr> <tr> <th> DIN A10</th> <td>26×37 mm</td> </tr> </table>
 
-   <table> <tr> <th> DIN A0</th> <td>841×1189 mm</td> </tr> <tr> <th> DIN A1</th> <td>594×841 mm</td> </tr> <tr> <th> DIN A2</th> <td>420×594 mm</td> </tr> <tr> <th> DIN A3</th> <td>297×420 mm</td> </tr> <tr> <th> DIN A4</th> <td>210×297 mm</td> </tr> <tr> <th> DIN A5</th> <td>148×210 mm</td> </tr> <tr> <th> DIN A6</th> <td>105×148 mm</td> </tr> <tr> <th> DIN A7</th> <td>74×105 mm</td> </tr> <tr> <th> DIN A8</th> <td>52×74 mm</td> </tr> <tr> <th> DIN A9</th> <td>37×52 mm</td> </tr> <tr> <th> DIN A10</th> <td>26×37 mm</td> </tr> </table>
+    Ademais existen dous tamaños máis grandes que o A0 que son o DIN 2A0 e o DIN 4A0, chamados asi por medir respectivamente dúas e catro veces máis que o A0 (1189×1682 mm e 1682×2378 mm).
+es:
+  description: |-
+    La serie DIN A es la principal de todo el estándar DIN y todas las demás series están sacadas de ella. El DIN A0 es el formato referente. Sus dimensiones son de 841×1189 mm y su superficie mide 1 metro cuadrado. Sus proporciones son de 1:1,1412, es decir, 1:√2. De esta manera, para calcular el siguiente tamaño de la serie, basta con dividir entre 2 el lado más largo resultado un formato la mitad más pequeño pero con la misma proporción (594×841 mm). El formato más común es el DIN A4, que es el tamaño que tienen los folios que se pueden comprar en cualquier papelería, documentos, algunas revistas, etc. La relación de tamaños completa de la serie DIN es la siguiente:
 
-  Además existen dos tamaños más grandes que el A0 que son el DIN 2A0 y el DIN 4A0, llamados asi por medir respectivamente dos y cuatro veces más que el A0 (1189×1682 mm y 1682×2378 mm).
+    <table> <tr> <th> DIN A0</th> <td>841×1189 mm</td> </tr> <tr> <th> DIN A1</th> <td>594×841 mm</td> </tr> <tr> <th> DIN A2</th> <td>420×594 mm</td> </tr> <tr> <th> DIN A3</th> <td>297×420 mm</td> </tr> <tr> <th> DIN A4</th> <td>210×297 mm</td> </tr> <tr> <th> DIN A5</th> <td>148×210 mm</td> </tr> <tr> <th> DIN A6</th> <td>105×148 mm</td> </tr> <tr> <th> DIN A7</th> <td>74×105 mm</td> </tr> <tr> <th> DIN A8</th> <td>52×74 mm</td> </tr> <tr> <th> DIN A9</th> <td>37×52 mm</td> </tr> <tr> <th> DIN A10</th> <td>26×37 mm</td> </tr> </table>
+
+    Además existen dos tamaños más grandes que el A0 que son el DIN 2A0 y el DIN 4A0, llamados asi por medir respectivamente dos y cuatro veces más que el A0 (1189×1682 mm y 1682×2378 mm).

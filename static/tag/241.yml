@@ -1,3 +1,5 @@
 id: 241
-title.gl: 'Microsoft Bob'
-title.es: 'Microsoft Bob'
+gl:
+  title: 'Microsoft Bob'
+es:
+  title: 'Microsoft Bob'

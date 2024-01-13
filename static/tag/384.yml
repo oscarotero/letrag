@@ -1,3 +1,5 @@
 id: 384
-title.gl: Tolos
-title.es: Locos
+gl:
+  title: Tolos
+es:
+  title: Locos

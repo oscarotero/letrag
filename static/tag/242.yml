@@ -1,3 +1,5 @@
 id: 242
-title.gl: Marvel
-title.es: Marvel
+gl:
+  title: Marvel
+es:
+  title: Marvel

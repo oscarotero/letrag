@@ -2,8 +2,10 @@ id: 85
 title: Alexie
 year: '1994'
 download: null
-description.gl: 'Deseñada por Roland John Goulsbra en 1994 esta tipografía que emula a letra dun neno foi publicada xunto coa Agrafie na Take Type Library de Linotype despois de participar no Linotype’s International Digital Type Design Contests (Concurso Internacional de Deseño de Tipografía Dixital de Linotype). A Alexie pódese considerar como unha extensión da Agrafie á que se lle engadiron as minúsculas tachadas e os números representados por paus.'
-description.es: 'Diseñada por Roland John Goulsbra en 1994, esta tipografía que emula la letra de un niño fue publicada junto con la Agrafie en la Take Type Library de Linotype después de participar en el Linotype’s International Digital Type Design Contests (Concurso Internacional de Diseño de Tipografía Digital de Linotype). La Alexie se puede considerar como una extensión de la Agrafie añadiéndole las minúsculas tachadas y los números representados por palos.'
+gl:
+  description: 'Deseñada por Roland John Goulsbra en 1994 esta tipografía que emula a letra dun neno foi publicada xunto coa Agrafie na Take Type Library de Linotype despois de participar no Linotype’s International Digital Type Design Contests (Concurso Internacional de Deseño de Tipografía Dixital de Linotype). A Alexie pódese considerar como unha extensión da Agrafie á que se lle engadiron as minúsculas tachadas e os números representados por paus.'
+es:
+  description: 'Diseñada por Roland John Goulsbra en 1994, esta tipografía que emula la letra de un niño fue publicada junto con la Agrafie en la Take Type Library de Linotype después de participar en el Linotype’s International Digital Type Design Contests (Concurso Internacional de Diseño de Tipografía Digital de Linotype). La Alexie se puede considerar como una extensión de la Agrafie añadiéndole las minúsculas tachadas y los números representados por palos.'
 links: []
 tags_ids:
   - 229

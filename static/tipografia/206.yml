@@ -2,8 +2,10 @@ id: 206
 title: Britannic
 year: '1901'
 download: null
-description.gl: 'Deseñada por Wagner &amp; Schmidt en 1901 para a antiga fundición británica Stephenson Blake, trátase dunha tipografía sen serifas cun marcado contraste entre paus finos e grosos, especialmente nas versións máis pesadas. Posúe unha elegancia tal que non existen moitas tipografías deste tipo que se poidan emparellar con ela. A súa gran altura do “x” permite empregala a tamaños pequenos e grandes.'
-description.es: 'Diseñada por Wagner &amp; Schmidt en 1901 para la antigua fundición británica Stephenson Blake, se trata de una tipografía sin serifs con un marcado contraste entre palos finos y gruesos, especialmente en las versiones más pesadas. Posee una elegancia tal que non existen muchas tipografías de este tipo que se puedan emparejar con ella. Su gran altura de la “x” permite utilizarla a tamaños pequeños y grandes.'
+gl:
+  description: 'Deseñada por Wagner &amp; Schmidt en 1901 para a antiga fundición británica Stephenson Blake, trátase dunha tipografía sen serifas cun marcado contraste entre paus finos e grosos, especialmente nas versións máis pesadas. Posúe unha elegancia tal que non existen moitas tipografías deste tipo que se poidan emparellar con ela. A súa gran altura do “x” permite empregala a tamaños pequenos e grandes.'
+es:
+  description: 'Diseñada por Wagner &amp; Schmidt en 1901 para la antigua fundición británica Stephenson Blake, se trata de una tipografía sin serifs con un marcado contraste entre palos finos y gruesos, especialmente en las versiones más pesadas. Posee una elegancia tal que non existen muchas tipografías de este tipo que se puedan emparejar con ella. Su gran altura de la “x” permite utilizarla a tamaños pequeños y grandes.'
 links: []
 tags_ids: []
 sections_ids:

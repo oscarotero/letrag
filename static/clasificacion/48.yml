@@ -1,6 +1,8 @@
 id: 48
 section_id: 31
-title.gl: 'Letra vasca'
-title.es: 'Letra vasca'
-description.gl: 'A súa orixe sitúase nas inscricións realizadas en diferentes lápidas funerarias de pedra. Posúe unhas formas e trazos moi característicos e máis ou menos persistentes nos que se sustenta gran parte da identidade e o estilo visual do País Vasco.'
-description.es: 'Su origen se sitúa en las inscripciones realizadas en diferentes lápidas funerarias de piedra. Posee unas formas y trazos muy característicos y más o menos persistentes en los que se sustenta gran parte de la identidad y el estilo visual del País Vas'
+gl:
+  title: 'Letra vasca'
+  description: 'A súa orixe sitúase nas inscricións realizadas en diferentes lápidas funerarias de pedra. Posúe unhas formas e trazos moi característicos e máis ou menos persistentes nos que se sustenta gran parte da identidade e o estilo visual do País Vasco.'
+es:
+  title: 'Letra vasca'
+  description: 'Su origen se sitúa en las inscripciones realizadas en diferentes lápidas funerarias de piedra. Posee unas formas y trazos muy característicos y más o menos persistentes en los que se sustenta gran parte de la identidad y el estilo visual del País Vas'

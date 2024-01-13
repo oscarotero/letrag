@@ -1,3 +1,5 @@
 id: 271
-title.gl: 'El Sol'
-title.es: 'El Sol'
+gl:
+  title: 'El Sol'
+es:
+  title: 'El Sol'

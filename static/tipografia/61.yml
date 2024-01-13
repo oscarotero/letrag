@@ -2,25 +2,36 @@ id: 61
 title: Georgia
 year: '1996'
 download: 'sourceforge.net/project/showfiles.php?group_id=34153'
-description.gl: 'Brillante tipografía deseñada para pantaia cunha personalidade tipográfica fora de toda dúbida. Foi creada por Matthew Carter en 1996 e un ano máis tarde sacou unha versión estendida. As versións sucesivas foron engadíndolle novos caracteres para as linguas europeas, escrituras gregas e cirílicas. A dificultade de crear un tipo con serifas para pantaia foi salvada cunha tipografía impresionante, de gran lexibilidade a tamaños pequenos sen perder en ningún momento o seu encanto e carácter. A altas resolucións, a Georgia é esencialmente unha Didot cunha forma moi parecida ás romanas escocesas. O propio Matthew Carter recoñeceu a influencia de Richard Austin, cortador de tipos romanos escoceses do século <span class="caps">XIX</span>, e que el sempre admirou. Cando comezou o deseño de Georgia, estivera traballando nunha nova familia chamada Miller, versión destas romanas. A influencia do modelo escocés recoñécese nas serifas superiores horizontais de letras coma o “b” ou o “h”. Aínda así, tivo que facer varias modificacións para que a tipografía fora lexible en pantaia como alixeirar as maiúsculas ou aumentar a altura do “x”. O peso da versión Bold foi coidadosamente elaborado para asegurarse de que sempre sexa máis pesada que a versión Regular.'
-description.es: 'Brillante tipografía diseñada para pantalla con una personalidad tipográfica fuera de toda duda. Fue creada por Matthew Carter en 1996 y un año mas tarde sacó una versión extendida. Las versiones sucesivas le fueron añadiendo nuevos caracteres para las lenguas europeas, escrituras griegas y cirílicas. La dificultad de crear un tipo con serif para pantalla fue salvada con una tipografía impresionante, de gran legibilidad a tamaños pequeños sin perder en ningún momento su encanto y carácter. En altas resoluciones, la Georgia es esencialmente una Didot, con una forma muy parecida a las romanas escocesas. El propio Matthew Carter reconoció la influencia de Richard Austin, cortador de tipos romanos escoceses en el siglo <span class="caps">XIX</span>, y que él siempre admiró. Cuando comenzó el diseño de Georgia, había estado trabajando en una nueva familia llamada Miller, versión de estas romanas. La influencia del modelo escocés se reconoce en las serifs superiores horizontales de letras como la “b” o la “h”. Aún así, tuvo que hacer varias modificaciones para que la tipografía fuera legible en pantalla como aligerar las mayúsculas o aumentar la altura de la “x”. El peso de la versión Bold fue cuidadosamente elaborado para asegurarse de que siempre sea más pesada que la versión Regular.'
-links:
-  -
-    title.gl: 'Georgia e Verdana, tipografías deseñadas para pantalla'
-    title.es: 'Georgia y Verdana, tipografías diseñadas para pantalla'
-    description.gl: 'Artigo de Daniel Will-Harris sobre as tipografías Georgia e Verdana que inclúe unha interesante entrevista a Simon Earnshaw.'
-    description.es: 'Artículo de Daniel Will-Harris sobre las tipografías Georgia y Verdana que incluye una interesante entrevista a Simon Earnshaw.'
-    url: www.will-harris.com/verdana-georgia.htm
-    language: en
-    source: Will-Harris
-  -
-    title.gl: Georgia
-    title.es: Georgia
-    description.gl: 'Páxina da tipografía Georgia na Wikipedia'
-    description.es: 'Página de la tipografía Georgia en la Wikipedia'
-    url: en.wikipedia.org/wiki/Georgia_(font)
-    language: en
-    source: Wikipedia
+gl:
+  description: 'Brillante tipografía deseñada para pantaia cunha personalidade tipográfica fora de toda dúbida. Foi creada por Matthew Carter en 1996 e un ano máis tarde sacou unha versión estendida. As versións sucesivas foron engadíndolle novos caracteres para as linguas europeas, escrituras gregas e cirílicas. A dificultade de crear un tipo con serifas para pantaia foi salvada cunha tipografía impresionante, de gran lexibilidade a tamaños pequenos sen perder en ningún momento o seu encanto e carácter. A altas resolucións, a Georgia é esencialmente unha Didot cunha forma moi parecida ás romanas escocesas. O propio Matthew Carter recoñeceu a influencia de Richard Austin, cortador de tipos romanos escoceses do século <span class="caps">XIX</span>, e que el sempre admirou. Cando comezou o deseño de Georgia, estivera traballando nunha nova familia chamada Miller, versión destas romanas. A influencia do modelo escocés recoñécese nas serifas superiores horizontais de letras coma o “b” ou o “h”. Aínda así, tivo que facer varias modificacións para que a tipografía fora lexible en pantaia como alixeirar as maiúsculas ou aumentar a altura do “x”. O peso da versión Bold foi coidadosamente elaborado para asegurarse de que sempre sexa máis pesada que a versión Regular.'
+  links:
+    -
+      title: 'Georgia e Verdana, tipografías deseñadas para pantalla'
+      description: 'Artigo de Daniel Will-Harris sobre as tipografías Georgia e Verdana que inclúe unha interesante entrevista a Simon Earnshaw.'
+      url: www.will-harris.com/verdana-georgia.htm
+      language: en
+      source: Will-Harris
+    -
+      title: Georgia
+      description: 'Páxina da tipografía Georgia na Wikipedia'
+      url: en.wikipedia.org/wiki/Georgia_(font)
+      language: en
+      source: Wikipedia
+es:
+  description: 'Brillante tipografía diseñada para pantalla con una personalidad tipográfica fuera de toda duda. Fue creada por Matthew Carter en 1996 y un año mas tarde sacó una versión extendida. Las versiones sucesivas le fueron añadiendo nuevos caracteres para las lenguas europeas, escrituras griegas y cirílicas. La dificultad de crear un tipo con serif para pantalla fue salvada con una tipografía impresionante, de gran legibilidad a tamaños pequeños sin perder en ningún momento su encanto y carácter. En altas resoluciones, la Georgia es esencialmente una Didot, con una forma muy parecida a las romanas escocesas. El propio Matthew Carter reconoció la influencia de Richard Austin, cortador de tipos romanos escoceses en el siglo <span class="caps">XIX</span>, y que él siempre admiró. Cuando comenzó el diseño de Georgia, había estado trabajando en una nueva familia llamada Miller, versión de estas romanas. La influencia del modelo escocés se reconoce en las serifs superiores horizontales de letras como la “b” o la “h”. Aún así, tuvo que hacer varias modificaciones para que la tipografía fuera legible en pantalla como aligerar las mayúsculas o aumentar la altura de la “x”. El peso de la versión Bold fue cuidadosamente elaborado para asegurarse de que siempre sea más pesada que la versión Regular.'
+  links:
+    -
+      title: 'Georgia y Verdana, tipografías diseñadas para pantalla'
+      description: 'Artículo de Daniel Will-Harris sobre las tipografías Georgia y Verdana que incluye una interesante entrevista a Simon Earnshaw.'
+      url: www.will-harris.com/verdana-georgia.htm
+      language: en
+      source: Will-Harris
+    -
+      title: Georgia
+      description: 'Página de la tipografía Georgia en la Wikipedia'
+      url: en.wikipedia.org/wiki/Georgia_(font)
+      language: en
+      source: Wikipedia
 tags_ids:
   - 200
   - 199

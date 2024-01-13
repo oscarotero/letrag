@@ -1,3 +1,5 @@
 id: 238
-title.gl: 'Adrian Frutiger'
-title.es: 'Adrian Frutiger'
+gl:
+  title: 'Adrian Frutiger'
+es:
+  title: 'Adrian Frutiger'

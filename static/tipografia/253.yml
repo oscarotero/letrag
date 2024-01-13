@@ -2,23 +2,30 @@ id: 253
 title: Bell
 year: '1788'
 download: null
-description.gl: |-
-  Tipografía deseñada por Richard Austin en 1788 cando traballaba para a John Bell’s British Type Foundry. Está inspirada nas tipografías modernas daquela época como a Didot francesa, acentuando as súas formas verticais e o contraste dos paos finos e grosos. Usouse para imprimir o xornal publicado por Bell “The Oracle”. Stanley Morison considerouna como a primeira tipografía moderna inglesa e en 1931 recomendoulla a Monotype para realizar unha reconstrucción. Para este facsimil empregouse como base as matrices que tiña no seu poder a fundición Stephenson Blake &amp; Co. A versión dixital foi desenvolvida baixo a supervisión de Robin Nicholas.
+gl:
+  description: |-
+    Tipografía deseñada por Richard Austin en 1788 cando traballaba para a John Bell’s British Type Foundry. Está inspirada nas tipografías modernas daquela época como a Didot francesa, acentuando as súas formas verticais e o contraste dos paos finos e grosos. Usouse para imprimir o xornal publicado por Bell “The Oracle”. Stanley Morison considerouna como a primeira tipografía moderna inglesa e en 1931 recomendoulla a Monotype para realizar unha reconstrucción. Para este facsimil empregouse como base as matrices que tiña no seu poder a fundición Stephenson Blake &amp; Co. A versión dixital foi desenvolvida baixo a supervisión de Robin Nicholas.
 
-  A súa gran lexibilidade e a amplia familia da que conta —con numerosos pesos distintos, caracteres alternativos e decorados— xunto coa súa enorme elegancia fai que sexa unha boa opción como tipografía de texto en libros e revistas e que funcione marabillosamente como tipografía de titulares e exhibición. De feito, foi moi mencionada por Jan Tschichold en moitos dos seus escritos sobre deseño.
-description.es: |-
-  Tipografía diseñada por Richard Austin en 1788 cuando trabajaba para la John Bell’s British Type Foundry. Está inspirada en las tipografías modernas de aquella época como la Didot francesa, acentuando sus formas verticales y el contraste de los palos finos y gruesos. Se usó para imprimir el periódico publicado por Bell “The Oracle”. Stanley Morison la consideró como la primera tipografía moderna inglesa y en 1931 se la recomendó a Monotype para realizar una reconstrucción. Para este facsimil se utilizó como base las matrices que tenía en su poder la fundición Stephenson Blake &amp; Co. La versión digital fue desarrollada bajo la supervisión de Robin Nicholas.
+    A súa gran lexibilidade e a amplia familia da que conta —con numerosos pesos distintos, caracteres alternativos e decorados— xunto coa súa enorme elegancia fai que sexa unha boa opción como tipografía de texto en libros e revistas e que funcione marabillosamente como tipografía de titulares e exhibición. De feito, foi moi mencionada por Jan Tschichold en moitos dos seus escritos sobre deseño.
+  links:
+    -
+      title: 'Bell (Monotype)'
+      description: 'Historia sobre a tipografía Bell na Wikipedia'
+      url: en.wikipedia.org/wiki/Bell_%28Monotype%29
+      language: en
+      source: Wikipedia
+es:
+  description: |-
+    Tipografía diseñada por Richard Austin en 1788 cuando trabajaba para la John Bell’s British Type Foundry. Está inspirada en las tipografías modernas de aquella época como la Didot francesa, acentuando sus formas verticales y el contraste de los palos finos y gruesos. Se usó para imprimir el periódico publicado por Bell “The Oracle”. Stanley Morison la consideró como la primera tipografía moderna inglesa y en 1931 se la recomendó a Monotype para realizar una reconstrucción. Para este facsimil se utilizó como base las matrices que tenía en su poder la fundición Stephenson Blake &amp; Co. La versión digital fue desarrollada bajo la supervisión de Robin Nicholas.
 
-  Su gran legibilidad y la amplia familia con la que cuenta —con numerosos pesos distintos, caracteres alternativos y decorados— junto con su enorme elegancia hace que sea una buena opción como tipografía de texto en libros y revistas y que funcione marabillosamente como tipografía de titulares y exhibición. De hecho, fue muy mencionada por Jan Tschichold en muchos de sus escritos sobre diseño.
-links:
-  -
-    title.gl: 'Bell (Monotype)'
-    title.es: 'Bell (Monotype)'
-    description.gl: 'Historia sobre a tipografía Bell na Wikipedia'
-    description.es: 'Historia sobre la tipografía Bell en la Wikipedia'
-    url: en.wikipedia.org/wiki/Bell_%28Monotype%29
-    language: en
-    source: Wikipedia
+    Su gran legibilidad y la amplia familia con la que cuenta —con numerosos pesos distintos, caracteres alternativos y decorados— junto con su enorme elegancia hace que sea una buena opción como tipografía de texto en libros y revistas y que funcione marabillosamente como tipografía de titulares y exhibición. De hecho, fue muy mencionada por Jan Tschichold en muchos de sus escritos sobre diseño.
+  links:
+    -
+      title: 'Bell (Monotype)'
+      description: 'Historia sobre la tipografía Bell en la Wikipedia'
+      url: en.wikipedia.org/wiki/Bell_%28Monotype%29
+      language: en
+      source: Wikipedia
 tags_ids:
   - 70
   - 92

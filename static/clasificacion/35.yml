@@ -1,6 +1,8 @@
 id: 35
 section_id: 27
-title.gl: Pluma
-title.es: Pluma
-description.gl: 'Son aquelas tipografías escritas con pluma ou algún utensilio que consiga un efecto similar. Teñen modulación aínda que ao estar feitas á man, non posúen unhas proporcións constantes nin as súas formas son completamente homoxéneas.'
-description.es: 'Son aquellas tipografías escritas con pluma o algún utensilio que consiga un efecto similar. Tienen modulación aunque al estar hechas a mano, no poseen unas proporciones constantes ni sus formas son completamente homogéneas.'
+gl:
+  title: Pluma
+  description: 'Son aquelas tipografías escritas con pluma ou algún utensilio que consiga un efecto similar. Teñen modulación aínda que ao estar feitas á man, non posúen unhas proporcións constantes nin as súas formas son completamente homoxéneas.'
+es:
+  title: Pluma
+  description: 'Son aquellas tipografías escritas con pluma o algún utensilio que consiga un efecto similar. Tienen modulación aunque al estar hechas a mano, no poseen unas proporciones constantes ni sus formas son completamente homogéneas.'

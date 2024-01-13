@@ -2,41 +2,60 @@ id: 80
 title: 'Comic Sans'
 year: '1995'
 download: 'sourceforge.net/project/showfiles.php?group_id=34153'
-description.gl: 'Quizais sexa a tipografía máis odiada da historia, non por falta de calidade senón polo mal uso e a frecuencia abusiva con que se empregou. Tanto que incluso existen varias asociacións en contra dela como o colectivo Ban Comic Sans onde se intenta erradicar o seu uso. Tamén existen asociacións a favor como a Comic Sans Appreciation Society. Tratase dunha tipografía moi lexible en pantaia incluso a tamaños pequenos a pesares de ter unha aparencia informal e caligráfica. Foi un encargo de Microsoft a Vicent Connare para o seu software Microsoft Bob, onde un can chamado Bob falaba co usuario mediante un globo con textos en Times New Roman. Comezou a facela en 1994 inspirado en cómics de Marvel e DC. Foi collida polo equipo que traballaba no programa Microsoft 3D Movie Maker para ser empregada en globos de diálogo. Mentres progresaba o proxecto, os programadores agregáronlle son de modo que os caracteres xa non estarían en globos. Aínda así, a versión Regular foi usada en caixas de diálogo e axuda. Nun principio íase chamar Comic Book, pero a súa ausencia de serifas doulle o seu nome actual, Comic Sans. Foi incluída nas versións de Microsoft 95 <span class="caps">OEM</span> e Plus, Publisher e Internet Explorer. A súa grande expansión ao vir por defecto nos sistemas operativos de Microsoft e Apple fixo que aparecera por todos lados, e incluso o propio Connare recoñeceu que estaba cansado de ir a restaurantes e vela na carta do menú.'
-description.es: 'Quizás sea la tipografía más odiada de la historia, no por falta de calidad sino por el mal uso y la frecuencia abusiva con la que se empleó. Tanto que incluso existen varias asociaciones en contra de ella como el colectivo Ban Comic Sans donde se intenta erradicar su uso. También existen asociaciones a favor como la Comic Sans Appreciation Society. Se trata de una tipografía muy legible en pantalla incluso a tamaños pequeños a pesar de tener una apariencia informal y caligráfica. Fue un encargo de Microsoft a Vicent Connare para su software Microsoft Bob, donde un perro llamado Bob hablaba con el usuario mediante un globo con textos en Times New Roman. Empezó a hacerla en 1994 inspirado en cómics de Marvel y DC. Fue cogida por el equipo que trabajaba en el programa Microsoft 3D Movie Maker para ser empleada en globos de diálogo. Mientras progresaba el proyecto, los programadores le agregaron sonido de modo que los caracteres ya no estarían en globos. Aún así, la versión Regular fue usada en cajas de diálogo y ayuda. En un principio se iba llamar Comic Book, pero su ausencia de serifs le dio su nombre actual, Comic Sans. Fue incluida en las versiones de Microsoft 95 <span class="caps">OEM</span> y Plus, Publisher e Internet Explorer. Su gran expansión al venir por defecto en los sistemas operativos de Microsoft y Apple hizo que apareciera por todos lados, e incluso el propio Connare reconoció que estaba cansado de ir a restaurantes y verla en la carta del menú.'
-links:
-  -
-    title.gl: 'Ban comic sans'
-    title.es: 'Ban comic sans'
-    description.gl: 'Fundada para erradicar o uso da tipografía Comic Sans'
-    description.es: 'Fundada para erradicar el uso de la tipografía Comic Sans'
-    url: www.bancomicsans.com/
-    language: en
-    source: ''
-  -
-    title.gl: 'Comic Sans Appreciation Society'
-    title.es: 'Comic Sans Appreciation Society'
-    description.gl: 'Asociación a favor do uso da tipografía Comic Sans'
-    description.es: 'Asociación a faver del uso de la tipografía Comic Sans'
-    url: www.littlewonder.pwp.blueyonder.co.uk/ourcause/
-    language: en
-    source: ''
-  -
-    title.gl: 'Comic Sans'
-    title.es: 'Comic Sans'
-    description.gl: 'Artigo da Wikipedia dedicado á Comic Sans.'
-    description.es: 'Artículo de la Wikipedia dedicado a la Comic Sans.'
-    url: es.wikipedia.org/wiki/Comic_Sans
-    language: es
-    source: Wikipedia
-  -
-    title.gl: 'Galería fotográfica da Comic Sans'
-    title.es: 'Galería fotográfica de Comic Sans'
-    description.gl: 'Galería de imaxes con desafortunadas aplicacións da Comic Sans.'
-    description.es: 'Galería de imágenes con desafortunadas aplicaciones de la Comic Sans.'
-    url: flickr.com/groups/comicsans/
-    language: en
-    source: Flickr
+gl:
+  description: 'Quizais sexa a tipografía máis odiada da historia, non por falta de calidade senón polo mal uso e a frecuencia abusiva con que se empregou. Tanto que incluso existen varias asociacións en contra dela como o colectivo Ban Comic Sans onde se intenta erradicar o seu uso. Tamén existen asociacións a favor como a Comic Sans Appreciation Society. Tratase dunha tipografía moi lexible en pantaia incluso a tamaños pequenos a pesares de ter unha aparencia informal e caligráfica. Foi un encargo de Microsoft a Vicent Connare para o seu software Microsoft Bob, onde un can chamado Bob falaba co usuario mediante un globo con textos en Times New Roman. Comezou a facela en 1994 inspirado en cómics de Marvel e DC. Foi collida polo equipo que traballaba no programa Microsoft 3D Movie Maker para ser empregada en globos de diálogo. Mentres progresaba o proxecto, os programadores agregáronlle son de modo que os caracteres xa non estarían en globos. Aínda así, a versión Regular foi usada en caixas de diálogo e axuda. Nun principio íase chamar Comic Book, pero a súa ausencia de serifas doulle o seu nome actual, Comic Sans. Foi incluída nas versións de Microsoft 95 <span class="caps">OEM</span> e Plus, Publisher e Internet Explorer. A súa grande expansión ao vir por defecto nos sistemas operativos de Microsoft e Apple fixo que aparecera por todos lados, e incluso o propio Connare recoñeceu que estaba cansado de ir a restaurantes e vela na carta do menú.'
+  links:
+    -
+      title: 'Ban comic sans'
+      description: 'Fundada para erradicar o uso da tipografía Comic Sans'
+      url: www.bancomicsans.com/
+      language: en
+      source: ''
+    -
+      title: 'Comic Sans Appreciation Society'
+      description: 'Asociación a favor do uso da tipografía Comic Sans'
+      url: www.littlewonder.pwp.blueyonder.co.uk/ourcause/
+      language: en
+      source: ''
+    -
+      title: 'Comic Sans'
+      description: 'Artigo da Wikipedia dedicado á Comic Sans.'
+      url: es.wikipedia.org/wiki/Comic_Sans
+      language: es
+      source: Wikipedia
+    -
+      title: 'Galería fotográfica da Comic Sans'
+      description: 'Galería de imaxes con desafortunadas aplicacións da Comic Sans.'
+      url: flickr.com/groups/comicsans/
+      language: en
+      source: Flickr
+es:
+  description: 'Quizás sea la tipografía más odiada de la historia, no por falta de calidad sino por el mal uso y la frecuencia abusiva con la que se empleó. Tanto que incluso existen varias asociaciones en contra de ella como el colectivo Ban Comic Sans donde se intenta erradicar su uso. También existen asociaciones a favor como la Comic Sans Appreciation Society. Se trata de una tipografía muy legible en pantalla incluso a tamaños pequeños a pesar de tener una apariencia informal y caligráfica. Fue un encargo de Microsoft a Vicent Connare para su software Microsoft Bob, donde un perro llamado Bob hablaba con el usuario mediante un globo con textos en Times New Roman. Empezó a hacerla en 1994 inspirado en cómics de Marvel y DC. Fue cogida por el equipo que trabajaba en el programa Microsoft 3D Movie Maker para ser empleada en globos de diálogo. Mientras progresaba el proyecto, los programadores le agregaron sonido de modo que los caracteres ya no estarían en globos. Aún así, la versión Regular fue usada en cajas de diálogo y ayuda. En un principio se iba llamar Comic Book, pero su ausencia de serifs le dio su nombre actual, Comic Sans. Fue incluida en las versiones de Microsoft 95 <span class="caps">OEM</span> y Plus, Publisher e Internet Explorer. Su gran expansión al venir por defecto en los sistemas operativos de Microsoft y Apple hizo que apareciera por todos lados, e incluso el propio Connare reconoció que estaba cansado de ir a restaurantes y verla en la carta del menú.'
+  links:
+    -
+      title: 'Ban comic sans'
+      description: 'Fundada para erradicar el uso de la tipografía Comic Sans'
+      url: www.bancomicsans.com/
+      language: en
+      source: ''
+    -
+      title: 'Comic Sans Appreciation Society'
+      description: 'Asociación a faver del uso de la tipografía Comic Sans'
+      url: www.littlewonder.pwp.blueyonder.co.uk/ourcause/
+      language: en
+      source: ''
+    -
+      title: 'Comic Sans'
+      description: 'Artículo de la Wikipedia dedicado a la Comic Sans.'
+      url: es.wikipedia.org/wiki/Comic_Sans
+      language: es
+      source: Wikipedia
+    -
+      title: 'Galería fotográfica de Comic Sans'
+      description: 'Galería de imágenes con desafortunadas aplicaciones de la Comic Sans.'
+      url: flickr.com/groups/comicsans/
+      language: en
+      source: Flickr
 tags_ids:
   - 247
   - 246

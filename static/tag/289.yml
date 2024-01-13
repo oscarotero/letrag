@@ -1,3 +1,5 @@
 id: 289
-title.gl: 'Sindicato de la Imagen'
-title.es: 'Sindicato de la Imagen'
+gl:
+  title: 'Sindicato de la Imagen'
+es:
+  title: 'Sindicato de la Imagen'

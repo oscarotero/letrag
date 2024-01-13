@@ -1,3 +1,5 @@
 id: 360
-title.gl: Dingbats
-title.es: Dingbats
+gl:
+  title: Dingbats
+es:
+  title: Dingbats

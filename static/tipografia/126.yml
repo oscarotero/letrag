@@ -2,8 +2,10 @@ id: 126
 title: Pan
 year: '1989'
 download: null
-description.gl: 'Trátase dunha adaptación moderna da época do renacemento veneciano, deseñada por Bruno Maag durante os anos 1988-1989. A súa fluidez evocadora da pluma caligráfica e os seus caracteres ricos en formas dótana dunha lexibilidade magnífica. Posúe unha variante de caracteres expertos moi útil para libros ou outras aplicacións con grandes extensións de texto. Ideal para imprimir grazas ás súas raíces renacentistas e toques humanísticos cunha elegancia fora de toda dúbida. Combinación xenial de modernidade e historia que consegue darlle vida a calquera páxina.'
-description.es: 'Se trata de una adaptación moderna de la época del renacimiento veneciano, diseñada por Bruno Maag durante los años 1988-1989. Su fluidez evocadora de la pluma caligráfica y sus caracteres ricos en formas le otorgan una magnífica legibilidad. Posee una variante de caracteres expertos muy útil para libros u otras aplicaciones con grandes extensiones de texto. Ideal para imprimir gracias a sus raíces renacentistas y toques humanísticos con una elegancia fuera de toda duda. Combinación genial de modernidad e historia que consigue darle vida a cualquier página.'
+gl:
+  description: 'Trátase dunha adaptación moderna da época do renacemento veneciano, deseñada por Bruno Maag durante os anos 1988-1989. A súa fluidez evocadora da pluma caligráfica e os seus caracteres ricos en formas dótana dunha lexibilidade magnífica. Posúe unha variante de caracteres expertos moi útil para libros ou outras aplicacións con grandes extensións de texto. Ideal para imprimir grazas ás súas raíces renacentistas e toques humanísticos cunha elegancia fora de toda dúbida. Combinación xenial de modernidade e historia que consegue darlle vida a calquera páxina.'
+es:
+  description: 'Se trata de una adaptación moderna de la época del renacimiento veneciano, diseñada por Bruno Maag durante los años 1988-1989. Su fluidez evocadora de la pluma caligráfica y sus caracteres ricos en formas le otorgan una magnífica legibilidad. Posee una variante de caracteres expertos muy útil para libros u otras aplicaciones con grandes extensiones de texto. Ideal para imprimir gracias a sus raíces renacentistas y toques humanísticos con una elegancia fuera de toda duda. Combinación genial de modernidad e historia que consigue darle vida a cualquier página.'
 links: []
 tags_ids:
   - 62

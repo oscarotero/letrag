@@ -1,12 +1,14 @@
 id: 70
-title.gl: 'DIN C'
-title.es: 'DIN C'
 section_id: 111
-description.gl: |-
-  A serie C estableceuse principalmente para formatos de sobres e carpetas. As súas dimensións están sacadas da media xeométrica dos formatos do mesmo número da serie A e B. Por exemplo, as dimensións DIN C4 podense sacar calculando a media xeométrica do DIN A4 e DIN B4: C4 = √(250×350) × √(210×297) = 229×324 mm. A relación completa de tamaños é a seguinte:
+gl:
+  title: 'DIN C'
+  description: |-
+    A serie C estableceuse principalmente para formatos de sobres e carpetas. As súas dimensións están sacadas da media xeométrica dos formatos do mesmo número da serie A e B. Por exemplo, as dimensións DIN C4 podense sacar calculando a media xeométrica do DIN A4 e DIN B4: C4 = √(250×350) × √(210×297) = 229×324 mm. A relación completa de tamaños é a seguinte:
 
-   <table> <tr> <th> DIN C0</th> <td>917×1297 mm</td> </tr> <tr> <th> DIN C1</th> <td>648×917 mm</td> </tr> <tr> <th> DIN C2</th> <td>458×648 mm</td> </tr> <tr> <th> DIN C3</th> <td>324×458 mm</td> </tr> <tr> <th> DIN C4</th> <td>229×324 mm</td> </tr> <tr> <th> DIN C5</th> <td>162×229 mm</td> </tr> <tr> <th> DIN C6</th> <td>114×162 mm</td> </tr> <tr> <th> DIN C7</th> <td>81×114 mm</td> </tr> <tr> <th> DIN C8</th> <td>57×81 mm</td> </tr> <tr> <th> DIN C9</th> <td>40×57 mm</td> </tr> <tr> <th> DIN C10</th> <td>28×40 mm</td> </tr> </table>
-description.es: |-
-  La serie C se estableció principalmente para formatos de sobres y carpetas. Sus dimensiones están sacadas de la media geométrica de los formatos del mismo número de la serie A y B. Por ejemplo, las dimensiones DIN C4 se pueden sacar calculando la media geomégrica del DIN A4 y DIN B4: C4 = √(250×350) × √(210×297) = 229×324 mm. La relación completa de tamaños es la siguiente:
+     <table> <tr> <th> DIN C0</th> <td>917×1297 mm</td> </tr> <tr> <th> DIN C1</th> <td>648×917 mm</td> </tr> <tr> <th> DIN C2</th> <td>458×648 mm</td> </tr> <tr> <th> DIN C3</th> <td>324×458 mm</td> </tr> <tr> <th> DIN C4</th> <td>229×324 mm</td> </tr> <tr> <th> DIN C5</th> <td>162×229 mm</td> </tr> <tr> <th> DIN C6</th> <td>114×162 mm</td> </tr> <tr> <th> DIN C7</th> <td>81×114 mm</td> </tr> <tr> <th> DIN C8</th> <td>57×81 mm</td> </tr> <tr> <th> DIN C9</th> <td>40×57 mm</td> </tr> <tr> <th> DIN C10</th> <td>28×40 mm</td> </tr> </table>
+es:
+  title: 'DIN C'
+  description: |-
+    La serie C se estableció principalmente para formatos de sobres y carpetas. Sus dimensiones están sacadas de la media geométrica de los formatos del mismo número de la serie A y B. Por ejemplo, las dimensiones DIN C4 se pueden sacar calculando la media geomégrica del DIN A4 y DIN B4: C4 = √(250×350) × √(210×297) = 229×324 mm. La relación completa de tamaños es la siguiente:
 
-   <table> <tr> <th> DIN C0</th> <td>917×1297 mm</td> </tr> <tr> <th> DIN C1</th> <td>648×917 mm</td> </tr> <tr> <th> DIN C2</th> <td>458×648 mm</td> </tr> <tr> <th> DIN C3</th> <td>324×458 mm</td> </tr> <tr> <th> DIN C4</th> <td>229×324 mm</td> </tr> <tr> <th> DIN C5</th> <td>162×229 mm</td> </tr> <tr> <th> DIN C6</th> <td>114×162 mm</td> </tr> <tr> <th> DIN C7</th> <td>81×114 mm</td> </tr> <tr> <th> DIN C8</th> <td>57×81 mm</td> </tr> <tr> <th> DIN C9</th> <td>40×57 mm</td> </tr> <tr> <th> DIN C10</th> <td>28×40 mm</td> </tr> </table>
+     <table> <tr> <th> DIN C0</th> <td>917×1297 mm</td> </tr> <tr> <th> DIN C1</th> <td>648×917 mm</td> </tr> <tr> <th> DIN C2</th> <td>458×648 mm</td> </tr> <tr> <th> DIN C3</th> <td>324×458 mm</td> </tr> <tr> <th> DIN C4</th> <td>229×324 mm</td> </tr> <tr> <th> DIN C5</th> <td>162×229 mm</td> </tr> <tr> <th> DIN C6</th> <td>114×162 mm</td> </tr> <tr> <th> DIN C7</th> <td>81×114 mm</td> </tr> <tr> <th> DIN C8</th> <td>57×81 mm</td> </tr> <tr> <th> DIN C9</th> <td>40×57 mm</td> </tr> <tr> <th> DIN C10</th> <td>28×40 mm</td> </tr> </table>

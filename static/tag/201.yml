@@ -1,3 +1,5 @@
 id: 201
-title.gl: 'Recoñecemento Óptico de Caracteres'
-title.es: 'Reconocimiento Óptico de Caracteres'
+gl:
+  title: 'Recoñecemento Óptico de Caracteres'
+es:
+  title: 'Reconocimiento Óptico de Caracteres'

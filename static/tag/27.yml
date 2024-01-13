@@ -1,3 +1,5 @@
 id: 27
-title.gl: Metro
-title.es: Metro
+gl:
+  title: Metro
+es:
+  title: Metro

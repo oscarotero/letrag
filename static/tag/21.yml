@@ -1,3 +1,5 @@
 id: 21
-title.gl: Windows
-title.es: Windows
+gl:
+  title: Windows
+es:
+  title: Windows

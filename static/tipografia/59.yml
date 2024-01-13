@@ -2,25 +2,36 @@ id: 59
 title: Verdana
 year: '1994'
 download: 'sourceforge.net/project/showfiles.php?group_id=34153'
-description.gl: 'Deseñada en 1994 por Matthew Carter para a compañía Microsoft, esta tipografía está creada especialmente para ser mostrada en pantalla. O _hinting_ (optimización que se fai para que sexa lexible a baixas resolucións) foi optimizado por Tom Rickner de Monotype. Posúe un lixeiro toque de tipografía humanista onde as curvas e diagonais foron meticulosamente axustadas para que os píxeles sexan claros, lexibles e agradables a tamaños pequenos, conseguindo unha fusión perfecta entre forma e función. Os caracteres máis confusos como a “I” maiúscula, “J”, “L”, “i” ou a “l” minúscula foron individualizados e os amplos espazos entre as letras conseguen una lexibilidade excepcional. Os pesos tamén foron deseñados para conseguir o suficiente contraste, asegurándose que a versión Bold sexa igualmente pesada a tamaños pequenos. Segundo as palabras de Tom Rickner, aínda que a optimización dos bitmap foi o máis crucial na súa elaboración, o seu uso non se debe limitar só á pantalla, xa que tamén funciona bastante ben en papel, incluso a tamaños grandes.'
-description.es: 'Diseñada en 1994 por Matthew Carter para la compañía Microsoft, esta tipografía está creada especialmente para ser mostrada en pantalla. O _hinting_ (optimización que se hace para ser legible a bajas resoluciones) fue optimizado por Tom Rickner de Monotype. Posee un ligero toque de tipografía humanista donde las curvas y diagonales fueron meticulosamente ajustadas para que los píxeles sean claros, legibles y agradables a tamaños pequeños, consiguiendo una fusión perfecta entre forma y función. Los caracteres más confusos como la “I” mayúscula, “J”, “L”, “i” o la “l” minúscula fueron individualizados y los amplios espacios entre las letras consiguen una legibilidad excepcional. Los pesos también fueron diseñados para conseguir el suficiente contraste, asegurándose que la versión Bold sea igualmente pesada a tamaños pequeños. Según las palabras de Tom Rickner, aunque la optimización de los bitmap fue lo más crucial en su elaboración, su uso no se debe limitar solo a la pantalla, ya que también funciona bastante bien en papel, incluso a tamaños grandes.'
-links:
-  -
-    title.gl: 'Georgia e Verdana, tipografías deseñadas para pantalla'
-    title.es: 'Georgia y Verdana, tipografías diseñadas para pantalla'
-    description.gl: 'Artigo de Daniel Will-Harris sobre as tipografías Georgia e Verdana que inclúe unha interesante entrevista a Simon Earnshaw.'
-    description.es: 'Artículo de Daniel Will-Harris sobre las tipografías Georgia y Verdana que incluye una interesante entrevista a Simon Earnshaw.'
-    url: www.will-harris.com/verdana-georgia.htm
-    language: en
-    source: Will-Harris
-  -
-    title.gl: Verdana
-    title.es: Verdana
-    description.gl: 'Páxina da Wikipedia adicada á tipografía Verdana'
-    description.es: 'Página de la Wikipedia dedicada a la tipografía Verdana.'
-    url: en.wikipedia.org/wiki/Verdana
-    language: en
-    source: Wikipedia
+gl:
+  description: 'Deseñada en 1994 por Matthew Carter para a compañía Microsoft, esta tipografía está creada especialmente para ser mostrada en pantalla. O _hinting_ (optimización que se fai para que sexa lexible a baixas resolucións) foi optimizado por Tom Rickner de Monotype. Posúe un lixeiro toque de tipografía humanista onde as curvas e diagonais foron meticulosamente axustadas para que os píxeles sexan claros, lexibles e agradables a tamaños pequenos, conseguindo unha fusión perfecta entre forma e función. Os caracteres máis confusos como a “I” maiúscula, “J”, “L”, “i” ou a “l” minúscula foron individualizados e os amplos espazos entre as letras conseguen una lexibilidade excepcional. Os pesos tamén foron deseñados para conseguir o suficiente contraste, asegurándose que a versión Bold sexa igualmente pesada a tamaños pequenos. Segundo as palabras de Tom Rickner, aínda que a optimización dos bitmap foi o máis crucial na súa elaboración, o seu uso non se debe limitar só á pantalla, xa que tamén funciona bastante ben en papel, incluso a tamaños grandes.'
+  links:
+    -
+      title: 'Georgia e Verdana, tipografías deseñadas para pantalla'
+      description: 'Artigo de Daniel Will-Harris sobre as tipografías Georgia e Verdana que inclúe unha interesante entrevista a Simon Earnshaw.'
+      url: www.will-harris.com/verdana-georgia.htm
+      language: en
+      source: Will-Harris
+    -
+      title: Verdana
+      description: 'Páxina da Wikipedia adicada á tipografía Verdana'
+      url: en.wikipedia.org/wiki/Verdana
+      language: en
+      source: Wikipedia
+es:
+  description: 'Diseñada en 1994 por Matthew Carter para la compañía Microsoft, esta tipografía está creada especialmente para ser mostrada en pantalla. O _hinting_ (optimización que se hace para ser legible a bajas resoluciones) fue optimizado por Tom Rickner de Monotype. Posee un ligero toque de tipografía humanista donde las curvas y diagonales fueron meticulosamente ajustadas para que los píxeles sean claros, legibles y agradables a tamaños pequeños, consiguiendo una fusión perfecta entre forma y función. Los caracteres más confusos como la “I” mayúscula, “J”, “L”, “i” o la “l” minúscula fueron individualizados y los amplios espacios entre las letras consiguen una legibilidad excepcional. Los pesos también fueron diseñados para conseguir el suficiente contraste, asegurándose que la versión Bold sea igualmente pesada a tamaños pequeños. Según las palabras de Tom Rickner, aunque la optimización de los bitmap fue lo más crucial en su elaboración, su uso no se debe limitar solo a la pantalla, ya que también funciona bastante bien en papel, incluso a tamaños grandes.'
+  links:
+    -
+      title: 'Georgia y Verdana, tipografías diseñadas para pantalla'
+      description: 'Artículo de Daniel Will-Harris sobre las tipografías Georgia y Verdana que incluye una interesante entrevista a Simon Earnshaw.'
+      url: www.will-harris.com/verdana-georgia.htm
+      language: en
+      source: Will-Harris
+    -
+      title: Verdana
+      description: 'Página de la Wikipedia dedicada a la tipografía Verdana.'
+      url: en.wikipedia.org/wiki/Verdana
+      language: en
+      source: Wikipedia
 tags_ids:
   - 194
   - 193

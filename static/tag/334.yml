@@ -1,3 +1,5 @@
 id: 334
-title.gl: 'FF Dirty Faces'
-title.es: 'FF Dirty Faces'
+gl:
+  title: 'FF Dirty Faces'
+es:
+  title: 'FF Dirty Faces'

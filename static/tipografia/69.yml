@@ -2,8 +2,10 @@ id: 69
 title: Glypha
 year: '1977'
 download: null
-description.gl: 'Igual que a Serifa, esta tipografía creada por Adrian Frutiger en 1977 está baseada nas formas básicas da Futura. A principal diferenza entre a Glypha e a Serifa é a maior altura da primeira que lle dá unha aparencia condensada, ideal para corpos grandes de texto cunha lexibilidade extrema. As súas curvas, máis baseadas no ovalo que no círculo xunto coa súa grande variedade de pesos faina moi apropiada para traballos como anuncios ou catálogos onde o espazo sexa máis ben escaso.'
-description.es: 'Igual que la Serifa, esta tipografía creada por Adrian Frutiger en 1977 está basada en las formas básicas de la Futura. La principal diferencia entre la Glypha y la Serifa es la mayor altura de la primera que le da una apariencia condensada, ideal para cuerpos grandes de texto con una legibilidad extrema. Sus curvas, más basadas en el óvalo que en el círculo junto con su gran variedad de pesos la hace muy apropiada para trabajos como anuncios o catálogos donde el espacio sea mas bien escaso.'
+gl:
+  description: 'Igual que a Serifa, esta tipografía creada por Adrian Frutiger en 1977 está baseada nas formas básicas da Futura. A principal diferenza entre a Glypha e a Serifa é a maior altura da primeira que lle dá unha aparencia condensada, ideal para corpos grandes de texto cunha lexibilidade extrema. As súas curvas, máis baseadas no ovalo que no círculo xunto coa súa grande variedade de pesos faina moi apropiada para traballos como anuncios ou catálogos onde o espazo sexa máis ben escaso.'
+es:
+  description: 'Igual que la Serifa, esta tipografía creada por Adrian Frutiger en 1977 está basada en las formas básicas de la Futura. La principal diferencia entre la Glypha y la Serifa es la mayor altura de la primera que le da una apariencia condensada, ideal para cuerpos grandes de texto con una legibilidad extrema. Sus curvas, más basadas en el óvalo que en el círculo junto con su gran variedad de pesos la hace muy apropiada para trabajos como anuncios o catálogos donde el espacio sea mas bien escaso.'
 links: []
 tags_ids:
   - 85

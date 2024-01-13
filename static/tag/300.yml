@@ -1,3 +1,5 @@
 id: 300
-title.gl: 'Deutsches Institut für Normung'
-title.es: 'Deutsches Institut für Normung'
+gl:
+  title: 'Deutsches Institut für Normung'
+es:
+  title: 'Deutsches Institut für Normung'

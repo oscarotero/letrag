@@ -1,3 +1,5 @@
 id: 53
-title.gl: 'Heinrich Jost'
-title.es: 'Heinrich Jost'
+gl:
+  title: 'Heinrich Jost'
+es:
+  title: 'Heinrich Jost'

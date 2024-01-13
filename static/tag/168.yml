@@ -1,3 +1,5 @@
 id: 168
-title.gl: 'Caracteres fonéticos'
-title.es: 'Caracteres fonéticos'
+gl:
+  title: 'Caracteres fonéticos'
+es:
+  title: 'Caracteres fonéticos'

@@ -1,3 +1,5 @@
 id: 209
-title.gl: 'Charles Garnier'
-title.es: 'Charles Garnier'
+gl:
+  title: 'Charles Garnier'
+es:
+  title: 'Charles Garnier'

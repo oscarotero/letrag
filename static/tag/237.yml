@@ -1,3 +1,5 @@
 id: 237
-title.gl: IBM
-title.es: IBM
+gl:
+  title: IBM
+es:
+  title: IBM

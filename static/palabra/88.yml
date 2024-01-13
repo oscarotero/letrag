@@ -1,12 +1,14 @@
 id: 88
-title.gl: Barra
-title.es: Barra
 section_id: 106
-description.gl: |-
-  ![](/imaxes/21.png)
+gl:
+  title: Barra
+  description: |-
+    ![](/imaxes/21.png)
 
-  Liña horizontal que une dúas verticais (coma na letra ‘H’), dúas diagonais (coma no ‘A’), ou dúas liñas curvas (este é o caso do ‘e’). Pode ser de moi diversos tipos: segundo se sitúe máis preto ou máis lonxe da liña base, permaneza paralela a esta ou nunha posición diagonal, etc.
-description.es: |-
-  ![](/imaxes/21.png)
+    Liña horizontal que une dúas verticais (coma na letra ‘H’), dúas diagonais (coma no ‘A’), ou dúas liñas curvas (este é o caso do ‘e’). Pode ser de moi diversos tipos: segundo se sitúe máis preto ou máis lonxe da liña base, permaneza paralela a esta ou nunha posición diagonal, etc.
+es:
+  title: Barra
+  description: |-
+    ![](/imaxes/21.png)
 
-  Línea horizontal que une a dos verticales (como en la letra ‘H’), dos diagonales (como en la ‘A’), o dos líneas curvas (este es el caso de la ‘e’). Puede ser de muy diversos tipos: situada más cerca o más lejos de la línea base, permaneciendo paralela a esta o en posición diagonal, etc.
+    Línea horizontal que une a dos verticales (como en la letra ‘H’), dos diagonales (como en la ‘A’), o dos líneas curvas (este es el caso de la ‘e’). Puede ser de muy diversos tipos: situada más cerca o más lejos de la línea base, permaneciendo paralela a esta o en posición diagonal, etc.

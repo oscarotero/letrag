@@ -1,3 +1,5 @@
 id: 22
-title.gl: Web
-title.es: Web
+gl:
+  title: Web
+es:
+  title: Web

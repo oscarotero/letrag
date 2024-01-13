@@ -1,3 +1,5 @@
 id: 267
-title.gl: 'Leicester Mercury'
-title.es: 'Leicester Mercury'
+gl:
+  title: 'Leicester Mercury'
+es:
+  title: 'Leicester Mercury'

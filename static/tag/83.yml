@@ -1,3 +1,5 @@
 id: 83
-title.gl: 'Künstler Schreibschrift'
-title.es: 'Künstler Schreibschrift'
+gl:
+  title: 'Künstler Schreibschrift'
+es:
+  title: 'Künstler Schreibschrift'

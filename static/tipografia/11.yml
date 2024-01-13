@@ -2,25 +2,36 @@ id: 11
 title: Bodoni
 year: '1790'
 download: null
-description.gl: 'Tipografía clave dentro do estilo moderno aparecido a finais do século XVIII e que supón a culminación de 300 anos de evolución da tipografía romana. O seu deseñador, Giambattista Bodoni (Parma, 1740-1813) foi denominado Rei dos Impresores grazas á exquisita calidade dos seus impresos. Os precursores dun estilo similar eran as tipografías de Pierre Simon Fournier e a Didot. A súa aparición desprazou ás tipografías antigas e transicionais grazas ó enorme contraste existente entre as liñas finas e grosas, os seus remates delgados e rectos e a súa aparencia clara e racional. Entre as versións existentes hoxe en día, a máis lograda é a Bauer Bodoni, deseñada en 1926 por Heinrich Jost para a Fundición Bauer. As súas formas son máis parecidas ás orixinais e teñen unha elegancia e delicadeza que non teñen outras versións. Outros tipógrafos como Morris Fuller Benton (1914-16, para a American Type Founders) ou Berthold Staff (1930) tamén fixeron versións da Bodoni.'
-description.es: 'Tipografía clave dentro del estilo moderno aparecido a finales del siglo XVIII y que supone la culminación de 300 años de evolución de la tipografía romana. Su diseñador, Giambattista Bodoni (Parma, 1740-1813) fue denominado Rey de los Impresores gracias a la exquisita calidad de sus impresos. Los precursores de un estilo similar eran las tipografías de Pierre Simon Fournier y la Didot. Su aparición desplazó a las tipografías antiguas y transicionales gracias al enorme contraste existente entre las líneas finas y gruesas, sus remates delgados y rectos y su apariencia clara y racional. Entre las versiones existentes hoy en día, la más lograda quizás sea la Bauer Bodoni, diseñada en 1926 por Heinrich Jost para la Fundición Bauer. Sus formas son más parecidas a las originales y tienen una elegancia y delicadeza que no tienen las otras versiones. Otros tipógrafos como Morris Fuller Benton (1914-16, para la American Type Founders) o Berthold Staff (1930) también hicieron versiones de la Bodoni.'
-links:
-  -
-    title.gl: 'Giambattista Bodoni'
-    title.es: 'Giambattista Bodoni'
-    description.gl: 'Homenaxe ao seu Manuale Tipografico'
-    description.es: 'Homenaje a su Manuale Tipografico'
-    url: www.giambattista.de/
-    language: de
-    source: ''
-  -
-    title.gl: Bodoni
-    title.es: Bodoni
-    description.gl: 'Historia desta tipografía'
-    description.es: 'Historia de esta tipografía'
-    url: en.wikipedia.org/wiki/Bodoni
-    language: en
-    source: Wikipedia
+gl:
+  description: 'Tipografía clave dentro do estilo moderno aparecido a finais do século XVIII e que supón a culminación de 300 anos de evolución da tipografía romana. O seu deseñador, Giambattista Bodoni (Parma, 1740-1813) foi denominado Rei dos Impresores grazas á exquisita calidade dos seus impresos. Os precursores dun estilo similar eran as tipografías de Pierre Simon Fournier e a Didot. A súa aparición desprazou ás tipografías antigas e transicionais grazas ó enorme contraste existente entre as liñas finas e grosas, os seus remates delgados e rectos e a súa aparencia clara e racional. Entre as versións existentes hoxe en día, a máis lograda é a Bauer Bodoni, deseñada en 1926 por Heinrich Jost para a Fundición Bauer. As súas formas son máis parecidas ás orixinais e teñen unha elegancia e delicadeza que non teñen outras versións. Outros tipógrafos como Morris Fuller Benton (1914-16, para a American Type Founders) ou Berthold Staff (1930) tamén fixeron versións da Bodoni.'
+  links:
+    -
+      title: 'Giambattista Bodoni'
+      description: 'Homenaxe ao seu Manuale Tipografico'
+      url: www.giambattista.de/
+      language: de
+      source: ''
+    -
+      title: Bodoni
+      description: 'Historia desta tipografía'
+      url: en.wikipedia.org/wiki/Bodoni
+      language: en
+      source: Wikipedia
+es:
+  description: 'Tipografía clave dentro del estilo moderno aparecido a finales del siglo XVIII y que supone la culminación de 300 años de evolución de la tipografía romana. Su diseñador, Giambattista Bodoni (Parma, 1740-1813) fue denominado Rey de los Impresores gracias a la exquisita calidad de sus impresos. Los precursores de un estilo similar eran las tipografías de Pierre Simon Fournier y la Didot. Su aparición desplazó a las tipografías antiguas y transicionales gracias al enorme contraste existente entre las líneas finas y gruesas, sus remates delgados y rectos y su apariencia clara y racional. Entre las versiones existentes hoy en día, la más lograda quizás sea la Bauer Bodoni, diseñada en 1926 por Heinrich Jost para la Fundición Bauer. Sus formas son más parecidas a las originales y tienen una elegancia y delicadeza que no tienen las otras versiones. Otros tipógrafos como Morris Fuller Benton (1914-16, para la American Type Founders) o Berthold Staff (1930) también hicieron versiones de la Bodoni.'
+  links:
+    -
+      title: 'Giambattista Bodoni'
+      description: 'Homenaje a su Manuale Tipografico'
+      url: www.giambattista.de/
+      language: de
+      source: ''
+    -
+      title: Bodoni
+      description: 'Historia de esta tipografía'
+      url: en.wikipedia.org/wiki/Bodoni
+      language: en
+      source: Wikipedia
 tags_ids:
   - 162
   - 52

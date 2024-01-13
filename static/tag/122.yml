@@ -1,3 +1,5 @@
 id: 122
-title.gl: 'Metropolitan Museum'
-title.es: 'Metropolitan Museum'
+gl:
+  title: 'Metropolitan Museum'
+es:
+  title: 'Metropolitan Museum'

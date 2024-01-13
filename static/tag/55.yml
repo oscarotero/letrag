@@ -1,3 +1,5 @@
 id: 55
-title.gl: 'Berthold Staff'
-title.es: 'Berthold Staff'
+gl:
+  title: 'Berthold Staff'
+es:
+  title: 'Berthold Staff'

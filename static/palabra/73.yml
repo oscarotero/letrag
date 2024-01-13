@@ -1,6 +1,8 @@
 id: 73
-title.gl: Holandés
-title.es: Holandés
 section_id: 112
-description.gl: 'Formato de papel equivalente a 220×280 mm.'
-description.es: 'Formato de papel equivalente a 220×280 mm.'
+gl:
+  title: Holandés
+  description: 'Formato de papel equivalente a 220×280 mm.'
+es:
+  title: Holandés
+  description: 'Formato de papel equivalente a 220×280 mm.'

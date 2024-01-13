@@ -1,3 +1,5 @@
 id: 206
-title.gl: 'Tarxeta de crédito'
-title.es: 'Tarjeta de crédito'
+gl:
+  title: 'Tarxeta de crédito'
+es:
+  title: 'Tarjeta de crédito'

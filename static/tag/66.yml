@@ -1,3 +1,5 @@
 id: 66
-title.gl: 'Stanley Morison'
-title.es: 'Stanley Morison'
+gl:
+  title: 'Stanley Morison'
+es:
+  title: 'Stanley Morison'

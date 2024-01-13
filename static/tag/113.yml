@@ -1,3 +1,5 @@
 id: 113
-title.gl: Frankfurt
-title.es: Frankfurt
+gl:
+  title: Frankfurt
+es:
+  title: Frankfurt

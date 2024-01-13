@@ -1,3 +1,5 @@
 id: 284
-title.gl: ParaType
-title.es: ParaType
+gl:
+  title: ParaType
+es:
+  title: ParaType

@@ -1,3 +1,5 @@
 id: 248
-title.gl: Elipse
-title.es: Elipse
+gl:
+  title: Elipse
+es:
+  title: Elipse

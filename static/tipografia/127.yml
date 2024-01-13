@@ -2,33 +2,48 @@ id: 127
 title: 'Johnston Underground'
 year: '1916'
 download: null
-description.gl: 'Esta lendaria tipografía sen serifa foi deseñada por Edward Johnston en 1916 para o sistema de sinalización da London Underground Railways (compañía de metro de Londres) baixo o encargo de Frank Pick. Caracterízase pola combinación dunha gran técnica caligráfica e unha nova sensibilidade tipográfica que rompeu cos precedentes sen remate victorianos. Aplicou rigorosamente o clasicismo formal ás letras anticipándose en varios anos á simplicidade xeométrica dos anos 20. Hoxe en día séguese empregando con éxito no metro de Londres e a súa identidade visual pasou a formar parte da historia do deseño. Aínda que nunca fora publicada de forma aberta ata que a fundición P22 a dixitalizou en 1997, foi quizais a tipografía máis importante do século XX, cunha evidente influencia sobre outros tipos como a Futura ou a Gill Sans e en grandes tipógrafos como Jan Tschichold.'
-description.es: 'Esta legendaria tipografía sin serif fue diseñada por Edward Johnston en 1916 para el sistema de señalización de la London Underground Railways (compañía de metro de Londres) bajo el encargo de Frank Pick. Se caracteriza por la combinación de una gran técnica caligráfica y una nueva sensibilidad tipográfica que rompió con los precedentes sin remate victorianos. Aplicó rigurosamente el clasicismo formal a las letras anticipándose en varios años a la simplicidad geométrica de los años 20. Hoy en día se sigue empleando con éxito en el metro de Londres y su identidad visual pasó a formar parte de la historia del diseño. Aunque nunca fue publicada de forma abierta hasta que la fundición P22 la digitalizó en 1997, fue quizás la tipografía más importante del siglo XX, con una evidente influencia sobre otros tipos como la Futura o la Gill Sans y en grandes tipógrafos como Jan Tschichold.'
-links:
-  -
-    title.gl: 'Metro de Londres'
-    title.es: 'Metro de Londres'
-    description.gl: 'Páxina oficial do metro de Londres, tamen chamado "Tube"'
-    description.es: 'Página oficial del metro de Londres, tambien llamado "Tube"'
-    url: www.tfl.gov.uk/tube/
-    language: en
-    source: 'Transport for London'
-  -
-    title.gl: 'Historia do metro de Londres'
-    title.es: 'Historia del metro de Londres'
-    description.gl: 'Artigo sobre o metro de Londres na Wikipedia'
-    description.es: 'Artículo sobre el metro de Londres en la Wikipedia'
-    url: en.wikipedia.org/wiki/London_Underground
-    language: en
-    source: Wikipedia
-  -
-    title.gl: 'New Johnston'
-    title.es: 'New Johnston'
-    description.gl: ''
-    description.es: ''
-    url: en.wikipedia.org/wiki/New_Johnston
-    language: en
-    source: Wikipedia
+gl:
+  description: 'Esta lendaria tipografía sen serifa foi deseñada por Edward Johnston en 1916 para o sistema de sinalización da London Underground Railways (compañía de metro de Londres) baixo o encargo de Frank Pick. Caracterízase pola combinación dunha gran técnica caligráfica e unha nova sensibilidade tipográfica que rompeu cos precedentes sen remate victorianos. Aplicou rigorosamente o clasicismo formal ás letras anticipándose en varios anos á simplicidade xeométrica dos anos 20. Hoxe en día séguese empregando con éxito no metro de Londres e a súa identidade visual pasou a formar parte da historia do deseño. Aínda que nunca fora publicada de forma aberta ata que a fundición P22 a dixitalizou en 1997, foi quizais a tipografía máis importante do século XX, cunha evidente influencia sobre outros tipos como a Futura ou a Gill Sans e en grandes tipógrafos como Jan Tschichold.'
+  links:
+    -
+      title: 'Metro de Londres'
+      description: 'Páxina oficial do metro de Londres, tamen chamado "Tube"'
+      url: www.tfl.gov.uk/tube/
+      language: en
+      source: 'Transport for London'
+    -
+      title: 'Historia do metro de Londres'
+      description: 'Artigo sobre o metro de Londres na Wikipedia'
+      url: en.wikipedia.org/wiki/London_Underground
+      language: en
+      source: Wikipedia
+    -
+      title: 'New Johnston'
+      description: ''
+      url: en.wikipedia.org/wiki/New_Johnston
+      language: en
+      source: Wikipedia
+es:
+  description: 'Esta legendaria tipografía sin serif fue diseñada por Edward Johnston en 1916 para el sistema de señalización de la London Underground Railways (compañía de metro de Londres) bajo el encargo de Frank Pick. Se caracteriza por la combinación de una gran técnica caligráfica y una nueva sensibilidad tipográfica que rompió con los precedentes sin remate victorianos. Aplicó rigurosamente el clasicismo formal a las letras anticipándose en varios años a la simplicidad geométrica de los años 20. Hoy en día se sigue empleando con éxito en el metro de Londres y su identidad visual pasó a formar parte de la historia del diseño. Aunque nunca fue publicada de forma abierta hasta que la fundición P22 la digitalizó en 1997, fue quizás la tipografía más importante del siglo XX, con una evidente influencia sobre otros tipos como la Futura o la Gill Sans y en grandes tipógrafos como Jan Tschichold.'
+  links:
+    -
+      title: 'Metro de Londres'
+      description: 'Página oficial del metro de Londres, tambien llamado "Tube"'
+      url: www.tfl.gov.uk/tube/
+      language: en
+      source: 'Transport for London'
+    -
+      title: 'Historia del metro de Londres'
+      description: 'Artículo sobre el metro de Londres en la Wikipedia'
+      url: en.wikipedia.org/wiki/London_Underground
+      language: en
+      source: Wikipedia
+    -
+      title: 'New Johnston'
+      description: ''
+      url: en.wikipedia.org/wiki/New_Johnston
+      language: en
+      source: Wikipedia
 tags_ids:
   - 27
   - 28

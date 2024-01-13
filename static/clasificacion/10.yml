@@ -1,6 +1,8 @@
 id: 10
 section_id: 1
-title.gl: Neogrotescas
-title.es: Neogrotescas
-description.gl: 'Similares ás grotescas pero cun deseño máis refinado. A súa construcción obedece a unha estudiada estructura. Os contrastes están menos marcados e a letra ''g'' non ten ollal senón unha simple cola.'
-description.es: 'Parecidas a las grotescas pero con un diseño más refinado. Su construcción obedece a una estudiada estructura. Los contrastes están menos marcados y la letra ''g'' no tiene ojal, sino una simple cola.'
+gl:
+  title: Neogrotescas
+  description: 'Similares ás grotescas pero cun deseño máis refinado. A súa construcción obedece a unha estudiada estructura. Os contrastes están menos marcados e a letra ''g'' non ten ollal senón unha simple cola.'
+es:
+  title: Neogrotescas
+  description: 'Parecidas a las grotescas pero con un diseño más refinado. Su construcción obedece a una estudiada estructura. Los contrastes están menos marcados y la letra ''g'' no tiene ojal, sino una simple cola.'

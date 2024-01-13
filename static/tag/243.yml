@@ -1,3 +1,5 @@
 id: 243
-title.gl: DC
-title.es: DC
+gl:
+  title: DC
+es:
+  title: DC

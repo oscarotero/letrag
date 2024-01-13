@@ -1,6 +1,8 @@
 id: 108
 section_id: 0
-title.gl: Tecnoloxía
-title.es: Tecnología
-description.gl: 'Conceptos relacionados coa tipografía dixital'
-description.es: 'Conceptos relacionados con la tipografía digital'
+gl:
+  title: Tecnoloxía
+  description: 'Conceptos relacionados coa tipografía dixital'
+es:
+  title: Tecnología
+  description: 'Conceptos relacionados con la tipografía digital'

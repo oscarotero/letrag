@@ -1,12 +1,14 @@
 id: 99
-title.gl: Medium
-title.es: Medium
 section_id: 110
-description.gl: |-
-  A serie Medium pertence ao Sistema Británico de Medidas (British Imperial System) e está formada polos seguintes tamaños:
+gl:
+  title: Medium
+  description: |-
+    A serie Medium pertence ao Sistema Británico de Medidas (British Imperial System) e está formada polos seguintes tamaños:
 
-   <table> <tr> <th> Medium quarto </th> <td> 305×241 mm </td> <td> 12×9,5 polgadas </td> </tr> <tr> <th> Double Medium </th> <td> 914×584 mm </td> <td> 36×23 polgadas </td> </tr> <tr> <th> Medium octavo </th> <td> 241×152 mm </td> <td> 9,5×6 polgadas </td> </tr> <tr> <th> Medium </th> <td> 584×457 mm </td> <td> 23×18 polgadas </td> </tr> </table>
-description.es: |-
-  La serie Medium pertenece al Sistema Británico de Medidas (British Imperial System) y está formada por los siguientes tamaños:
+     <table> <tr> <th> Medium quarto </th> <td> 305×241 mm </td> <td> 12×9,5 polgadas </td> </tr> <tr> <th> Double Medium </th> <td> 914×584 mm </td> <td> 36×23 polgadas </td> </tr> <tr> <th> Medium octavo </th> <td> 241×152 mm </td> <td> 9,5×6 polgadas </td> </tr> <tr> <th> Medium </th> <td> 584×457 mm </td> <td> 23×18 polgadas </td> </tr> </table>
+es:
+  title: Medium
+  description: |-
+    La serie Medium pertenece al Sistema Británico de Medidas (British Imperial System) y está formada por los siguientes tamaños:
 
-   <table> <tr> <th> Medium quarto </th> <td> 305×241 mm </td> <td> 12×9,5 pulgadas </td> </tr> <tr> <th> Double Medium </th> <td> 914×584 mm </td> <td> 36×23 pulgadas </td> </tr> <tr> <th> Medium octavo </th> <td> 241×152 mm </td> <td> 9,5×6 pulgadas </td> </tr> <tr> <th> Medium </th> <td> 584×457 mm </td> <td> 23×18 pulgadas </td> </tr> </table>
+     <table> <tr> <th> Medium quarto </th> <td> 305×241 mm </td> <td> 12×9,5 pulgadas </td> </tr> <tr> <th> Double Medium </th> <td> 914×584 mm </td> <td> 36×23 pulgadas </td> </tr> <tr> <th> Medium octavo </th> <td> 241×152 mm </td> <td> 9,5×6 pulgadas </td> </tr> <tr> <th> Medium </th> <td> 584×457 mm </td> <td> 23×18 pulgadas </td> </tr> </table>

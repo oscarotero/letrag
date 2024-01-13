@@ -1,6 +1,8 @@
 id: 114
 section_id: 0
-title.gl: Varios
-title.es: Varios
-description.gl: 'Definicións de termos soltos'
-description.es: 'Definiciones de términos sueltos'
+gl:
+  title: Varios
+  description: 'Definicións de termos soltos'
+es:
+  title: Varios
+  description: 'Definiciones de términos sueltos'

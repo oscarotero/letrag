@@ -1,3 +1,5 @@
 id: 200
-title.gl: Miller
-title.es: Miller
+gl:
+  title: Miller
+es:
+  title: Miller

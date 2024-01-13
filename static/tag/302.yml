@@ -1,3 +1,5 @@
 id: 302
-title.gl: DIN
-title.es: DIN
+gl:
+  title: DIN
+es:
+  title: DIN

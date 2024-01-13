@@ -1,12 +1,14 @@
 id: 40
-title.gl: 'Ollo medio'
-title.es: 'Ojo medio'
 section_id: 106
-description.gl: |-
-  ![](/imaxes/6.png)
+gl:
+  title: 'Ollo medio'
+  description: |-
+    ![](/imaxes/6.png)
 
-  Altura das letras de caixa baixa ou minúsculas sen contar os trazos ascendentes e descendentes, o que equivale, por exemplo, á altura da letra ‘x’.
-description.es: |-
-  ![](/imaxes/6.png)
+    Altura das letras de caixa baixa ou minúsculas sen contar os trazos ascendentes e descendentes, o que equivale, por exemplo, á altura da letra ‘x’.
+es:
+  title: 'Ojo medio'
+  description: |-
+    ![](/imaxes/6.png)
 
-  Altura de las letras de caja baja o minúsculas sin contar los trazos ascendentes y descendentes, lo que equivale, por ejemplo, a la altura de la letra ‘x’.
+    Altura de las letras de caja baja o minúsculas sin contar los trazos ascendentes y descendentes, lo que equivale, por ejemplo, a la altura de la letra ‘x’.

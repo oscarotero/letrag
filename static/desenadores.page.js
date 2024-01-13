@@ -13,7 +13,7 @@ export default function* ({ search, paginate }) {
   const langs = ["gl", "es"];
 
   for (const lang of langs) {
-    yield * paginate(search.pages(`type=designer lang=${lang}`, "title"), {
+    yield* paginate(search.pages(`type=designer lang=${lang}`, "title"), {
       size: 60,
       url: (n) =>
         n === 1 ? `/${lang}/desenadores/` : `/${lang}/desenadores/${n}/`,

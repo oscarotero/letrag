@@ -1,8 +1,9 @@
 id: 0
 menu: 1
 layout: layouts/classification.njk
-lang: [gl, es]
 title: Clasificación
-description.gl: As tipografías por estilos
-description.es: Las tipografías por estilos 
 type: classification_home
+gl:
+  description: As tipografías por estilos
+es:
+  description: Las tipografías por estilos 

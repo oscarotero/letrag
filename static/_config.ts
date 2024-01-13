@@ -1,12 +1,15 @@
 import lume from "lume/mod.ts";
 import multilanguage from "lume/plugins/multilanguage.ts";
+import nunjucks from "lume/plugins/nunjucks.ts";
 
 const site = lume({
   location: new URL("https://letrag.com"),
 });
 site.use(multilanguage({
-  languages: ["es", "gl"],
+  languages: ["gl", "es"],
 }));
+site.use(nunjucks());
+
 site.copy("styles");
 site.copy("imaxes");
 site.copy("img");
@@ -15,9 +18,9 @@ site.copy("favicon.ico");
 // Build redirects
 site.addEventListener("afterRender", () => {
   const entries = site.pages
-    .filter((page) => page.dest.ext === ".html")
+    .filter((page) => page.outputPath.endsWith(".html"))
     .map((page) => {
-      const url = page.data.url as string;
+      const url = page.data.url;
       const matchId = url.match(/^\/(es|gl)\/([^\/]+)\/(\d+)\/$/);
 
       if (matchId) {

@@ -1,6 +1,8 @@
 id: 5
 section_id: 23
-title.gl: Humanísticas
-title.es: Humanísticas
-description.gl: 'Tamén coñecidas como "Venecianas", apareceron no século XV, derivadas das letras manuscritas italianas. Caracterízanse pola modulación oblicua, pobre contraste, peso intenso e trazos terminais grosos e inclinados.'
-description.es: 'Tamén coñecidas como "Venecianas", apareceron no século XV, derivadas das letras manuscritas italianas. Caracterízanse pola modulación oblicua, pobre contraste, peso intenso e trazos terminais grosos e inclinados.'
+gl:
+  title: Humanísticas
+  description: 'Tamén coñecidas como "Venecianas", apareceron no século XV, derivadas das letras manuscritas italianas. Caracterízanse pola modulación oblicua, pobre contraste, peso intenso e trazos terminais grosos e inclinados.'
+es:
+  title: Humanísticas
+  description: 'Tamén coñecidas como "Venecianas", apareceron no século XV, derivadas das letras manuscritas italianas. Caracterízanse pola modulación oblicua, pobre contraste, peso intenso e trazos terminais grosos e inclinados.'

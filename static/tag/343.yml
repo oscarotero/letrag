@@ -1,3 +1,5 @@
 id: 343
-title.gl: America
-title.es: America
+gl:
+  title: America
+es:
+  title: America

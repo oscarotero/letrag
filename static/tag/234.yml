@@ -1,3 +1,5 @@
 id: 234
-title.gl: 'Hermann Eidenbenz'
-title.es: 'Hermann Eidenbenz'
+gl:
+  title: 'Hermann Eidenbenz'
+es:
+  title: 'Hermann Eidenbenz'

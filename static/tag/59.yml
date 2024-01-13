@@ -1,3 +1,5 @@
 id: 59
-title.gl: 'William Morris'
-title.es: 'William Morris'
+gl:
+  title: 'William Morris'
+es:
+  title: 'William Morris'

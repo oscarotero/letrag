@@ -1,3 +1,5 @@
 id: 245
-title.gl: 'Comic Book'
-title.es: 'Comic Book'
+gl:
+  title: 'Comic Book'
+es:
+  title: 'Comic Book'

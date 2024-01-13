@@ -1,6 +1,8 @@
 id: 72
-title.gl: 'Doble folio'
-title.es: 'Doble folio'
 section_id: 112
-description.gl: 'Coñécese por “doble folio” ao formato de 440×320 mm, equivalente a dous folios unidos.'
-description.es: 'Se conoce por “doble folio” al formato de 440×320 mm, equivalente a dos folios unidos.'
+gl:
+  title: 'Doble folio'
+  description: 'Coñécese por “doble folio” ao formato de 440×320 mm, equivalente a dous folios unidos.'
+es:
+  title: 'Doble folio'
+  description: 'Se conoce por “doble folio” al formato de 440×320 mm, equivalente a dos folios unidos.'

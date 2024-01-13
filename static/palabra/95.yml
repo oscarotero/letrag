@@ -1,12 +1,14 @@
 id: 95
-title.gl: Peso
-title.es: Peso
 section_id: 106
-description.gl: |-
-  ![](/imaxes/49.png)
+gl:
+  title: Peso
+  description: |-
+    ![](/imaxes/49.png)
 
-  Cando falamos do peso dunha tipografía estámonos referindo ao grosor que existe nos seus trazos que pode ser maior ou menor, aumentando ou disminuíndo a sensación de pesadez. Unha tipografía light (lixeira) ten moito menos peso que unha bold (ou negriña).
-description.es: |-
-  ![](/imaxes/49.png)
+    Cando falamos do peso dunha tipografía estámonos referindo ao grosor que existe nos seus trazos que pode ser maior ou menor, aumentando ou disminuíndo a sensación de pesadez. Unha tipografía light (lixeira) ten moito menos peso que unha bold (ou negriña).
+es:
+  title: Peso
+  description: |-
+    ![](/imaxes/49.png)
 
-  Cuando hablamos del peso de una tipografía nos estamos refiriendo al grosor que existe en sus trazos que puede ser mayor o menor, aumentando o disminuyendo la sensación de pesadez. Una tipografía light (ligera) tiene mucho menos peso que una bold (o negrita).
+    Cuando hablamos del peso de una tipografía nos estamos refiriendo al grosor que existe en sus trazos que puede ser mayor o menor, aumentando o disminuyendo la sensación de pesadez. Una tipografía light (ligera) tiene mucho menos peso que una bold (o negrita).

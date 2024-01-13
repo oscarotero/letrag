@@ -1,3 +1,5 @@
 id: 258
-title.gl: 'National Geographic'
-title.es: 'National Geographic'
+gl:
+  title: 'National Geographic'
+es:
+  title: 'National Geographic'

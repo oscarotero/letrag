@@ -1,3 +1,5 @@
 id: 92
-title.gl: 'Textos longos'
-title.es: 'Textos largos'
+gl:
+  title: 'Textos longos'
+es:
+  title: 'Textos largos'

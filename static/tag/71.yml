@@ -1,3 +1,5 @@
 id: 71
-title.gl: 'Declaración de independencia'
-title.es: 'Declaración de independencia'
+gl:
+  title: 'Declaración de independencia'
+es:
+  title: 'Declaración de independencia'

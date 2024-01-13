@@ -1,3 +1,5 @@
 id: 335
-title.gl: 'German Angst'
-title.es: 'German Angst'
+gl:
+  title: 'German Angst'
+es:
+  title: 'German Angst'

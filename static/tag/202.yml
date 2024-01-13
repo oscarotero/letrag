@@ -1,3 +1,5 @@
 id: 202
-title.gl: 'European Computer Manufacturers Association'
-title.es: 'European Computer Manufacturers Association'
+gl:
+  title: 'European Computer Manufacturers Association'
+es:
+  title: 'European Computer Manufacturers Association'

@@ -1,3 +1,5 @@
 id: 223
-title.gl: 'Litho Antique'
-title.es: 'Litho Antique'
+gl:
+  title: 'Litho Antique'
+es:
+  title: 'Litho Antique'

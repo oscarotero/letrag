@@ -2,8 +2,10 @@ id: 84
 title: Agrafie
 year: '1994'
 download: null
-description.gl: 'Tipografía creada por Roland John Goulsbra en 1994 emulando a escritura dun neno. As súas letras irregulares e desproporcionadas, debuxadas cun rotulador de punta cadrada, transmiten unha impresión única. Xunto coa Alexie, tamén deseñada por el, foi publicada na Take Type Library de Linotype, que inclúen as tipografías seleccionadas no Linotype’s International Digital Type Design Contests (Concurso Internacional de Deseño de Tipografía Dixital de Linotype). Alfabeto divertido, moi útil en todo tipo de impresos para nenos como invitacións, tarxetas, carteis, etc.'
-description.es: 'Tipografía creada por Roland John Goulsbra en 1994 emulando la escritura de un niño. Sus letras irregulares y desproporcionadas, dibujadas con rotulador de punta cuadrada, transmiten una impresión única. Junto con la Alexie, también diseñada por el, fue publicada en la Take Type Library de Linotype, que incluyen las tipografías seleccionadas en el Linotype’s International Digital Type Design Contests (Concurso Internacional de Diseño de Tipografía Digital de Linotype). Alfabeto divertido, muy útil en todo tipo de impresos para niños como invitaciones, tarjetas, carteles, etc.'
+gl:
+  description: 'Tipografía creada por Roland John Goulsbra en 1994 emulando a escritura dun neno. As súas letras irregulares e desproporcionadas, debuxadas cun rotulador de punta cadrada, transmiten unha impresión única. Xunto coa Alexie, tamén deseñada por el, foi publicada na Take Type Library de Linotype, que inclúen as tipografías seleccionadas no Linotype’s International Digital Type Design Contests (Concurso Internacional de Deseño de Tipografía Dixital de Linotype). Alfabeto divertido, moi útil en todo tipo de impresos para nenos como invitacións, tarxetas, carteis, etc.'
+es:
+  description: 'Tipografía creada por Roland John Goulsbra en 1994 emulando la escritura de un niño. Sus letras irregulares y desproporcionadas, dibujadas con rotulador de punta cuadrada, transmiten una impresión única. Junto con la Alexie, también diseñada por el, fue publicada en la Take Type Library de Linotype, que incluyen las tipografías seleccionadas en el Linotype’s International Digital Type Design Contests (Concurso Internacional de Diseño de Tipografía Digital de Linotype). Alfabeto divertido, muy útil en todo tipo de impresos para niños como invitaciones, tarjetas, carteles, etc.'
 links: []
 tags_ids: []
 sections_ids:

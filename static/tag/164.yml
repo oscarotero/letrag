@@ -1,3 +1,5 @@
 id: 164
-title.gl: 'Bob Ishi'
-title.es: 'Bob Ishi'
+gl:
+  title: 'Bob Ishi'
+es:
+  title: 'Bob Ishi'

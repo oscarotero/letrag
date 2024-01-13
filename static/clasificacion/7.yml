@@ -1,6 +1,8 @@
 id: 7
 section_id: 23
-title.gl: Transicionais
-title.es: Transicionales
-description.gl: 'Apareceron a finais do século XVII. Foron as primeiras tipografías deseñadas sobre unha cuadrícula. A modulación é vertical ou case vertical, os remates angulosos e encadrados e o contraste entre paus é medio-alto.'
-description.es: 'Aparecieron a finales del siglo XVII. Fueron las primeras tipografías diseñadas sobre una cuadrícula. La modulación es vertical ó casi vertical, los remates angulosos y encuadrados y el contraste entre los palos es medio-alto.'
+gl:
+  title: Transicionais
+  description: 'Apareceron a finais do século XVII. Foron as primeiras tipografías deseñadas sobre unha cuadrícula. A modulación é vertical ou case vertical, os remates angulosos e encadrados e o contraste entre paus é medio-alto.'
+es:
+  title: Transicionales
+  description: 'Aparecieron a finales del siglo XVII. Fueron las primeras tipografías diseñadas sobre una cuadrícula. La modulación es vertical ó casi vertical, los remates angulosos y encuadrados y el contraste entre los palos es medio-alto.'

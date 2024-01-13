@@ -1,3 +1,5 @@
 id: 153
-title.gl: 'International Typeface Corporation'
-title.es: 'International Typeface Corporation'
+gl:
+  title: 'International Typeface Corporation'
+es:
+  title: 'International Typeface Corporation'

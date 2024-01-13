@@ -2,8 +2,10 @@ id: 103
 title: Flood
 year: 'S. XX'
 download: null
-description.gl: 'Esta tipografía foi creada polo deseñador suízo Joachim Müller-Lancé. As súas formas xunto cos trazos feitos con pincel fan dela unha letra moi singular. O seu fluxo natural, dinámico e espontáneo dálle un certo caracter a tamaños pequenos, mentres que en tamaños grandes resulta máis provocativa. Funciona especialmente ben en deseños informais de logotipos, menús ou correspondencia.'
-description.es: 'Esta tipografía fue creada por el diseñador suizo Joachim Müller-Lancé. Sus formas junto con los trazos hechos con pincel la convierten en una letra muy singular. Su flujo natural, dinámico y espontáneo le da un cierto carácter a tamaños pequeños mientras que en tamaños grandes resulta más provocativa. Funciona especialmente bien en diseños informales de logotipos, menús o correspondencia.'
+gl:
+  description: 'Esta tipografía foi creada polo deseñador suízo Joachim Müller-Lancé. As súas formas xunto cos trazos feitos con pincel fan dela unha letra moi singular. O seu fluxo natural, dinámico e espontáneo dálle un certo caracter a tamaños pequenos, mentres que en tamaños grandes resulta máis provocativa. Funciona especialmente ben en deseños informais de logotipos, menús ou correspondencia.'
+es:
+  description: 'Esta tipografía fue creada por el diseñador suizo Joachim Müller-Lancé. Sus formas junto con los trazos hechos con pincel la convierten en una letra muy singular. Su flujo natural, dinámico y espontáneo le da un cierto carácter a tamaños pequeños mientras que en tamaños grandes resulta más provocativa. Funciona especialmente bien en diseños informales de logotipos, menús o correspondencia.'
 links: []
 tags_ids: []
 sections_ids:

@@ -1,3 +1,5 @@
 id: 416
-title.gl: 'Nova York'
-title.es: 'Nueva York'
+gl:
+  title: 'Nova York'
+es:
+  title: 'Nueva York'

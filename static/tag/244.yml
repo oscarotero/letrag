@@ -1,3 +1,5 @@
 id: 244
-title.gl: 'Microsoft 3D Movie Maker'
-title.es: 'Microsoft 3D Movie Maker'
+gl:
+  title: 'Microsoft 3D Movie Maker'
+es:
+  title: 'Microsoft 3D Movie Maker'

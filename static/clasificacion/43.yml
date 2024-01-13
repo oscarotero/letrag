@@ -1,6 +1,8 @@
 id: 43
 section_id: 3
-title.gl: Formais
-title.es: Formales
-description.gl: 'Son aquelas tipografías que aínda sendo manuais, ou emulan selo, posúen unha aparencia regular, mantendo unha certa formalidade ao longo do alfabeto. Teñen formas que se repiten en varias letras, igual que outras tipografías de orixe non manual.'
-description.es: 'Son aquellas tipografías que aún siendo manuales, o emulan serlo, poseen una apariencia regular, manteniendo una cierta formalidad a lo largo del alfabeto. Tienen formas que se repiten en varias letras, igual que otras tipografías de origen no manual.'
+gl:
+  title: Formais
+  description: 'Son aquelas tipografías que aínda sendo manuais, ou emulan selo, posúen unha aparencia regular, mantendo unha certa formalidade ao longo do alfabeto. Teñen formas que se repiten en varias letras, igual que outras tipografías de orixe non manual.'
+es:
+  title: Formales
+  description: 'Son aquellas tipografías que aún siendo manuales, o emulan serlo, poseen una apariencia regular, manteniendo una cierta formalidad a lo largo del alfabeto. Tienen formas que se repiten en varias letras, igual que otras tipografías de origen no manual.'

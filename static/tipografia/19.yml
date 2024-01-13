@@ -2,8 +2,10 @@ id: 19
 title: Schneidler
 year: '1936'
 download: null
-description.gl: 'Friedrich Hermann Ernst Schneidler, profesor e deseñador de tipos, creou esta tipografía en 1936 para a fundición Bauer. Está baseada nas tipografías venecianas ou humanísticas do período do renacemento, herdando a súa beleza e proporcións clásicas. Tratase dunha tipografía fina, lexible e elegante. Os seus signos de interrogación son unha das súas características máis orixinais.'
-description.es: 'Friedrich Hermann Ernst Schneidler, profesor y diseñador de tipos, creó esta tipografía en 1936 para la fundición Bauer. Está basada en las tipografías venecianas o humanísticas del período del renacimiento, heredando su belleza y proporciones clásicas. Se trata de una tipografía fina, legible y elegante. Sus signos de interrogación son una de sus características más originales.'
+gl:
+  description: 'Friedrich Hermann Ernst Schneidler, profesor e deseñador de tipos, creou esta tipografía en 1936 para a fundición Bauer. Está baseada nas tipografías venecianas ou humanísticas do período do renacemento, herdando a súa beleza e proporcións clásicas. Tratase dunha tipografía fina, lexible e elegante. Os seus signos de interrogación son unha das súas características máis orixinais.'
+es:
+  description: 'Friedrich Hermann Ernst Schneidler, profesor y diseñador de tipos, creó esta tipografía en 1936 para la fundición Bauer. Está basada en las tipografías venecianas o humanísticas del período del renacimiento, heredando su belleza y proporciones clásicas. Se trata de una tipografía fina, legible y elegante. Sus signos de interrogación son una de sus características más originales.'
 links: []
 tags_ids:
   - 37

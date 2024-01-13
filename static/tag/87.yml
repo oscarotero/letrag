@@ -1,3 +1,5 @@
 id: 87
-title.gl: 'Estados Unidos'
-title.es: 'Estados Unidos'
+gl:
+  title: 'Estados Unidos'
+es:
+  title: 'Estados Unidos'

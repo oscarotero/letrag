@@ -1,3 +1,5 @@
 id: 173
-title.gl: 'Fred Brady'
-title.es: 'Fred Brady'
+gl:
+  title: 'Fred Brady'
+es:
+  title: 'Fred Brady'

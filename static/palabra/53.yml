@@ -1,12 +1,14 @@
 id: 53
-title.gl: Óvalo
-title.es: Óvalo
 section_id: 106
-description.gl: |-
-  ![](/imaxes/7.png)
+gl:
+  title: Óvalo
+  description: |-
+    ![](/imaxes/7.png)
 
-  Parte inferior do ‘g’ minúsculo cando este é unha forma pechada. Se só ten un trazo curvado cara á esquerda, chámase ‘cola’.
-description.es: |-
-  ![](/imaxes/7.png)
+    Parte inferior do ‘g’ minúsculo cando este é unha forma pechada. Se só ten un trazo curvado cara á esquerda, chámase ‘cola’.
+es:
+  title: Óvalo
+  description: |-
+    ![](/imaxes/7.png)
 
-  Parte inferior de la ‘g’ minúscula cuando esta es una forma cerrada. Si sólo tiene un trazo curvado hacia la izquierda, se llama ‘cola’.
+    Parte inferior de la ‘g’ minúscula cuando esta es una forma cerrada. Si sólo tiene un trazo curvado hacia la izquierda, se llama ‘cola’.

@@ -2,8 +2,10 @@ id: 107
 title: 'Viner Hand'
 year: '1995'
 download: null
-description.gl: 'Esta tipografía caligráfica informal foi creada polo deseñador británico John Viner en 1995 para a International Typeface Corporation e está baseada na súa propia letra. Os seus trazos feitos con pluma e os cantos rugosos simulando a superficie porosa do papel fan dela unha tipografía moi cálida e familiar, dándolle un toque especial aos deseños xerados por computadora. É unha boa opción para empregar en titulares, publicidade e incluso en gráficos para web.'
-description.es: 'Esta tipografía caligráfica informal fue creada por el diseñador británico John Viner en 1995 para la International Typeface Corporation y está basada en su propia letra. Sus trazos hechos con pluma y los cantos rugosos simulando la superficie porosa del papel la convierten en una tipografía muy cálida y familiar, dándole un toque especial a los diseños generados por ordenador. Es una buena opción para emplear en titulares, publicidad e incluso en gráficos para web.'
+gl:
+  description: 'Esta tipografía caligráfica informal foi creada polo deseñador británico John Viner en 1995 para a International Typeface Corporation e está baseada na súa propia letra. Os seus trazos feitos con pluma e os cantos rugosos simulando a superficie porosa do papel fan dela unha tipografía moi cálida e familiar, dándolle un toque especial aos deseños xerados por computadora. É unha boa opción para empregar en titulares, publicidade e incluso en gráficos para web.'
+es:
+  description: 'Esta tipografía caligráfica informal fue creada por el diseñador británico John Viner en 1995 para la International Typeface Corporation y está basada en su propia letra. Sus trazos hechos con pluma y los cantos rugosos simulando la superficie porosa del papel la convierten en una tipografía muy cálida y familiar, dándole un toque especial a los diseños generados por ordenador. Es una buena opción para emplear en titulares, publicidad e incluso en gráficos para web.'
 links: []
 tags_ids: []
 sections_ids:

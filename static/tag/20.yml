@@ -1,3 +1,5 @@
 id: 20
-title.gl: Microsoft
-title.es: Microsoft
+gl:
+  title: Microsoft
+es:
+  title: Microsoft

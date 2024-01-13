@@ -1,3 +1,5 @@
 id: 65
-title.gl: 'Monte Etna'
-title.es: 'Monte Etna'
+gl:
+  title: 'Monte Etna'
+es:
+  title: 'Monte Etna'

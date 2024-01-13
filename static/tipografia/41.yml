@@ -2,17 +2,24 @@ id: 41
 title: 'Akzidenz Grotesk'
 year: '1896'
 download: null
-description.gl: 'Deseñada en 1896 por Günter Gerhard Lange para a fundición Berthold en Berlín, esta tipografía é a precursora da Helvética. Tivo un enorme éxito e pronto foi imitada por varias fundicións. O seu nome provén da palabra usada en Alemaña para denominar ás tipografías sen serifas do século XIX “Grotesk” e o termo usado para os tipos utilizados polas imprentas comerciais “Akzidenzschrift”. Foi usada como tipo de texto en Europa, especialmente en Suíza ata ser suplantado pola Univers e a Helvética aínda que nos anos recentes fixo unha nova reaparición. Funciona especialmente ben en literatura técnica como táboas, follas de balance ou noutros casos onde haxa pouco espazo. Tamén se pode utilizar en titulares de periódicos e revistas grazas á súa gama de anchos e pesos.'
-description.es: 'Diseñada en 1896 por Günter Gerhard Lange para la fundición Berthold en Berlín, esta tipografía es la precursora de la Helvética. Tuvo un enorme éxito y pronto fue imitada por varias fundiciones. Su nombre proviene de la palabra usada en Alemania para denominar a las tipografías sin serifs del siglo XIX “Grotesk” y el término usado para los tipos utilizados por las imprentas comerciales “Akzidenzschrift”. Fue usada como tipo de texto en Europa, especialmente en Suíza hasta ser suplantado por la Univers y la Helvética aunque en los años recientes hizo una nueva reaparición. Funciona especialmente bien en literatura técnica como tablas, hojas de balance o en otros casos donde haya poco espacio. También se puede utilizar en titulares de periódicos y revistas gracias a su gama de anchos y pesos.'
-links:
-  -
-    title.gl: 'Akzidenz Grotesk'
-    title.es: 'Akzidenz Grotesk'
-    description.gl: 'Homenaxe a esta tipografía en forma de videoclip colgado en youtube.'
-    description.es: 'Homenaje a esta tipografía en forma de videoclip colgado en youtube.'
-    url: 'www.youtube.com/watch?v=L5ol02WPaYM'
-    language: en
-    source: Youtube
+gl:
+  description: 'Deseñada en 1896 por Günter Gerhard Lange para a fundición Berthold en Berlín, esta tipografía é a precursora da Helvética. Tivo un enorme éxito e pronto foi imitada por varias fundicións. O seu nome provén da palabra usada en Alemaña para denominar ás tipografías sen serifas do século XIX “Grotesk” e o termo usado para os tipos utilizados polas imprentas comerciais “Akzidenzschrift”. Foi usada como tipo de texto en Europa, especialmente en Suíza ata ser suplantado pola Univers e a Helvética aínda que nos anos recentes fixo unha nova reaparición. Funciona especialmente ben en literatura técnica como táboas, follas de balance ou noutros casos onde haxa pouco espazo. Tamén se pode utilizar en titulares de periódicos e revistas grazas á súa gama de anchos e pesos.'
+  links:
+    -
+      title: 'Akzidenz Grotesk'
+      description: 'Homenaxe a esta tipografía en forma de videoclip colgado en youtube.'
+      url: 'www.youtube.com/watch?v=L5ol02WPaYM'
+      language: en
+      source: Youtube
+es:
+  description: 'Diseñada en 1896 por Günter Gerhard Lange para la fundición Berthold en Berlín, esta tipografía es la precursora de la Helvética. Tuvo un enorme éxito y pronto fue imitada por varias fundiciones. Su nombre proviene de la palabra usada en Alemania para denominar a las tipografías sin serifs del siglo XIX “Grotesk” y el término usado para los tipos utilizados por las imprentas comerciales “Akzidenzschrift”. Fue usada como tipo de texto en Europa, especialmente en Suíza hasta ser suplantado por la Univers y la Helvética aunque en los años recientes hizo una nueva reaparición. Funciona especialmente bien en literatura técnica como tablas, hojas de balance o en otros casos donde haya poco espacio. También se puede utilizar en titulares de periódicos y revistas gracias a su gama de anchos y pesos.'
+  links:
+    -
+      title: 'Akzidenz Grotesk'
+      description: 'Homenaje a esta tipografía en forma de videoclip colgado en youtube.'
+      url: 'www.youtube.com/watch?v=L5ol02WPaYM'
+      language: en
+      source: Youtube
 tags_ids:
   - 77
   - 91

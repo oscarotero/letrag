@@ -1,3 +1,5 @@
 id: 108
-title.gl: 'Países Baixos'
-title.es: 'Países Bajos'
+gl:
+  title: 'Países Baixos'
+es:
+  title: 'Países Bajos'

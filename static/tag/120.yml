@@ -1,3 +1,5 @@
 id: 120
-title.gl: California
-title.es: California
+gl:
+  title: California
+es:
+  title: California

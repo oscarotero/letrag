@@ -1,3 +1,5 @@
 id: 307
-title.gl: 'Frank Pick'
-title.es: 'Frank Pick'
+gl:
+  title: 'Frank Pick'
+es:
+  title: 'Frank Pick'

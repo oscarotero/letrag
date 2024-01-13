@@ -1,6 +1,8 @@
 id: 40
 section_id: 4
-title.gl: Redonda
-title.es: Redonda
-description.gl: 'Chamadas Rundgotisch en Alemaña, apareceron no século XIII e foron moi utilizadas en Italia e na Península Ibérica. Caracterízanse polas formas curvas e redondeadas, derivadas das carolinxias, aínda que máis angulosas e condensadas.'
-description.es: 'Llamadas Rundgotish en Alemania, aparecieron en el siglo XIII y fueron muy utilizadas en Italia y en la Península Ibérica. Se caracterizan por las formas curvas y redondeadas, derivadas de las carolingias, aunque más angulosas y condensadas.'
+gl:
+  title: Redonda
+  description: 'Chamadas Rundgotisch en Alemaña, apareceron no século XIII e foron moi utilizadas en Italia e na Península Ibérica. Caracterízanse polas formas curvas e redondeadas, derivadas das carolinxias, aínda que máis angulosas e condensadas.'
+es:
+  title: Redonda
+  description: 'Llamadas Rundgotish en Alemania, aparecieron en el siglo XIII y fueron muy utilizadas en Italia y en la Península Ibérica. Se caracterizan por las formas curvas y redondeadas, derivadas de las carolingias, aunque más angulosas y condensadas.'

@@ -2,8 +2,10 @@ id: 66
 title: 'Snell Roundhand'
 year: '1965'
 download: null
-description.gl: 'Creada por Matthew Carter en 1965, o seu deseño baséase na escritura de Charles Snell, mestre da caligrafía inglesa do século XVIII que escribiu o Pen-man’s Treasury Open’d en 1694. Clara e fácil de ler, esta tipografía posúe ademais un aspecto elegante e festivo que permite combinar as súas maiúsculas con outros alfabetos. O seu uso abarca textos de lonxitude media e titulares, que a fan apropiada para invitacións, publicidade, etc.'
-description.es: 'Creada por Matthew Carter en 1965, su diseño se basa en la escritura de Charles Snell, maestro de la caligrafía inglesa del siglo XVIII que escribió el Pen-man’s Treasury Open’d en 1694. Clara y fácil de leer, esta tipografía posee además un aspecto elegante y festivo que permite combinar sus mayúsculas con otros alfabetos. Su uso abarca textos de longitud media y titulares, que la hacen apropiada para invitaciones, publicidad, etc.'
+gl:
+  description: 'Creada por Matthew Carter en 1965, o seu deseño baséase na escritura de Charles Snell, mestre da caligrafía inglesa do século XVIII que escribiu o Pen-man’s Treasury Open’d en 1694. Clara e fácil de ler, esta tipografía posúe ademais un aspecto elegante e festivo que permite combinar as súas maiúsculas con outros alfabetos. O seu uso abarca textos de lonxitude media e titulares, que a fan apropiada para invitacións, publicidade, etc.'
+es:
+  description: 'Creada por Matthew Carter en 1965, su diseño se basa en la escritura de Charles Snell, maestro de la caligrafía inglesa del siglo XVIII que escribió el Pen-man’s Treasury Open’d en 1694. Clara y fácil de leer, esta tipografía posee además un aspecto elegante y festivo que permite combinar sus mayúsculas con otros alfabetos. Su uso abarca textos de longitud media y titulares, que la hacen apropiada para invitaciones, publicidad, etc.'
 links: []
 tags_ids:
   - 85

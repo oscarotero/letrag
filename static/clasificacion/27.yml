@@ -1,6 +1,8 @@
 id: 27
 section_id: 3
-title.gl: Informais
-title.es: Informales
-description.gl: 'Caracterízanse por ter unha aparencia irregular e desenfadada. Non están deseñadas sobre cuadrículas nin existen rascos comúns entre distintos caracteres senón que emulan a escritura a man alzada.'
-description.es: 'Se caracterizan por tener una apariencia irregular y desenfadada. No están diseñadas sobre cuadrículas ni existen rasgos comunes entre distintos caracteres sino que emulan la escritura a mano alzada.'
+gl:
+  title: Informais
+  description: 'Caracterízanse por ter unha aparencia irregular e desenfadada. Non están deseñadas sobre cuadrículas nin existen rascos comúns entre distintos caracteres senón que emulan a escritura a man alzada.'
+es:
+  title: Informales
+  description: 'Se caracterizan por tener una apariencia irregular y desenfadada. No están diseñadas sobre cuadrículas ni existen rasgos comunes entre distintos caracteres sino que emulan la escritura a mano alzada.'

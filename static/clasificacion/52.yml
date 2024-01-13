@@ -1,6 +1,8 @@
 id: 52
 section_id: 17
-title.gl: LCD
-title.es: LCD
-description.gl: 'Son aquelas tipografías que simulan as pantaias de cristal líquido. Teñen unha aparencia moi tecnolóxica polo que son moi apropiadas para ese tipo de deseños aínda que, debido ao avance das novas tecnoloxías, teñen un carácter máis retro.'
-description.es: 'Son aquellas tipografías que simulan las pantallas de cristal líquido. Tienen una apariencia muy tecnológica por lo que son muy apropiadas para ese tipo de diseños aunque, debido al avance de las nuevas tecnologías, tienen un carácter más retro.'
+gl:
+  title: LCD
+  description: 'Son aquelas tipografías que simulan as pantaias de cristal líquido. Teñen unha aparencia moi tecnolóxica polo que son moi apropiadas para ese tipo de deseños aínda que, debido ao avance das novas tecnoloxías, teñen un carácter máis retro.'
+es:
+  title: LCD
+  description: 'Son aquellas tipografías que simulan las pantallas de cristal líquido. Tienen una apariencia muy tecnológica por lo que son muy apropiadas para ese tipo de diseños aunque, debido al avance de las nuevas tecnologías, tienen un carácter más retro.'

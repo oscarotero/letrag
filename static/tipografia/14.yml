@@ -2,17 +2,24 @@ id: 14
 title: Caslon
 year: '1725'
 download: null
-description.gl: 'A primeira tipografía Caslon foi deseñada en 1725 polo inglés William Caslon. As súas influencias foron os deseñadores holandeses Christoffel van Dijcks e Dirck Voskens. Trátase dunha tipografía cálida e moi confortable para o ollo o que a fai altamente lexible. Foi coñecida durante moito tempo como a escritura de reis, aínda que en América foi usada para redactar a declaración da independencia e a constitución. Hoxe en día existes varias versións desta tipografía como a de Carol Twombly que estudiou as páxinas impresas entre o 1734 e 1770 sacando a súa versión en 1990. Moito antes, en 1905, a American Typefounders presentou unha Caslon fiel ás formas orixinais. Tamén existe unha versión de ITC realizada por Justin Howes en 1998 baseada na investigación de mostras da St. Bride Printing Library en Londres.'
-description.es: 'La primera tipografía Caslon fue diseñada en 1725 por el inglés William Caslon. Sus influencias fueron los diseñadores holandeses Christoffel van Dijcks y Dirck Voskens. Se trata de una tipografía cálida y muy confortable para el ojo lo que la hace altamente legible. Fue conocida durante mucho tiempo como la escritura de reyes, aunque en América fue utilizada para redactar la declaración de independencia y la constitución. Hoy en día existen varias versiones de esta tipografía como la de Carol Twombly que estudió las páginas impresas entre el 1734 y 1770 sacando su versión en 1990. Mucho antes, en 1905, la American Typefounders presentó una Caslon fiel a las formas originales. También existe una versión de ITC realizada por Justin Howes en 1998 basada en la investigación de muestras de la St. Bride Printing Library en Londres.'
-links:
-  -
-    title.gl: Caslon
-    title.es: Caslon
-    description.gl: 'Historia e descripción desta tipografía'
-    description.es: 'Historia y descripción de esta tipografía'
-    url: en.wikipedia.org/wiki/Caslon
-    language: en
-    source: Wikipedia
+gl:
+  description: 'A primeira tipografía Caslon foi deseñada en 1725 polo inglés William Caslon. As súas influencias foron os deseñadores holandeses Christoffel van Dijcks e Dirck Voskens. Trátase dunha tipografía cálida e moi confortable para o ollo o que a fai altamente lexible. Foi coñecida durante moito tempo como a escritura de reis, aínda que en América foi usada para redactar a declaración da independencia e a constitución. Hoxe en día existes varias versións desta tipografía como a de Carol Twombly que estudiou as páxinas impresas entre o 1734 e 1770 sacando a súa versión en 1990. Moito antes, en 1905, a American Typefounders presentou unha Caslon fiel ás formas orixinais. Tamén existe unha versión de ITC realizada por Justin Howes en 1998 baseada na investigación de mostras da St. Bride Printing Library en Londres.'
+  links:
+    -
+      title: Caslon
+      description: 'Historia e descripción desta tipografía'
+      url: en.wikipedia.org/wiki/Caslon
+      language: en
+      source: Wikipedia
+es:
+  description: 'La primera tipografía Caslon fue diseñada en 1725 por el inglés William Caslon. Sus influencias fueron los diseñadores holandeses Christoffel van Dijcks y Dirck Voskens. Se trata de una tipografía cálida y muy confortable para el ojo lo que la hace altamente legible. Fue conocida durante mucho tiempo como la escritura de reyes, aunque en América fue utilizada para redactar la declaración de independencia y la constitución. Hoy en día existen varias versiones de esta tipografía como la de Carol Twombly que estudió las páginas impresas entre el 1734 y 1770 sacando su versión en 1990. Mucho antes, en 1905, la American Typefounders presentó una Caslon fiel a las formas originales. También existe una versión de ITC realizada por Justin Howes en 1998 basada en la investigación de muestras de la St. Bride Printing Library en Londres.'
+  links:
+    -
+      title: Caslon
+      description: 'Historia y descripción de esta tipografía'
+      url: en.wikipedia.org/wiki/Caslon
+      language: en
+      source: Wikipedia
 tags_ids:
   - 28
   - 68

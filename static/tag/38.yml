@@ -1,3 +1,5 @@
 id: 38
-title.gl: 'Santa Croce'
-title.es: 'Santa Croce'
+gl:
+  title: 'Santa Croce'
+es:
+  title: 'Santa Croce'

@@ -1,3 +1,5 @@
 id: 97
-title.gl: Igrexa
-title.es: Iglesia
+gl:
+  title: Igrexa
+es:
+  title: Iglesia

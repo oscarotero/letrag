@@ -1,3 +1,5 @@
 id: 224
-title.gl: 'Britain''s Tyne'
-title.es: 'Britain''s Tyne'
+gl:
+  title: 'Britain''s Tyne'
+es:
+  title: 'Britain''s Tyne'

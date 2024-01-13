@@ -2,8 +2,10 @@ id: 115
 title: 'Dom Casual'
 year: '1952'
 download: null
-description.gl: 'Tipografía caligráfica creada polo deseñador estadounidense Peter Dombreizan en 1952 para a American Type Founders. Esta letra informal e lixeiramente condensada ten uns trazos parecidos aos feitos con pincel e chegou a ter un gran éxito ao pouco tempo de saír. Os seus remates redondeados producen variacións de tensión nas letras. Este aspecto desenfadado faina adecuada para publicidade, títulos e textos curtos.'
-description.es: 'Tipografía caligráfica creada por el diseñador estadounidense Peter Dombreizan en 1952 para la American Type Founders. Esta letra informal y ligeramente condensada tiene unos trazos parecidos a los creados con pincel y llegó a tener un gran éxito al poco tiempo de salir. Sus remates redondeados producen variaciones de tensión en las letras. Este aspecto desenfadado la hace adecuada para publicidad, títulos y textos cortos.'
+gl:
+  description: 'Tipografía caligráfica creada polo deseñador estadounidense Peter Dombreizan en 1952 para a American Type Founders. Esta letra informal e lixeiramente condensada ten uns trazos parecidos aos feitos con pincel e chegou a ter un gran éxito ao pouco tempo de saír. Os seus remates redondeados producen variacións de tensión nas letras. Este aspecto desenfadado faina adecuada para publicidade, títulos e textos curtos.'
+es:
+  description: 'Tipografía caligráfica creada por el diseñador estadounidense Peter Dombreizan en 1952 para la American Type Founders. Esta letra informal y ligeramente condensada tiene unos trazos parecidos a los creados con pincel y llegó a tener un gran éxito al poco tiempo de salir. Sus remates redondeados producen variaciones de tensión en las letras. Este aspecto desenfadado la hace adecuada para publicidad, títulos y textos cortos.'
 links: []
 tags_ids:
   - 87

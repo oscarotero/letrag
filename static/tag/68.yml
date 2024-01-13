@@ -1,3 +1,5 @@
 id: 68
-title.gl: 'Christoffel van Dijcks'
-title.es: 'Christoffel van Dijcks'
+gl:
+  title: 'Christoffel van Dijcks'
+es:
+  title: 'Christoffel van Dijcks'

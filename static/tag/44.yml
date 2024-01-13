@@ -1,3 +1,5 @@
 id: 44
-title.gl: 'Bruce Rogers'
-title.es: 'Bruce Rogers'
+gl:
+  title: 'Bruce Rogers'
+es:
+  title: 'Bruce Rogers'

@@ -1,6 +1,8 @@
 id: 53
 section_id: 31
-title.gl: Madeira
-title.es: Madera
-description.gl: 'Tamén chamadas Woodtype, teñen a súa orixe nos tipos de madeira creados durante o século XIX e que resultaban máis baratas e duradeiras que os tipos de metal, aínda que a súa calidade era menor. Caracterízanse polos trazos e ornamentación grotesc'
-description.es: 'También llamadas Woodtype, tienen su origen en los tipos de madera creados durante el siglo XIX y que resultaban más baratas y duraderas que los tipos de metal, aunque su calidad era menor. Se caracterizan por los trazos y ornamentación grotesca.'
+gl:
+  title: Madeira
+  description: 'Tamén chamadas Woodtype, teñen a súa orixe nos tipos de madeira creados durante o século XIX e que resultaban máis baratas e duradeiras que os tipos de metal, aínda que a súa calidade era menor. Caracterízanse polos trazos e ornamentación grotesc'
+es:
+  title: Madera
+  description: 'También llamadas Woodtype, tienen su origen en los tipos de madera creados durante el siglo XIX y que resultaban más baratas y duraderas que los tipos de metal, aunque su calidad era menor. Se caracterizan por los trazos y ornamentación grotesca.'

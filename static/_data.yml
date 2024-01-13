@@ -1,23 +1,26 @@
 lang: [gl, es]
 
-texts:
-  cc.gl: '<a rel="license" href="https://creativecommons.org/licenses/by/2.5/es/deed.gl"><img alt="Creative Commons License" style="border-width:0" src="https://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está baixo unha licenza <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Recoñecemento 2.5 España de Creative Commons</a>.'
-  cc.es: '<a rel="license" href="https://creativecommons.org/licenses/by/2.5/es/"><img alt="Creative Commons License" style="border-width:0" src="https://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Reconocimiento 2.5 España de Creative Commons</a>.'
-
-  creator.gl: 'Páxina web creada por Oscar Otero (oom!)'
-  creator.es: 'Página web creada por Oscar Otero (oom!)'
-
-  gl: Galego
-  es: Español
-
-  page_prev.gl: "Anterior"
-  page_prev.es: "Anterior"
-  page_next.gl: "Seguinte"
-  page_next.es: "Siguiente"
-  page.gl: "Páxina"
-  page.es: "Página"
-
-  empty.gl: "Non se atoparon resultados"
-  empty.es: "No se encontraron resultados"
-  search: "Buscar"
+gl:
+  texts:
+    cc: '<a rel="license" href="https://creativecommons.org/licenses/by/2.5/es/deed"><img alt="Creative Commons License" style="border-width:0" src="https://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está baixo unha licenza <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Recoñecemento 2.5 España de Creative Commons</a>.'
+    creator: 'Páxina web creada por Oscar Otero (oom!)'
+    gl: Galego
+    es: Español
+    page_prev: "Anterior"
+    page_next: "Seguinte"
+    page: "Páxina"
+    empty: "Non se atoparon resultados"
+    search: "Buscar"
   
+es:
+  texts:
+    cc: '<a rel="license" href="https://creativecommons.org/licenses/by/2.5/es/"><img alt="Creative Commons License" style="border-width:0" src="https://creativecommons.org/images/public/somerights20.png"/></a><br/>Esta obra está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by/2.5/es/">Reconocimiento 2.5 España de Creative Commons</a>.'
+    creator: 'Página web creada por Oscar Otero (oom!)'
+    gl: Galego
+    es: Español
+    page_prev: "Anterior"
+    page_next: "Siguiente"
+    page: "Página"
+    empty: "No se encontraron resultados"
+    search: "Buscar"
+    

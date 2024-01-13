@@ -1,3 +1,5 @@
 id: 337
-title.gl: 'Guerra do Golfo'
-title.es: 'Guerra del Golfo'
+gl:
+  title: 'Guerra do Golfo'
+es:
+  title: 'Guerra del Golfo'

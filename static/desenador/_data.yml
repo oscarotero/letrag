@@ -1,5 +1,7 @@
 type: designer
 layout: layouts/designer.njk
 
-description.gl: Tipografías deseñadas por este diseñador 
-description.es: Tipografías diseñadas por este diseñador 
+gl:
+  description: Tipografías deseñadas por este diseñador 
+es:
+  description: Tipografías diseñadas por este diseñador 

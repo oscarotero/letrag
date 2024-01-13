@@ -1,3 +1,5 @@
 id: 447
-title.gl: 'Tag Team 1'
-title.es: 'Tag Team 1'
+gl:
+  title: 'Tag Team 1'
+es:
+  title: 'Tag Team 1'

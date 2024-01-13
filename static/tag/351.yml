@@ -1,3 +1,5 @@
 id: 351
-title.gl: 'Avenida Vicuña Mackenna'
-title.es: 'Avenida Vicuña Mackenna'
+gl:
+  title: 'Avenida Vicuña Mackenna'
+es:
+  title: 'Avenida Vicuña Mackenna'

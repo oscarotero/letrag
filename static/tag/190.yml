@@ -1,3 +1,5 @@
 id: 190
-title.gl: '95 teses'
-title.es: '95 tesis'
+gl:
+  title: '95 teses'
+es:
+  title: '95 tesis'

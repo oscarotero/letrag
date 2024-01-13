@@ -1,3 +1,5 @@
 id: 345
-title.gl: Western
-title.es: Western
+gl:
+  title: Western
+es:
+  title: Western

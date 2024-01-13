@@ -1,3 +1,5 @@
 id: 159
-title.gl: 'Charles de Gaulle'
-title.es: 'Charles de Gaulle'
+gl:
+  title: 'Charles de Gaulle'
+es:
+  title: 'Charles de Gaulle'

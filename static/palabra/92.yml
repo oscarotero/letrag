@@ -1,12 +1,14 @@
 id: 92
-title.gl: Anel
-title.es: Anillo
 section_id: 106
-description.gl: |-
-  ![](/imaxes/46.png)
+gl:
+  title: Anel
+  description: |-
+    ![](/imaxes/46.png)
 
-  Trazo curvo que cerra o branco interno en letras tales como o ‘b’, ‘p’ ou ‘o’.
-description.es: |-
-  ![](/imaxes/46.png)
+    Trazo curvo que cerra o branco interno en letras tales como o ‘b’, ‘p’ ou ‘o’.
+es:
+  title: Anillo
+  description: |-
+    ![](/imaxes/46.png)
 
-  Trazo curvo que encierra el blanco interno en letras tales como la ‘b’, ‘p’ o la ‘o’.
+    Trazo curvo que encierra el blanco interno en letras tales como la ‘b’, ‘p’ o la ‘o’.

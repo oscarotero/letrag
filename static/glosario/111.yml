@@ -1,6 +1,8 @@
 id: 111
 section_id: 107
-title.gl: 'Sistema DIN / ISO'
-title.es: 'Sistema DIN / ISO'
-description.gl: 'Todas as medidas de papel do estándar DIN, tamén chamado ISO despois de ser acollido como estándar internacional'
-description.es: 'Todas las medidas de papel del estándar DIN, también llamado ISO después de ser acogido como estándar internacional'
+gl:
+  title: 'Sistema DIN / ISO'
+  description: 'Todas as medidas de papel do estándar DIN, tamén chamado ISO despois de ser acollido como estándar internacional'
+es:
+  title: 'Sistema DIN / ISO'
+  description: 'Todas las medidas de papel del estándar DIN, también llamado ISO después de ser acogido como estándar internacional'

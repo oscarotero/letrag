@@ -1,3 +1,5 @@
 id: 134
-title.gl: Titulares
-title.es: Titulares
+gl:
+  title: Titulares
+es:
+  title: Titulares

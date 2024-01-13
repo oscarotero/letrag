@@ -1,6 +1,8 @@
 id: 1
 section_id: 0
-title.gl: 'Sen serifas'
-title.es: 'Sin serif'
-description.gl: 'Tamén chamadas de pau seco, estas tipografías caracterízanse pola ausencia de remates nos extremos. Apareceron en Inglaterra durante a primeira metade do século XIX para uso en impresos comerciais como carteis ou etiquetas'
-description.es: 'También llamadas de palo seco, estas tipografías se caracterizan por la ausencia de remates en los extremos. Aparecieron en Inglaterra durante la primera mitad del siglo XIX para su uso en impresos comerciales como carteles o etiquetas'
+gl:
+  title: 'Sen serifas'
+  description: 'Tamén chamadas de pau seco, estas tipografías caracterízanse pola ausencia de remates nos extremos. Apareceron en Inglaterra durante a primeira metade do século XIX para uso en impresos comerciais como carteis ou etiquetas'
+es:
+  title: 'Sin serif'
+  description: 'También llamadas de palo seco, estas tipografías se caracterizan por la ausencia de remates en los extremos. Aparecieron en Inglaterra durante la primera mitad del siglo XIX para su uso en impresos comerciales como carteles o etiquetas'

@@ -2,8 +2,10 @@ id: 31
 title: Granjon
 year: '1928'
 download: null
-description.gl: 'Deseñada en 1928 por George William Jones, usouse de base un tipo cortado por Claude Garamond utilizado nun libro impreso pola Parisian Jean Poupy en 1592. Como naquel tempo había moitas outras Garamond no mercado, Jones decidiu chamarlle ao seu tipo Granjon, sacado do impresor e tipógrafo francés do século XVI Robert Granjon, famoso sobre todo pola beleza das súas tipografías itálicas, moitas veces combinadas coas romanas de Garamond. O resultado é unha tipografía para texto fina e clásica, con delicados trazos que a fan moi agradable a distintos tamaños.'
-description.es: 'Diseñada en 1928 por George William Jones, se usó de base un tipo cortado por Claude Garamond utilizado en un libro impreso por la Parisian Jean Poupy en 1592. Como en aquel tiempo había muchas otras Garamond en el mercado, Jones decidió llamarle a su tipo Granjon, sacado del impresor y tipógrafo francés del siglo XVI Robert Granjon, famoso sobre todo por la belleza de sus tipografías itálicas, muchas veces combinadas con las romanas de Garamond. El resultado es una tipografía para texto fina y clásica, con delicados trazos que la hacen muy agradable a distintos tamaños.'
+gl:
+  description: 'Deseñada en 1928 por George William Jones, usouse de base un tipo cortado por Claude Garamond utilizado nun libro impreso pola Parisian Jean Poupy en 1592. Como naquel tempo había moitas outras Garamond no mercado, Jones decidiu chamarlle ao seu tipo Granjon, sacado do impresor e tipógrafo francés do século XVI Robert Granjon, famoso sobre todo pola beleza das súas tipografías itálicas, moitas veces combinadas coas romanas de Garamond. O resultado é unha tipografía para texto fina e clásica, con delicados trazos que a fan moi agradable a distintos tamaños.'
+es:
+  description: 'Diseñada en 1928 por George William Jones, se usó de base un tipo cortado por Claude Garamond utilizado en un libro impreso por la Parisian Jean Poupy en 1592. Como en aquel tiempo había muchas otras Garamond en el mercado, Jones decidió llamarle a su tipo Granjon, sacado del impresor y tipógrafo francés del siglo XVI Robert Granjon, famoso sobre todo por la belleza de sus tipografías itálicas, muchas veces combinadas con las romanas de Garamond. El resultado es una tipografía para texto fina y clásica, con delicados trazos que la hacen muy agradable a distintos tamaños.'
 links: []
 tags_ids:
   - 48

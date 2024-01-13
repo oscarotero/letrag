@@ -1,6 +1,8 @@
 id: 34
 section_id: 1
-title.gl: Neohumanísticas
-title.es: Neohumanísticas
-description.gl: 'Aparecidas na década de 1990, son tipografías creadas con gran rigor funcional, moi lexibles e flexibles. O deseño da Meta a mans de Erik Spiekermann foi clave para o nacemento deste novo estilo. Son apropiadas para proxectos sofisticados como identidades corporativas ou sinalización. A súa estética tende cara a neutralidade pero con proporcións clásicas.'
-description.es: 'Aparecidas en la década de 1990, son tipografías creadas con gran rigor funcional, muy legibles y flexibles. El diseño de la Meta, a manos de Erik Spiekermann fue clave para el nacimiento de este nuevo estilo. Son apropiadas para proyectos sofisticados como identidades corporativas o señalización. Su estética tiende hacia la neutralidad pero con proporciones clásicas.'
+gl:
+  title: Neohumanísticas
+  description: 'Aparecidas na década de 1990, son tipografías creadas con gran rigor funcional, moi lexibles e flexibles. O deseño da Meta a mans de Erik Spiekermann foi clave para o nacemento deste novo estilo. Son apropiadas para proxectos sofisticados como identidades corporativas ou sinalización. A súa estética tende cara a neutralidade pero con proporcións clásicas.'
+es:
+  title: Neohumanísticas
+  description: 'Aparecidas en la década de 1990, son tipografías creadas con gran rigor funcional, muy legibles y flexibles. El diseño de la Meta, a manos de Erik Spiekermann fue clave para el nacimiento de este nuevo estilo. Son apropiadas para proyectos sofisticados como identidades corporativas o señalización. Su estética tiende hacia la neutralidad pero con proporciones clásicas.'

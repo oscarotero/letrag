@@ -2,14 +2,14 @@ id: 88
 title: Palatino
 year: '1948'
 download: null
-description.gl: 'Unha das tipografías máis admiradas e usadas de Hermann Zapf. Deseñouna en 1948 baseándose nas formas clásicas do renacemento italiano. En 1950 foi cortada por August Rosenberger para a fundición Stempel AG en Frankfurt e posteriormente adaptada para a máquina de composición de Linotype. As súas liñas e formas clásicas foron optimizadas para conseguir un bo resultado nas máquinas de impresión do século XX e unha lexibilidade sobresaliente incluso en tamaños pequenos e papeis de baixa calidade. O seu nome escolleuse na honra de Giambattista Palatino, un dos grandes calígrafos do renacemento. Hoxe en día pódese considerar como unha obra clásica moderna, que funciona tanto en titulares como en texto aínda que Zapf deseñáraa nun principio para ser empregada en tamaños grandes.'
-description.es: 'Una de las tipografías más admiradas y usadas de Hermann Zapf. La diseñó en 1948 basándose en las formas clásicas del renacimiento italiano. En 1950 fue cortada por August Rosenberger para la fundición Stempel AG en Frankfurt y posteriormente adaptada para la máquina de composición de Linotype. Sus líneas y formas clásicas fueron optimizadas para conseguir un buen resultado en las máquinas de impresión del siglo XX y una legibilidad sobresaliente incluso en tamaños pequeños y papeles de baja calidad. Su nombre se escogió en honor a Giambattista Palatino, uno de los grandes calígrafos del renacimiento. Hoy en día se puede considerar como una obra clásica moderna, que funciona tanto en titulares como en texto aunque Zapf la diseñó en un principio para ser usada en tamaños grandes.'
+gl:
+  description: 'Unha das tipografías máis admiradas e usadas de Hermann Zapf. Deseñouna en 1948 baseándose nas formas clásicas do renacemento italiano. En 1950 foi cortada por August Rosenberger para a fundición Stempel AG en Frankfurt e posteriormente adaptada para a máquina de composición de Linotype. As súas liñas e formas clásicas foron optimizadas para conseguir un bo resultado nas máquinas de impresión do século XX e unha lexibilidade sobresaliente incluso en tamaños pequenos e papeis de baixa calidade. O seu nome escolleuse na honra de Giambattista Palatino, un dos grandes calígrafos do renacemento. Hoxe en día pódese considerar como unha obra clásica moderna, que funciona tanto en titulares como en texto aínda que Zapf deseñáraa nun principio para ser empregada en tamaños grandes.'
+es:
+  description: 'Una de las tipografías más admiradas y usadas de Hermann Zapf. La diseñó en 1948 basándose en las formas clásicas del renacimiento italiano. En 1950 fue cortada por August Rosenberger para la fundición Stempel AG en Frankfurt y posteriormente adaptada para la máquina de composición de Linotype. Sus líneas y formas clásicas fueron optimizadas para conseguir un buen resultado en las máquinas de impresión del siglo XX y una legibilidad sobresaliente incluso en tamaños pequeños y papeles de baja calidad. Su nombre se escogió en honor a Giambattista Palatino, uno de los grandes calígrafos del renacimiento. Hoy en día se puede considerar como una obra clásica moderna, que funciona tanto en titulares como en texto aunque Zapf la diseñó en un principio para ser usada en tamaños grandes.'
 links:
   -
-    title.gl: Palatino
-    title.es: Palatino
-    description.gl: ''
-    description.es: ''
+    title: Palatino
+    description: ''
     url: en.wikipedia.org/wiki/Palatino
     language: en
     source: Wikipedia

@@ -1,6 +1,8 @@
 id: 20
 section_id: 16
-title.gl: OCR
-title.es: OCR
-description.gl: 'As tipografías OCR (Recoñecemento Óptico de Caracteres) foron deseñadas para que puidesen ser lidas tanto por homes como exploradas e descodificas polas máquinas gracias ás súas formas sinxelas.'
-description.es: 'Las tipografías OCR (Reconocimiento Óptico de Caracteres) fueron diseñadas para que pudiesen ser leídas tanto por hombres como exploradas y descodificadas por las máquinas gracias a sus formas sencillas esquemáticas.'
+gl:
+  title: OCR
+  description: 'As tipografías OCR (Recoñecemento Óptico de Caracteres) foron deseñadas para que puidesen ser lidas tanto por homes como exploradas e descodificas polas máquinas gracias ás súas formas sinxelas.'
+es:
+  title: OCR
+  description: 'Las tipografías OCR (Reconocimiento Óptico de Caracteres) fueron diseñadas para que pudiesen ser leídas tanto por hombres como exploradas y descodificadas por las máquinas gracias a sus formas sencillas esquemáticas.'

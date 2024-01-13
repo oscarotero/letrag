@@ -1,3 +1,5 @@
 id: 194
-title.gl: 'Tom Rickner'
-title.es: 'Tom Rickner'
+gl:
+  title: 'Tom Rickner'
+es:
+  title: 'Tom Rickner'

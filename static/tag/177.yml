@@ -1,3 +1,5 @@
 id: 177
-title.gl: 'Alfabetos centroeuropeos'
-title.es: 'Alfabetos centroeuropeos'
+gl:
+  title: 'Alfabetos centroeuropeos'
+es:
+  title: 'Alfabetos centroeuropeos'

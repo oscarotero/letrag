@@ -1,6 +1,8 @@
 id: 16
 section_id: 0
-title.gl: Informáticas
-title.es: Informáticas
-description.gl: 'Son tipografías aparecidas no século XX grazas ao gran avance industrial e responden á necesidade do home de comunicarse coas máquinas ou ser mostradas en pantallas pixeladas.'
-description.es: 'Son tipografías aparecidas en el siglo XX gracias al gran avance industrial y responden a la necesidad del hombre de adaptar las letras para comunicarse con las máquinas o ser mostradas en pantallas pixeladas.'
+gl:
+  title: Informáticas
+  description: 'Son tipografías aparecidas no século XX grazas ao gran avance industrial e responden á necesidade do home de comunicarse coas máquinas ou ser mostradas en pantallas pixeladas.'
+es:
+  title: Informáticas
+  description: 'Son tipografías aparecidas en el siglo XX gracias al gran avance industrial y responden a la necesidad del hombre de adaptar las letras para comunicarse con las máquinas o ser mostradas en pantallas pixeladas.'

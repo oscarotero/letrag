@@ -1,6 +1,8 @@
 id: 67
-title.gl: DIN
-title.es: DIN
 section_id: 111
-description.gl: 'Estándar para definir tamaños de papel creado en 1922 pola Deutsches Institut für Normung (Instituto Alemán de Normalización). Foi desenrolado por un inxeñeiro berlinés chamado Walter Forstmann e converteuse nun estándar internacional grazas a ser acollido pola ISO 216 (Organización Internacional para a Estandarización). As medidas DIN están divididas en 5 series: A, B, C, D e E e cada serie contén varios tamaños numerados: 0, 1, 2, 3… A serie A, en concreto o DIN A0 é o formato referente e os demáis formatos e series están calculados segundo este.'
-description.es: 'Estándar para definir tamaños de papel creado en 1922 por la Deutsches Institut für Normung (Instituto Alemán de Normalización). Fue desarrollado por un ingeniero berlinés llamado Walter Forstmann y se convirtió en un estándar internacional gracias a ser acogido por la ISO 216 (Organización Internacional para la Estandarización). Las medidas DIN están divididas en 5 series: A, B, C, D y E y cada serie contiene varios tamaños numerados: 0, 1, 2, 3… La serie A, en concreto el DIN A0 es el formato referente y los demás formatos y series están calculados según este.'
+gl:
+  title: DIN
+  description: 'Estándar para definir tamaños de papel creado en 1922 pola Deutsches Institut für Normung (Instituto Alemán de Normalización). Foi desenrolado por un inxeñeiro berlinés chamado Walter Forstmann e converteuse nun estándar internacional grazas a ser acollido pola ISO 216 (Organización Internacional para a Estandarización). As medidas DIN están divididas en 5 series: A, B, C, D e E e cada serie contén varios tamaños numerados: 0, 1, 2, 3… A serie A, en concreto o DIN A0 é o formato referente e os demáis formatos e series están calculados segundo este.'
+es:
+  title: DIN
+  description: 'Estándar para definir tamaños de papel creado en 1922 por la Deutsches Institut für Normung (Instituto Alemán de Normalización). Fue desarrollado por un ingeniero berlinés llamado Walter Forstmann y se convirtió en un estándar internacional gracias a ser acogido por la ISO 216 (Organización Internacional para la Estandarización). Las medidas DIN están divididas en 5 series: A, B, C, D y E y cada serie contiene varios tamaños numerados: 0, 1, 2, 3… La serie A, en concreto el DIN A0 es el formato referente y los demás formatos y series están calculados según este.'

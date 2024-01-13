@@ -1,3 +1,5 @@
 id: 279
-title.gl: Triángulo
-title.es: Triángulo
+gl:
+  title: Triángulo
+es:
+  title: Triángulo

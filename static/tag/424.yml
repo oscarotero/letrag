@@ -1,3 +1,5 @@
 id: 424
-title.gl: 'Asasinos Natos'
-title.es: 'Asesinos Natos'
+gl:
+  title: 'Asasinos Natos'
+es:
+  title: 'Asesinos Natos'

@@ -1,3 +1,5 @@
 id: 426
-title.gl: 'Oliver Stone'
-title.es: 'Oliver Stone'
+gl:
+  title: 'Oliver Stone'
+es:
+  title: 'Oliver Stone'

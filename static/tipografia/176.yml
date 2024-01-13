@@ -2,8 +2,10 @@ id: 176
 title: Offline
 year: '1998'
 download: null
-description.gl: 'Creada en 1998 polo deseñador holandés Roelof Mulder para a fundición FontFont, trátase dunha atractiva e práctica tipografía de estilo stencil, aínda que realidade a súa orixe non ten nada que ver coas plantillas. En 1993 foi deseñada a versión Regular para o libro “Oceaan Coalities” e posteriormente Mulder rematou a familia completa. Esta consta de moitas variantes como unha versión con caracteres especiais, outra cos cantos rugosos ou unha versión Outline, mostrando unicamente as liñas de contorno.'
-description.es: 'Creada en 1998 por el diseñador holandés Roelof Mulder para la fundición FontFont, se trata de una atractiva y práctica tipografía de estilo stencil, aunque en realidad su origen no tiene nada que ver con las plantillas. En 1993 fue diseñada la versión Regular para el libro “Oceaan Coalities” y posteriormente Mulder acabó la familia completa. Esta consta de muchas variantes como una versión con caracteres especiales, otra con los bordes rugosos o una versión Outline, mostrando únicamente las líneas de contorno.'
+gl:
+  description: 'Creada en 1998 polo deseñador holandés Roelof Mulder para a fundición FontFont, trátase dunha atractiva e práctica tipografía de estilo stencil, aínda que realidade a súa orixe non ten nada que ver coas plantillas. En 1993 foi deseñada a versión Regular para o libro “Oceaan Coalities” e posteriormente Mulder rematou a familia completa. Esta consta de moitas variantes como unha versión con caracteres especiais, outra cos cantos rugosos ou unha versión Outline, mostrando unicamente as liñas de contorno.'
+es:
+  description: 'Creada en 1998 por el diseñador holandés Roelof Mulder para la fundición FontFont, se trata de una atractiva y práctica tipografía de estilo stencil, aunque en realidad su origen no tiene nada que ver con las plantillas. En 1993 fue diseñada la versión Regular para el libro “Oceaan Coalities” y posteriormente Mulder acabó la familia completa. Esta consta de muchas variantes como una versión con caracteres especiales, otra con los bordes rugosos o una versión Outline, mostrando únicamente las líneas de contorno.'
 links: []
 tags_ids: []
 sections_ids:

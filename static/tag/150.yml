@@ -1,3 +1,5 @@
 id: 150
-title.gl: 'Pedra tallada'
-title.es: 'Piedra tallada'
+gl:
+  title: 'Pedra tallada'
+es:
+  title: 'Piedra tallada'

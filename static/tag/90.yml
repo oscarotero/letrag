@@ -1,3 +1,5 @@
 id: 90
-title.gl: Weimar
-title.es: Weimar
+gl:
+  title: Weimar
+es:
+  title: Weimar

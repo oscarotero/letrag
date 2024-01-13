@@ -19,10 +19,10 @@ layout: layouts/base.njk
   {% for page in search.pages("type=article lang=" + lang, "id=desc") %}
   <hr class="separador" />
   <div class="listado_elemento borrar">
-    <h3><a href="{{ page.data.url }}">{{ page.data.title | md(true) | safe }}</a></h3>
-    <p class="detalles">{{ page.data.author }}</p>
+    <h3><a href="{{ page.url }}">{{ page.title | md(true) | safe }}</a></h3>
+    <p class="detalles">{{ page.author }}</p>
     <p class="intro">
-      {{ page.data.intro | md(true) | safe }}
+      {{ page.intro | md(true) | safe }}
     </p>
   </div>
   {% endfor %}

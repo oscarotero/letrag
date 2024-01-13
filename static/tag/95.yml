@@ -1,3 +1,5 @@
 id: 95
-title.gl: Biblia
-title.es: Biblia
+gl:
+  title: Biblia
+es:
+  title: Biblia

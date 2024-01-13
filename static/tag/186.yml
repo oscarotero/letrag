@@ -1,3 +1,5 @@
 id: 186
-title.gl: 'Schelter & Giesecke'
-title.es: 'Schelter & Giesecke'
+gl:
+  title: 'Schelter & Giesecke'
+es:
+  title: 'Schelter & Giesecke'

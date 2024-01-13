@@ -1,3 +1,5 @@
 id: 369
-title.gl: 'Pórtico do Paraíso'
-title.es: 'Pórtico del Paraíso'
+gl:
+  title: 'Pórtico do Paraíso'
+es:
+  title: 'Pórtico del Paraíso'

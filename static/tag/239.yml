@@ -1,3 +1,5 @@
 id: 239
-title.gl: 'IBM Selectric'
-title.es: 'IBM Selectric'
+gl:
+  title: 'IBM Selectric'
+es:
+  title: 'IBM Selectric'

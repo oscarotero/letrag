@@ -1,3 +1,5 @@
 id: 123
-title.gl: 'Nicolas Jenson'
-title.es: 'Nicolas Jenson'
+gl:
+  title: 'Nicolas Jenson'
+es:
+  title: 'Nicolas Jenson'

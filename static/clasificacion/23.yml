@@ -1,6 +1,8 @@
 id: 23
 section_id: 2
-title.gl: 'Romanas clásicas'
-title.es: 'Romanas clásicas'
-description.gl: 'Chámanse así os alfabetos baseados nos tipos clásicos romanos cortados para imprenta que apareceron no século XV, derivados das letras manuscritas italianas, e que foron evolucionando ata o século XX.'
-description.es: 'Se llaman así los alfabetos basados en los tipos clásicos romanos cortados para imprenta que aparecieron en el siglo XV, derivados de las letras manuscritas italianas, y que fueron evolucionando hasta el siglo XX.'
+gl:
+  title: 'Romanas clásicas'
+  description: 'Chámanse así os alfabetos baseados nos tipos clásicos romanos cortados para imprenta que apareceron no século XV, derivados das letras manuscritas italianas, e que foron evolucionando ata o século XX.'
+es:
+  title: 'Romanas clásicas'
+  description: 'Se llaman así los alfabetos basados en los tipos clásicos romanos cortados para imprenta que aparecieron en el siglo XV, derivados de las letras manuscritas italianas, y que fueron evolucionando hasta el siglo XX.'

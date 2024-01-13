@@ -1,3 +1,5 @@
 id: 305
-title.gl: Roma
-title.es: Roma
+gl:
+  title: Roma
+es:
+  title: Roma

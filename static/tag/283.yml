@@ -1,3 +1,5 @@
 id: 283
-title.gl: 'Vladimir Pavlikov'
-title.es: 'Vladimir Pavlikov'
+gl:
+  title: 'Vladimir Pavlikov'
+es:
+  title: 'Vladimir Pavlikov'

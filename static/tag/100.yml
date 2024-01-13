@@ -1,3 +1,5 @@
 id: 100
-title.gl: Protestante
-title.es: Protestante
+gl:
+  title: Protestante
+es:
+  title: Protestante

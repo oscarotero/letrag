@@ -1,3 +1,5 @@
 id: 48
-title.gl: 'Robert Granjon'
-title.es: 'Robert Granjon'
+gl:
+  title: 'Robert Granjon'
+es:
+  title: 'Robert Granjon'

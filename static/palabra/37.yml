@@ -1,12 +1,14 @@
 id: 37
-title.gl: 'Altura do ''x'''
-title.es: 'Altura de la ''x'''
 section_id: 106
-description.gl: |-
-  ![](/imaxes/6.png)
+gl:
+  title: 'Altura do ''x'''
+  description: |-
+    ![](/imaxes/6.png)
 
-  Altura das letras de caixa baixa ou minúsculas sen contar os trazos ascendentes e descendentes, o que equivale, por exemplo, á altura da letra ‘x’.
-description.es: |-
-  ![](/imaxes/6.png)
+    Altura das letras de caixa baixa ou minúsculas sen contar os trazos ascendentes e descendentes, o que equivale, por exemplo, á altura da letra ‘x’.
+es:
+  title: 'Altura de la ''x'''
+  description: |-
+    ![](/imaxes/6.png)
 
-  Altura de las letras de caja baja o minúsculas sin contar los trazos ascendentes y descendentes, lo que equivale, por ejemplo, a la altura de la letra ‘x’.
+    Altura de las letras de caja baja o minúsculas sin contar los trazos ascendentes y descendentes, lo que equivale, por ejemplo, a la altura de la letra ‘x’.

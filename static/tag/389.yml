@@ -1,3 +1,5 @@
 id: 389
-title.gl: 'Schmalfette Grotesk'
-title.es: 'Schmalfette Grotesk'
+gl:
+  title: 'Schmalfette Grotesk'
+es:
+  title: 'Schmalfette Grotesk'

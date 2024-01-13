@@ -1,3 +1,5 @@
 id: 312
-title.gl: 'Illustration Now'
-title.es: 'Illustration Now'
+gl:
+  title: 'Illustration Now'
+es:
+  title: 'Illustration Now'

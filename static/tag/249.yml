@@ -1,3 +1,5 @@
 id: 249
-title.gl: 'Super elipse'
-title.es: 'Super elipse'
+gl:
+  title: 'Super elipse'
+es:
+  title: 'Super elipse'

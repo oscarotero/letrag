@@ -2,17 +2,23 @@ id: 4
 title: 'Gill Sans'
 year: '1931'
 download: null
-description.gl: 'Tipografía sen serifa cunhas proporcións baseadas nas romanas antigas e tamén influída polo tipo que Edward Johnston, un antigo profesor del, deseñou para o metro de Londres. As súas raíces clásicas maniféstanse por exemplo na existencia de ollal no “g” minúscula ou no pé do “R” maiúscula. Trátase dunha tipografía moi lexible, cunha alta doses de orixinalidade e unha personalidade moi moderna, que se fai moi apropiada para moitos tipos de impresos como libros, catálogos ou folletos.'
-description.es: 'Tipografía sin serif con unas proporciones basadas en las romanas antiguas y también influida por el tipo que Edward Johnston, un antiguo profesor suyo, diseñó para el metro de Londres. Sus raíces clásicas se manifiestan por ejemplo en la existencia del ojal en la “g” minúscula o en el pié de la “R” mayúscula. Se trata de una tipografía muy legible, con una alta dosis de originalidad y una personalidad muy moderna, que se hace muy apropiada para muchos tipos de impresos como libros, catálogos o folletos.'
-links:
-  -
-    title.gl: 'Gill Sans'
-    title.es: 'Gill Sans'
-    description.gl: ''
-    description.es: ''
-    url: en.wikipedia.org/wiki/Gill_Sans
-    language: en
-    source: Wikipedia
+gl:
+  description: 'Tipografía sen serifa cunhas proporcións baseadas nas romanas antigas e tamén influída polo tipo que Edward Johnston, un antigo profesor del, deseñou para o metro de Londres. As súas raíces clásicas maniféstanse por exemplo na existencia de ollal no “g” minúscula ou no pé do “R” maiúscula. Trátase dunha tipografía moi lexible, cunha alta doses de orixinalidade e unha personalidade moi moderna, que se fai moi apropiada para moitos tipos de impresos como libros, catálogos ou folletos.'
+  links:
+    -
+      title: 'Gill Sans'
+      description: ''
+      url: en.wikipedia.org/wiki/Gill_Sans
+      language: en
+      source: Wikipedia
+es:
+  description: 'Tipografía sin serif con unas proporciones basadas en las romanas antiguas y también influida por el tipo que Edward Johnston, un antiguo profesor suyo, diseñó para el metro de Londres. Sus raíces clásicas se manifiestan por ejemplo en la existencia del ojal en la “g” minúscula o en el pié de la “R” mayúscula. Se trata de una tipografía muy legible, con una alta dosis de originalidad y una personalidad muy moderna, que se hace muy apropiada para muchos tipos de impresos como libros, catálogos o folletos.'
+  links:
+    - title: 'Gill Sans'
+      description: ''
+      url: en.wikipedia.org/wiki/Gill_Sans
+      language: en
+      source: Wikipedia
 tags_ids:
   - 29
   - 28

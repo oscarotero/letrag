@@ -1,6 +1,8 @@
 id: 22
 section_id: 2
-title.gl: Exipcias
-title.es: Egipcias
-description.gl: 'Tamén coñecidas como Slab Serif ou Mecano, apareceron no século XIX para uso publicitario. A súa principal característica está nos remates, moi grosos e xeralmente cadrados e no pouco ou nulo contraste entre paos.'
-description.es: 'También conocidas como Slab Serif o Mecano, aparecieron en el siglo XIX para uso publicitario. Su principal característica está en los remates, muy gruesos y generalmente cuadrados y en el poco o nulo contraste entre palos.'
+gl:
+  title: Exipcias
+  description: 'Tamén coñecidas como Slab Serif ou Mecano, apareceron no século XIX para uso publicitario. A súa principal característica está nos remates, moi grosos e xeralmente cadrados e no pouco ou nulo contraste entre paos.'
+es:
+  title: Egipcias
+  description: 'También conocidas como Slab Serif o Mecano, aparecieron en el siglo XIX para uso publicitario. Su principal característica está en los remates, muy gruesos y generalmente cuadrados y en el poco o nulo contraste entre palos.'

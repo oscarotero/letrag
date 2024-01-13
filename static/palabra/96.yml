@@ -1,12 +1,14 @@
 id: 96
-title.gl: Ancho
-title.es: Ancho
 section_id: 106
-description.gl: |-
-  ![](/imaxes/50.png)
+gl:
+  title: Ancho
+  description: |-
+    ![](/imaxes/50.png)
 
-  O ancho dunha tipografía refírese ao ancho que posúen as letras que a forman (non ten nada que ver co ancho dos trazos). Así por exemplo, as tipografías Condensed (condensadas) son menos anchas que as Expanded (ou ampliadas) pero máis anchas que as Compressed (comprimidas).
-description.es: |-
-  ![](/imaxes/50.png)
+    O ancho dunha tipografía refírese ao ancho que posúen as letras que a forman (non ten nada que ver co ancho dos trazos). Así por exemplo, as tipografías Condensed (condensadas) son menos anchas que as Expanded (ou ampliadas) pero máis anchas que as Compressed (comprimidas).
+es:
+  title: Ancho
+  description: |-
+    ![](/imaxes/50.png)
 
-  El ancho de una tipografía se refiere al ancho que poseen las letras que la forman (no tiene nada que ver con el ancho de los trazos). Así por ejemplo, las tipografías Condensed (condensadas) son menos anchas que las Expanded (o ampliadas) pero más anchas que las Compressed (comprimidas).
+    El ancho de una tipografía se refiere al ancho que poseen las letras que la forman (no tiene nada que ver con el ancho de los trazos). Así por ejemplo, las tipografías Condensed (condensadas) son menos anchas que las Expanded (o ampliadas) pero más anchas que las Compressed (comprimidas).

@@ -1,6 +1,8 @@
 id: 19
 section_id: 17
-title.gl: 'Con serifas'
-title.es: 'Con serif'
-description.gl: 'Levan remate ao final dos trazos. Esto pode dificultar a lectura sobre todo a tamaños moi pequenos polo que o seu deseño é bastante complicado e precisa dun nivel de optimizado máis esixente.'
-description.es: 'Lleva remate al final de los trazos. Esto puede dificultar la lectura sobre todo a tamaños muy reducidos por lo que su diseño es bastante complicado y necesita un nivel de optimizado más exigente.'
+gl:
+  title: 'Con serifas'
+  description: 'Levan remate ao final dos trazos. Esto pode dificultar a lectura sobre todo a tamaños moi pequenos polo que o seu deseño é bastante complicado e precisa dun nivel de optimizado máis esixente.'
+es:
+  title: 'Con serif'
+  description: 'Lleva remate al final de los trazos. Esto puede dificultar la lectura sobre todo a tamaños muy reducidos por lo que su diseño es bastante complicado y necesita un nivel de optimizado más exigente.'

@@ -1,3 +1,5 @@
 id: 205
-title.gl: Bancos
-title.es: Bancos
+gl:
+  title: Bancos
+es:
+  title: Bancos

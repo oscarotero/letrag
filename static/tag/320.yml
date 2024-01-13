@@ -1,3 +1,5 @@
 id: 320
-title.gl: 'Walt Disney Script'
-title.es: 'Walt Disney Script'
+gl:
+  title: 'Walt Disney Script'
+es:
+  title: 'Walt Disney Script'

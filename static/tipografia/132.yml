@@ -2,8 +2,10 @@ id: 132
 title: 'French Script'
 year: '1989'
 download: null
-description.gl: 'Este deseño realizado polo equipo de deseño de Monotype en 1989 está baseado na escritura francesa, manual ou gravada, empregada do século XIX para avisos e invitacións formais. O tipo foi cortado por Stephenson Blake en 1905 para a fundición Inland Type e posteriormente pola American Type Founders. Trátase dunha tipografía caligráfica vertical e redondeada, cunhas maiúsculas grandes e ornamentadas e unhas minúsculas enlazadas. Dá ao texto un certo carácter de humor elegante moi apropiado para invitacións, tarxetas, avisos, etc.'
-description.es: 'Este diseño realizado por el equipo de diseño de Monotype en 1989 está basado en la escritura francesa, manual o grabada, empleada en el siglo XIX para avisos e invitaciones formales. El tipo fue cortado por Stephenson Blake en 1905 para la fundición Inland Type y posteriormente por la American Type Founders. Se trata de una tipografía caligráfica vertical y redondeada, con unas mayúsculas grandes y ornamentales y unas minúsculas enlazadas. Da al texto un cierto carácter de humor elegante muy apropiado para invitaciones, tarjetas, avisos, etc.'
+gl:
+  description: 'Este deseño realizado polo equipo de deseño de Monotype en 1989 está baseado na escritura francesa, manual ou gravada, empregada do século XIX para avisos e invitacións formais. O tipo foi cortado por Stephenson Blake en 1905 para a fundición Inland Type e posteriormente pola American Type Founders. Trátase dunha tipografía caligráfica vertical e redondeada, cunhas maiúsculas grandes e ornamentadas e unhas minúsculas enlazadas. Dá ao texto un certo carácter de humor elegante moi apropiado para invitacións, tarxetas, avisos, etc.'
+es:
+  description: 'Este diseño realizado por el equipo de diseño de Monotype en 1989 está basado en la escritura francesa, manual o grabada, empleada en el siglo XIX para avisos e invitaciones formales. El tipo fue cortado por Stephenson Blake en 1905 para la fundición Inland Type y posteriormente por la American Type Founders. Se trata de una tipografía caligráfica vertical y redondeada, con unas mayúsculas grandes y ornamentales y unas minúsculas enlazadas. Da al texto un cierto carácter de humor elegante muy apropiado para invitaciones, tarjetas, avisos, etc.'
 links: []
 tags_ids: []
 sections_ids:

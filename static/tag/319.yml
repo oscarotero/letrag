@@ -1,3 +1,5 @@
 id: 319
-title.gl: 'Walt Disney'
-title.es: 'Walt Disney'
+gl:
+  title: 'Walt Disney'
+es:
+  title: 'Walt Disney'

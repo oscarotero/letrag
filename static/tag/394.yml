@@ -1,3 +1,5 @@
 id: 394
-title.gl: Photoscript
-title.es: Photoscript
+gl:
+  title: Photoscript
+es:
+  title: Photoscript

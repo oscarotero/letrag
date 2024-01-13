@@ -1,6 +1,8 @@
 id: 41
 section_id: 31
-title.gl: Dadaístas
-title.es: Dadaístas
-description.gl: 'O movemento tipográfico dadaísta iniciouse en Europa en 1916. O seu lema era "O mundo e a imaxe son unha soa cousa". Esta vangarda caracterízase polo colaxe e a combinación provocativa e deliberadamente ilóxica de diferentes tipografías.'
-description.es: 'El movimiento tipográfico dadaísta se inició en Europa en 1916. Su lema era "El mundo y la imagen son una sola cosa". Esta vanguardia se caracteriza por el collage y la combinación provocativa y deliberadamente ilógica de diferentes tipografías.'
+gl:
+  title: Dadaístas
+  description: 'O movemento tipográfico dadaísta iniciouse en Europa en 1916. O seu lema era "O mundo e a imaxe son unha soa cousa". Esta vangarda caracterízase polo colaxe e a combinación provocativa e deliberadamente ilóxica de diferentes tipografías.'
+es:
+  title: Dadaístas
+  description: 'El movimiento tipográfico dadaísta se inició en Europa en 1916. Su lema era "El mundo y la imagen son una sola cosa". Esta vanguardia se caracteriza por el collage y la combinación provocativa y deliberadamente ilógica de diferentes tipografías.'

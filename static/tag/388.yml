@@ -1,3 +1,5 @@
 id: 388
-title.gl: Google
-title.es: Google
+gl:
+  title: Google
+es:
+  title: Google

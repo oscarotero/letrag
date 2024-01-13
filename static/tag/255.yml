@@ -1,3 +1,5 @@
 id: 255
-title.gl: 'John Dreyfus'
-title.es: 'John Dreyfus'
+gl:
+  title: 'John Dreyfus'
+es:
+  title: 'John Dreyfus'

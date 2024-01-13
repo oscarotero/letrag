@@ -1,3 +1,5 @@
 id: 75
-title.gl: 'St. Bride Printing Library'
-title.es: 'St. Bride Printing Library'
+gl:
+  title: 'St. Bride Printing Library'
+es:
+  title: 'St. Bride Printing Library'

@@ -2,33 +2,48 @@ id: 172
 title: 'Alfabeto Bilbao'
 year: '2000'
 download: 'www.yodebilbao.com/_bin/salvapantallas.php#tablaAlfabeto'
-description.gl: 'Deseñada por Alberto Corazón en 2000 para o concello de Bilbao, supón un intento de normalización da chamada “letra vasca”, sintetizando nun só tipo de letra todas as formas características deste estilo. A intención deste proxecto, impulsado polo concello e por <span class="caps">BILBAO</span> Ría 2000 era empregala no sistema de sinalización urbana da cidade, dotándoa dun sistema eficaz e claro e, ao mesmo tempo, lograr un elemento de identidade urbana. Na busca da orixe e esencia da letra vasca, Alberto Corazón mergullouse nos arquivos, especialmente no etnográfico de Bayona, co obxectivo de analizar os tipos de letra empregados dende o século <span class="caps">XII</span>. Comezouse a empregar nalgunhas estelas funerarias gravadas en pedra ou na madeira, en mobles populares. Ao principio foi coñecida como “escritura románica” por ser unha interpretación un tanto libre que os ebanistas fixeron do tipo de escritura empregado nas igrexas románicas, e foi evolucionando fixándose os trazos máis característicos deste estilo. Ao tratarse dunha escritura utilizada para inscricións, tan só posúe os caracteres maiúsculos. A letra vasca comezou a empregarse de forma extensa e xeneralizada na rotulación comercial a mediados do século XX e por eso a resposta do concello, creando esta tipografía sobria e elegante que asume a longa tradición popular do País Vasco ofrecéndoa ademais de modo gratuíto e desinteresado.'
-description.es: 'Diseñada por Alberto Corazón en 2000 para el ayuntamiento de Bilbao, supone un intento de normalización de la llamada “letra vasca”, sintetizando en un solo tipo de letra todas las formas características de este estilo. La intención de este proyecto, impulsado por el ayuntamiento y por <span class="caps">BILBAO</span> Ría 2000 era utilizarla en el sistema de señalización urbana de la ciudad, dotándola de un sistema eficaz y claro y, al mismo tiempo, lograr un elemento de identidad urbana. En la búsqueda del origen y esencia de la letra vasca, Alberto Corazón buceó en los archivos, especialmente en el etnográfico de Bayona, con el objetivo de analizar los tipos de letra empleados desde el siglo <span class="caps">XII</span>. Se empezó a utilizar en algunas estelas funerarias gravadas en piedra o en la madera, en muebles populares. Al principio fue conocida como “escritura románica” por ser una interpretación un tanto libre que los ebanistas hicieron del tipo de escritura empleado en las iglesias románicas, y fue evolucionando fijándose los trazos más característicos de este estilo. Al tratarse de una escritura utilizada para inscripciones, tan solo posee los caracteres mayúsculos. La letra vasca se empezó a utilizar de forma extensa y generalizada en la rotulación comercial a mediados del siglo XX y por eso la respuesta del ayuntamiento, creando esta tipografía sobria y elegante que asume la larga tradición popular del País Vasco ofreciéndola además de modo gratuito y desinteresado.'
-links:
-  -
-    title.gl: 'Concello de Bilbao'
-    title.es: 'Ayuntamiento de Bilbao'
-    description.gl: 'Páxina web do concello de Bilbao, promotor do alfabeto Bilbao.'
-    description.es: 'Página web del ayuntamiento de Bilbao, promotor del alfabeto Bilbao.'
-    url: www.bilbao.net
-    language: es
-    source: ''
-  -
-    title.gl: 'A letra vasca. Etnicidade e cultura tipográfica'
-    title.es: 'La letra vasca. Etnicidad y cultura tipográfica'
-    description.gl: 'Artigo de Eduardo Herrera Fernández publicado na revista Visual en xullo de 2004.'
-    description.es: 'Artículo de Eduardo Herrera Fernández publicado en la revista Visual en julio de 2004.'
-    url: 'www.revistasculturales.com/articulosLeer.php?cod=147'
-    language: es
-    source: 'Revistas Culturales'
-  -
-    title.gl: 'BILBAO Ría 2000'
-    title.es: 'BILBAO Ría 2000'
-    description.gl: 'Sociedade para a rexeneración urbanística de Bilbao e o seu entorno'
-    description.es: 'Sociedad para la regeneración urbanísitca de Bilbao y su entorno'
-    url: www.bilbaoria2000.org/
-    language: es
-    source: ''
+gl:
+  description: 'Deseñada por Alberto Corazón en 2000 para o concello de Bilbao, supón un intento de normalización da chamada “letra vasca”, sintetizando nun só tipo de letra todas as formas características deste estilo. A intención deste proxecto, impulsado polo concello e por <span class="caps">BILBAO</span> Ría 2000 era empregala no sistema de sinalización urbana da cidade, dotándoa dun sistema eficaz e claro e, ao mesmo tempo, lograr un elemento de identidade urbana. Na busca da orixe e esencia da letra vasca, Alberto Corazón mergullouse nos arquivos, especialmente no etnográfico de Bayona, co obxectivo de analizar os tipos de letra empregados dende o século <span class="caps">XII</span>. Comezouse a empregar nalgunhas estelas funerarias gravadas en pedra ou na madeira, en mobles populares. Ao principio foi coñecida como “escritura románica” por ser unha interpretación un tanto libre que os ebanistas fixeron do tipo de escritura empregado nas igrexas románicas, e foi evolucionando fixándose os trazos máis característicos deste estilo. Ao tratarse dunha escritura utilizada para inscricións, tan só posúe os caracteres maiúsculos. A letra vasca comezou a empregarse de forma extensa e xeneralizada na rotulación comercial a mediados do século XX e por eso a resposta do concello, creando esta tipografía sobria e elegante que asume a longa tradición popular do País Vasco ofrecéndoa ademais de modo gratuíto e desinteresado.'
+  links:
+    -
+      title: 'Concello de Bilbao'
+      description: 'Páxina web do concello de Bilbao, promotor do alfabeto Bilbao.'
+      url: www.bilbao.net
+      language: es
+      source: ''
+    -
+      title: 'A letra vasca. Etnicidade e cultura tipográfica'
+      description: 'Artigo de Eduardo Herrera Fernández publicado na revista Visual en xullo de 2004.'
+      url: 'www.revistasculturales.com/articulosLeer.php?cod=147'
+      language: es
+      source: 'Revistas Culturales'
+    -
+      title: 'BILBAO Ría 2000'
+      description: 'Sociedade para a rexeneración urbanística de Bilbao e o seu entorno'
+      url: www.bilbaoria2000.org/
+      language: es
+      source: ''
+es:
+  description: 'Diseñada por Alberto Corazón en 2000 para el ayuntamiento de Bilbao, supone un intento de normalización de la llamada “letra vasca”, sintetizando en un solo tipo de letra todas las formas características de este estilo. La intención de este proyecto, impulsado por el ayuntamiento y por <span class="caps">BILBAO</span> Ría 2000 era utilizarla en el sistema de señalización urbana de la ciudad, dotándola de un sistema eficaz y claro y, al mismo tiempo, lograr un elemento de identidad urbana. En la búsqueda del origen y esencia de la letra vasca, Alberto Corazón buceó en los archivos, especialmente en el etnográfico de Bayona, con el objetivo de analizar los tipos de letra empleados desde el siglo <span class="caps">XII</span>. Se empezó a utilizar en algunas estelas funerarias gravadas en piedra o en la madera, en muebles populares. Al principio fue conocida como “escritura románica” por ser una interpretación un tanto libre que los ebanistas hicieron del tipo de escritura empleado en las iglesias románicas, y fue evolucionando fijándose los trazos más característicos de este estilo. Al tratarse de una escritura utilizada para inscripciones, tan solo posee los caracteres mayúsculos. La letra vasca se empezó a utilizar de forma extensa y generalizada en la rotulación comercial a mediados del siglo XX y por eso la respuesta del ayuntamiento, creando esta tipografía sobria y elegante que asume la larga tradición popular del País Vasco ofreciéndola además de modo gratuito y desinteresado.'
+  links:
+    -
+      title: 'Ayuntamiento de Bilbao'
+      description: 'Página web del ayuntamiento de Bilbao, promotor del alfabeto Bilbao.'
+      url: www.bilbao.net
+      language: es
+      source: ''
+    -
+      title: 'La letra vasca. Etnicidad y cultura tipográfica'
+      description: 'Artículo de Eduardo Herrera Fernández publicado en la revista Visual en julio de 2004.'
+      url: 'www.revistasculturales.com/articulosLeer.php?cod=147'
+      language: es
+      source: 'Revistas Culturales'
+    -
+      title: 'BILBAO Ría 2000'
+      description: 'Sociedad para la regeneración urbanísitca de Bilbao y su entorno'
+      url: www.bilbaoria2000.org/
+      language: es
+      source: ''
 tags_ids: []
 sections_ids:
   - 48

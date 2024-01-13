@@ -2,8 +2,10 @@ id: 21
 title: Walbaum
 year: '1800'
 download: null
-description.gl: 'Tipografía cortada orixinariamente por Justus Erich Walbaum en Weimar alá polo ano 1800. Era a versión alemá das grandes tipografías modernas europeas como a Bodoni e a Didot, e comparte moitas características con elas como a tensión vertical, o gran contraste nos grosores dos paus ou as finas e rectas serifas. Tamén posúe caracteres moi diferentes como a ausencia de serifa na parte baixa do “b” ou a curiosa cola asimétrica do “Q”. Unha das máis singulares tipografías modernas, de gran fermosura e lexibilidade.'
-description.es: 'Tipografía cortada originariamente por Justus Erich Walbaum en Weimar, allá por el año 1800. Era la versión alemana de las grandes tipografías modernas europeas como la Bodoni o la Didot, y comparte muchas características con ellas como la tensión vertical, el gran contraste de los grosores de los palos o las finas y rectas serifas. También posee caracteres muy diferentes como la ausencia de serif en la parte baja de la “b” o la curiosa cola asimétrica de la “Q”. Una de las más únicas tipografías modernas, cuenta con una gran belleza y flexibilidad.'
+gl:
+  description: 'Tipografía cortada orixinariamente por Justus Erich Walbaum en Weimar alá polo ano 1800. Era a versión alemá das grandes tipografías modernas europeas como a Bodoni e a Didot, e comparte moitas características con elas como a tensión vertical, o gran contraste nos grosores dos paus ou as finas e rectas serifas. Tamén posúe caracteres moi diferentes como a ausencia de serifa na parte baixa do “b” ou a curiosa cola asimétrica do “Q”. Unha das máis singulares tipografías modernas, de gran fermosura e lexibilidade.'
+es:
+  description: 'Tipografía cortada originariamente por Justus Erich Walbaum en Weimar, allá por el año 1800. Era la versión alemana de las grandes tipografías modernas europeas como la Bodoni o la Didot, y comparte muchas características con ellas como la tensión vertical, el gran contraste de los grosores de los palos o las finas y rectas serifas. También posee caracteres muy diferentes como la ausencia de serif en la parte baja de la “b” o la curiosa cola asimétrica de la “Q”. Una de las más únicas tipografías modernas, cuenta con una gran belleza y flexibilidad.'
 links: []
 tags_ids:
   - 77

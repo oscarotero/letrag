@@ -1,3 +1,5 @@
 id: 443
-title.gl: 'Lars Naber'
-title.es: 'Lars Naber'
+gl:
+  title: 'Lars Naber'
+es:
+  title: 'Lars Naber'

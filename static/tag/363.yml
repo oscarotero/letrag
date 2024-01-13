@@ -1,3 +1,5 @@
 id: 363
-title.gl: Castelos
-title.es: Castillos
+gl:
+  title: Castelos
+es:
+  title: Castillos

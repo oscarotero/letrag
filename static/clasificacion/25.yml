@@ -1,6 +1,8 @@
 id: 25
 section_id: 22
-title.gl: Inglesas
-title.es: Inglesas
-description.gl: 'Apareceron en 1845 grazas ao tipo lanzado por Robert Besley &amp; Co. chamado Clarendon. Este presentaba un redondeo na unión dos trazos coas serifas e un mellor encaixe e chegou a representar un pequeno subgrupo dentro desta categoría.'
-description.es: 'Aparecieron en 1845 gracias al tipo lanzado por Robert Besley &amp; Co. llamado Clarendon. Este presentaba un redondeo en la unión de los trazos con los serifs y un mejor encaje y llegó a representar un pequeño subgrupo dentro de esta categoría.'
+gl:
+  title: Inglesas
+  description: 'Apareceron en 1845 grazas ao tipo lanzado por Robert Besley &amp; Co. chamado Clarendon. Este presentaba un redondeo na unión dos trazos coas serifas e un mellor encaixe e chegou a representar un pequeno subgrupo dentro desta categoría.'
+es:
+  title: Inglesas
+  description: 'Aparecieron en 1845 gracias al tipo lanzado por Robert Besley &amp; Co. llamado Clarendon. Este presentaba un redondeo en la unión de los trazos con los serifs y un mejor encaje y llegó a representar un pequeño subgrupo dentro de esta categoría.'

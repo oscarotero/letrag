@@ -1,3 +1,5 @@
 id: 155
-title.gl: 'Platinum Collection'
-title.es: 'Platinum Collection'
+gl:
+  title: 'Platinum Collection'
+es:
+  title: 'Platinum Collection'

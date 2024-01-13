@@ -1,3 +1,5 @@
 id: 88
-title.gl: 'Pierre Didot'
-title.es: 'Pierre Didot'
+gl:
+  title: 'Pierre Didot'
+es:
+  title: 'Pierre Didot'

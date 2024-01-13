@@ -1,3 +1,5 @@
 id: 425
-title.gl: 'Natural Born Killers'
-title.es: 'Natural Born Killers'
+gl:
+  title: 'Natural Born Killers'
+es:
+  title: 'Natural Born Killers'

@@ -2,8 +2,10 @@ id: 165
 title: Eroxion
 year: '1997'
 download: null
-description.gl: 'Tipografía creada polo deseñador arxentino Eduardo Manso para a fundición Bitstream en 1997. A súa forma compacta e os seus trazos grosos unido a un tratamento erosivo outórgalle unha forte expresividade. Esta técnica de deseño tipográfico dexenerativo consistente en gastar as letras foi experimentada a principios da década de 1990 polos deseñadores de Letterror. Trátase dunha tipografía moi apropiada para o seu uso en carteis e publicidade cunha aparencia sucia.'
-description.es: 'Tipografía creada por el diseñador argentino Eduardo Manso para la fundición Bitstream en 1997. Su forma compacta y sus trazos gruesos unido a un tratamiento erosivo le otorga una fuerte expresividad. Esta técnica de diseño tipográfico degenerativo consistente en gastar las letras fue experimentada a principios de la década de 1990 por los diseñadores de Letterror. Se trata de una tipografía muy apropiada para su uso en carteles y publicidad con una apariencia sucia.'
+gl:
+  description: 'Tipografía creada polo deseñador arxentino Eduardo Manso para a fundición Bitstream en 1997. A súa forma compacta e os seus trazos grosos unido a un tratamento erosivo outórgalle unha forte expresividade. Esta técnica de deseño tipográfico dexenerativo consistente en gastar as letras foi experimentada a principios da década de 1990 polos deseñadores de Letterror. Trátase dunha tipografía moi apropiada para o seu uso en carteis e publicidade cunha aparencia sucia.'
+es:
+  description: 'Tipografía creada por el diseñador argentino Eduardo Manso para la fundición Bitstream en 1997. Su forma compacta y sus trazos gruesos unido a un tratamiento erosivo le otorga una fuerte expresividad. Esta técnica de diseño tipográfico degenerativo consistente en gastar las letras fue experimentada a principios de la década de 1990 por los diseñadores de Letterror. Se trata de una tipografía muy apropiada para su uso en carteles y publicidad con una apariencia sucia.'
 links: []
 tags_ids: []
 sections_ids:

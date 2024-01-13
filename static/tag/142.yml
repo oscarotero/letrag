@@ -1,3 +1,5 @@
 id: 142
-title.gl: Siemens
-title.es: Siemens
+gl:
+  title: Siemens
+es:
+  title: Siemens

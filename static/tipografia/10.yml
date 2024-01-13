@@ -2,17 +2,24 @@ id: 10
 title: Garamond
 year: 'S. XVI'
 download: null
-description.gl: 'Unha das tipografías máis estendidas e influentes da historia e tamén unha das mellores romanas xamais creadas foi a deseñada por Claude Garamond no século XVI en Francia. Foi votada como a tipografía do milenio nunha enquisa celebrada entre profesionais. Existe un perfecto equilibrio entre elegancia e sentido practico. A pesar do seu caracter histórico, a Garamond orixinal só foi correctamente identificada a mediados do século XX. Ata entón foran consideradas como Garamond unha serie de tipografías creadas un século despois. Hoxe en día existen moitísimas versións desta tipo, algunhas delas con máis fortuna que outras. Tendo en conta a exactitude histórica, a versión máis lograda sería a creada pola fundición Stempel en 1924 coas romanas e cursivas baseadas nos debuxos orixinais de Garamond. Na versión de Adobe, deseñada por Robert Slimbach, as romanas están sacadas dos punzóns de Garamond, do Museo Plantin-Moretus, mentres que as cursivas están sacadas dos tipos de Robert Granjon, un gravador de tipos de París. Este estilo de cursivas está influenciado polas itálicas Aldinas e polos estilos caligráficos do momento. Outras versións da Garamond están baseadas nos tipos deseñados por Jean Jannon, outro tipógrafo francés que naceu 19 anos despois da morte de Garamond.'
-description.es: 'Una de las tipografías más extendidas e influyentes de la historia y también una de las mejores romanas jamás creadas fue la diseñada por Claude Garamond en el siglo XVI en Francia. Fue votada como la tipografía del milenio en una encuesta celebrada entre profesionales. Existe un perfecto equilibrio entre elegancia y sentido práctico. A pesar de su carácter histórico, la Garamond original solo fue correctamente identificada a mediados del siglo XX. Hasta entonces fueron consideradas como Garamond una serie de tipografías creadas un siglo más tarde. Hoy en día existen muchísimas versiones de esta tipo, algunas con más fortuna que otras. Teniendo en cuenta la exactitud histórica, la versión más lograda sería la creada por la fundición Stempel en 1924, con las romanas y cursivas basadas en los dibujos originales de Garamond. En la versión de Adobe, diseñada por Robert Slimbach, las romanas están sacadas de los punzones de Garamond, del Museo Plantin-Moretus, mientras que las cursivas están sacadas de los tipos de Robert Granjon, un joven grabador de tipos de París. Este estilo de cursivas está influenciado por las itálicas Aldinas y por los estilos caligráficos del momento. Otras versiones de la Garamond están basadas en los tipos diseñados por Jean Jannon, otro tipógrafo francés que nació 19 años después de la muerte de Garamond.'
-links:
-  -
-    title.gl: Garamond
-    title.es: Garamond
-    description.gl: ''
-    description.es: ''
-    url: en.wikipedia.org/wiki/Garamond
-    language: en
-    source: Wikipedia
+gl:
+  description: 'Unha das tipografías máis estendidas e influentes da historia e tamén unha das mellores romanas xamais creadas foi a deseñada por Claude Garamond no século XVI en Francia. Foi votada como a tipografía do milenio nunha enquisa celebrada entre profesionais. Existe un perfecto equilibrio entre elegancia e sentido practico. A pesar do seu caracter histórico, a Garamond orixinal só foi correctamente identificada a mediados do século XX. Ata entón foran consideradas como Garamond unha serie de tipografías creadas un século despois. Hoxe en día existen moitísimas versións desta tipo, algunhas delas con máis fortuna que outras. Tendo en conta a exactitude histórica, a versión máis lograda sería a creada pola fundición Stempel en 1924 coas romanas e cursivas baseadas nos debuxos orixinais de Garamond. Na versión de Adobe, deseñada por Robert Slimbach, as romanas están sacadas dos punzóns de Garamond, do Museo Plantin-Moretus, mentres que as cursivas están sacadas dos tipos de Robert Granjon, un gravador de tipos de París. Este estilo de cursivas está influenciado polas itálicas Aldinas e polos estilos caligráficos do momento. Outras versións da Garamond están baseadas nos tipos deseñados por Jean Jannon, outro tipógrafo francés que naceu 19 anos despois da morte de Garamond.'
+  links:
+    -
+      title: Garamond
+      description: ''
+      url: en.wikipedia.org/wiki/Garamond
+      language: en
+      source: Wikipedia
+es:
+  description: 'Una de las tipografías más extendidas e influyentes de la historia y también una de las mejores romanas jamás creadas fue la diseñada por Claude Garamond en el siglo XVI en Francia. Fue votada como la tipografía del milenio en una encuesta celebrada entre profesionales. Existe un perfecto equilibrio entre elegancia y sentido práctico. A pesar de su carácter histórico, la Garamond original solo fue correctamente identificada a mediados del siglo XX. Hasta entonces fueron consideradas como Garamond una serie de tipografías creadas un siglo más tarde. Hoy en día existen muchísimas versiones de esta tipo, algunas con más fortuna que otras. Teniendo en cuenta la exactitud histórica, la versión más lograda sería la creada por la fundición Stempel en 1924, con las romanas y cursivas basadas en los dibujos originales de Garamond. En la versión de Adobe, diseñada por Robert Slimbach, las romanas están sacadas de los punzones de Garamond, del Museo Plantin-Moretus, mientras que las cursivas están sacadas de los tipos de Robert Granjon, un joven grabador de tipos de París. Este estilo de cursivas está influenciado por las itálicas Aldinas y por los estilos caligráficos del momento. Otras versiones de la Garamond están basadas en los tipos diseñados por Jean Jannon, otro tipógrafo francés que nació 19 años después de la muerte de Garamond.'
+  links:
+    -
+      title: Garamond
+      description: ''
+      url: en.wikipedia.org/wiki/Garamond
+      language: en
+      source: Wikipedia
 tags_ids:
   - 51
   - 50

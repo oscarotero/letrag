@@ -1,3 +1,5 @@
 id: 393
-title.gl: 'Paris Match'
-title.es: 'Paris Match'
+gl:
+  title: 'Paris Match'
+es:
+  title: 'Paris Match'

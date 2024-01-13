@@ -2,8 +2,10 @@ id: 102
 title: Liorah
 year: '2000'
 download: null
-description.gl: 'Tipografía creada pola deseñadora estadounidense Holly Goldsmith en 2000 para a fundición Bitstream. A esta elegante letra manuscrita Holly púxolle o nome da súa filla, que daquela era unha rapariga de dous anos e medio, e que igual que a tipografía, era bonita, delicada, elegante pero moi revoltosa.'
-description.es: 'Tipografía creada por la diseñadora estadounidense Holly Goldsmith en 2000 para la fundición Bitstream. A esta elegante letra manuscrita Holly le puso el nombre de su hija, que en aquel momento era una niña de dos años y medio, y que igual que la tipografía, era bonita, delicada, elegante pero muy revoltosa.'
+gl:
+  description: 'Tipografía creada pola deseñadora estadounidense Holly Goldsmith en 2000 para a fundición Bitstream. A esta elegante letra manuscrita Holly púxolle o nome da súa filla, que daquela era unha rapariga de dous anos e medio, e que igual que a tipografía, era bonita, delicada, elegante pero moi revoltosa.'
+es:
+  description: 'Tipografía creada por la diseñadora estadounidense Holly Goldsmith en 2000 para la fundición Bitstream. A esta elegante letra manuscrita Holly le puso el nombre de su hija, que en aquel momento era una niña de dos años y medio, y que igual que la tipografía, era bonita, delicada, elegante pero muy revoltosa.'
 links: []
 tags_ids: []
 sections_ids:

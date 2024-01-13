@@ -1,172 +1,174 @@
 id: 4
-title.gl: 'O rexurdimento da Ibarra'
-title.es: 'El resurgimiento de la Ibarra'
 author: ''
-intro.gl: 'En 1993 naceu un proxecto para a recuperación dunha tipografía antiga en colaboración co Instituto Tecnolóxico de Aragón. Este foi executado por Juan Ignacio Pulido e Sandra Silvia Baldassarri, dirixidos por Francisco José Serón. O tipo escollido foi un dos creados polo gran impresor zaragozano do século XVIII Joaquín Ibarra Y Marín. Aquí se mostra lixeiramente todo o proceso de execución, explicado máis detalladamente na súa páxina web.'
-intro.es: 'En 1993 nació un proyecto para la recuperación de una tipografía antigua en colaboración con el Instituto Tecnolóxico de Aragón. Este fue ejecutado por Juan Ignacio Pulido y Sandra Silvia Baldassarri, dirigidos por Francisco José Serón. El tipo elegido fue uno de los creados por el gran impresor zaragozano del siglo XVIII Joaquín Ibarra y Marín. Aquí se muestra ligeramente todo el proceso de ejecución, explicado más detalladamente en su página web.'
-description.gl: 'Resumen do [Proxecto de Recuperación Dixital da Tipografía Ibarra.](http://giga.cps.unizar.es/Ibarra/articulo/index.html)'
-description.es: 'Resumen del [Proyecto de Recuperación Digital de la Tipografía Ibarra.](http://giga.cps.unizar.es/Ibarra/articulo/index.html)'
-body.gl: |-
-  A ninguén lle sorprende que a impresores de renome internacional como Didot, Bodoni, Garamond, Baskerville ou Caslon se lles recoñecera a súa labor e sexan as súas tipografías algunhas das máis empregadas na actualidade.
+gl:
+  title: 'O rexurdimento da Ibarra'
+  intro: 'En 1993 naceu un proxecto para a recuperación dunha tipografía antiga en colaboración co Instituto Tecnolóxico de Aragón. Este foi executado por Juan Ignacio Pulido e Sandra Silvia Baldassarri, dirixidos por Francisco José Serón. O tipo escollido foi un dos creados polo gran impresor zaragozano do século XVIII Joaquín Ibarra Y Marín. Aquí se mostra lixeiramente todo o proceso de execución, explicado máis detalladamente na súa páxina web.'
+  description: 'Resumen do [Proxecto de Recuperación Dixital da Tipografía Ibarra.](http://giga.cps.unizar.es/Ibarra/articulo/index.html)'
+  body: |-
+    A ninguén lle sorprende que a impresores de renome internacional como Didot, Bodoni, Garamond, Baskerville ou Caslon se lles recoñecera a súa labor e sexan as súas tipografías algunhas das máis empregadas na actualidade.
 
-  En España existiron grandes impresores, como Sancha, Monfort, Cano, Miedes ou Magallón, pero durante o século XVIII o más importante foi sen dúbida Don Joaquín Ibarra y Marín, nacido en Zaragoza en 1709. Dirixiu os talleres da imprenta real e alcanzou co seu traballo prestixio internacional.
+    En España existiron grandes impresores, como Sancha, Monfort, Cano, Miedes ou Magallón, pero durante o século XVIII o más importante foi sen dúbida Don Joaquín Ibarra y Marín, nacido en Zaragoza en 1709. Dirixiu os talleres da imprenta real e alcanzou co seu traballo prestixio internacional.
 
-  Como homenaxe á súa persoa recuperouse unha das tipografías coas que imprimiu as súas más fermosas obras, entre elas o libro coñecido como “Salustio” (Crispo). Esta tipografía foi o resultado dunha labor de deseño conxunta entre Joaquín Ibarra y Marín e o gravador Don Antonio Espinosa de los Monteros.
+    Como homenaxe á súa persoa recuperouse unha das tipografías coas que imprimiu as súas más fermosas obras, entre elas o libro coñecido como “Salustio” (Crispo). Esta tipografía foi o resultado dunha labor de deseño conxunta entre Joaquín Ibarra y Marín e o gravador Don Antonio Espinosa de los Monteros.
 
-  ![](/imaxes/ibarra1.gif)
+    ![](/imaxes/ibarra1.gif)
 
-  #### O proceso de recuperación
+    #### O proceso de recuperación
 
-  O primeiro paso deste proceso consistiu en seleccionar un conxunto de caracteres o máis completo posible a partires dunha edición facsímile do Salustio (Crispo) impreso por Joaquín Ibarra.
+    O primeiro paso deste proceso consistiu en seleccionar un conxunto de caracteres o máis completo posible a partires dunha edición facsímile do Salustio (Crispo) impreso por Joaquín Ibarra.
 
-  Dado que a tecnoloxía da época para a imprenta non podía asegurar que unha mesma letra ofrecese sempre a mesma aparencia, obrigou a seleccionar 5 mostras para cada caracter con obxecto de reconstruílo o más acertadamente posible.
+    Dado que a tecnoloxía da época para a imprenta non podía asegurar que unha mesma letra ofrecese sempre a mesma aparencia, obrigou a seleccionar 5 mostras para cada caracter con obxecto de reconstruílo o más acertadamente posible.
 
-  Posteriormente elixiuse un conxunto de ferramentas software que permitisen obter unha fonte lista para ser empregada nunha impresora ou nunha filmadora. As ferramentas seleccionadas foron:
+    Posteriormente elixiuse un conxunto de ferramentas software que permitisen obter unha fonte lista para ser empregada nunha impresora ou nunha filmadora. As ferramentas seleccionadas foron:
 
-  - Adobe Photoshop 2.5.0 (desenrolada por Adobe Systems Inc.) utilizado para realizar a reconstrucción dos caracteres.
-  - FontStudio 2.0 de Letraset (desenrolado por AB Vista) capaz de xerar os formatos PostScript (Tipo 1, Tipo 3) e TrueType para Mac.
-  - Metamorphosis Pro 2.02 da marca Altsys empregado para converter fontes deseñadas para un entorno Mac a fontes para un entorno PC.
+    - Adobe Photoshop 2.5.0 (desenrolada por Adobe Systems Inc.) utilizado para realizar a reconstrucción dos caracteres.
+    - FontStudio 2.0 de Letraset (desenrolado por AB Vista) capaz de xerar os formatos PostScript (Tipo 1, Tipo 3) e TrueType para Mac.
+    - Metamorphosis Pro 2.02 da marca Altsys empregado para converter fontes deseñadas para un entorno Mac a fontes para un entorno PC.
 
-  Estas ferramentas unidas a 900 horas de traballo permitiron realizar a tarefa proposta.
+    Estas ferramentas unidas a 900 horas de traballo permitiron realizar a tarefa proposta.
 
-  ![](/imaxes/ibarra5.gif)
+    ![](/imaxes/ibarra5.gif)
 
-  #### Fase 1. Caracteres en soporte fotográfico
+    #### Fase 1. Caracteres en soporte fotográfico
 
-  As marcas que deixan os tipos de chumbo manchados de tinta ao tocar o papel dista moito da perfección do molde empregado para a fundición dos mesmos. Por iso, escanáronse cinco exemplos distintos de cada caracter independentemente.
+    As marcas que deixan os tipos de chumbo manchados de tinta ao tocar o papel dista moito da perfección do molde empregado para a fundición dos mesmos. Por iso, escanáronse cinco exemplos distintos de cada caracter independentemente.
 
-  #### Fase 2. Reconstrucción de moldes
+    #### Fase 2. Reconstrucción de moldes
 
-  Para cada letra dispoñible, e partindo dos cinco caracteres escanados, constrúese outro (o molde) utilizando as partes máis correctas que se puideron detectar.
+    Para cada letra dispoñible, e partindo dos cinco caracteres escanados, constrúese outro (o molde) utilizando as partes máis correctas que se puideron detectar.
 
-  #### Fase 3. Parametrización da tipografía
+    #### Fase 3. Parametrización da tipografía
 
-  Con obxecto de obter os valores característicos que definen o estilo homoxéneo da tipografía, analizáronse e deducíronse as proporcións a partires das medidas dos caracteres dispoñibles.
+    Con obxecto de obter os valores característicos que definen o estilo homoxéneo da tipografía, analizáronse e deducíronse as proporcións a partires das medidas dos caracteres dispoñibles.
 
-  ![](/imaxes/ibarra8.gif)
+    ![](/imaxes/ibarra8.gif)
 
-  #### Fase 4. Vectorización dos contornos
+    #### Fase 4. Vectorización dos contornos
 
-  Nesta fase realizáronse varios intentos.
+    Nesta fase realizáronse varios intentos.
 
-  Intento primeiro: Utilizouse o vectorizador automático do FontStudio. Como o resultado non se considerou con suficiente calidade foi necesario seguir mellorándoo.
+    Intento primeiro: Utilizouse o vectorizador automático do FontStudio. Como o resultado non se considerou con suficiente calidade foi necesario seguir mellorándoo.
 
-  Intento segundo: Procurouse corrixir manualmente as imperfeccións que aparecían. Aínda que se observaron melloras evidentes, non se alcanzou la exactitude requirida e o máis importante é que os trazos comúns típicos da letra Ibarra non eran coherentes entre os caracteres. Polo tanto había que seguir.
+    Intento segundo: Procurouse corrixir manualmente as imperfeccións que aparecían. Aínda que se observaron melloras evidentes, non se alcanzou la exactitude requirida e o máis importante é que os trazos comúns típicos da letra Ibarra non eran coherentes entre os caracteres. Polo tanto había que seguir.
 
-  Intento terceiro: Analizáronse cada un dos caracteres, obtivéronse os trazos comúns de cada familia e redeseñáronse todos os caracteres con esta nova información. Deste modo logrouse a coherencia dos trazos, obténdose así as características do estilo desta tipografía.
+    Intento terceiro: Analizáronse cada un dos caracteres, obtivéronse os trazos comúns de cada familia e redeseñáronse todos os caracteres con esta nova información. Deste modo logrouse a coherencia dos trazos, obténdose así as características do estilo desta tipografía.
 
-  #### Fase 5. Deseño de caracteres inexistentes
+    #### Fase 5. Deseño de caracteres inexistentes
 
-  Unha vez obtidas as definicións xeométricas dos contornos, en base aos trazos de todos aqueles caracteres do alfabeto dos que se dispoñía de reproducción fotográfica, definíronse algúns caracteres do alfabeto dos que non se dispoñía de ningunha impresión e polo tanto de ningunha reproducción fotográfica. Para eso utilizáronse as regras de deseño tipográfico e os detalles característicos desta tipografía.
+    Unha vez obtidas as definicións xeométricas dos contornos, en base aos trazos de todos aqueles caracteres do alfabeto dos que se dispoñía de reproducción fotográfica, definíronse algúns caracteres do alfabeto dos que non se dispoñía de ningunha impresión e polo tanto de ningunha reproducción fotográfica. Para eso utilizáronse as regras de deseño tipográfico e os detalles característicos desta tipografía.
 
-  #### Fase 6. Completar a familia de símbolos
+    #### Fase 6. Completar a familia de símbolos
 
-  Para poder completar o resto dos caracteres que hoxe en día se poden empregar dende un punto de vista da autoedición (símbolos como o copyright, o dólar, a estrela, o maior, a diéreses, etc) e dado o pouco tempo que se tiña, optouse por tomalos e retocalos doutra familia que estivera amplamente estendida e tivese certa semellanza coa Ibarra, neste traballo seleccionouse a letra Times.
+    Para poder completar o resto dos caracteres que hoxe en día se poden empregar dende un punto de vista da autoedición (símbolos como o copyright, o dólar, a estrela, o maior, a diéreses, etc) e dado o pouco tempo que se tiña, optouse por tomalos e retocalos doutra familia que estivera amplamente estendida e tivese certa semellanza coa Ibarra, neste traballo seleccionouse a letra Times.
 
-  ![](/imaxes/ibarra15.gif)
+    ![](/imaxes/ibarra15.gif)
 
-  #### Fase 7. Interletraxe
+    #### Fase 7. Interletraxe
 
-  Os textos escritos caracterízanse dende un punto de vista estético en canto á tipografía se refire, polo equilibrio existente no espacio que teñen as letras entre si, o espacio que hai entre as palabras e o espacio entre as liñas.
+    Os textos escritos caracterízanse dende un punto de vista estético en canto á tipografía se refire, polo equilibrio existente no espacio que teñen as letras entre si, o espacio que hai entre as palabras e o espacio entre as liñas.
 
-  Para conseguilo, realizouse un intenso estudio; en primeiro lugar asignáronse os anchos e laterais ás letras e posteriormente definiuse o interletraxe entre cada par de letras (kerning).
+    Para conseguilo, realizouse un intenso estudio; en primeiro lugar asignáronse os anchos e laterais ás letras e posteriormente definiuse o interletraxe entre cada par de letras (kerning).
 
-  ![](/imaxes/ibarra16.gif)
+    ![](/imaxes/ibarra16.gif)
 
-  #### Fase 8. Construcción de bitmaps
+    #### Fase 8. Construcción de bitmaps
 
-  A tecnoloxía actual reduciu a necesidade de ter que xerar os mapas de bits (bitmaps) á hora de presentar os caracteres na pantalla dun computador, xa que estes pódense calcular de forma automática. Pero no noso caso e con obxecto de mellorar a calidade dos textos en pantalla, decidiuse calcular automaticamente e posteriormente retocar á man, os mapas de bits de 9, 10, 12, 14, 18 e 24 puntos, para cada carácter e cada familia.
+    A tecnoloxía actual reduciu a necesidade de ter que xerar os mapas de bits (bitmaps) á hora de presentar os caracteres na pantalla dun computador, xa que estes pódense calcular de forma automática. Pero no noso caso e con obxecto de mellorar a calidade dos textos en pantalla, decidiuse calcular automaticamente e posteriormente retocar á man, os mapas de bits de 9, 10, 12, 14, 18 e 24 puntos, para cada carácter e cada familia.
 
-  #### Fase 9. Normalización das fontes
+    #### Fase 9. Normalización das fontes
 
-  Unha vez finalizado o proceso, empaquetáronse as fontes, tanto as definicións xeométricas de contorno (outlines) como as de pantalla (bitmaps), en formato PostScript Tipo 1 e en formato TrueType, para os entornos Mac e PC.
+    Unha vez finalizado o proceso, empaquetáronse as fontes, tanto as definicións xeométricas de contorno (outlines) como as de pantalla (bitmaps), en formato PostScript Tipo 1 e en formato TrueType, para os entornos Mac e PC.
 
-  #### Fase 10. Control de calidade
+    #### Fase 10. Control de calidade
 
-  Por último, realizouse un gran número de test de calidade estándares, que puxeron a proba o traballo realizado e permitiron detectar algúns erros que foron finalmente arranxados.
+    Por último, realizouse un gran número de test de calidade estándares, que puxeron a proba o traballo realizado e permitiron detectar algúns erros que foron finalmente arranxados.
 
-  #### Conclusión
+    #### Conclusión
 
-  A tipografía “Ibarra” que vira a luz con esplendor alá polo 1770, e que deixou de ser utilizada preto de 1.965, unha vez revitalizada volveu ao seu sitio natural, iniciando a súa nova andadura en San Francisco poucas semanas antes do día 23 de Abril de 1993.
-body.es: |-
-  A nadie sorprende que a impresores de renombre internacional como Didot, Bodoni, Garamond, Baskerville o Caslon se les haya reconocido su labor y sean sus tipografías algunas de las más utilizadas en la actualidad.
+    A tipografía “Ibarra” que vira a luz con esplendor alá polo 1770, e que deixou de ser utilizada preto de 1.965, unha vez revitalizada volveu ao seu sitio natural, iniciando a súa nova andadura en San Francisco poucas semanas antes do día 23 de Abril de 1993.
+es:
+  title: 'El resurgimiento de la Ibarra'
+  intro: 'En 1993 nació un proyecto para la recuperación de una tipografía antigua en colaboración con el Instituto Tecnolóxico de Aragón. Este fue ejecutado por Juan Ignacio Pulido y Sandra Silvia Baldassarri, dirigidos por Francisco José Serón. El tipo elegido fue uno de los creados por el gran impresor zaragozano del siglo XVIII Joaquín Ibarra y Marín. Aquí se muestra ligeramente todo el proceso de ejecución, explicado más detalladamente en su página web.'
+  description: 'Resumen del [Proyecto de Recuperación Digital de la Tipografía Ibarra.](http://giga.cps.unizar.es/Ibarra/articulo/index.html)'
+  body: |-
+    A nadie sorprende que a impresores de renombre internacional como Didot, Bodoni, Garamond, Baskerville o Caslon se les haya reconocido su labor y sean sus tipografías algunas de las más utilizadas en la actualidad.
 
-  En España han existido grandes impresores, como Sancha, Monfort, Cano, Miedes o Magallón, pero durante el siglo XVIII el más importante fue sin duda Don Joaquín Ibarra y Marín, nacido en Zaragoza en 1709. Dirigió los talleres de la imprenta real y alcanzó con su trabajo prestigio internacional.
+    En España han existido grandes impresores, como Sancha, Monfort, Cano, Miedes o Magallón, pero durante el siglo XVIII el más importante fue sin duda Don Joaquín Ibarra y Marín, nacido en Zaragoza en 1709. Dirigió los talleres de la imprenta real y alcanzó con su trabajo prestigio internacional.
 
-  Como homenaje a su persona se ha recuperado una de las tipografías con las que imprimió sus más hermosas obras, entre ellas el libro conocido como “Salustio” (Crispo). Esta tipografía fue el resultado de una labor de diseño conjunta entre Joaquín Ibarra y Marín y el grabador Don Antonio Espinosa de los Monteros.
+    Como homenaje a su persona se ha recuperado una de las tipografías con las que imprimió sus más hermosas obras, entre ellas el libro conocido como “Salustio” (Crispo). Esta tipografía fue el resultado de una labor de diseño conjunta entre Joaquín Ibarra y Marín y el grabador Don Antonio Espinosa de los Monteros.
 
-  ![](/imaxes/ibarra1.gif)
+    ![](/imaxes/ibarra1.gif)
 
-  #### El proceso de recuperación
+    #### El proceso de recuperación
 
-  El primer paso de este proceso consistió en seleccionar un conjunto de caracteres lo más completo posible a partir de una edición facsímil del Salustio (Crispo) impreso por Joaquín Ibarra.
+    El primer paso de este proceso consistió en seleccionar un conjunto de caracteres lo más completo posible a partir de una edición facsímil del Salustio (Crispo) impreso por Joaquín Ibarra.
 
-  Dado que la tecnología de la época para la imprenta no podía asegurar que una misma letra ofreciese siempre la misma apariencia, obligó a seleccionar 5 muestras para cada carácter con objeto de reconstruirlo lo más acertadamente posible.
+    Dado que la tecnología de la época para la imprenta no podía asegurar que una misma letra ofreciese siempre la misma apariencia, obligó a seleccionar 5 muestras para cada carácter con objeto de reconstruirlo lo más acertadamente posible.
 
-  Posteriormente se eligió un conjunto de herramientas software que permitiesen obtener una fuente lista para ser utilizada en una impresora o en una filmadora. Las herramientas seleccionadas fueron:
+    Posteriormente se eligió un conjunto de herramientas software que permitiesen obtener una fuente lista para ser utilizada en una impresora o en una filmadora. Las herramientas seleccionadas fueron:
 
-  - Adobe Photoshop 2.5.0 (desarrollado por Adobe Systems Inc.) utilizado para realizar la reconstrucción de los caracteres.
-  - FontStudio 2.0 de Letraset (desarrollado por AB Vista) capaz de generar los formatos PostScript (Tipo 1, Tipo 3) y TrueType para Mac.
-  - Metamorphosis Pro 2.02 de la marca Altsys empleado para convertir fuentes diseñadas para un entorno Mac a fuentes para un entorno PC.
+    - Adobe Photoshop 2.5.0 (desarrollado por Adobe Systems Inc.) utilizado para realizar la reconstrucción de los caracteres.
+    - FontStudio 2.0 de Letraset (desarrollado por AB Vista) capaz de generar los formatos PostScript (Tipo 1, Tipo 3) y TrueType para Mac.
+    - Metamorphosis Pro 2.02 de la marca Altsys empleado para convertir fuentes diseñadas para un entorno Mac a fuentes para un entorno PC.
 
-  Estas herramientas unidas a 900 horas de trabajo permitieron realizar la tarea propuesta.
+    Estas herramientas unidas a 900 horas de trabajo permitieron realizar la tarea propuesta.
 
-  ![](/imaxes/ibarra5.gif)
+    ![](/imaxes/ibarra5.gif)
 
-  #### Fase 1. Caracteres en soporte fotográfico
+    #### Fase 1. Caracteres en soporte fotográfico
 
-  Las marcas que dejan los tipos de plomo manchados de tinta al tocar el papel dista mucho de la perfección del molde utilizado para la fundición de los mismos. Por eso, se escanearon cinco ejemplos distintos de cada carácter independientemente.
+    Las marcas que dejan los tipos de plomo manchados de tinta al tocar el papel dista mucho de la perfección del molde utilizado para la fundición de los mismos. Por eso, se escanearon cinco ejemplos distintos de cada carácter independientemente.
 
-  #### Fase 2. Reconstrucción de moldes
+    #### Fase 2. Reconstrucción de moldes
 
-  Para cada letra disponible, y partiendo de los cinco caracteres escaneados, se construye otro (el molde) utilizando las partes más correctas que se pudieron detectar.
+    Para cada letra disponible, y partiendo de los cinco caracteres escaneados, se construye otro (el molde) utilizando las partes más correctas que se pudieron detectar.
 
-  #### Fase 3. Parametrización de la tipografía
+    #### Fase 3. Parametrización de la tipografía
 
-  Con objeto de obtener los valores característicos que definen el estilo homogéneo de la tipografía, se analizaron y se dedujeron las proporciones a partir de las medidas de los caracteres disponibles.
+    Con objeto de obtener los valores característicos que definen el estilo homogéneo de la tipografía, se analizaron y se dedujeron las proporciones a partir de las medidas de los caracteres disponibles.
 
-  ![](/imaxes/ibarra8.gif)
+    ![](/imaxes/ibarra8.gif)
 
-  #### Fase 4. Vectorización de los contornos
+    #### Fase 4. Vectorización de los contornos
 
-  En esta fase se realizaron varios intentos.
+    En esta fase se realizaron varios intentos.
 
-  Intento primero: Se utilizó el vectorizador automático del FontStudio. Como dicho resultado no se consideró con suficiente calidad fue necesario seguir mejorándolo.
+    Intento primero: Se utilizó el vectorizador automático del FontStudio. Como dicho resultado no se consideró con suficiente calidad fue necesario seguir mejorándolo.
 
-  Intento segundo: Se procuró corregir manualmente las imperfecciones que aparecían. Aunque se observaron mejoras evidentes, todavía no se alcanzó la exactitud requerida y lo más importante es que los rasgos comunes típicos de la letra Ibarra no eran coherentes entre los caracteres. Por lo tanto había que seguir.
+    Intento segundo: Se procuró corregir manualmente las imperfecciones que aparecían. Aunque se observaron mejoras evidentes, todavía no se alcanzó la exactitud requerida y lo más importante es que los rasgos comunes típicos de la letra Ibarra no eran coherentes entre los caracteres. Por lo tanto había que seguir.
 
-  Intento tercero: Se analizaron cada uno de los caracteres, se obtuvieron los rasgos comunes de cada familia y se rediseñaron todos los caracteres con esta nueva información. De este modo se logró la coherencia de los rasgos, obteniéndose así las características del estilo de esta tipografía.
+    Intento tercero: Se analizaron cada uno de los caracteres, se obtuvieron los rasgos comunes de cada familia y se rediseñaron todos los caracteres con esta nueva información. De este modo se logró la coherencia de los rasgos, obteniéndose así las características del estilo de esta tipografía.
 
-  #### Fase 5. Diseño de caracteres inexistentes
+    #### Fase 5. Diseño de caracteres inexistentes
 
-  Una vez obtenidas las definiciones geométricas de los contornos, en base a los rasgos de todos aquellos caracteres del alfabeto de los que se disponía de reproducción fotográfica, se definieron algunos caracteres del alfabeto de los que no se disponía de ninguna impresión y por lo tanto de ninguna reproducción fotográfica. Para ello se utilizaron las reglas de diseño tipográfico y los rasgos característicos de esta tipografía.
+    Una vez obtenidas las definiciones geométricas de los contornos, en base a los rasgos de todos aquellos caracteres del alfabeto de los que se disponía de reproducción fotográfica, se definieron algunos caracteres del alfabeto de los que no se disponía de ninguna impresión y por lo tanto de ninguna reproducción fotográfica. Para ello se utilizaron las reglas de diseño tipográfico y los rasgos característicos de esta tipografía.
 
-  #### Fase 6. Completar la familia de símbolos
+    #### Fase 6. Completar la familia de símbolos
 
-  Para poder completar el resto de los caracteres que hoy en día se pueden llegar a utilizar desde un punto de vista de la autoedición (símbolos como el copyright, el dolar, la estrella, el mayor, la diéresis, etc) y dada la premura de tiempo que se tenía, se optó por tomarlos y retocarlos de otra familia que estuviera ampliamente extendida y tuviese cierta semejanza con la Ibarra, en este trabajo se seleccionó la letra Times.
+    Para poder completar el resto de los caracteres que hoy en día se pueden llegar a utilizar desde un punto de vista de la autoedición (símbolos como el copyright, el dolar, la estrella, el mayor, la diéresis, etc) y dada la premura de tiempo que se tenía, se optó por tomarlos y retocarlos de otra familia que estuviera ampliamente extendida y tuviese cierta semejanza con la Ibarra, en este trabajo se seleccionó la letra Times.
 
-  ![](/imaxes/ibarra15.gif)
+    ![](/imaxes/ibarra15.gif)
 
-  #### Fase 7. Interletraje
+    #### Fase 7. Interletraje
 
-  Los textos escritos se caracterizan desde un punto de vista estético en cuanto a la tipografía se refiere, por el equilibrio existente en el espacio que tienen las letras entre sí, el espacio que hay entre las palabras y el espacio entre las líneas.
+    Los textos escritos se caracterizan desde un punto de vista estético en cuanto a la tipografía se refiere, por el equilibrio existente en el espacio que tienen las letras entre sí, el espacio que hay entre las palabras y el espacio entre las líneas.
 
-  Para conseguirlo, se realizó un concienzudo estudio; en primer lugar se asignaron los anchos y laterales a las letras y posteriormente se definió el interletraje entre cada par de letras (kerning).
+    Para conseguirlo, se realizó un concienzudo estudio; en primer lugar se asignaron los anchos y laterales a las letras y posteriormente se definió el interletraje entre cada par de letras (kerning).
 
-  ![](/imaxes/ibarra16.gif)
+    ![](/imaxes/ibarra16.gif)
 
-  #### Fase 8. Construcción de bitmaps
+    #### Fase 8. Construcción de bitmaps
 
-  La tecnología actual ha reducido la necesidad de tener que generar los mapas de bits (bitmaps) a la hora de presentar los caracteres en la pantalla de un ordenador, ya que estos se pueden calcular de forma automática. Pero en nuestro caso y con objeto de mejorar la calidad de los textos en pantalla, se decidió calcular automáticamente y posteriormente retocar a mano, los mapas de bits de 9, 10, 12, 14, 18 y 24 puntos, para cada carácter y cada familia.
+    La tecnología actual ha reducido la necesidad de tener que generar los mapas de bits (bitmaps) a la hora de presentar los caracteres en la pantalla de un ordenador, ya que estos se pueden calcular de forma automática. Pero en nuestro caso y con objeto de mejorar la calidad de los textos en pantalla, se decidió calcular automáticamente y posteriormente retocar a mano, los mapas de bits de 9, 10, 12, 14, 18 y 24 puntos, para cada carácter y cada familia.
 
-  #### Fase 9. Normalización de las fuentes
+    #### Fase 9. Normalización de las fuentes
 
-  Una vez finalizado el proceso, se empaquetaron las fuentes, tanto las definiciones geométricas de contorno (outlines) como las de pantalla (bitmaps), en formato PostScript Tipo 1 y en formato TrueType, para los entorno Mac y PC.
+    Una vez finalizado el proceso, se empaquetaron las fuentes, tanto las definiciones geométricas de contorno (outlines) como las de pantalla (bitmaps), en formato PostScript Tipo 1 y en formato TrueType, para los entorno Mac y PC.
 
-  #### Fase 10. Control de calidad
+    #### Fase 10. Control de calidad
 
-  Por último, se realizaron un sinfín de test de calidad estándares, que pusieron a prueba el trabajo realizado y permitieron detectar algunos errores que fueron finalmente subsanados.
+    Por último, se realizaron un sinfín de test de calidad estándares, que pusieron a prueba el trabajo realizado y permitieron detectar algunos errores que fueron finalmente subsanados.
 
-  #### Conclusión
+    #### Conclusión
 
-  La tipografía “Ibarra” que viera la luz con esplendor hacia 1770, y que dejó de ser utilizada alrededor de 1.965, una vez revitalizada volvió a su sitio natural, iniciando su nueva andadura en San Francisco pocas semanas antes del día 23 de Abril de 1993.
+    La tipografía “Ibarra” que viera la luz con esplendor hacia 1770, y que dejó de ser utilizada alrededor de 1.965, una vez revitalizada volvió a su sitio natural, iniciando su nueva andadura en San Francisco pocas semanas antes del día 23 de Abril de 1993.

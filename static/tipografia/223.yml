@@ -2,17 +2,24 @@ id: 223
 title: 'Vila Morena'
 year: '2006'
 download: www.dafont.com/vila-morena.font
-description.gl: 'Rematada por Rubén Vidal (Ze Ogrobe) o 25 de abril de 2006, data onde en 1974 estalou en Portugal a Revolución dos Cravos. A sinal esperada para poñer en marcha aquela revolución consistía en esperar a que soase na radio a canción Grândola Vila Morena, de José Alfonso, e de aí se sacou o nome da tipografía. Está inspirada nas letras de Sargadelos (empresa dedicada á artesanía galega, en especial á cerámica), nun anuncio que aparecía na revista A Nosa Terra, aínda que con bastantes diferencias. Trátase dunha tipografía de exhibición que se pode descargar gratuitamente.'
-description.es: 'Rematada por Rubén Vidal (Ze Ogrote) el 25 de abril de 2006, fecha donde en 1974 estalló en Portugal la Revolución de los Claveles. La señal esperada para poner en marcha aquella revolución consistía en esperar a que sonase en la radio la canción Grândola Vila Morena, de José Alfonso, y de ahí se sacó el nombre de la tipografía. Está inspirada en las letras de Sargadelos (empresa dedicada a la artesanía gallega, en especial la cerámica), en un anuncio que aparecía en la revista A Nosa Terra, aunque con bastantes diferencias. Se trata de una tipografía de exhibición que se puede descargar gratuitamente.'
-links:
-  -
-    title.gl: Sargadelos
-    title.es: Sargadelos
-    description.gl: 'Páxina web de Sargadelos, unha empresa clave na recuperación da cultura e artesanía galega.'
-    description.es: 'Página web de Sargadelos, una empresa clave en la recuperación de la cultura y artesanía gallega.'
-    url: www.sargadelos.com
-    language: gl
-    source: ''
+gl:
+  description: 'Rematada por Rubén Vidal (Ze Ogrobe) o 25 de abril de 2006, data onde en 1974 estalou en Portugal a Revolución dos Cravos. A sinal esperada para poñer en marcha aquela revolución consistía en esperar a que soase na radio a canción Grândola Vila Morena, de José Alfonso, e de aí se sacou o nome da tipografía. Está inspirada nas letras de Sargadelos (empresa dedicada á artesanía galega, en especial á cerámica), nun anuncio que aparecía na revista A Nosa Terra, aínda que con bastantes diferencias. Trátase dunha tipografía de exhibición que se pode descargar gratuitamente.'
+  links:
+    -
+      title: Sargadelos
+      description: 'Páxina web de Sargadelos, unha empresa clave na recuperación da cultura e artesanía galega.'
+      url: www.sargadelos.com
+      language: gl
+      source: ''
+es:
+  description: 'Rematada por Rubén Vidal (Ze Ogrote) el 25 de abril de 2006, fecha donde en 1974 estalló en Portugal la Revolución de los Claveles. La señal esperada para poner en marcha aquella revolución consistía en esperar a que sonase en la radio la canción Grândola Vila Morena, de José Alfonso, y de ahí se sacó el nombre de la tipografía. Está inspirada en las letras de Sargadelos (empresa dedicada a la artesanía gallega, en especial la cerámica), en un anuncio que aparecía en la revista A Nosa Terra, aunque con bastantes diferencias. Se trata de una tipografía de exhibición que se puede descargar gratuitamente.'
+  links:
+    -
+      title: Sargadelos
+      description: 'Página web de Sargadelos, una empresa clave en la recuperación de la cultura y artesanía gallega.'
+      url: www.sargadelos.com
+      language: gl
+      source: ''
 tags_ids: []
 sections_ids:
   - 32

@@ -1,6 +1,8 @@
 id: 46
 section_id: 45
-title.gl: Punk
-title.es: Punk
-description.gl: 'A cultura punk, aparecida na década de 1960, posúe unha ideoloxía asociada coa anarquía, antimilitarismo ou antifascismo. A súa estética, relacionada con tipografías sucias e impresos de mala calidade e baixa resolución, ten un aspecto forte e cru'
-description.es: 'La cultura punk, aparecida en la década de 1960, posee una ideología asociada con la anarquía, antimilitarismo o antifascismo. Su estética, relacionada con tipografías sucias e impresos de mala calidad y baja resolución, tiene un aspecto fuerte y cr'
+gl:
+  title: Punk
+  description: 'A cultura punk, aparecida na década de 1960, posúe unha ideoloxía asociada coa anarquía, antimilitarismo ou antifascismo. A súa estética, relacionada con tipografías sucias e impresos de mala calidade e baixa resolución, ten un aspecto forte e cru'
+es:
+  title: Punk
+  description: 'La cultura punk, aparecida en la década de 1960, posee una ideología asociada con la anarquía, antimilitarismo o antifascismo. Su estética, relacionada con tipografías sucias e impresos de mala calidad y baja resolución, tiene un aspecto fuerte y cr'

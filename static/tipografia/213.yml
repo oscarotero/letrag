@@ -2,8 +2,10 @@ id: 213
 title: Brokenscript
 year: '1990'
 download: null
-description.gl: 'Just van Rossum, tipógrafo nacido nos Países Baixos, deseñou esta tipografía en 1990 para a fundición FontShop International. Trátase dun estudo sobre as letras góticas fracturadas alemás que conta cunha versión condensada e outra cos bordos arrogados, aparentando que está feita á man nun papel non demasiado liso. Como curiosidade, existe un símbolo da paz oculto entre os distintos caracteres dispoñibles.'
-description.es: 'Just van Rossum, tipógrafo nacido en los Países Bajos, diseñó esta tipografía en 1990 para la fundición FontShop International. Se trata de un estudio sobre las letras góticas fracturadas alemanas que cuenta con una versión condensada y otra con los bordes arrugados, simulando estar hecha a mano en un papel no demasiado liso. Como curiosidad, existe un símbolo de la paz oculto entre los distintos caracteres disponibles.'
+gl:
+  description: 'Just van Rossum, tipógrafo nacido nos Países Baixos, deseñou esta tipografía en 1990 para a fundición FontShop International. Trátase dun estudo sobre as letras góticas fracturadas alemás que conta cunha versión condensada e outra cos bordos arrogados, aparentando que está feita á man nun papel non demasiado liso. Como curiosidade, existe un símbolo da paz oculto entre os distintos caracteres dispoñibles.'
+es:
+  description: 'Just van Rossum, tipógrafo nacido en los Países Bajos, diseñó esta tipografía en 1990 para la fundición FontShop International. Se trata de un estudio sobre las letras góticas fracturadas alemanas que cuenta con una versión condensada y otra con los bordes arrugados, simulando estar hecha a mano en un papel no demasiado liso. Como curiosidad, existe un símbolo de la paz oculto entre los distintos caracteres disponibles.'
 links: []
 tags_ids: []
 sections_ids:

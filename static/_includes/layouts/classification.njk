@@ -22,9 +22,9 @@ layout: layouts/base.njk
     {% for section in sections %}
     <hr class="separador" />
     <div class="listado_elemento borrar">
-      <h3><a href="{{ section.data.url }}">{{ section.data.title }}</a></h3>
+      <h3><a href="{{ section.url }}">{{ section.title }}</a></h3>
       <p class="intro">
-        {{ section.data.description | md(true) | safe }}
+        {{ section.description | md(true) | safe }}
       </p>
     </div>
     {% endfor %}

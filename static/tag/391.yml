@@ -1,3 +1,5 @@
 id: 391
-title.gl: Lettera
-title.es: Lettera
+gl:
+  title: Lettera
+es:
+  title: Lettera

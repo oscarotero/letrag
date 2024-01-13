@@ -1,3 +1,5 @@
 id: 111
-title.gl: 'American Periodical Century Magazine'
-title.es: 'American Periodical Century Magazine'
+gl:
+  title: 'American Periodical Century Magazine'
+es:
+  title: 'American Periodical Century Magazine'

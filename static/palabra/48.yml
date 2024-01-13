@@ -1,12 +1,14 @@
 id: 48
-title.gl: Cola
-title.es: Cola
 section_id: 106
-description.gl: |-
-  ![](/imaxes/15.png)
+gl:
+  title: Cola
+  description: |-
+    ![](/imaxes/15.png)
 
-  Trazo inferior do ‘g’ minúsculo cando este non é unha forma cerrada. Se o fose chamaríase ‘ollal’.
-description.es: |-
-  ![](/imaxes/15.png)
+    Trazo inferior do ‘g’ minúsculo cando este non é unha forma cerrada. Se o fose chamaríase ‘ollal’.
+es:
+  title: Cola
+  description: |-
+    ![](/imaxes/15.png)
 
-  Trazo inferior de la ‘g’ minúscula cuando este no es una forma cerrada. Si lo fuese se llamaría ‘ojal’.
+    Trazo inferior de la ‘g’ minúscula cuando este no es una forma cerrada. Si lo fuese se llamaría ‘ojal’.

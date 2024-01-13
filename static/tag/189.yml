@@ -1,3 +1,5 @@
 id: 189
-title.gl: 'Martín Lutero'
-title.es: 'Martín Lutero'
+gl:
+  title: 'Martín Lutero'
+es:
+  title: 'Martín Lutero'

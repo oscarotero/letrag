@@ -1,3 +1,5 @@
 id: 176
-title.gl: 'Caracteres cirílicos'
-title.es: 'Caracteres cirílicos'
+gl:
+  title: 'Caracteres cirílicos'
+es:
+  title: 'Caracteres cirílicos'

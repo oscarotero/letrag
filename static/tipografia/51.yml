@@ -2,14 +2,14 @@ id: 51
 title: Myriad
 year: '1992'
 download: null
-description.gl: 'Esta tipografía foi deseñada por Robert Slimbach e Carol Twombly xunto con Fred Brady, Christopher Slye e o persoal de deseño de Adobe no ano 1992. Posúe unha lexibilidade, calidez e comodidade propios das tipografías sen serifas humanistas pero combinadas con sutís formas xeométricas e unha cor monótona. O seu axuste preciso, extensos pares de kerning e as formas claras e limpas convértena nunha opción excelente para texto. A finais dos anos 90 ampliouse a familia creando a Myriad Pro. Engadíronselle caracteres gregos, cirílicos e centroeuropeos, figuras _Old Style_ e varios pesos e anchos que lle proporcionan unha ampla gama de cores para o deseño máis esixente.'
-description.es: 'Esta tipografía fue diseñada por Robert Slimbach y Carol Twombly junto con Freed Brady, Christopher Syle y el personal de diseño de Adobe en el año 1992. Posee una legibilidad, calidez y comodidad propios de las tipografías sin serifs humanistas pero combinadas con sutiles formas geométricas y un color monótono. Su ajuste preciso, extensos pares de kerning y las formas claras y limpias la convierten en una opción excelente para texto. A finales de los años 90 se amplió la familia creando la Myriad Pro. Se le añadieron caracteres griegos, cirílicos y centroeuropeos, figuras _Old Style_ y varios pesos y anchos que le proporcionan una amplia gama de colores para el diseño más exigente.'
+gl:
+  description: 'Esta tipografía foi deseñada por Robert Slimbach e Carol Twombly xunto con Fred Brady, Christopher Slye e o persoal de deseño de Adobe no ano 1992. Posúe unha lexibilidade, calidez e comodidade propios das tipografías sen serifas humanistas pero combinadas con sutís formas xeométricas e unha cor monótona. O seu axuste preciso, extensos pares de kerning e as formas claras e limpas convértena nunha opción excelente para texto. A finais dos anos 90 ampliouse a familia creando a Myriad Pro. Engadíronselle caracteres gregos, cirílicos e centroeuropeos, figuras _Old Style_ e varios pesos e anchos que lle proporcionan unha ampla gama de cores para o deseño máis esixente.'
+es:
+  description: 'Esta tipografía fue diseñada por Robert Slimbach y Carol Twombly junto con Freed Brady, Christopher Syle y el personal de diseño de Adobe en el año 1992. Posee una legibilidad, calidez y comodidad propios de las tipografías sin serifs humanistas pero combinadas con sutiles formas geométricas y un color monótono. Su ajuste preciso, extensos pares de kerning y las formas claras y limpias la convierten en una opción excelente para texto. A finales de los años 90 se amplió la familia creando la Myriad Pro. Se le añadieron caracteres griegos, cirílicos y centroeuropeos, figuras _Old Style_ y varios pesos y anchos que le proporcionan una amplia gama de colores para el diseño más exigente.'
 links:
   -
-    title.gl: Myriad
-    title.es: Myriad
-    description.gl: ''
-    description.es: ''
+    title: Myriad
+    description: ''
     url: en.wikipedia.org/wiki/Myriad_(typeface)
     language: en
     source: Wikipedia

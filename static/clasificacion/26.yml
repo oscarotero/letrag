@@ -1,6 +1,8 @@
 id: 26
 section_id: 22
-title.gl: 'Máquina de escribir'
-title.es: 'Máquina de escribir'
-description.gl: 'Cun ancho similar e constante entre paos e serifas, estas tipografías están baseadas nas empregadas polas antigas máquinas de escribir. Xeralmente todos os caracteres posúen o mesmo ancho.'
-description.es: 'Con un ancho similar y constante entre palos y serifs, estas tipografías están basadas en las utilizadas por las antiguas máquinas de escribir. Generalmente todos los caracteres poseen el mismo ancho.'
+gl:
+  title: 'Máquina de escribir'
+  description: 'Cun ancho similar e constante entre paos e serifas, estas tipografías están baseadas nas empregadas polas antigas máquinas de escribir. Xeralmente todos os caracteres posúen o mesmo ancho.'
+es:
+  title: 'Máquina de escribir'
+  description: 'Con un ancho similar y constante entre palos y serifs, estas tipografías están basadas en las utilizadas por las antiguas máquinas de escribir. Generalmente todos los caracteres poseen el mismo ancho.'

@@ -2,8 +2,10 @@ id: 91
 title: Amasis
 year: 'S. XX'
 download: null
-description.gl: 'Deseñada por Ron Carpenter para Monotype, esta tipografía exipcia mestura a xeometría coa que está construída cun estilo máis humanista. Incluso as versións itálicas tamén están relacionadas coas itálicas romanas ou Old Style. O resultado é unha tipografía cunha alta lexibilidade que funciona especialmente ben a tamaños pequenos. Por iso se converte nunha excelente opción para usar con impresoras de baixa resolución e fax.'
-description.es: 'Diseñada por Ron Carpenter para Monotype, esta tipografía egipcia mezcla la geometría con un estilo más humanista. Incluso las versiones itálicas también están relacionadas con las itálicas romanas u Old Style. El resultado es una tipografía con una alta legibilidad que funciona especialmente bien a tamaños pequeños. Por eso se convierte en una excelente opción para usar con impresoras de baja resolución y fax.'
+gl:
+  description: 'Deseñada por Ron Carpenter para Monotype, esta tipografía exipcia mestura a xeometría coa que está construída cun estilo máis humanista. Incluso as versións itálicas tamén están relacionadas coas itálicas romanas ou Old Style. O resultado é unha tipografía cunha alta lexibilidade que funciona especialmente ben a tamaños pequenos. Por iso se converte nunha excelente opción para usar con impresoras de baixa resolución e fax.'
+es:
+  description: 'Diseñada por Ron Carpenter para Monotype, esta tipografía egipcia mezcla la geometría con un estilo más humanista. Incluso las versiones itálicas también están relacionadas con las itálicas romanas u Old Style. El resultado es una tipografía con una alta legibilidad que funciona especialmente bien a tamaños pequeños. Por eso se convierte en una excelente opción para usar con impresoras de baja resolución y fax.'
 links: []
 tags_ids:
   - 193

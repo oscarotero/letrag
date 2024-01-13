@@ -1,3 +1,5 @@
 id: 367
-title.gl: 'Pórtico da Gloria'
-title.es: 'Pórtico de la Gloria'
+gl:
+  title: 'Pórtico da Gloria'
+es:
+  title: 'Pórtico de la Gloria'

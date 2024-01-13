@@ -2,8 +2,10 @@ id: 45
 title: 'Serif Gothic'
 year: '1974'
 download: null
-description.gl: 'Deseñada por Herb Lubalin e Antonio DiSpigna en 1972 para a International Typeface Corporation. Nun principio soamente se deseñou a versión Regular e Bold, e en 1974, DiSpigna ampliou a familia coas versións Light, Extrabold, Heavy e Black. A súa característica principal radica nas súas serifas únicas, que combinan sabiamente a simplicidade dun tipo sen serifas coa elegancia romana tradicional. Unha tipografía moi flexible para publicidade, empaquetado e titulares.'
-description.es: 'Diseñada por Herb Lubalin y Antonio DiSpigna en 1972 para la International Typeface Corporation. En un principio solamente se diseñó la versión Regular y Bold, y en 1974, DiSpigna amplió la familia con las versiones Light, Extrabold, Heavy y Black. Su característica principal radica en sus serifas únicas, que combinan sabiamente la simplicidad de un tipo sin serifs con la elegancia romana tradicional. Una tipografía muy flexible para publicidad, packaging y titulares.'
+gl:
+  description: 'Deseñada por Herb Lubalin e Antonio DiSpigna en 1972 para a International Typeface Corporation. Nun principio soamente se deseñou a versión Regular e Bold, e en 1974, DiSpigna ampliou a familia coas versións Light, Extrabold, Heavy e Black. A súa característica principal radica nas súas serifas únicas, que combinan sabiamente a simplicidade dun tipo sen serifas coa elegancia romana tradicional. Unha tipografía moi flexible para publicidade, empaquetado e titulares.'
+es:
+  description: 'Diseñada por Herb Lubalin y Antonio DiSpigna en 1972 para la International Typeface Corporation. En un principio solamente se diseñó la versión Regular y Bold, y en 1974, DiSpigna amplió la familia con las versiones Light, Extrabold, Heavy y Black. Su característica principal radica en sus serifas únicas, que combinan sabiamente la simplicidad de un tipo sin serifs con la elegancia romana tradicional. Una tipografía muy flexible para publicidad, packaging y titulares.'
 links: []
 tags_ids:
   - 85

@@ -1,3 +1,5 @@
 id: 227
-title.gl: 'Reino Unido'
-title.es: 'Reino Unido'
+gl:
+  title: 'Reino Unido'
+es:
+  title: 'Reino Unido'

@@ -1,12 +1,14 @@
 id: 41
-title.gl: Apertura
-title.es: Apertura
 section_id: 106
-description.gl: |-
-  ![](/imaxes/9.png)
+gl:
+  title: Apertura
+  description: |-
+    ![](/imaxes/9.png)
 
-  Formas abertas que posúen algunhas letras como o ‘C’ ou o ‘G’. O tamaño da apertura é moi importante para coñecer o estilo ou o grado de lexibilidade dunha tipografía.
-description.es: |-
-  ![](/imaxes/9.png)
+    Formas abertas que posúen algunhas letras como o ‘C’ ou o ‘G’. O tamaño da apertura é moi importante para coñecer o estilo ou o grado de lexibilidade dunha tipografía.
+es:
+  title: Apertura
+  description: |-
+    ![](/imaxes/9.png)
 
-  Formas abiertas que poseen algunas letras como la ‘C’ o la ‘G’. El tamaño de la apertura es muy importante para conocer el estilo o el grado de legibilidad de una tipografía.
+    Formas abiertas que poseen algunas letras como la ‘C’ o la ‘G’. El tamaño de la apertura es muy importante para conocer el estilo o el grado de legibilidad de una tipografía.

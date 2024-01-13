@@ -1,3 +1,5 @@
 id: 222
-title.gl: Inland
-title.es: Inland
+gl:
+  title: Inland
+es:
+  title: Inland

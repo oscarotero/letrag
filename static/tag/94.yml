@@ -1,3 +1,5 @@
 id: 94
-title.gl: 'German Bible Society'
-title.es: 'German Bible Society'
+gl:
+  title: 'German Bible Society'
+es:
+  title: 'German Bible Society'

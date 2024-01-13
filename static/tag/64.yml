@@ -1,3 +1,5 @@
 id: 64
-title.gl: 'Pietro Bembo'
-title.es: 'Pietro Bembo'
+gl:
+  title: 'Pietro Bembo'
+es:
+  title: 'Pietro Bembo'

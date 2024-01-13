@@ -1,3 +1,5 @@
 id: 24
-title.gl: 'Benjamin Franklin'
-title.es: 'Benjamin Franklin'
+gl:
+  title: 'Benjamin Franklin'
+es:
+  title: 'Benjamin Franklin'
