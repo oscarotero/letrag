@@ -14,6 +14,7 @@ site.copy("styles");
 site.copy("imaxes");
 site.copy("img");
 site.copy("favicon.ico");
+site.copy("index.html");
 
 // Build redirects
 site.addEventListener("afterRender", () => {
